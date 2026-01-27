@@ -45,7 +45,6 @@ and purports as published on Vedabase.io.
 
 This site is non-commercial and intended for thoughtful personal study.
   </footer>
-</body>
 
       </body>
     </html>

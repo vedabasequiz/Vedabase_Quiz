@@ -28,3 +28,6 @@ Quiz JSON files are in:
 Each quiz page is served at:
 - `/quiz/<slug>/`
 
+- Deployment trigger
+
+

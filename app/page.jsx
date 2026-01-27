@@ -5,6 +5,7 @@ export default function HomePage() {
 
       <p style={{ opacity: 0.85, marginTop: 0, lineHeight: 1.5 }}>
         Vedabase Quiz is a self-study space to understand the Bhagavad Gita and Srimad Bhagavatam more deeply.
+       
         These are not tests or competitions - they are meant to slow down reading, clarify key ideas, and support thoughtful study.
       </p>
 

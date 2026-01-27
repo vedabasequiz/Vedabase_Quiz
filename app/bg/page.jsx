@@ -1,14 +1,41 @@
 import Link from "next/link";
+import { redirect } from "next/navigation";
 import { getBgAvailability } from "../../lib/quizLoader";
+
+// Bhagavad-gita chapter titles (Vedabase)
+const BG_CHAPTER_TITLES = {
+  1: "Observing the Armies on the Battlefield of Kuruksetra",
+  2: "Contents of the Gita Summarized",
+  3: "Karma-yoga",
+  4: "Transcendental Knowledge",
+  5: "Karma-yoga - Action in Krsna Consciousness",
+  6: "Dhyana-yoga",
+  7: "Knowledge of the Absolute",
+  8: "Attaining the Supreme",
+  9: "The Most Confidential Knowledge",
+  10: "The Opulence of the Absolute",
+  11: "The Universal Form",
+  12: "Devotional Service",
+  13: "Nature, the Enjoyer, and Consciousness",
+  14: "The Three Modes of Material Nature",
+  15: "The Yoga of the Supreme Person",
+  16: "The Divine and Demoniac Natures",
+  17: "The Divisions of Faith",
+  18: "Conclusion - The Perfection of Renunciation",
+};
 
 function getAudienceFromSearchParams(searchParams) {
   const a = searchParams?.audience;
   const v = Array.isArray(a) ? a[0] : a;
-  if (v === "adult" || v === "kids") return v;
-  return "all";
+  return v === "kids" ? "kids" : "adult"; // default adult
 }
 
 export default function BgIndex({ searchParams }) {
+  // UX: make the default explicit in the URL
+  if (!searchParams?.audience) {
+    redirect("/bg/?audience=adult");
+  }
+
   const availability = getBgAvailability();
   const audience = getAudienceFromSearchParams(searchParams);
 
@@ -24,10 +51,8 @@ export default function BgIndex({ searchParams }) {
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       <h1 style={{ fontSize: 28, marginBottom: 10 }}>Bhagavad Gita</h1>
 
-      <div className="filterBar">
-        <Link href="/bg/">
-          <button className={`filterBtn ${audience === "all" ? "filterBtnActive" : ""}`}>All</button>
-        </Link>
+      {/* Tabs: Adult / Kids only */}
+      <div className="filterBar" style={{ marginBottom: 18 }}>
         <Link href="/bg/?audience=adult">
           <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
         </Link>
@@ -41,28 +66,25 @@ export default function BgIndex({ searchParams }) {
           const adultUrl = linkFor(ch, "adult");
           const kidsUrl = linkFor(ch, "kids");
 
-          const showAdult = audience === "all" || audience === "adult";
-          const showKids = audience === "all" || audience === "kids";
-
-          const hasAny = (showAdult && adultUrl) || (showKids && kidsUrl);
+          const selectedUrl = audience === "kids" ? kidsUrl : adultUrl;
+          const label = audience === "kids" ? "Kids quiz" : "Adult quiz";
+          const comingSoon = audience === "kids" ? "Kids: coming soon" : "Adult: coming soon";
 
           return (
             <div key={ch} style={{ border: "1px solid #ddd", borderRadius: 10, padding: 12 }}>
-              <div style={{ fontWeight: 800, marginBottom: 8 }}>Chapter {ch}</div>
+              <div style={{ fontWeight: 800, marginBottom: 6 }}>Chapter {ch}</div>
 
-              {showAdult && (
-                <div style={{ marginBottom: 6 }}>
-                  {adultUrl ? <Link href={adultUrl}>Adult quiz</Link> : <span className="comingSoonBadge">Adult: coming soon</span>}
-                </div>
+              {/* Chapter title */}
+              <div style={{ opacity: 0.75, fontSize: 14, lineHeight: 1.25, marginBottom: 10 }}>
+                {BG_CHAPTER_TITLES[ch] || ""}
+              </div>
+
+              {/* Only show the selected audience */}
+              {selectedUrl ? (
+                <Link href={selectedUrl}>{label}</Link>
+              ) : (
+                <span className="comingSoonBadge">{comingSoon}</span>
               )}
-
-              {showKids && (
-                <div>
-                  {kidsUrl ? <Link href={kidsUrl}>Kids quiz</Link> : <span className="comingSoonBadge">Kids: coming soon</span>}
-                </div>
-              )}
-
-              {!hasAny && <span className="comingSoonBadge">No quizzes for this filter.</span>}
             </div>
           );
         })}

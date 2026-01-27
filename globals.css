@@ -1,0 +1,27 @@
+/* Global baseline */
+html, body {
+  padding: 0;
+  margin: 0;
+}
+
+a { color: inherit; }
+
+.pageContainer {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 16px;
+  line-height: 1.6;
+}
+
+.footerWrap {
+  border-top: 1px solid #eee;
+  margin-top: 32px;
+}
+
+.siteFooter {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 18px 16px;
+  font-size: 14px;
+  line-height: 1.6;
+}

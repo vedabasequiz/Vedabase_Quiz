@@ -5,7 +5,7 @@ export default function HomePage() {
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       <h1 style={{ fontSize: 32, marginBottom: 10 }}>Vedabase Quiz</h1>
       <p style={{ opacity: 0.85, marginTop: 0 }}>
-        Vedabase Quiz is a self-study space for readers who want to understand the Bhagavad Gita and Srimad Bhagavatam more deeply.
+      <b>Vedabase Quiz</b> is a self-study space for readers who want to understand the Bhagavad Gita and Srimad Bhagavatam more deeply.
 
 These quizzes are not tests or competitions. They are meant to slow down reading, clarify important ideas, and support thoughtful study.
       </p>
@@ -47,6 +47,7 @@ These quizzes are not tests or competitions. They are meant to slow down reading
     </p>
   </div>
 </details>
+        </div>
 
           <div style={{ fontWeight: 700 }}>Bhagavad Gita</div>
           <div style={{ opacity: 0.8 }}>Chapters 1–18</div>

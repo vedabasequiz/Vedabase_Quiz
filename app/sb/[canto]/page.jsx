@@ -1,25 +1,30 @@
 import Link from "next/link";
-import { getSbAvailability, listSbCantos, listSbChaptersInCanto} from "../../../lib/quizLoader";
+import { redirect } from "next/navigation";
+import { getSbAvailability, listSbCantos, listSbChaptersInCanto } from "../../../lib/quizLoader";
 
 export function generateStaticParams() {
   return listSbCantos().map((c) => ({ canto: String(c) }));
 }
 
 function getAudienceFromSearchParams(searchParams) {
-  const a = searchParams["audience"];
+  const a = searchParams?.audience;
   const v = Array.isArray(a) ? a[0] : a;
-  if (v === "adult" || v === "kids") return v;
-  return "all";
+  return v === "kids" ? "kids" : "adult"; // default adult
 }
 
 export default function SbCantoPage({ params, searchParams }) {
+  // UX: make default explicit in URL
+  if (!searchParams?.audience) {
+    redirect(`/sb/${params.canto}/?audience=adult`);
+  }
+
   const cantoNum = Number(params.canto);
   const audience = getAudienceFromSearchParams(searchParams);
   const availability = getSbAvailability();
 
-  // If no quizzes yet for many chapters, we still want a reasonable list.
+  // We still show a reasonable list even if many chapters aren't added yet
   const existing = listSbChaptersInCanto(cantoNum);
-  const maxChapter = existing.length > 0 ? Math.max(...existing) : 5; // start small if empty
+  const maxChapter = existing.length > 0 ? Math.max(...existing) : 5;
   const chapters = Array.from({ length: Math.max(maxChapter, 5) }, (_, i) => i + 1);
 
   function linkFor(chapter, aud) {
@@ -32,21 +37,13 @@ export default function SbCantoPage({ params, searchParams }) {
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       <h1 style={{ fontSize: 28, marginBottom: 10 }}>Srimad Bhagavatam - Canto {cantoNum}</h1>
 
-      <div className="filterBar">
-        <Link href={`/sb/${cantoNum}/`}>
-          <button className={`filterBtn ${audience === "all" ? "active" : ""}`}>
-            All
-          </button>
-        </Link>
+      {/* Tabs: Adult / Kids only */}
+      <div className="filterBar" style={{ marginBottom: 18 }}>
         <Link href={`/sb/${cantoNum}/?audience=adult`}>
-          <button className={`filterBtn ${audience === "adult" ? "active" : ""}`}>
-            Adult
-          </button>
+          <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
         </Link>
         <Link href={`/sb/${cantoNum}/?audience=kids`}>
-          <button className={`filterBtn ${audience === "kids" ? "active" : ""}`}>
-            Kids
-          </button>
+          <button className={`filterBtn ${audience === "kids" ? "filterBtnActive" : ""}`}>Kids</button>
         </Link>
       </div>
 
@@ -55,43 +52,27 @@ export default function SbCantoPage({ params, searchParams }) {
           const adultUrl = linkFor(ch, "adult");
           const kidsUrl = linkFor(ch, "kids");
 
-          const showAdult = audience === "all" || audience === "adult";
-          const showKids = audience === "all" || audience === "kids";
-
-          const hasAny = (showAdult && adultUrl) || (showKids && kidsUrl);
+          const selectedUrl = audience === "kids" ? kidsUrl : adultUrl;
+          const label = audience === "kids" ? "Kids quiz" : "Adult quiz";
+          const comingSoon = audience === "kids" ? "Kids: coming soon" : "Adult: coming soon";
 
           return (
             <div key={ch} style={{ border: "1px solid #ddd", borderRadius: 10, padding: 12 }}>
-              <div style={{ fontWeight: 800, marginBottom: 8 }}>Chapter {ch}</div>
+              <div style={{ fontWeight: 800, marginBottom: 10 }}>Chapter {ch}</div>
 
-              {showAdult && (
-                <div style={{ marginBottom: 6 }}>
-                  {adultUrl ? (
-                    <Link href={adultUrl}>Adult quiz</Link>
-                  ) : (
-                    <span className="comingSoonBadge">Adult: coming soon</span>
-                  )}
-                </div>
+              {/* Only show the selected audience */}
+              {selectedUrl ? (
+                <Link href={selectedUrl}>{label}</Link>
+              ) : (
+                <span className="comingSoonBadge">{comingSoon}</span>
               )}
-
-              {showKids && (
-                <div>
-                  {kidsUrl ? (
-                    <Link href={kidsUrl}>Kids quiz</Link>
-                  ) : (
-                    <span className="comingSoonBadge">Kids: coming soon</span>
-                  )}
-                </div>
-              )}
-
-              {!hasAny && <div style={{ opacity: 0.7 }}>No quizzes for this filter.</div>}
             </div>
           );
         })}
       </div>
 
       <div style={{ marginTop: 18 }}>
-        <Link href="/sb/">Back to cantos</Link>
+        <Link href="/sb/?audience=adult">Back to cantos</Link>
       </div>
     </main>
   );

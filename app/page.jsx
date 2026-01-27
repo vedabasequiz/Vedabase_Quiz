@@ -17,7 +17,7 @@ export default function HomePage() {
             fontSize: 16,
           }}
         >
-          How the quizzes are made
+          How the quizzes are designed
         </summary>
 
         <div style={{ paddingTop: 10, paddingLeft: 12, opacity: 0.9, lineHeight: 1.5 }}>

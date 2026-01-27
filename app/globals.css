@@ -25,3 +25,10 @@ a { color: inherit; }
   font-size: 14px;
   line-height: 1.6;
 }
+
+.filterBar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+

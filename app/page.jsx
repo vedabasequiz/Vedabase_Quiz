@@ -33,7 +33,7 @@ export default function HomePage() {
           }}
         >
           <div style={{ fontWeight: 700 }}>Srimad Bhagavatam</div>
-          <div style={{ opacity: 0.8 }}>Cantos and chapters</div>
+          <div style={{ opacity: 0.8 }}>Cantos 1-12</div>
         </a>
       </div>
     </main>

@@ -28,7 +28,8 @@ a { color: inherit; }
 
 .filterBar {
   display: flex;
-  gap: 24px;
+  gap:10px;
+  margin-top: 24px;
   margin-bottom: 24px;
 }
 

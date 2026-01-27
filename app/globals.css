@@ -33,3 +33,43 @@ a { color: inherit; }
   margin-bottom: 24px;
 }
 
+/* Collapsible (details / summary) styling */
+details {
+  border: 1px solid #e2e2e2;
+  border-radius: 10px;
+  padding: 10px 12px;
+  background: #fafafa;
+}
+
+details summary {
+  list-style: none; /* removes default triangle */
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+details summary::before {
+  content: "▸";
+  font-size: 14px;
+  transition: transform 0.2s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details ul {
+  padding-left: 18px;
+}
+
+details li {
+  margin-bottom: 6px;
+}
+
+

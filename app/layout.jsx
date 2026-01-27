@@ -39,6 +39,16 @@ export default function RootLayout({ children }) {
             </div>
           </footer>
         </div>
+        <body>
+  {children}
+  <footer>
+   Vedabase Quiz is a self-study project based on Srila Prabhupada’s translations
+and purports as published on Vedabase.io.
+
+This site is non-commercial and intended for thoughtful personal study.
+  </footer>
+</body>
+
       </body>
     </html>
   );

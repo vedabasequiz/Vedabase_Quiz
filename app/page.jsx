@@ -1,7 +1,7 @@
 export default function HomePage() {
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
-      <h1 style={{ fontSize: 32, marginBottom: 10 }}>Vedabase Quiz</h1>
+      <h1 style={{ fontSize: 32, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
 
       <p style={{ opacity: 0.9, marginTop: 0, lineHeight: 1.5 }}>
         A self-study space for the Bhagavad Gita and Srimad Bhagavatam.

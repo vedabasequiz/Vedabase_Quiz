@@ -8,34 +8,6 @@ export default function HomePage() {
         Not tests or competitions—just a way to slow down, clarify key ideas, and learn steadily.
       </p>
 
-      {/* Collapsible section */}
-      <details style={{ marginTop: 14, marginBottom: 18 }}>
-        <summary
-          style={{
-            cursor: "pointer",
-            fontWeight: 700,
-            fontSize: 16,
-            padding: "8px 0",
-          }}
-        >
-          How the quizzes are designed
-        </summary>
-
-        <div style={{ paddingTop: 8, paddingLeft: 12, opacity: 0.9, lineHeight: 1.5 }}>
-          <ul style={{ marginTop: 0, marginBottom: 10 }}>
-            <li>Based only on Vedabase.io (Srila Prabhupada’s translations and purports)</li>
-            <li>Every question is verified against the exact verse/purport</li>
-            <li>Focus on understanding (not memorization)</li>
-            <li>Follows the chapter’s natural flow</li>
-            <li>Instant explanations with direct verse links</li>
-          </ul>
-
-          <p style={{ marginTop: 0, marginBottom: 0 }}>
-            Take your time: submit, review, revisit verses, and continue.
-          </p>
-        </div>
-      </details>
-
       {/* Cards */}
 <div style={{ display: "grid", gap: 12 }}>
   <a
@@ -98,6 +70,34 @@ export default function HomePage() {
     </div>
   </a>
 </div>
+
+       {/* Collapsible section */}
+      <details style={{ marginTop: 14, marginBottom: 18 }}>
+        <summary
+          style={{
+            cursor: "pointer",
+            fontWeight: 700,
+            fontSize: 16,
+            padding: "8px 0",
+          }}
+        >
+          How the quizzes are designed
+        </summary>
+
+        <div style={{ paddingTop: 8, paddingLeft: 12, opacity: 0.9, lineHeight: 1.5 }}>
+          <ul style={{ marginTop: 0, marginBottom: 10 }}>
+            <li>Based only on Vedabase.io (Srila Prabhupada’s translations and purports)</li>
+            <li>Every question is verified against the exact verse/purport</li>
+            <li>Focus on understanding (not memorization)</li>
+            <li>Follows the chapter’s natural flow</li>
+            <li>Instant explanations with direct verse links</li>
+          </ul>
+
+          <p style={{ marginTop: 0, marginBottom: 0 }}>
+            Take your time: submit, review, revisit verses, and continue.
+          </p>
+        </div>
+      </details>
 
     </main>
   );

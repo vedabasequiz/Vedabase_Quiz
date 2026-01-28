@@ -2,6 +2,32 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import { getSbAvailability, listSbCantos, listSbChaptersInCanto } from "../../../lib/quizLoader";
 
+// Small mapping (expand as you publish more)
+// ASCII-only spellings.
+const SB_CHAPTER_TITLES = {
+  1: {
+    1: "Questions by the Sages",
+    2: "Divinity and Divine Service",
+    3: "Krsna Is the Source of All Incarnations",
+    4: "The Appearance of Sri Narada",
+    5: "Narada's Instructions on Srimad-Bhagavatam for Vyasadeva",
+    6: "Conversation Between Narada and Vyasadeva",
+    7: "The Son of Drona Punished",
+    8: "Prayers by Queen Kunti and Pariksit Saved",
+    9: "The Passing Away of Bhismadeva in the Presence of Lord Krsna",
+    10: "Departure of Lord Krsna for Dvaraka",
+    11: "Lord Krsna's Entrance into Dvaraka",
+    12: "Birth of Emperor Pariksit",
+    13: "Dhritarastra Quits Home",
+    14: "The Disappearance of Lord Krsna",
+    15: "The Pandavas Retire Timely",
+    16: "How Pariksit Received the Age of Kali",
+    17: "Punishment and Reward of Kali",
+    18: "Maharaja Pariksit Cursed by a Brahmana Boy",
+    19: "The Appearance of Sukadeva Gosvami",
+  },
+};
+
 export function generateStaticParams() {
   return listSbCantos().map((c) => ({ canto: String(c) }));
 }
@@ -33,6 +59,10 @@ export default function SbCantoPage({ params, searchParams }) {
     return meta ? `/quiz/${meta.slug}/` : null;
   }
 
+  function chapterTitleFor(canto, chapter) {
+    return (SB_CHAPTER_TITLES[canto] && SB_CHAPTER_TITLES[canto][chapter]) ? SB_CHAPTER_TITLES[canto][chapter] : "";
+  }
+
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       <h1 style={{ fontSize: 28, marginBottom: 10 }}>Srimad Bhagavatam - Canto {cantoNum}</h1>
@@ -56,9 +86,20 @@ export default function SbCantoPage({ params, searchParams }) {
           const label = audience === "kids" ? "Kids quiz" : "Adult quiz";
           const comingSoon = audience === "kids" ? "Kids: coming soon" : "Adult: coming soon";
 
+          const title = chapterTitleFor(cantoNum, ch);
+
           return (
             <div key={ch} style={{ border: "1px solid #ddd", borderRadius: 10, padding: 12 }}>
-              <div style={{ fontWeight: 800, marginBottom: 10 }}>Chapter {ch}</div>
+              <div style={{ fontWeight: 800, marginBottom: 6 }}>Chapter {ch}</div>
+
+              {/* Chapter title (if available in mapping) */}
+              {title ? (
+                <div style={{ opacity: 0.75, fontSize: 14, lineHeight: 1.25, marginBottom: 10 }}>
+                  {title}
+                </div>
+              ) : (
+                <div style={{ marginBottom: 10 }} />
+              )}
 
               {/* Only show the selected audience */}
               {selectedUrl ? (

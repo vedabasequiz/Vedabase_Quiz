@@ -1,6 +1,14 @@
 /* -----------------------------
    Global baseline
 -------------------------------- */
+
+/* KEY FIX: prevent box model overflow issues (often causes “overlap” look) */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 html, body {
   padding: 0;
   margin: 0;
@@ -135,11 +143,16 @@ details li {
    Chapter / Canto cards
 -------------------------------- */
 
-/* Grid — NO forced row height */
+/* Grid */
 .chapterGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 12px;
+}
+
+/* KEY FIX: prevent grid children from overflowing and “colliding” */
+.chapterGrid > * {
+  min-width: 0;
 }
 
 /* Whole-card link */
@@ -161,6 +174,7 @@ details li {
   padding: 14px;
   background: #fff;
   box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -226,46 +240,16 @@ details li {
   border-left-width: 6px;
 }
 
-.scorePerfect {
-  background: #f1f7f3;          /* soft green */
-  border-left-color: #2f7d32;
-}
+.scorePerfect { background: #f1f7f3; border-left-color: #2f7d32; }
+.scoreExcellent { background: #f3f6fa; border-left-color: #1e3a8a; }
+.scoreStrong { background: #f7f6f2; border-left-color: #6b4f1d; }
+.scoreGood { background: #f6f7f8; border-left-color: #444; }
+.scoreKeepGoing { background: #f6f7f8; border-left-color: #444; }
 
-.scoreExcellent {
-  background: #f3f6fa;          /* calm blue */
-  border-left-color: #1e3a8a;
-}
+.scoreTitle { font-size: 18px; font-weight: 800; }
+.scoreLine { margin-top: 8px; opacity: 0.95; }
+.scoreSub { margin-top: 10px; opacity: 0.85; }
 
-.scoreStrong {
-  background: #f7f6f2;          /* warm earth */
-  border-left-color: #6b4f1d;
-}
-
-.scoreGood {
-  background: #f6f7f8;          /* neutral gray */
-  border-left-color: #444;
-}
-
-.scoreKeepGoing {
-  background: #f6f7f8;
-  border-left-color: #444;
-}
-
-/* Score header text */
-.scoreTitle {
-  font-size: 18px;
-  font-weight: 800;
-}
-
-.scoreLine {
-  margin-top: 8px;
-  opacity: 0.95;
-}
-
-.scoreSub {
-  margin-top: 10px;
-  opacity: 0.85;
-}
 /* -----------------------------
    Unified feedback blocks
 -------------------------------- */
@@ -295,9 +279,7 @@ details li {
   gap: 10px;
 }
 
-.feedbackVerdict {
-  font-weight: 900;
-}
+.feedbackVerdict { font-weight: 900; }
 
 .feedbackMeta {
   font-size: 13px;
@@ -320,9 +302,7 @@ details li {
   font-size: 14px;
 }
 
-.feedbackVerseLabel {
-  opacity: 0.75;
-}
+.feedbackVerseLabel { opacity: 0.75; }
 
 .feedbackVerseLink {
   font-weight: 800;
@@ -334,26 +314,12 @@ details li {
   border-bottom-style: solid;
 }
 
-/* Audience “density” tweaks (optional) */
-.feedbackKids .feedbackText {
-  font-size: 14px;
-}
+/* Audience tweaks (optional) */
+.feedbackKids .feedbackText { font-size: 14px; }
+.feedbackTeens .feedbackText { font-size: 14px; }
+.feedbackAdult .feedbackText { font-size: 14px; }
 
-.feedbackTeens .feedbackText {
-  font-size: 14px;
-}
-
-.feedbackAdult .feedbackText {
-  font-size: 14px;
-}
-
-/* Optional: make feedback look calmer on small screens */
 @media (max-width: 420px) {
-  .feedbackBox {
-    padding: 11px 11px;
-  }
-  .feedbackMeta {
-    display: none; /* keeps it clean on mobile */
-  }
+  .feedbackBox { padding: 11px 11px; }
+  .feedbackMeta { display: none; }
 }
-

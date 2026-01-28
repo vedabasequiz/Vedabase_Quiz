@@ -50,6 +50,10 @@ export default function RootLayout({ children }) {
       textAlign: "center",
     }}
   >
+    <div style={{ fontSize: 25, marginBottom: 8, opacity: 0.6 }}>
+  🪷
+</div>
+
     Vedabase Quiz is a sacred, non-commercial self-study project based on
     Srila Prabhupada’s translations and purports as published on Vedabase.io.
   </div>

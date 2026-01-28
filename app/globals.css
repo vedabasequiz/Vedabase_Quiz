@@ -212,3 +212,58 @@ details li {
 .chapterCardDisabled .comingSoonBadge {
   background: #f3f3f3;
 }
+
+/* -----------------------------
+   Quiz result / score summary
+-------------------------------- */
+
+.scoreBox {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 18px;
+  background: #fafafa;
+  border-left-width: 6px;
+}
+
+.scorePerfect {
+  background: #f1f7f3;          /* soft green */
+  border-left-color: #2f7d32;
+}
+
+.scoreExcellent {
+  background: #f3f6fa;          /* calm blue */
+  border-left-color: #1e3a8a;
+}
+
+.scoreStrong {
+  background: #f7f6f2;          /* warm earth */
+  border-left-color: #6b4f1d;
+}
+
+.scoreGood {
+  background: #f6f7f8;          /* neutral gray */
+  border-left-color: #444;
+}
+
+.scoreKeepGoing {
+  background: #f6f7f8;
+  border-left-color: #444;
+}
+
+/* Score header text */
+.scoreTitle {
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.scoreLine {
+  margin-top: 8px;
+  opacity: 0.95;
+}
+
+.scoreSub {
+  margin-top: 10px;
+  opacity: 0.85;
+}
+

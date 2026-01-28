@@ -2,7 +2,7 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import { getBgAvailability } from "../../lib/quizLoader";
 
-// Bhagavad-gita chapter titles (Vedabase)
+// BG Chapter titles (ASCII-only)
 const BG_CHAPTER_TITLES = {
   1: "Observing the Armies on the Battlefield of Kuruksetra",
   2: "Contents of the Gita Summarized",
@@ -16,7 +16,7 @@ const BG_CHAPTER_TITLES = {
   10: "The Opulence of the Absolute",
   11: "The Universal Form",
   12: "Devotional Service",
-  13: "Nature, the Enjoyer, and Consciousness",
+  13: "Nature, the Enjoyer and Consciousness",
   14: "The Three Modes of Material Nature",
   15: "The Yoga of the Supreme Person",
   16: "The Divine and Demoniac Natures",
@@ -31,14 +31,13 @@ function getAudienceFromSearchParams(searchParams) {
 }
 
 export default function BgIndex({ searchParams }) {
-  // UX: make the default explicit in the URL
+  // Default audience -> explicit URL
   if (!searchParams?.audience) {
     redirect("/bg/?audience=adult");
   }
 
   const availability = getBgAvailability();
   const audience = getAudienceFromSearchParams(searchParams);
-
   const chapters = Array.from({ length: 18 }, (_, i) => i + 1);
 
   function linkFor(chapter, aud) {
@@ -49,6 +48,11 @@ export default function BgIndex({ searchParams }) {
 
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+      {/* Breadcrumb */}
+      <div style={{ marginBottom: 10, fontSize: 14, opacity: 0.75 }}>
+        <Link href="/">Home</Link> <span style={{ opacity: 0.6 }}>/</span> <span>Bhagavad Gita</span>
+      </div>
+
       <h1 style={{ fontSize: 28, marginBottom: 10 }}>Bhagavad Gita</h1>
 
       {/* Tabs: Adult / Kids only */}
@@ -70,16 +74,20 @@ export default function BgIndex({ searchParams }) {
           const label = audience === "kids" ? "Kids quiz" : "Adult quiz";
           const comingSoon = audience === "kids" ? "Kids: coming soon" : "Adult: coming soon";
 
+          const title = BG_CHAPTER_TITLES[ch] || "";
+
           return (
             <div key={ch} style={{ border: "1px solid #ddd", borderRadius: 10, padding: 12 }}>
               <div style={{ fontWeight: 800, marginBottom: 6 }}>Chapter {ch}</div>
 
-              {/* Chapter title */}
-              <div style={{ opacity: 0.75, fontSize: 14, lineHeight: 1.25, marginBottom: 10 }}>
-                {BG_CHAPTER_TITLES[ch] || ""}
-              </div>
+              {title ? (
+                <div style={{ opacity: 0.75, fontSize: 14, lineHeight: 1.25, marginBottom: 10 }}>
+                  {title}
+                </div>
+              ) : (
+                <div style={{ marginBottom: 10 }} />
+              )}
 
-              {/* Only show the selected audience */}
               {selectedUrl ? (
                 <Link href={selectedUrl}>{label}</Link>
               ) : (

@@ -36,6 +36,10 @@ export default function SbIndex({ searchParams }) {
 
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+     <div style={{ marginBottom: 10, fontSize: 14, opacity: 0.75 }}>
+  <Link href="/">Home</Link> <span style={{ opacity: 0.6 }}>/</span> <span>Srimad Bhagavatam</span>
+</div>
+
       <h1 style={{ fontSize: 28, marginBottom: 10 }}>Srimad Bhagavatam</h1>
 
       {/* Tabs: Adult / Kids only */}

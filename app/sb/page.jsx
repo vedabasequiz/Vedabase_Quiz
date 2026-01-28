@@ -20,7 +20,7 @@ const SB_CANTO_TITLES = {
 function getAudienceFromSearchParams(searchParams) {
   const a = searchParams?.audience;
   const v = Array.isArray(a) ? a[0] : a;
-  return v === "kids" ? "kids" : "adult"; // default adult
+  return v === "kids" || v === "teens" ? v : "adult"; // default adult
 }
 
 export default function SbIndex({ searchParams }) {
@@ -40,38 +40,37 @@ export default function SbIndex({ searchParams }) {
   <Link href="/">Home</Link> <span style={{ opacity: 0.6 }}>/</span> <span>Srimad Bhagavatam</span>
 </div>
 
-      <h1 style={{ fontSize: 28, marginBottom: 10 }}>Srimad Bhagavatam</h1>
+      <h1 style={{ fontSize: 28, marginBottom: 6 }}>Srimad Bhagavatam</h1>
 
       {/* Tabs: Adult / Kids only */}
-      <div className="filterBar" style={{ marginBottom: 18 }}>
-        <Link href="/sb/?audience=adult">
-          <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
-        </Link>
-        <Link href="/sb/?audience=kids">
-          <button className={`filterBtn ${audience === "kids" ? "filterBtnActive" : ""}`}>Kids</button>
-        </Link>
-      </div>
+     <div className="filterBar" style={{ marginBottom: 18 }}>
+  <Link href="/sb/?audience=adult">
+    <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
+  </Link>
+  <Link href="/sb/?audience=teens">
+    <button className={`filterBtn ${audience === "teens" ? "filterBtnActive" : ""}`}>Teens</button>
+  </Link>
+  <Link href="/sb/?audience=kids">
+    <button className={`filterBtn ${audience === "kids" ? "filterBtnActive" : ""}`}>Kids</button>
+  </Link>
+</div>
+
 
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))", gap: 12 }}>
         {cantos.map((c) => (
-          <a
-            key={c}
-            href={`/sb/${c}/?audience=${audience}`}
-            style={{
-              padding: 14,
-              border: "1px solid #ddd",
-              borderRadius: 10,
-              textDecoration: "none",
-              color: "inherit",
-            }}
-          >
-            <div style={{ fontWeight: 800, marginBottom: 6 }}>Canto {c}</div>
+          <Link
+  key={c}
+  href={`/sb/${c}/?audience=${audience}`}
+  className="cardLink"
+>
+  <div className="chapterCard">
+    <div style={{ fontWeight: 800, marginBottom: 6 }}>Canto {c}</div>
+    <div style={{ opacity: 0.75, fontSize: 14, lineHeight: 1.25 }}>
+      {SB_CANTO_TITLES[c] || ""}
+    </div>
+  </div>
+</Link>
 
-            {/* Tiny title line */}
-            <div style={{ opacity: 0.75, fontSize: 14, lineHeight: 1.25 }}>
-              {SB_CANTO_TITLES[c] || ""}
-            </div>
-          </a>
         ))}
       </div>
 

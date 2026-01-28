@@ -2,6 +2,29 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import { getBgAvailability } from "../../lib/quizLoader";
 
+// Small mapping (expand if you want alternate wording later)
+// Titles are the common Vedabase chapter headings (ASCII-only).
+const BG_CHAPTER_TITLES = {
+  1: "Observing the Armies on the Battlefield of Kuruksetra",
+  2: "Contents of the Gita Summarized",
+  3: "Karma-yoga",
+  4: "Transcendental Knowledge",
+  5: "Karma-yoga - Action in Krsna Consciousness",
+  6: "Dhyana-yoga",
+  7: "Knowledge of the Absolute",
+  8: "Attaining the Supreme",
+  9: "The Most Confidential Knowledge",
+  10: "The Opulence of the Absolute",
+  11: "The Universal Form",
+  12: "Devotional Service",
+  13: "Nature, the Enjoyer, and Consciousness",
+  14: "The Three Modes of Material Nature",
+  15: "The Yoga of the Supreme Person",
+  16: "The Divine and Demoniac Natures",
+  17: "The Divisions of Faith",
+  18: "Conclusion - The Perfection of Renunciation",
+};
+
 function getAudienceFromSearchParams(searchParams) {
   const a = searchParams?.audience;
   const v = Array.isArray(a) ? a[0] : a;
@@ -17,7 +40,6 @@ export default function BgIndex({ searchParams }) {
 
   const availability = getBgAvailability();
   const audience = getAudienceFromSearchParams(searchParams);
-
   const chapters = Array.from({ length: 18 }, (_, i) => i + 1);
 
   function linkFor(chapter, aud) {
@@ -28,10 +50,15 @@ export default function BgIndex({ searchParams }) {
 
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
-      <h1 style={{ fontSize: 28, marginBottom: 10 }}>Bhagavad Gita</h1>
+      {/* Breadcrumb */}
+      <div style={{ fontSize: 14, opacity: 0.8, marginBottom: 10 }}>
+        <Link href="/">Home</Link> <span style={{ opacity: 0.6 }}>/</span> Bhagavad Gita
+      </div>
+
+      <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>Bhagavad Gita</h1>
 
       {/* Tabs: Adult / Teens / Kids */}
-      <div className="filterBar" style={{ marginTop: 16, marginBottom: 18 }}>
+      <div className="filterBar" style={{ marginTop: 10, marginBottom: 18 }}>
         <Link href="/bg/?audience=adult">
           <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
         </Link>
@@ -43,32 +70,33 @@ export default function BgIndex({ searchParams }) {
         </Link>
       </div>
 
+      {/* Chapter cards */}
       <div
         style={{
           display: "grid",
-          gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
+          gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
           gap: 12,
         }}
       >
         {chapters.map((ch) => {
           const selectedUrl = linkFor(ch, audience);
           const isAvailable = !!selectedUrl;
+          const title = BG_CHAPTER_TITLES[ch] || "";
 
           const cardInner = (
             <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
-              <div style={{ fontWeight: 800, marginBottom: 8 }}>Chapter {ch}</div>
-
-              {isAvailable ? (
-                <div style={{ opacity: 0.8, fontSize: 14 }}>Open quiz</div>
-              ) : (
-                <div className="comingSoonBadge">
+              <div style={{ fontWeight: 800, marginBottom: 6 }}>Chapter {ch}</div>
+              {title ? (
+                <div style={{ opacity: 0.78, fontSize: 14, lineHeight: 1.25 }}>{title}</div>
+              ) : null}
+              {!isAvailable ? (
+                <div style={{ marginTop: 10 }} className="comingSoonBadge">
                   {audience[0].toUpperCase() + audience.slice(1)}: coming soon
                 </div>
-              )}
+              ) : null}
             </div>
           );
 
-          // Entire card clickable ONLY when quiz exists
           return isAvailable ? (
             <Link key={ch} href={selectedUrl} className="cardLink">
               {cardInner}

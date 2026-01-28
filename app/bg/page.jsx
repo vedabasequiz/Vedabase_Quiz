@@ -31,7 +31,7 @@ export default function BgIndex({ searchParams }) {
       <h1 style={{ fontSize: 28, marginBottom: 10 }}>Bhagavad Gita</h1>
 
       {/* Tabs: Adult / Teens / Kids */}
-      <div className="filterBar filterBarTight" style={{ marginBottom: 18 }}>
+      <div className="filterBar" style={{ marginTop: 16, marginBottom: 18 }}>
         <Link href="/bg/?audience=adult">
           <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
         </Link>
@@ -61,7 +61,9 @@ export default function BgIndex({ searchParams }) {
               {isAvailable ? (
                 <div style={{ opacity: 0.8, fontSize: 14 }}>Open quiz</div>
               ) : (
-                <div className="comingSoonBadge">{audience[0].toUpperCase() + audience.slice(1)}: coming soon</div>
+                <div className="comingSoonBadge">
+                  {audience[0].toUpperCase() + audience.slice(1)}: coming soon
+                </div>
               )}
             </div>
           );

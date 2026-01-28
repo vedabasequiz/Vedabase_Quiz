@@ -2,28 +2,28 @@
 
 import React, { useMemo, useState } from "react";
 
+function getGrade(score, total) {
+  const pct = total > 0 ? score / total : 0;
+
+  // You can tweak these cutoffs anytime
+  if (pct === 1) return { label: "Perfect", emoji: "🌸", title: "Perfect score!", line: "Wonderful focus. Keep going steadily." };
+  if (pct >= 0.9) return { label: "Excellent", emoji: "✨", title: "Excellent!", line: "Strong understanding — subtle points are landing." };
+  if (pct >= 0.75) return { label: "Strong", emoji: "🙏", title: "Strong effort!", line: "You’re building real clarity. Review a few and continue." };
+  if (pct >= 0.6) return { label: "Good", emoji: "📖", title: "Good progress!", line: "Nice work. Revisit the verses linked below and try again." };
+  return { label: "Keep going", emoji: "🌿", title: "Keep going!", line: "This is how learning happens — one careful step at a time." };
+}
+
 export default function QuizClient({ quiz }) {
-  const [answers, setAnswers] = useState(
-    Array.from({ length: quiz.questions.length }, () => null)
-  );
+  const [answers, setAnswers] = useState(Array.from({ length: quiz.questions.length }, () => null));
   const [submitted, setSubmitted] = useState(false);
-
-  function stripLeadingNumber(text) {
-    if (!text) return "";
-    return String(text).replace(/^\s*(Q\s*)?\d+\s*[\.\)\-:]\s*/i, "");
-  }
-
-  function titleCase(s) {
-    if (!s) return "";
-    return s.charAt(0).toUpperCase() + s.slice(1);
-  }
 
   const results = useMemo(() => {
     return quiz.questions.map((q, i) => {
       const selectedIndex = answers[i];
       const isCorrect = selectedIndex === q.correctIndex;
+
       return {
-        qId: q.id,
+        qId: q.id ?? String(i),
         prompt: q.prompt,
         choices: q.choices,
         selectedIndex,
@@ -36,10 +36,9 @@ export default function QuizClient({ quiz }) {
     });
   }, [answers, quiz.questions]);
 
-  const score = useMemo(
-    () => results.reduce((acc, r) => acc + (r.isCorrect ? 1 : 0), 0),
-    [results]
-  );
+  const score = useMemo(() => results.reduce((acc, r) => acc + (r.isCorrect ? 1 : 0), 0), [results]);
+
+  const grade = useMemo(() => getGrade(score, quiz.questions.length), [score, quiz.questions.length]);
 
   function onSelect(qIdx, choiceIdx) {
     if (submitted) return;
@@ -66,44 +65,67 @@ export default function QuizClient({ quiz }) {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
-  const audienceLabel = titleCase(quiz.audience || "adult");
-
   return (
-    <div>
+    <div style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       <h1 style={{ fontSize: 28, marginBottom: 6 }}>{quiz.title}</h1>
-      <div style={{ opacity: 0.8, marginBottom: 18 }}>
-        Audience: {audienceLabel} | Difficulty: {quiz.difficulty} | Questions:{" "}
-        {quiz.questions.length}
+
+      <div style={{ opacity: 0.8, marginBottom: 18, lineHeight: 1.4 }}>
+        {quiz.audience ? <>Audience: {quiz.audience}{" "} |{" "}</> : null}
+        {quiz.difficulty ? <>Difficulty: {quiz.difficulty}{" "} |{" "}</> : null}
+        Questions: {quiz.questions.length}
         {quiz.publishedOn ? ` | Published: ${quiz.publishedOn}` : ""}
       </div>
 
       {submitted ? (
-        <div style={{ border: "1px solid #ddd", borderRadius: 10, padding: 16, marginBottom: 18, background: "#fafafa" }}>
-          <div style={{ fontSize: 18, fontWeight: 600 }}>
-            Your score: {score} / {quiz.questions.length}
+        <div
+          style={{
+            border: "1px solid #ddd",
+            borderRadius: 12,
+            padding: 16,
+            marginBottom: 18,
+            background: "#fafafa",
+          }}
+        >
+          <div style={{ fontSize: 18, fontWeight: 800 }}>
+            {grade.emoji} {grade.title} — {score} / {quiz.questions.length}
           </div>
-          <div style={{ marginTop: 8 }}>
+          <div style={{ marginTop: 8, opacity: 0.9 }}>{grade.line}</div>
+          <div style={{ marginTop: 10, opacity: 0.85 }}>
             Self-study mode: correct answers and explanations are shown below.
           </div>
-          <button onClick={onReset} style={{ marginTop: 12, padding: "10px 14px", borderRadius: 8, border: "1px solid #ccc", cursor: "pointer" }}>
+
+          <button
+            onClick={onReset}
+            style={{
+              marginTop: 12,
+              padding: "10px 14px",
+              borderRadius: 10,
+              border: "1px solid #ccc",
+              cursor: "pointer",
+              fontWeight: 700,
+              background: "#fff",
+            }}
+          >
             Retake quiz
           </button>
         </div>
       ) : (
-        <div style={{ border: "1px solid #ddd", borderRadius: 10, padding: 16, marginBottom: 18 }}>
-          <div style={{ fontSize: 16, fontWeight: 600 }}>Instructions</div>
-          <div style={{ marginTop: 8 }}>
-            Answer all questions, then click Submit to see your score and explanations.
-          </div>
+        <div style={{ border: "1px solid #ddd", borderRadius: 12, padding: 16, marginBottom: 18 }}>
+          <div style={{ fontSize: 16, fontWeight: 800 }}>Instructions</div>
+          <div style={{ marginTop: 8, opacity: 0.9 }}>Answer all questions, then click Submit to see your score and explanations.</div>
         </div>
       )}
 
-      <ol style={{ paddingLeft: 18 }}>
+      {/* IMPORTANT CHANGE:
+          Use a normal <div> list instead of <ol> to avoid double numbering.
+          We'll show our own "Question 1" label.
+      */}
+      <div>
         {results.map((r, qIdx) => (
-          <li key={r.qId} style={{ marginBottom: 22 }}>
-            <div style={{ fontWeight: 600, marginBottom: 10 }}>
-              {stripLeadingNumber(r.prompt)}
-            </div>
+          <div key={r.qId} style={{ marginBottom: 22 }}>
+            <div style={{ fontWeight: 800, marginBottom: 8, opacity: 0.8 }}>Question {qIdx + 1}</div>
+
+            <div style={{ fontWeight: 700, marginBottom: 10 }}>{r.prompt}</div>
 
             <div style={{ display: "grid", gap: 8 }}>
               {r.choices.map((choice, cIdx) => {
@@ -119,7 +141,7 @@ export default function QuizClient({ quiz }) {
                       gap: 10,
                       alignItems: "flex-start",
                       padding: "10px 12px",
-                      borderRadius: 10,
+                      borderRadius: 12,
                       border: "1px solid #ddd",
                       cursor: submitted ? "default" : "pointer",
                       background: isCorrectChoice ? "#eef8ee" : isWrongChosen ? "#fdeeee" : "#fff",
@@ -141,7 +163,7 @@ export default function QuizClient({ quiz }) {
 
             {submitted && (
               <div style={{ marginTop: 10, padding: "10px 12px", borderLeft: "4px solid #ccc" }}>
-                <div style={{ fontWeight: 600 }}>{r.isCorrect ? "Correct" : "Review"}</div>
+                <div style={{ fontWeight: 800 }}>{r.isCorrect ? "Correct" : "Review"}</div>
                 <div style={{ marginTop: 6 }}>{r.feedback}</div>
                 <div style={{ marginTop: 6 }}>
                   Verse link:{" "}
@@ -151,12 +173,23 @@ export default function QuizClient({ quiz }) {
                 </div>
               </div>
             )}
-          </li>
+          </div>
         ))}
-      </ol>
+      </div>
 
       {!submitted && (
-        <button onClick={onSubmit} style={{ padding: "12px 16px", borderRadius: 10, border: "1px solid #333", cursor: "pointer", fontWeight: 600 }}>
+        <button
+          onClick={onSubmit}
+          style={{
+            padding: "12px 16px",
+            borderRadius: 12,
+            border: "1px solid #111",
+            cursor: "pointer",
+            fontWeight: 800,
+            background: "#111",
+            color: "#fff",
+          }}
+        >
           Submit
         </button>
       )}

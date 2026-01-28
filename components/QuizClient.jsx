@@ -224,17 +224,31 @@ export default function QuizClient({ quiz }) {
             </div>
 
             {submitted && (
-              <div style={{ marginTop: 10, padding: "10px 12px", borderLeft: "4px solid #ccc" }}>
-                <div style={{ fontWeight: 800 }}>{r.isCorrect ? "Correct" : "Review"}</div>
-                <div style={{ marginTop: 6 }}>{r.feedback}</div>
-                <div style={{ marginTop: 6 }}>
-                  Verse link:{" "}
-                  <a href={r.verseUrl} target="_blank" rel="noreferrer">
-                    {r.verseLabel}
-                  </a>
-                </div>
-              </div>
-            )}
+  <div
+    className={[
+      "feedbackBox",
+      r.isCorrect ? "feedbackBoxCorrect" : "feedbackBoxReview",
+      quiz.audience === "kids" ? "feedbackKids" : quiz.audience === "teens" ? "feedbackTeens" : "feedbackAdult",
+    ].join(" ")}
+  >
+    <div className="feedbackHeaderRow">
+      <div className="feedbackVerdict">{r.isCorrect ? "Correct" : "Review"}</div>
+
+      {/* Optional meta (kept subtle). Hide on mobile via CSS. */}
+      <div className="feedbackMeta">{r.isCorrect ? "Nice." : "Re-check the verse."}</div>
+    </div>
+
+    <div className="feedbackText">{r.feedback}</div>
+
+    <div className="feedbackVerseRow">
+      <span className="feedbackVerseLabel">Verse:</span>
+      <a className="feedbackVerseLink" href={r.verseUrl} target="_blank" rel="noreferrer">
+        {r.verseLabel}
+      </a>
+    </div>
+  </div>
+)}
+
           </div>
         ))}
       </div>

@@ -76,41 +76,33 @@ export default function BgIndex({ searchParams }) {
       </div>
 
       {/* Chapter cards */}
-      <div
-        style={{
-          display: "grid",
-          gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))",
-          gap: 12,
-        }}
-      >
-        {chapters.map((ch) => {
-          const selectedUrl = linkFor(ch, audience);
-          const isAvailable = !!selectedUrl;
-          const title = BG_CHAPTER_TITLES[ch] || "";
+      <div className="chapterGrid">
+  {chapters.map((ch) => {
+    const selectedUrl = linkFor(ch, audience);
+    const isAvailable = !!selectedUrl;
 
-          const cardInner = (
-            <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
-              <div style={{ fontWeight: 800, marginBottom: 6 }}>Chapter {ch}</div>
-              {title ? (
-                <div style={{ opacity: 0.78, fontSize: 14, lineHeight: 1.25 }}>{title}</div>
-              ) : null}
-              {!isAvailable ? (
-                <div style={{ marginTop: 10 }} className="comingSoonBadge">
-                  {audience[0].toUpperCase() + audience.slice(1)}: coming soon
-                </div>
-              ) : null}
-            </div>
-          );
+    const card = (
+      <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
+        <div style={{ fontWeight: 800 }}>Chapter {ch}</div>
 
-          return isAvailable ? (
-            <Link key={ch} href={selectedUrl} className="cardLink">
-              {cardInner}
-            </Link>
-          ) : (
-            <div key={ch}>{cardInner}</div>
-          );
-        })}
+        {!isAvailable && (
+          <div className="comingSoonBadge">
+            {audience[0].toUpperCase() + audience.slice(1)}: coming soon
+          </div>
+        )}
       </div>
+    );
+
+    return isAvailable ? (
+      <Link key={ch} href={selectedUrl} className="cardLink">
+        {card}
+      </Link>
+    ) : (
+      <div key={ch}>{card}</div>
+    );
+  })}
+</div>
+
 
       <div style={{ marginTop: 18 }}>
         <Link href="/">Back to home</Link>

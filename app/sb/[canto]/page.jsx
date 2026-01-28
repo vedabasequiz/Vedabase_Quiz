@@ -134,8 +134,11 @@ export default function SbCantoPage({ params, searchParams }) {
       </div>
 
       <div style={{ marginTop: 18 }}>
-        <Link href="/sb/?audience=adult">Back to cantos</Link>
-      </div>
+  <Link href={`/sb/?audience=${audience}`}>
+    Back to cantos
+  </Link>
+</div>
+
     </main>
   );
 }

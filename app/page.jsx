@@ -14,7 +14,7 @@ export default function HomePage() {
           insights over time.
         </p>
 
-        <p style={{ marginTop: 0, marginBottom: 0 }}>
+        <p style={{ marginTop: 0, marginBottom: 20 }}>
           Not a test or competition, but a support for steady engagement with the scriptures.{" "}
           <span style={{ opacity: 0.9 }}>
             New here? Read below about the intention and design of the quizzes.

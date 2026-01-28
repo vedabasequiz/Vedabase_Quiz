@@ -2,8 +2,7 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import { getBgAvailability } from "../../lib/quizLoader";
 
-// Small mapping (expand if you want alternate wording later)
-// Titles are the common Vedabase chapter headings (ASCII-only).
+// Vedabase chapter headings (ASCII-only)
 const BG_CHAPTER_TITLES = {
   1: "Observing the Armies on the Battlefield of Kuruksetra",
   2: "Contents of the Gita Summarized",
@@ -29,14 +28,11 @@ function getAudienceFromSearchParams(searchParams) {
   const a = searchParams?.audience;
   const v = Array.isArray(a) ? a[0] : a;
   if (v === "kids" || v === "teens" || v === "adult") return v;
-  return "adult"; // default
+  return "adult";
 }
 
 export default function BgIndex({ searchParams }) {
-  // Make default explicit in URL so the UI always has a selected tab
-  if (!searchParams?.audience) {
-    redirect("/bg/?audience=adult");
-  }
+  if (!searchParams?.audience) redirect("/bg/?audience=adult");
 
   const availability = getBgAvailability();
   const audience = getAudienceFromSearchParams(searchParams);
@@ -48,21 +44,22 @@ export default function BgIndex({ searchParams }) {
     return meta ? `/quiz/${meta.slug}/` : null;
   }
 
+  const audienceLabel = audience.charAt(0).toUpperCase() + audience.slice(1);
+
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       {/* Breadcrumb */}
       <div style={{ fontSize: 14, opacity: 0.8, marginBottom: 10 }}>
-  <Link href="/">Home</Link>
-  <span style={{ opacity: 0.6 }}> / </span>
-  Bhagavad Gita
-  <span style={{ opacity: 0.6 }}> / </span>
-  {audience.charAt(0).toUpperCase() + audience.slice(1)}
-</div>
-
+        <Link href="/">Home</Link>
+        <span style={{ opacity: 0.6 }}> / </span>
+        <span>Bhagavad Gita</span>
+        <span style={{ opacity: 0.6 }}> / </span>
+        <span>{audienceLabel}</span>
+      </div>
 
       <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>Bhagavad Gita</h1>
 
-      {/* Tabs: Adult / Teens / Kids */}
+      {/* Tabs */}
       <div className="filterBar" style={{ marginTop: 10, marginBottom: 18 }}>
         <Link href="/bg/?audience=adult">
           <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
@@ -75,34 +72,40 @@ export default function BgIndex({ searchParams }) {
         </Link>
       </div>
 
-      {/* Chapter cards */}
+      {/* Cards */}
       <div className="chapterGrid">
-  {chapters.map((ch) => {
-    const selectedUrl = linkFor(ch, audience);
-    const isAvailable = !!selectedUrl;
+        {chapters.map((ch) => {
+          const selectedUrl = linkFor(ch, audience);
+          const isAvailable = !!selectedUrl;
+          const title = BG_CHAPTER_TITLES[ch] || "";
 
-    const card = (
-      <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
-        <div style={{ fontWeight: 800 }}>Chapter {ch}</div>
+          const cardInner = (
+            <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
+              <div>
+                <div style={{ fontWeight: 800, marginBottom: 8 }}>Chapter {ch}</div>
+                {title ? <div className="chapterTitle">{title}</div> : null}
+              </div>
 
-        {!isAvailable && (
-          <div className="comingSoonBadge">
-            {audience[0].toUpperCase() + audience.slice(1)}: coming soon
-          </div>
-        )}
+              {!isAvailable ? (
+                <div className="comingSoonBadge">{audienceLabel}: coming soon</div>
+              ) : (
+                <div /> // keeps spacing consistent
+              )}
+            </div>
+          );
+
+          // Clickable ONLY when available
+          return isAvailable ? (
+            <Link key={ch} href={selectedUrl} className="cardLink">
+              {cardInner}
+            </Link>
+          ) : (
+            <div key={ch} className="cardLink cardLinkDisabled">
+              {cardInner}
+            </div>
+          );
+        })}
       </div>
-    );
-
-    return isAvailable ? (
-      <Link key={ch} href={selectedUrl} className="cardLink">
-        {card}
-      </Link>
-    ) : (
-      <div key={ch}>{card}</div>
-    );
-  })}
-</div>
-
 
       <div style={{ marginTop: 18 }}>
         <Link href="/">Back to home</Link>

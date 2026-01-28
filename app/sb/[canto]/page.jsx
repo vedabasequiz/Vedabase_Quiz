@@ -2,6 +2,22 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import { getSbAvailability, listSbCantos, listSbChaptersInCanto } from "../../../lib/quizLoader";
 
+// Vedabase Canto titles (ASCII-only)
+const SB_CANTO_TITLES = {
+  1: "Creation",
+  2: "The Cosmic Manifestation",
+  3: "The Status Quo",
+  4: "The Creation of the Fourth Order",
+  5: "The Creative Impetus",
+  6: "Prescribed Duties for Mankind",
+  7: "The Science of God",
+  8: "Withdrawal of the Cosmic Creations",
+  9: "Liberation",
+  10: "The Summum Bonum",
+  11: "General History",
+  12: "The Age of Deterioration",
+};
+
 // Small mapping (expand as you publish more)
 // ASCII-only spellings.
 const SB_CHAPTER_TITLES = {
@@ -60,12 +76,17 @@ export default function SbCantoPage({ params, searchParams }) {
   }
 
   function chapterTitleFor(canto, chapter) {
-    return (SB_CHAPTER_TITLES[canto] && SB_CHAPTER_TITLES[canto][chapter]) ? SB_CHAPTER_TITLES[canto][chapter] : "";
+    return SB_CHAPTER_TITLES[canto] && SB_CHAPTER_TITLES[canto][chapter] ? SB_CHAPTER_TITLES[canto][chapter] : "";
   }
+
+  const cantoTitle = SB_CANTO_TITLES[cantoNum] || "";
 
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
-      <h1 style={{ fontSize: 28, marginBottom: 10 }}>Srimad Bhagavatam - Canto {cantoNum}</h1>
+      <h1 style={{ fontSize: 28, marginBottom: 10 }}>
+        Srimad Bhagavatam - Canto {cantoNum}
+        {cantoTitle ? `: ${cantoTitle}` : ""}
+      </h1>
 
       {/* Tabs: Adult / Kids only */}
       <div className="filterBar" style={{ marginBottom: 18 }}>

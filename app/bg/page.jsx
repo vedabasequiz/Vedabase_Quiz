@@ -73,41 +73,40 @@ export default function BgIndex({ searchParams }) {
       </div>
 
       {/* Cards */}
-<div className="chapterGrid">
-  {chapters.map((ch) => {
-    const selectedUrl = linkFor(ch, audience);
-    const isAvailable = !!selectedUrl;
-    const title = BG_CHAPTER_TITLES[ch] || "";
+      {/* Cards */}
+      <div className="chapterGrid">
+        {chapters.map((ch) => {
+          const selectedUrl = linkFor(ch, audience);
+          const isAvailable = !!selectedUrl;
+          const title = BG_CHAPTER_TITLES[ch] || "";
 
-    const cardInner = (
-      <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
-        <div>
-          <div style={{ fontWeight: 800, marginBottom: 8 }}>
-            Chapter {ch}
-          </div>
+          const cardInner = (
+            <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
+              <div>
+                <div style={{ fontWeight: 800, marginBottom: 8 }}>Chapter {ch}</div>
+                {title ? <div className="chapterTitle">{title}</div> : null}
+              </div>
 
-          {title && <div className="chapterTitle">{title}</div>}
-        </div>
+              {!isAvailable ? (
+                <div className="comingSoonBadge">{audienceLabel}: coming soon</div>
+              ) : (
+                <div />
+              )}
+            </div>
+          );
 
-        {!isAvailable && (
-          <div className="comingSoonBadge">
-            {audienceLabel}: coming soon
-          </div>
-        )}
+          // Keep wrapper consistent: Link when available, div when not.
+          return isAvailable ? (
+            <Link key={ch} href={selectedUrl} className="cardLink">
+              {cardInner}
+            </Link>
+          ) : (
+            <div key={ch} className="cardLink">
+              {cardInner}
+            </div>
+          );
+        })}
       </div>
-    );
-
-    return isAvailable ? (
-      <Link key={ch} href={selectedUrl} className="cardLink">
-        {cardInner}
-      </Link>
-    ) : (
-      <div key={ch} className="cardLink cardLinkDisabled">
-        {cardInner}
-      </div>
-    );
-  })}
-</div>
 
 
       <div style={{ marginTop: 18 }}>

@@ -129,15 +129,19 @@ export default function QuizClient({ quiz }) {
 
       {submitted ? (
         <div
-          style={{
-            border: "1px solid #ddd",
-            borderLeft: `6px solid ${scoreStyle.border}`,
-            borderRadius: 12,
-            padding: 16,
-            marginBottom: 18,
-            background: scoreStyle.bg,
-          }}
-        >
+  className={`scoreBox ${
+    grade.label === "Perfect"
+      ? "scorePerfect"
+      : grade.label === "Excellent"
+      ? "scoreExcellent"
+      : grade.label === "Strong"
+      ? "scoreStrong"
+      : grade.label === "Good"
+      ? "scoreGood"
+      : "scoreKeepGoing"
+  }`}
+>
+
           <div style={{ fontSize: 18, fontWeight: 800 }}>
             {grade.emoji} {grade.title} — {score} / {total}
           </div>

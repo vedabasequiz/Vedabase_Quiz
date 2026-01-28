@@ -50,7 +50,7 @@ export default function RootLayout({ children }) {
       textAlign: "center",
     }}
   >
-    Vedabase Quiz is a quiet, non-commercial self-study project based on
+    Vedabase Quiz is a sacred, non-commercial self-study project based on
     Srila Prabhupada’s translations and purports as published on Vedabase.io.
   </div>
 </footer>

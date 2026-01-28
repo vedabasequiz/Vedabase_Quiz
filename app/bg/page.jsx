@@ -52,8 +52,13 @@ export default function BgIndex({ searchParams }) {
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       {/* Breadcrumb */}
       <div style={{ fontSize: 14, opacity: 0.8, marginBottom: 10 }}>
-        <Link href="/">Home</Link> <span style={{ opacity: 0.6 }}>/</span> Bhagavad Gita
-      </div>
+  <Link href="/">Home</Link>
+  <span style={{ opacity: 0.6 }}> / </span>
+  Bhagavad Gita
+  <span style={{ opacity: 0.6 }}> / </span>
+  {audience.charAt(0).toUpperCase() + audience.slice(1)}
+</div>
+
 
       <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>Bhagavad Gita</h1>
 

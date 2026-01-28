@@ -266,4 +266,94 @@ details li {
   margin-top: 10px;
   opacity: 0.85;
 }
+/* -----------------------------
+   Unified feedback blocks
+-------------------------------- */
+
+.feedbackBox {
+  margin-top: 12px;
+  padding: 12px 12px;
+  border-radius: 12px;
+  border: 1px solid #ddd;
+  background: #fff;
+}
+
+.feedbackBoxCorrect {
+  border-left: 6px solid #2f7d32;
+  background: #f1f7f3;
+}
+
+.feedbackBoxReview {
+  border-left: 6px solid #8a1e1e;
+  background: #fbf1f1;
+}
+
+.feedbackHeaderRow {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.feedbackVerdict {
+  font-weight: 900;
+}
+
+.feedbackMeta {
+  font-size: 13px;
+  opacity: 0.75;
+}
+
+.feedbackText {
+  margin-top: 8px;
+  line-height: 1.5;
+  opacity: 0.95;
+}
+
+/* Verse link row */
+.feedbackVerseRow {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 14px;
+}
+
+.feedbackVerseLabel {
+  opacity: 0.75;
+}
+
+.feedbackVerseLink {
+  font-weight: 800;
+  text-decoration: none;
+  border-bottom: 1px dotted #999;
+}
+
+.feedbackVerseLink:hover {
+  border-bottom-style: solid;
+}
+
+/* Audience “density” tweaks (optional) */
+.feedbackKids .feedbackText {
+  font-size: 14px;
+}
+
+.feedbackTeens .feedbackText {
+  font-size: 14px;
+}
+
+.feedbackAdult .feedbackText {
+  font-size: 14px;
+}
+
+/* Optional: make feedback look calmer on small screens */
+@media (max-width: 420px) {
+  .feedbackBox {
+    padding: 11px 11px;
+  }
+  .feedbackMeta {
+    display: none; /* keeps it clean on mobile */
+  }
+}
 

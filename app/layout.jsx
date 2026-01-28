@@ -34,18 +34,27 @@ export default function RootLayout({ children }) {
 
         {/* Minimal footer */}
         <footer
-          style={{
-            marginTop: 48,
-            padding: "18px 16px",
-            borderTop: "1px solid #eee",
-            fontSize: 13,
-            color: "#666",
-            lineHeight: 1.6,
-          }}
-        >
-          Vedabase Quiz is a quiet, non-commercial self-study project based on
-          Srila Prabhupada’s translations and purports as published on Vedabase.io.
-        </footer>
+  style={{
+    marginTop: 48,
+    borderTop: "1px solid #eee",
+  }}
+>
+  <div
+    style={{
+      maxWidth: 900,
+      margin: "0 auto",
+      padding: "18px 16px",
+      fontSize: 13,
+      color: "#666",
+      lineHeight: 1.6,
+      textAlign: "center",
+    }}
+  >
+    Vedabase Quiz is a quiet, non-commercial self-study project based on
+    Srila Prabhupada’s translations and purports as published on Vedabase.io.
+  </div>
+</footer>
+
       </body>
     </html>
   );

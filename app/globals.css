@@ -29,15 +29,17 @@ a { color: inherit; }
   padding: 18px 16px;
   font-size: 14px;
   line-height: 1.6;
+  text-align: center;
 }
 
-/* Generic footer tag (only matters if you render <footer> without .siteFooter) */
+/* Generic footer tag (fallback) */
 footer {
   margin-top: 48px;
   padding: 24px 16px;
   font-size: 13px;
   color: #666;
   border-top: 1px solid #eee;
+  text-align: center;
 }
 
 /* -----------------------------
@@ -48,19 +50,16 @@ footer {
   gap: 10px;
   margin-top: 24px;
   margin-bottom: 24px;
-
-  /* Mobile */
   flex-wrap: wrap;
   align-items: center;
 }
 
-/* Optional tighter spacing variant (use: className="filterBar filterBarTight") */
 .filterBarTight {
   margin-top: 14px;
   margin-bottom: 18px;
 }
 
-/* Buttons for filters */
+/* Buttons */
 .filterBtn {
   border: 1px solid #999;
   background: #fff;
@@ -68,11 +67,8 @@ footer {
   border-radius: 10px;
   cursor: pointer;
   font-weight: 700;
-  transition:
-    transform 0.08s ease,
-    background 0.12s ease,
-    border-color 0.12s ease,
-    box-shadow 0.12s ease;
+  transition: transform 0.08s ease, background 0.12s ease,
+              border-color 0.12s ease, box-shadow 0.12s ease;
 }
 
 .filterBtn:hover {
@@ -85,7 +81,6 @@ footer {
   color: #fff;
   border-color: #111;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.14);
-  transform: translateY(-1px);
 }
 
 .filterBtn:focus-visible {
@@ -94,7 +89,7 @@ footer {
 }
 
 /* -----------------------------
-   Collapsible (details / summary)
+   Collapsible sections
 -------------------------------- */
 details {
   border: 1px solid #e2e2e2;
@@ -135,43 +130,30 @@ details li {
 }
 
 /* -----------------------------
-   Cards + grids (BG/SB)
+   Chapter / Canto cards
 -------------------------------- */
 
-/* Grid */
+/* Grid — NO forced row height */
 .chapterGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 12px;
-
-  /* Key: equal-height rows */
-  grid-auto-rows: 1fr;
-  align-items: stretch;
 }
 
-/* Whole-card link wrapper */
+/* Whole-card link */
 .cardLink {
+  display: block;
   text-decoration: none;
   color: inherit;
-  display: block;
-
-  /* Key: wrapper fills grid cell */
-  height: 100%;
 }
 
-/* Prevent underlines inside cards */
-.cardLink * {
-  text-decoration: none;
-}
-
-/* For disabled wrappers (non-clickable) */
+/* Disabled wrapper */
 .cardLinkDisabled {
   pointer-events: none;
 }
 
 /* Card */
 .chapterCard {
-  height: 100%;
   border: 1px solid #ddd;
   border-radius: 12px;
   padding: 14px;
@@ -182,17 +164,21 @@ details li {
   justify-content: space-between;
   gap: 10px;
 
-  transition: transform 0.08s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+  min-height: 110px;
+
+  transition: transform 0.08s ease,
+              box-shadow 0.12s ease,
+              border-color 0.12s ease;
 }
 
-/* Hover only on clickable cards */
+/* Hover only when clickable */
 .cardLink .chapterCard:hover {
   transform: translateY(-2px);
   border-color: #bbb;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
 }
 
-/* Chapter title line (clamp to keep cards consistent) */
+/* Chapter title */
 .chapterTitle {
   opacity: 0.75;
   font-size: 14px;
@@ -204,7 +190,7 @@ details li {
   overflow: hidden;
 }
 
-/* Disabled (coming soon) */
+/* Disabled state */
 .chapterCardDisabled {
   opacity: 0.55;
   background: #fafafa;
@@ -214,13 +200,11 @@ details li {
 
 /* Badge */
 .comingSoonBadge {
-  display: inline-block;
   font-size: 13px;
   padding: 6px 10px;
   border-radius: 999px;
   border: 1px solid #ddd;
   background: #fff;
-  opacity: 0.9;
 }
 
 .chapterCardDisabled .comingSoonBadge {

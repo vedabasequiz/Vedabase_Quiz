@@ -6,7 +6,7 @@ export default function HomePage() {
       {/* NEW intro text (mobile-tight) */}
       <div style={{ opacity: 0.9, marginTop: 0, lineHeight: 1.5 }}>
         <p style={{ marginTop: 0, marginBottom: 10 }}>
-          Vedabase Quiz is a quiet self-study space to deepen understanding of the Bhagavad Gita and Srimad Bhagavatam.
+          Vedabase Quiz is a sacred self-study space to deepen understanding of the Bhagavad Gita and Srimad Bhagavatam.
         </p>
 
         <p style={{ marginTop: 0, marginBottom: 10 }}>

@@ -1,9 +1,8 @@
-import React from "react";
 import "./globals.css";
 
 export const metadata = {
   title: "Vedabase Quiz",
-  description: "Quiz library for Bhagavad Gita and Srimad Bhagavatam",
+  description: "Self-study quizzes for Bhagavad Gita and Srimad Bhagavatam",
 };
 
 export const viewport = {
@@ -14,38 +13,39 @@ export const viewport = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body style={{ fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" }}>
+      <body
+        style={{
+          fontFamily:
+            "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+        }}
+      >
+        {/* Site header */}
         <div style={{ padding: "14px 16px", borderBottom: "1px solid #eee" }}>
-          <a href="/" style={{ textDecoration: "none", fontWeight: 800, color: "#111" }}>
+          <a
+            href="/"
+            style={{ textDecoration: "none", fontWeight: 800, color: "#111" }}
+          >
             Vedabase Quiz
           </a>
         </div>
 
+        {/* Page content */}
         {children}
 
-        <div className="footerWrap">
-          <footer className="siteFooter">
-            <div className="footerLinks">
-              <a href="/about/" style={{ textDecoration: "none" }}>About</a>
-              <a href="/sources/" style={{ textDecoration: "none" }}>Sources</a>
-            </div>
-
-            <div style={{ opacity: 0.85 }}>
-              Sources &amp; attribution: scriptural translations and purports referenced here are sourced exclusively from Vedabase.io and
-              published by the Bhaktivedanta Book Trust (BBT), authored by His Divine Grace A. C. Bhaktivedanta Swami Prabhupada.
-            </div>
-            <div style={{ opacity: 0.75, marginTop: 6 }}>
-              Vedabase Quiz is an independent, non-commercial study project and is not affiliated with Vedabase.io or the Bhaktivedanta Book Trust.
-            </div>
-          </footer>
-        </div>
-  <footer>
-   Vedabase Quiz is a self-study project based on Srila Prabhupada’s translations
-and purports as published on Vedabase.io.
-
-This site is non-commercial and intended for thoughtful personal study.
-  </footer>
-
+        {/* Minimal footer */}
+        <footer
+          style={{
+            marginTop: 48,
+            padding: "18px 16px",
+            borderTop: "1px solid #eee",
+            fontSize: 13,
+            color: "#666",
+            lineHeight: 1.6,
+          }}
+        >
+          Vedabase Quiz is a quiet, non-commercial self-study project based on
+          Srila Prabhupada’s translations and purports as published on Vedabase.io.
+        </footer>
       </body>
     </html>
   );

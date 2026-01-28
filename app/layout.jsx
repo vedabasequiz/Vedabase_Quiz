@@ -41,7 +41,6 @@ export default function RootLayout({ children }) {
             fontSize: 13,
             color: "#666",
             lineHeight: 1.6,
-            align: center,
           }}
         >
           Vedabase Quiz is a quiet, non-commercial self-study project based on

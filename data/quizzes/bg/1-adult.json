@@ -8,7 +8,7 @@
   "questions": [
     {
       "id": "bg1-01",
-      "prompt": "1. In BG 1.1, Dhritarashtra specifically asks Sanjaya what the assembled parties did at which place?",
+      "prompt": "In BG 1.1, Dhritarashtra specifically asks Sanjaya what the assembled parties did at which place?",
       "choices": [
         "Hastinapura",
         "Kurukshetra (dharma-ksetra)",
@@ -22,7 +22,7 @@
     },
     {
       "id": "bg1-02",
-      "prompt": "2. According to the purport of BG 1.1, how should Bhagavad-gita be studied to avoid error?",
+      "prompt": "According to the purport of BG 1.1, how should Bhagavad-gita be studied to avoid error?",
       "choices": [
         "By personal interpretation and speculation",
         "By reading only the Sanskrit meter",
@@ -36,7 +36,7 @@
     },
     {
       "id": "bg1-03",
-      "prompt": "3. In BG 1.2, after viewing the Pandava army formation, Duryodhana approaches whom first?",
+      "prompt": "In BG 1.2, after viewing the Pandava army formation, Duryodhana approaches whom first?",
       "choices": [
         "Bhishma",
         "Krishna",
@@ -50,7 +50,7 @@
     },
     {
       "id": "bg1-04",
-      "prompt": "4. In BG 1.3, Duryodhana praises the Pandava army as being expertly arranged by whose disciple?",
+      "prompt": "In BG 1.3, Duryodhana praises the Pandava army as being expertly arranged by whose disciple?",
       "choices": [
         "The son of Kunti",
         "The son of Drupada",
@@ -64,7 +64,7 @@
     },
     {
       "id": "bg1-05",
-      "prompt": "5. In BG 1.4, which trio is specifically named as heroic bowmen equal in fighting to Bhima and Arjuna?",
+      "prompt": "In BG 1.4, which trio is specifically named as heroic bowmen equal in fighting to Bhima and Arjuna?",
       "choices": [
         "Yuyudhana, Virata, Drupada",
         "Nakula, Sahadeva, Yudhisthira",
@@ -78,7 +78,7 @@
     },
     {
       "id": "bg1-06",
-      "prompt": "6. In BG 1.5, which of the following is listed among the heroic fighters on the Pandava side?",
+      "prompt": "In BG 1.5, which of the following is listed among the heroic fighters on the Pandava side?",
       "choices": [
         "Kuntibhoja",
         "Duryodhana",
@@ -92,7 +92,7 @@
     },
     {
       "id": "bg1-07",
-      "prompt": "7. In BG 1.7, Duryodhana begins listing the captains especially qualified to lead whose force?",
+      "prompt": "In BG 1.7, Duryodhana begins listing the captains especially qualified to lead whose force?",
       "choices": [
         "The Pandavas' force",
         "His own military force",
@@ -106,21 +106,21 @@
     },
     {
       "id": "bg1-08",
-      "prompt": "8. In BG 1.8, Duryodhana names which person first among those always victorious in battle?",
+      "prompt": "In BG 1.8, Duryodhana lists the 'always-victorious' warriors. Whom does he mention first?",
       "choices": [
-        "Arjuna",
+        "Dronacarya (Drona)",
         "Bhishma",
-        "Satyaki",
-        "Drupada"
+        "Karna",
+        "Krpa"
       ],
-      "correctIndex": 1,
-      "feedback": "He names personalities like you (Drona), Bhishma, Karna, Krpa, Asvatthama, etc.; Bhishma is explicitly named.",
+      "correctIndex": 0,
+      "feedback": "Correct: Duryodhana begins the list with 'bhavan' ('yourself'), addressing Dronacarya directly. Only after that does he name Bhishma, Karna, and others.",
       "verseLabel": "BG 1.8",
       "verseUrl": "https://vedabase.io/en/library/bg/1/8/"
     },
     {
       "id": "bg1-09",
-      "prompt": "9. In BG 1.10, Duryodhana describes the Kaurava strength as _____ and the Pandava strength as _____.",
+      "prompt": "In BG 1.10, Duryodhana describes the Kaurava strength as _____ and the Pandava strength as _____.",
       "choices": [
         "limited; immeasurable",
         "equal; superior",
@@ -134,7 +134,7 @@
     },
     {
       "id": "bg1-10",
-      "prompt": "10. In BG 1.11, what does Duryodhana ask his warriors to do in relation to Bhishma?",
+      "prompt": "In BG 1.11, what does Duryodhana ask his warriors to do in relation to Bhishma?",
       "choices": [
         "Avoid him in battle",
         "Give him full support at strategic points",
@@ -148,7 +148,7 @@
     },
     {
       "id": "bg1-11",
-      "prompt": "11. In BG 1.12, Bhishma blows his conchshell loudly, making a sound like what, and it gives Duryodhana what?",
+      "prompt": "In BG 1.12, Bhishma blows his conchshell loudly, making a sound like what, and it gives Duryodhana what?",
       "choices": [
         "A thunderbolt; fear",
         "A roar of a lion; joy",
@@ -162,7 +162,7 @@
     },
     {
       "id": "bg1-12",
-      "prompt": "12. In BG 1.14, whose chariot is described as being drawn by white horses?",
+      "prompt": "In BG 1.14, whose chariot is described as being drawn by white horses?",
       "choices": [
         "Duryodhana's",
         "Arjuna's alone",
@@ -176,7 +176,7 @@
     },
     {
       "id": "bg1-13",
-      "prompt": "13. In BG 1.15, which conchshell is blown by Lord Krishna?",
+      "prompt": "In BG 1.15, which conchshell is blown by Lord Krishna?",
       "choices": [
         "Devadatta",
         "Pancajanya",
@@ -190,7 +190,7 @@
     },
     {
       "id": "bg1-14",
-      "prompt": "14. In BG 1.15, what is the name of Arjuna's conchshell?",
+      "prompt": "In BG 1.15, what is the name of Arjuna's conchshell?",
       "choices": [
         "Pancajanya",
         "Ananta-vijaya",
@@ -204,7 +204,7 @@
     },
     {
       "id": "bg1-15",
-      "prompt": "15. In BG 1.16-18, which pair of brothers blow the conchshells Sughosha and Manipuspaka?",
+      "prompt": "In BG 1.16-18, which pair of brothers blow the conchshells Sughosha and Manipuspaka?",
       "choices": [
         "Nakula and Sahadeva",
         "Bhima and Arjuna",
@@ -218,7 +218,7 @@
     },
     {
       "id": "bg1-16",
-      "prompt": "16. In BG 1.19, what effect does the uproarious conchshell sound have on the sons of Dhritarashtra?",
+      "prompt": "In BG 1.19, what effect does the uproarious conchshell sound have on the sons of Dhritarashtra?",
       "choices": [
         "It pleases them greatly",
         "It shatters their hearts",
@@ -232,7 +232,7 @@
     },
     {
       "id": "bg1-17",
-      "prompt": "17. In BG 1.20, Arjuna's chariot bears a flag marked with which figure?",
+      "prompt": "In BG 1.20, Arjuna's chariot bears a flag marked with which figure?",
       "choices": [
         "Ganesha",
         "Garuda",
@@ -246,7 +246,7 @@
     },
     {
       "id": "bg1-18",
-      "prompt": "18. In BG 1.21-22, why does Arjuna ask Krishna to place the chariot between the two armies?",
+      "prompt": "In BG 1.21-22, why does Arjuna ask Krishna to place the chariot between the two armies?",
       "choices": [
         "To begin negotiations for peace",
         "To see who is present and with whom he must contend",
@@ -260,7 +260,7 @@
     },
     {
       "id": "bg1-19",
-      "prompt": "19. In BG 1.23, Arjuna says the opposing side is trying to please whom?",
+      "prompt": "In BG 1.23, Arjuna says the opposing side is trying to please whom?",
       "choices": [
         "The virtuous son of Pandu",
         "The evil-minded son of Dhritarashtra",
@@ -274,7 +274,7 @@
     },
     {
       "id": "bg1-20",
-      "prompt": "20. In BG 1.25, Krishna tells Arjuna to behold all the _____ assembled there.",
+      "prompt": "In BG 1.25, Krishna tells Arjuna to behold all the _____ assembled there.",
       "choices": [
         "Pandavas",
         "Kurus",
@@ -288,7 +288,7 @@
     },
     {
       "id": "bg1-21",
-      "prompt": "21. In BG 1.27, after seeing relatives and friends, Arjuna becomes overwhelmed with what?",
+      "prompt": "In BG 1.27, after seeing relatives and friends, Arjuna becomes overwhelmed with what?",
       "choices": [
         "Anger",
         "Compassion",
@@ -302,7 +302,7 @@
     },
     {
       "id": "bg1-22",
-      "prompt": "22. In BG 1.28-29, which pair of symptoms does Arjuna mention first?",
+      "prompt": "In BG 1.28-29, which pair of symptoms does Arjuna mention first?",
       "choices": [
         "Hair standing and skin burning",
         "Limbs quivering and mouth drying up",
@@ -316,7 +316,7 @@
     },
     {
       "id": "bg1-23",
-      "prompt": "23. In BG 1.30, what happens to Arjuna's bow Gandiva?",
+      "prompt": "In BG 1.30, what happens to Arjuna's bow Gandiva?",
       "choices": [
         "It breaks in half",
         "It slips from his hand",
@@ -330,7 +330,7 @@
     },
     {
       "id": "bg1-24",
-      "prompt": "24. In BG 1.31-32, Arjuna says he does not desire victory, kingdom, or happiness if it comes by what?",
+      "prompt": "In BG 1.31-32, Arjuna says he does not desire victory, kingdom, or happiness if it comes by what?",
       "choices": [
         "Traveling abroad",
         "Killing his own relatives",
@@ -344,7 +344,7 @@
     },
     {
       "id": "bg1-25",
-      "prompt": "25. In BG 1.47, what does Arjuna do at the end of the chapter?",
+      "prompt": "In BG 1.47, what does Arjuna do at the end of the chapter?",
       "choices": [
         "He blows his conchshell and attacks",
         "He sits down on the chariot, casting aside his bow and arrows",

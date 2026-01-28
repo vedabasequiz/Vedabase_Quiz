@@ -3,10 +3,24 @@ export default function HomePage() {
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
 
-      <p style={{ opacity: 0.9, marginTop: 0, lineHeight: 1.5 }}>
-        A self-study space for the Bhagavad Gita and Srimad Bhagavatam.
-        Not tests or competitions—just a way to slow down, clarify key ideas, and learn steadily.
-      </p>
+      {/* NEW intro text (mobile-tight) */}
+      <div style={{ opacity: 0.9, marginTop: 0, lineHeight: 1.5 }}>
+        <p style={{ marginTop: 0, marginBottom: 10 }}>
+          <strong>A self-study space to deepen understanding of the Bhagavad Gita and Srimad Bhagavatam.</strong>
+        </p>
+
+        <p style={{ marginTop: 0, marginBottom: 10 }}>
+          The quizzes encourage careful reflection on verses and purports — slowing down study, clarifying key ideas, and revealing subtle
+          insights over time.
+        </p>
+
+        <p style={{ marginTop: 0, marginBottom: 0 }}>
+          Not a test or competition, but a support for steady engagement with the scriptures.{" "}
+          <span style={{ opacity: 0.9 }}>
+            New here? Read below about the intention and design of the quizzes.
+          </span>
+        </p>
+      </div>
 
       {/* Cards */}
 <div style={{ display: "grid", gap: 12 }}>

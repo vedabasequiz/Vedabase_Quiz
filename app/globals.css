@@ -6,6 +6,7 @@ html, body {
 
 a { color: inherit; }
 
+/* Layout helpers */
 .pageContainer {
   max-width: 900px;
   margin: 0 auto;
@@ -26,13 +27,14 @@ a { color: inherit; }
   line-height: 1.6;
 }
 
+/* Filter bar */
 .filterBar {
   display: flex;
   gap: 10px;
   margin-top: 24px;
   margin-bottom: 24px;
 
-  /* Mobile / wrap */
+  /* Mobile */
   flex-wrap: wrap;
   align-items: center;
 }
@@ -52,7 +54,7 @@ details {
 }
 
 details summary {
-  list-style: none; /* removes default triangle */
+  list-style: none;
   display: flex;
   align-items: center;
   gap: 8px;
@@ -82,6 +84,7 @@ details li {
   margin-bottom: 6px;
 }
 
+/* Generic footer tag (if used anywhere) */
 footer {
   margin-top: 48px;
   padding: 24px 16px;
@@ -130,11 +133,25 @@ footer {
   outline-offset: 2px;
 }
 
+/* Chapter grid (equal-height rows) */
+.chapterGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+
+  /* Key: uniform row height */
+  grid-auto-rows: 1fr;
+  align-items: stretch;
+}
+
 /* Make the whole card clickable via Link/a wrapper */
 .cardLink {
   text-decoration: none;
   color: inherit;
   display: block;
+
+  /* Key: wrapper fills grid cell */
+  height: 100%;
 }
 
 /* Prevent underlines inside cards */
@@ -142,18 +159,44 @@ footer {
   text-decoration: none;
 }
 
-/* Chapter/Canto cards */
+/* If you render a non-clickable wrapper, use this */
+.cardLinkDisabled {
+  pointer-events: none;
+}
+
+/* Card */
 .chapterCard {
+  height: 100%; /* fill the grid row */
   border: 1px solid #ddd;
   border-radius: 12px;
   padding: 14px;
+  background: #fff;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+
   transition: transform 0.08s ease, box-shadow 0.12s ease, border-color 0.12s ease;
 }
 
+/* Hover (only when wrapped in clickable link) */
 .cardLink .chapterCard:hover {
   transform: translateY(-2px);
   border-color: #bbb;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* Chapter title line: clamp to 2 lines for consistent height */
+.chapterTitle {
+  opacity: 0.75;
+  font-size: 14px;
+  line-height: 1.3;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 /* Disabled state for missing quizzes */
@@ -161,7 +204,6 @@ footer {
   opacity: 0.55;
   background: #fafafa;
   border-style: dashed;
-  pointer-events: none;
   cursor: not-allowed;
 }
 
@@ -179,39 +221,3 @@ footer {
 .chapterCardDisabled .comingSoonBadge {
   background: #f3f3f3;
 }
-
-/* Chapter grid */
-.chapterGrid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 12px;
-  align-items: stretch;
-}
-
-/* Equal-height chapter cards */
-.chapterCard {
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  padding: 14px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  height: 100%;
-  transition: transform 0.08s ease, box-shadow 0.12s ease, border-color 0.12s ease;
-}
-
-.cardLink .chapterCard:hover {
-  transform: translateY(-2px);
-  border-color: #bbb;
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
-}
-
-/* Disabled / coming-soon */
-.chapterCardDisabled {
-  opacity: 0.55;
-  background: #fafafa;
-  border-style: dashed;
-  pointer-events: none;
-}
-
-

@@ -5,12 +5,21 @@ import React, { useMemo, useState } from "react";
 function getGrade(score, total) {
   const pct = total > 0 ? score / total : 0;
 
-  // You can tweak these cutoffs anytime
-  if (pct === 1) return { label: "Perfect", emoji: "🌸", title: "Perfect score!", line: "Wonderful focus. Keep going steadily." };
-  if (pct >= 0.9) return { label: "Excellent", emoji: "✨", title: "Excellent!", line: "Strong understanding — subtle points are landing." };
-  if (pct >= 0.75) return { label: "Strong", emoji: "🙏", title: "Strong effort!", line: "You’re building real clarity. Review a few and continue." };
-  if (pct >= 0.6) return { label: "Good", emoji: "📖", title: "Good progress!", line: "Nice work. Revisit the verses linked below and try again." };
+  if (pct === 1)
+    return { label: "Perfect", emoji: "🌸", title: "Perfect score!", line: "Wonderful focus. Keep going steadily." };
+  if (pct >= 0.9)
+    return { label: "Excellent", emoji: "✨", title: "Excellent!", line: "Strong understanding — subtle points are landing." };
+  if (pct >= 0.75)
+    return { label: "Strong", emoji: "🙏", title: "Strong effort!", line: "You’re building real clarity. Review a few and continue." };
+  if (pct >= 0.6)
+    return { label: "Good", emoji: "📖", title: "Good progress!", line: "Nice work. Revisit the verses linked below and try again." };
   return { label: "Keep going", emoji: "🌿", title: "Keep going!", line: "This is how learning happens — one careful step at a time." };
+}
+
+function scrollToId(id) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 export default function QuizClient({ quiz }) {
@@ -39,6 +48,10 @@ export default function QuizClient({ quiz }) {
   const score = useMemo(() => results.reduce((acc, r) => acc + (r.isCorrect ? 1 : 0), 0), [results]);
 
   const grade = useMemo(() => getGrade(score, quiz.questions.length), [score, quiz.questions.length]);
+
+  const missed = useMemo(() => {
+    return results.map((r, idx) => ({ ...r, qIdx: idx })).filter((x) => !x.isCorrect);
+  }, [results]);
 
   function onSelect(qIdx, choiceIdx) {
     if (submitted) return;
@@ -70,8 +83,18 @@ export default function QuizClient({ quiz }) {
       <h1 style={{ fontSize: 28, marginBottom: 6 }}>{quiz.title}</h1>
 
       <div style={{ opacity: 0.8, marginBottom: 18, lineHeight: 1.4 }}>
-        {quiz.audience ? <>Audience: {quiz.audience}{" "} |{" "}</> : null}
-        {quiz.difficulty ? <>Difficulty: {quiz.difficulty}{" "} |{" "}</> : null}
+        {quiz.audience ? (
+          <>
+            Audience: {quiz.audience}{" "}
+            <span style={{ opacity: 0.6 }}>|</span>{" "}
+          </>
+        ) : null}
+        {quiz.difficulty ? (
+          <>
+            Difficulty: {quiz.difficulty}{" "}
+            <span style={{ opacity: 0.6 }}>|</span>{" "}
+          </>
+        ) : null}
         Questions: {quiz.questions.length}
         {quiz.publishedOn ? ` | Published: ${quiz.publishedOn}` : ""}
       </div>
@@ -94,15 +117,51 @@ export default function QuizClient({ quiz }) {
             Self-study mode: correct answers and explanations are shown below.
           </div>
 
+          {/* Review missed questions jump links */}
+          {missed.length > 0 ? (
+            <div style={{ marginTop: 14 }}>
+              <div style={{ fontWeight: 800, marginBottom: 8 }}>Review missed questions</div>
+
+              <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
+                {missed.map((m) => (
+                  <button
+                    key={m.qId}
+                    onClick={() => scrollToId(`q-${m.qIdx + 1}`)}
+                    style={{
+                      padding: "6px 10px",
+                      borderRadius: 999,
+                      border: "1px solid #ddd",
+                      background: "#fff",
+                      cursor: "pointer",
+                      fontWeight: 800,
+                      fontSize: 13,
+                    }}
+                    aria-label={`Jump to question ${m.qIdx + 1}`}
+                  >
+                    Q{m.qIdx + 1}
+                  </button>
+                ))}
+              </div>
+
+              <div style={{ marginTop: 8, opacity: 0.85, fontSize: 13 }}>
+                Tip: open the verse links on missed questions and re-read the translation/purport once.
+              </div>
+            </div>
+          ) : (
+            <div style={{ marginTop: 14, fontWeight: 800, opacity: 0.95 }}>
+              You got everything correct — wonderful! 🌸
+            </div>
+          )}
+
           <button
             onClick={onReset}
             style={{
-              marginTop: 12,
+              marginTop: 14,
               padding: "10px 14px",
-              borderRadius: 10,
+              borderRadius: 12,
               border: "1px solid #ccc",
               cursor: "pointer",
-              fontWeight: 700,
+              fontWeight: 800,
               background: "#fff",
             }}
           >
@@ -112,18 +171,23 @@ export default function QuizClient({ quiz }) {
       ) : (
         <div style={{ border: "1px solid #ddd", borderRadius: 12, padding: 16, marginBottom: 18 }}>
           <div style={{ fontSize: 16, fontWeight: 800 }}>Instructions</div>
-          <div style={{ marginTop: 8, opacity: 0.9 }}>Answer all questions, then click Submit to see your score and explanations.</div>
+          <div style={{ marginTop: 8, opacity: 0.9 }}>
+            Answer all questions, then click Submit to see your score and explanations.
+          </div>
         </div>
       )}
 
-      {/* IMPORTANT CHANGE:
-          Use a normal <div> list instead of <ol> to avoid double numbering.
-          We'll show our own "Question 1" label.
-      */}
+      {/* Using a normal <div> list (not <ol>) to avoid double numbering */}
       <div>
         {results.map((r, qIdx) => (
-          <div key={r.qId} style={{ marginBottom: 22 }}>
-            <div style={{ fontWeight: 800, marginBottom: 8, opacity: 0.8 }}>Question {qIdx + 1}</div>
+          <div
+            key={r.qId}
+            id={`q-${qIdx + 1}`}
+            style={{ marginBottom: 22, scrollMarginTop: 90 }}
+          >
+            <div style={{ fontWeight: 800, marginBottom: 8, opacity: 0.8 }}>
+              Question {qIdx + 1}
+            </div>
 
             <div style={{ fontWeight: 700, marginBottom: 10 }}>{r.prompt}</div>
 

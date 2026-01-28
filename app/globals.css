@@ -5,6 +5,7 @@ html, body {
   padding: 0;
   margin: 0;
   background: #fafafa; /* very light warm gray */
+  line-height: 1.6;
 }
 
 a { color: inherit; }

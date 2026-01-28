@@ -86,83 +86,37 @@ export default function HomePage() {
 </div>
 
        {/* Collapsible section */}
-      <details style={{ marginTop: 14, marginBottom: 18 }}>
-  <summary
-    style={{
-      cursor: "pointer",
-      fontWeight: 700,
-      fontSize: 16,
-    }}
-  >
-    About Vedabase Quiz
+      <details className="cardAccordion">
+  <summary className="cardAccordionSummary">
+    <div className="cardRow">
+      <div className="cardThumb cardThumbPlain" aria-hidden="true">
+        i
+      </div>
+
+      <div className="cardText">
+        <div className="cardTitle">About Vedabase Quiz</div>
+        <div className="cardSub">Intent, sources, and how quizzes are made</div>
+      </div>
+
+      <div className="cardChevron" aria-hidden="true">›</div>
+    </div>
   </summary>
 
-  <div style={{ paddingTop: 12, paddingLeft: 12, opacity: 0.92, lineHeight: 1.55 }}>
-    <p style={{ marginTop: 0 }}>
-      <strong>Vedabase Quiz</strong> is a sacred self-study project created to support deeper engagement with the{" "}
-      <em>Bhagavad Gita</em> and <em>Srimad Bhagavatam</em>.
-    </p>
-
-    <p>
-      The quizzes on this site are not tests, competitions, or assessments of knowledge. They are designed to help
-      readers slow down, reflect carefully on verses, and consider the intended meaning of the teachings as presented
-      in Srila Prabhupada’s translations and purports.
-    </p>
-
-    <h3 style={{ fontSize: 16, margin: "16px 0 8px" }}>Purpose of the quizzes</h3>
-    <p style={{ marginTop: 0 }}>
-      Reading sacred texts often happens quickly—especially for familiar chapters or well-known verses. Vedabase Quiz
-      exists to gently counter that tendency by encouraging attentive reading and thoughtful reflection.
-    </p>
-
-    <ul style={{ marginTop: 8 }}>
-      <li>
-        For readers newer to these scriptures, the questions help highlight essential ideas and provide structure
-        for careful study.
-      </li>
-      <li>
-        For experienced readers, the quizzes offer an opportunity to revisit familiar passages and notice
-        subtleties that are easy to overlook.
-      </li>
-    </ul>
-
-    <p style={{ marginTop: 10 }}>
-      The goal is not to memorize answers, but to deepen understanding over time.
-    </p>
-
-    <h3 style={{ fontSize: 16, margin: "16px 0 8px" }}>How the quizzes are designed</h3>
+  <div className="cardAccordionBody">
     <ul style={{ marginTop: 0 }}>
-      <li>All questions are based <strong>only</strong> on translations and purports from <strong>Vedabase.io</strong></li>
-      <li>Each question is verified against the exact verse and purport it references</li>
-      <li>Questions follow the natural flow of each chapter, from context to conclusion</li>
-      <li>Explanations and direct verse links are provided after submission</li>
+      <li>Based only on Vedabase.io (Srila Prabhupada translations and purports)</li>
+      <li>Each question is checked against the exact verse/purport</li>
+      <li>Focus on understanding (not memorization)</li>
+      <li>Questions follow the flow of the chapter</li>
+      <li>Instant explanations with direct verse links</li>
     </ul>
 
-    <h3 style={{ fontSize: 16, margin: "16px 0 8px" }}>A self-study space</h3>
-    <p style={{ marginTop: 0 }}>
-      Vedabase Quiz is meant for individual, self-paced study. There is no pass or fail—only an opportunity to
-      engage more thoughtfully with the texts.
-    </p>
-    <p>
-      Readers are encouraged to take their time, revisit verses, and use the quizzes as a companion to regular
-      reading rather than a replacement for it.
-    </p>
-
-    <h3 style={{ fontSize: 16, margin: "16px 0 8px" }}>Credits and acknowledgement</h3>
-    <p style={{ marginTop: 0 }}>
-      All scriptural content referenced on this site is sourced from <strong>Vedabase.io</strong>, which makes the
-      works of <strong>His Divine Grace A. C. Bhaktivedanta Swami Prabhupada</strong> freely available for study.
-    </p>
     <p style={{ marginBottom: 0 }}>
-      The original translations and purports are published by the{" "}
-      <strong>Bhaktivedanta Book Trust (BBT)</strong>.
-    </p>
-    <p style={{ marginTop: 8, fontSize: 14, opacity: 0.85 }}>
-      Vedabase Quiz is an independent, non-commercial project and is not affiliated with Vedabase.io or the
-      Bhaktivedanta Book Trust.
+      Not a test or competition - a support for steady engagement with the scriptures.
     </p>
   </div>
 </details>
+
 
     </main>
   );

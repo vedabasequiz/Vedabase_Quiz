@@ -2,24 +2,7 @@ import Link from "next/link";
 import { redirect } from "next/navigation";
 import { getSbAvailability, listSbCantos, listSbChaptersInCanto } from "../../../lib/quizLoader";
 
-// Vedabase Canto titles (ASCII-only)
-const SB_CANTO_TITLES = {
-  1: "Creation",
-  2: "The Cosmic Manifestation",
-  3: "The Status Quo",
-  4: "The Creation of the Fourth Order",
-  5: "The Creative Impetus",
-  6: "Prescribed Duties for Mankind",
-  7: "The Science of God",
-  8: "Withdrawal of the Cosmic Creations",
-  9: "Liberation",
-  10: "The Summum Bonum",
-  11: "General History",
-  12: "The Age of Deterioration",
-};
-
-// Small mapping (expand as you publish more)
-// ASCII-only spellings.
+// Expand as you publish (ASCII-only)
 const SB_CHAPTER_TITLES = {
   1: {
     1: "Questions by the Sages",
@@ -51,20 +34,22 @@ export function generateStaticParams() {
 function getAudienceFromSearchParams(searchParams) {
   const a = searchParams?.audience;
   const v = Array.isArray(a) ? a[0] : a;
-  return v === "kids" ? "kids" : "adult"; // default adult
+  if (v === "kids" || v === "teens" || v === "adult") return v;
+  return "adult";
 }
 
 export default function SbCantoPage({ params, searchParams }) {
-  // UX: make default explicit in URL
   if (!searchParams?.audience) {
     redirect(`/sb/${params.canto}/?audience=adult`);
   }
 
   const cantoNum = Number(params.canto);
   const audience = getAudienceFromSearchParams(searchParams);
+  const audienceLabel = audience.charAt(0).toUpperCase() + audience.slice(1);
+
   const availability = getSbAvailability();
 
-  // We still show a reasonable list even if many chapters aren't added yet
+  // Show a reasonable list even if many aren't added yet
   const existing = listSbChaptersInCanto(cantoNum);
   const maxChapter = existing.length > 0 ? Math.max(...existing) : 5;
   const chapters = Array.from({ length: Math.max(maxChapter, 5) }, (_, i) => i + 1);
@@ -75,76 +60,76 @@ export default function SbCantoPage({ params, searchParams }) {
     return meta ? `/quiz/${meta.slug}/` : null;
   }
 
-  function chapterTitleFor(canto, chapter) {
-    return SB_CHAPTER_TITLES[canto] && SB_CHAPTER_TITLES[canto][chapter] ? SB_CHAPTER_TITLES[canto][chapter] : "";
+  function titleFor(canto, chapter) {
+    return SB_CHAPTER_TITLES[canto]?.[chapter] || "";
   }
-
-  const cantoTitle = SB_CANTO_TITLES[cantoNum] || "";
 
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
-     <div style={{ marginBottom: 10, fontSize: 14, opacity: 0.75 }}>
-  <Link href="/">Home</Link> <span style={{ opacity: 0.6 }}>/</span>{" "}
-  <Link href={`/sb/?audience=${audience}`}>Srimad Bhagavatam</Link> <span style={{ opacity: 0.6 }}>/</span>{" "}
-  <span>Canto {cantoNum}</span>
-</div>
+      {/* Breadcrumb (consistent with BG) */}
+      <div style={{ fontSize: 14, opacity: 0.8, marginBottom: 10 }}>
+        <Link href="/">Home</Link>
+        <span style={{ opacity: 0.6 }}> / </span>
+        <Link href={`/sb/?audience=${audience}`}>Srimad Bhagavatam</Link>
+        <span style={{ opacity: 0.6 }}> / </span>
+        <span>Canto {cantoNum}</span>
+        <span style={{ opacity: 0.6 }}> / </span>
+        <span>{audienceLabel}</span>
+      </div>
 
-      <h1 style={{ fontSize: 28, marginBottom: 10 }}>
-        Srimad Bhagavatam - Canto {cantoNum}
-        {cantoTitle ? `: ${cantoTitle}` : ""}
-      </h1>
+      <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>Srimad Bhagavatam</h1>
+      <div style={{ opacity: 0.8, marginBottom: 8 }}>Canto {cantoNum}</div>
 
-      {/* Tabs: Adult / Kids only */}
-      <div className="filterBar" style={{ marginBottom: 18 }}>
+      {/* Tabs (match BG) */}
+      <div className="filterBar" style={{ marginTop: 10, marginBottom: 18 }}>
         <Link href={`/sb/${cantoNum}/?audience=adult`}>
           <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
+        </Link>
+        <Link href={`/sb/${cantoNum}/?audience=teens`}>
+          <button className={`filterBtn ${audience === "teens" ? "filterBtnActive" : ""}`}>Teens</button>
         </Link>
         <Link href={`/sb/${cantoNum}/?audience=kids`}>
           <button className={`filterBtn ${audience === "kids" ? "filterBtnActive" : ""}`}>Kids</button>
         </Link>
       </div>
 
-      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))", gap: 12 }}>
+      {/* Cards (same as BG) */}
+      <div className="chapterGrid">
         {chapters.map((ch) => {
-          const adultUrl = linkFor(ch, "adult");
-          const kidsUrl = linkFor(ch, "kids");
+          const selectedUrl = linkFor(ch, audience);
+          const isAvailable = !!selectedUrl;
+          const title = titleFor(cantoNum, ch);
 
-          const selectedUrl = audience === "kids" ? kidsUrl : adultUrl;
-          const label = audience === "kids" ? "Kids quiz" : "Adult quiz";
-          const comingSoon = audience === "kids" ? "Kids: coming soon" : "Adult: coming soon";
+          const cardInner = (
+            <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
+              <div>
+                <div style={{ fontWeight: 800, marginBottom: 8 }}>Chapter {ch}</div>
+                {title ? <div className="chapterTitle">{title}</div> : null}
+              </div>
 
-          const title = chapterTitleFor(cantoNum, ch);
-
-          return (
-            <div key={ch} style={{ border: "1px solid #ddd", borderRadius: 10, padding: 12 }}>
-              <div style={{ fontWeight: 800, marginBottom: 6 }}>Chapter {ch}</div>
-
-              {/* Chapter title (if available in mapping) */}
-              {title ? (
-                <div style={{ opacity: 0.75, fontSize: 14, lineHeight: 1.25, marginBottom: 10 }}>
-                  {title}
-                </div>
+              {!isAvailable ? (
+                <div className="comingSoonBadge">{audienceLabel}: coming soon</div>
               ) : (
-                <div style={{ marginBottom: 10 }} />
+                <div />
               )}
+            </div>
+          );
 
-              {/* Only show the selected audience */}
-              {selectedUrl ? (
-                <Link href={selectedUrl}>{label}</Link>
-              ) : (
-                <span className="comingSoonBadge">{comingSoon}</span>
-              )}
+          return isAvailable ? (
+            <Link key={ch} href={selectedUrl} className="cardLink">
+              {cardInner}
+            </Link>
+          ) : (
+            <div key={ch} className="cardLink cardLinkDisabled">
+              {cardInner}
             </div>
           );
         })}
       </div>
 
       <div style={{ marginTop: 18 }}>
-  <Link href={`/sb/?audience=${audience}`}>
-    Back to cantos
-  </Link>
-</div>
-
+        <Link href={`/sb/?audience=${audience}`}>Back to cantos</Link>
+      </div>
     </main>
   );
 }

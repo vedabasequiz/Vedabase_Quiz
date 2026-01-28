@@ -8,6 +8,16 @@ export default function QuizClient({ quiz }) {
   );
   const [submitted, setSubmitted] = useState(false);
 
+  function stripLeadingNumber(text) {
+    if (!text) return "";
+    return String(text).replace(/^\s*(Q\s*)?\d+\s*[\.\)\-:]\s*/i, "");
+  }
+
+  function titleCase(s) {
+    if (!s) return "";
+    return s.charAt(0).toUpperCase() + s.slice(1);
+  }
+
   const results = useMemo(() => {
     return quiz.questions.map((q, i) => {
       const selectedIndex = answers[i];
@@ -56,11 +66,13 @@ export default function QuizClient({ quiz }) {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
+  const audienceLabel = titleCase(quiz.audience || "adult");
+
   return (
-    <div style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+    <div>
       <h1 style={{ fontSize: 28, marginBottom: 6 }}>{quiz.title}</h1>
       <div style={{ opacity: 0.8, marginBottom: 18 }}>
-        Audience: {quiz.audience} | Difficulty: {quiz.difficulty} | Questions:{" "}
+        Audience: {audienceLabel} | Difficulty: {quiz.difficulty} | Questions:{" "}
         {quiz.questions.length}
         {quiz.publishedOn ? ` | Published: ${quiz.publishedOn}` : ""}
       </div>
@@ -89,7 +101,9 @@ export default function QuizClient({ quiz }) {
       <ol style={{ paddingLeft: 18 }}>
         {results.map((r, qIdx) => (
           <li key={r.qId} style={{ marginBottom: 22 }}>
-            <div style={{ fontWeight: 600, marginBottom: 10 }}>{r.prompt}</div>
+            <div style={{ fontWeight: 600, marginBottom: 10 }}>
+              {stripLeadingNumber(r.prompt)}
+            </div>
 
             <div style={{ display: "grid", gap: 8 }}>
               {r.choices.map((choice, cIdx) => {

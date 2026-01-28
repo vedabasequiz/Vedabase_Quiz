@@ -37,8 +37,11 @@ export default function SbIndex({ searchParams }) {
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
      <div style={{ marginBottom: 10, fontSize: 14, opacity: 0.75 }}>
-  <Link href="/">Home</Link> <span style={{ opacity: 0.6 }}>/</span> <span>Srimad Bhagavatam</span>
+  <Link href="/">Home</Link> <span style={{ opacity: 0.6 }}>/</span>{" "}
+  <span>Srimad Bhagavatam</span> <span style={{ opacity: 0.6 }}>/</span>{" "}
+  <span>{audience[0].toUpperCase() + audience.slice(1)}</span>
 </div>
+
 
       <h1 style={{ fontSize: 28, marginBottom: 6 }}>Srimad Bhagavatam</h1>
 

@@ -1,6 +1,21 @@
 import Link from "next/link";
 import { redirect } from "next/navigation";
-import { listSbCantos } from "../../lib/quizLoader";
+
+// Vedabase Canto titles (ASCII-only)
+const SB_CANTO_TITLES = {
+  1: "Creation",
+  2: "The Cosmic Manifestation",
+  3: "The Status Quo",
+  4: "The Creation of the Fourth Order",
+  5: "The Creative Impetus",
+  6: "Prescribed Duties for Mankind",
+  7: "The Science of God",
+  8: "Withdrawal of the Cosmic Creations",
+  9: "Liberation",
+  10: "The Summum Bonum",
+  11: "General History",
+  12: "The Age of Deterioration",
+};
 
 function getAudienceFromSearchParams(searchParams) {
   const a = searchParams?.audience;
@@ -14,8 +29,10 @@ export default function SbIndex({ searchParams }) {
     redirect("/sb/?audience=adult");
   }
 
-  const cantos = listSbCantos();
   const audience = getAudienceFromSearchParams(searchParams);
+
+  // Always show all 12 cantos
+  const cantos = Array.from({ length: 12 }, (_, i) => i + 1);
 
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
@@ -31,28 +48,28 @@ export default function SbIndex({ searchParams }) {
         </Link>
       </div>
 
-      {cantos.length === 0 ? (
-        <div style={{ opacity: 0.8 }}>No SB quizzes added yet.</div>
-      ) : (
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))", gap: 12 }}>
-          {cantos.map((c) => (
-            <a
-              key={c}
-              href={`/sb/${c}/?audience=${audience}`}
-              style={{
-                padding: 14,
-                border: "1px solid #ddd",
-                borderRadius: 10,
-                textDecoration: "none",
-                color: "inherit",
-              }}
-            >
-              <div style={{ fontWeight: 800 }}>Canto {c}</div>
-              <div style={{ opacity: 0.8 }}>Browse chapters</div>
-            </a>
-          ))}
-        </div>
-      )}
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))", gap: 12 }}>
+        {cantos.map((c) => (
+          <a
+            key={c}
+            href={`/sb/${c}/?audience=${audience}`}
+            style={{
+              padding: 14,
+              border: "1px solid #ddd",
+              borderRadius: 10,
+              textDecoration: "none",
+              color: "inherit",
+            }}
+          >
+            <div style={{ fontWeight: 800, marginBottom: 6 }}>Canto {c}</div>
+
+            {/* Tiny title line */}
+            <div style={{ opacity: 0.75, fontSize: 14, lineHeight: 1.25 }}>
+              {SB_CANTO_TITLES[c] || ""}
+            </div>
+          </a>
+        ))}
+      </div>
 
       <div style={{ marginTop: 18 }}>
         <Link href="/">Back to home</Link>

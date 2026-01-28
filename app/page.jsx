@@ -99,7 +99,7 @@ export default function HomePage() {
 
   <div style={{ paddingTop: 12, paddingLeft: 12, opacity: 0.92, lineHeight: 1.55 }}>
     <p style={{ marginTop: 0 }}>
-      <strong>Vedabase Quiz</strong> is a quiet self-study project created to support deeper engagement with the{" "}
+      <strong>Vedabase Quiz</strong> is a sacred self-study project created to support deeper engagement with the{" "}
       <em>Bhagavad Gita</em> and <em>Srimad Bhagavatam</em>.
     </p>
 

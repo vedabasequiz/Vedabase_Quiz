@@ -37,35 +37,68 @@ export default function HomePage() {
       </details>
 
       {/* Cards */}
-      <div style={{ display: "grid", gap: 12 }}>
-        <a
-          href="/bg/"
-          style={{
-            padding: 14,
-            border: "1px solid #ddd",
-            borderRadius: 10,
-            textDecoration: "none",
-            color: "inherit",
-          }}
-        >
-          <div style={{ fontWeight: 800 }}>Bhagavad Gita</div>
-          <div style={{ opacity: 0.8 }}>Chapters 1–18</div>
-        </a>
+<div style={{ display: "grid", gap: 12 }}>
+  <a
+    href="/bg/"
+    style={{
+      padding: 14,
+      border: "1px solid #ddd",
+      borderRadius: 10,
+      textDecoration: "none",
+      color: "inherit",
+      display: "grid",
+      gridTemplateColumns: "88px 1fr",
+      gap: 12,
+      alignItems: "center",
+    }}
+  >
+    <img
+      src="/images/bg-cover.jpg"
+      alt="Bhagavad Gita"
+      style={{
+        width: 88,
+        height: 88,
+        objectFit: "cover",
+        borderRadius: 10,
+        border: "1px solid #eee",
+      }}
+    />
+    <div>
+      <div style={{ fontWeight: 700 }}>Bhagavad Gita</div>
+    </div>
+  </a>
 
-        <a
-          href="/sb/"
-          style={{
-            padding: 14,
-            border: "1px solid #ddd",
-            borderRadius: 10,
-            textDecoration: "none",
-            color: "inherit",
-          }}
-        >
-          <div style={{ fontWeight: 800 }}>Srimad Bhagavatam</div>
-          <div style={{ opacity: 0.8 }}>Cantos 1–12</div>
-        </a>
-      </div>
+  <a
+    href="/sb/"
+    style={{
+      padding: 14,
+      border: "1px solid #ddd",
+      borderRadius: 10,
+      textDecoration: "none",
+      color: "inherit",
+      display: "grid",
+      gridTemplateColumns: "88px 1fr",
+      gap: 12,
+      alignItems: "center",
+    }}
+  >
+    <img
+      src="/images/sb-cover.jpg"
+      alt="Srimad Bhagavatam"
+      style={{
+        width: 88,
+        height: 88,
+        objectFit: "cover",
+        borderRadius: 10,
+        border: "1px solid #eee",
+      }}
+    />
+    <div>
+      <div style={{ fontWeight: 700 }}>Srimad Bhagavatam</div>
+    </div>
+  </a>
+</div>
+
     </main>
   );
 }

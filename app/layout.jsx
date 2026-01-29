@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
         {/* Minimal footer */}
         <footer
   style={{
-    marginTop: 32,
+    marginTop: 20,
     borderTop: "1px solid #eee",
   }}
 >

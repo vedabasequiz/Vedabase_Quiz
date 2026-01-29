@@ -63,7 +63,7 @@ export default function HomePage() {
       gridTemplateColumns: "88px 1fr",
       gap: 12,
       alignItems: "center",
-      minHeight: 116,
+      minHeight: 140,
       background: "#fff",
     }}
   >
@@ -96,7 +96,7 @@ export default function HomePage() {
       gridTemplateColumns: "88px 1fr",
       gap: 12,
       alignItems: "center",
-      minHeight: 116,
+      minHeight: 140,
       background: "#fff",
     }}
   >

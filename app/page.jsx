@@ -421,8 +421,6 @@ export default function HomePage() {
     </main>
   );
 }
- 
-        className="about-card"
         style={{ 
           marginTop: 14, 
           marginBottom: 18,

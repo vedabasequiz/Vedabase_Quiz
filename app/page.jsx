@@ -152,11 +152,6 @@ export default function HomePage() {
         }
       `}} />
       
-      <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
-      <p style={{ fontSize: 15, color: "#6c757d", marginBottom: 16, lineHeight: 1.5 }}>
-        A quiet self-study project to support deeper engagement with the Bhagavad Gita and Srimad Bhagavatam.
-      </p>
-
       {/* Streak Counter or Welcome Message */}
       {streak > 0 ? (
         <div style={{
@@ -192,6 +187,11 @@ export default function HomePage() {
           </div>
         </div>
       )}
+
+      <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
+      <p style={{ fontSize: 15, color: "#6c757d", marginBottom: 16, lineHeight: 1.5 }}>
+        A quiet self-study project to support deeper engagement with the Bhagavad Gita and Srimad Bhagavatam.
+      </p>
 
       {/* Cards with Progress */}
 <div style={{ display: "grid", gap: 12 }}>

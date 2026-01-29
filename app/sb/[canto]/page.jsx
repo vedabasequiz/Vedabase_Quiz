@@ -49,10 +49,24 @@ export default function SbCantoPage({ params, searchParams }) {
 
   const availability = getSbAvailability();
 
-  // Show a reasonable list even if many aren't added yet
-  const existing = listSbChaptersInCanto(cantoNum);
-  const maxChapter = existing.length > 0 ? Math.max(...existing) : 5;
-  const chapters = Array.from({ length: Math.max(maxChapter, 5) }, (_, i) => i + 1);
+  // Define chapter counts per canto
+  const CHAPTERS_PER_CANTO = {
+    1: 19,
+    2: 10,
+    3: 33,
+    4: 31,
+    5: 26,
+    6: 19,
+    7: 15,
+    8: 24,
+    9: 24,
+    10: 90,
+    11: 31,
+    12: 13,
+  };
+
+  const totalChapters = CHAPTERS_PER_CANTO[cantoNum] || 5;
+  const chapters = Array.from({ length: totalChapters }, (_, i) => i + 1);
 
   function linkFor(chapter, aud) {
     const key = `${cantoNum}/${chapter}-${aud}`;

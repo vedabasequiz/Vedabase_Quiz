@@ -180,7 +180,7 @@ details li {
   justify-content: space-between;
   gap: 10px;
 
-  min-height: 110px;
+  min-height: 116px;
 
   transition: transform 0.08s ease,
               box-shadow 0.12s ease,

@@ -190,7 +190,7 @@ export default function HomePage() {
 
       <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
       <p style={{ fontSize: 15, color: "#6c757d", marginBottom: 16, lineHeight: 1.5 }}>
-        A quiet self-study project to support deeper engagement with the Bhagavad Gita and Srimad Bhagavatam.
+        A sacred space for self-paced study of the Bhagavad Gita and Srimad Bhagavatam. Not a test or competition—just support for careful reflection and steady learning.
       </p>
 
       {/* Cards with Progress */}

@@ -130,11 +130,14 @@ export default function HomePage() {
         @media (max-width: 600px) {
           .progress-container {
             flex-direction: row !important;
-            align-items: flex-start !important;
-            gap: 12px !important;
+            align-items: center !important;
+            gap: 8px !important;
           }
           .progress-label {
-            display: none;
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            font-size: 9px;
+            letter-spacing: 1px;
           }
           .audience-selector {
             flex-direction: column;

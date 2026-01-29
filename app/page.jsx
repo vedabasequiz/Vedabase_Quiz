@@ -128,9 +128,15 @@ export default function HomePage() {
           border-color: #4caf50;
         }
         @media (max-width: 600px) {
+          .progress-container {
+            flex-direction: row !important;
+            align-items: flex-start !important;
+            gap: 12px !important;
+          }
           .audience-selector {
             flex-direction: column;
             gap: 4px;
+            margin-top: 0;
           }
           .audience-btn {
             padding: 4px 8px;
@@ -231,7 +237,7 @@ export default function HomePage() {
         {bgProgress.completed}/{bgProgress.total} chapters
       </div>
     </div>
-    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }}>
+    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }} className="progress-container">
       <CircularProgress percentage={bgProgress.percentage} />
       <div className="audience-selector" onClick={(e) => e.stopPropagation()} style={{ marginTop: 0 }}>
         <button
@@ -289,7 +295,7 @@ export default function HomePage() {
         {sbProgress.completed}/{sbProgress.total} chapters
       </div>
     </div>
-    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }}>
+    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }} className="progress-container">
       <CircularProgress percentage={sbProgress.percentage} />
       <div className="audience-selector" onClick={(e) => e.stopPropagation()} style={{ marginTop: 0 }}>
         <button

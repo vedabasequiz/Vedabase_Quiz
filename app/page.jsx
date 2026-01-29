@@ -131,8 +131,8 @@ export default function HomePage() {
       
       <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
 
-      {/* Streak Counter */}
-      {streak > 0 && (
+      {/* Streak Counter or Welcome Message */}
+      {streak > 0 ? (
         <div style={{
           display: "flex",
           alignItems: "center",
@@ -148,6 +148,22 @@ export default function HomePage() {
         }}>
           <span style={{ fontSize: 24 }}>🔥</span>
           <span>{streak}-week streak!</span>
+        </div>
+      ) : (
+        <div style={{
+          padding: "12px 16px",
+          background: "linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%)",
+          borderRadius: 10,
+          boxShadow: "0 2px 8px rgba(99, 102, 241, 0.25)",
+          color: "white",
+          marginBottom: 16,
+        }}>
+          <div style={{ fontWeight: 600, fontSize: 16, marginBottom: 4 }}>
+            ✨ Start Your Weekly Streak
+          </div>
+          <div style={{ fontSize: 13, opacity: 0.95, lineHeight: 1.4 }}>
+            Complete at least one quiz each week to build your study streak!
+          </div>
         </div>
       )}
 

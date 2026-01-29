@@ -18,7 +18,8 @@
       "correctIndex": 2,
       "feedback": "Dhritarastra's question reveals his anxiety and attachment. He asks what his sons and the sons of Pandu are doing after assembling for battle, indicating concern rather than neutrality.",
       "verseLabel": "BG 1.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/1/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q2",
@@ -32,7 +33,8 @@
       "correctIndex": 2,
       "feedback": "Srila Prabhupada explains that Dhritarastra's blindness is both physical and spiritual. His attachment to his sons prevents clear moral and spiritual vision.",
       "verseLabel": "BG 1.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/1/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q3",
@@ -46,7 +48,8 @@
       "correctIndex": 1,
       "feedback": "Sanjaya begins by describing Duryodhana approaching his teacher Drona, setting the stage for revealing Duryodhana's inner anxiety.",
       "verseLabel": "BG 1.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/2/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/2/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q4",
@@ -60,7 +63,8 @@
       "correctIndex": 2,
       "feedback": "The purport explains that Duryodhana's speech reveals fear. Though outwardly confident, he seeks reassurance from his teacher.",
       "verseLabel": "BG 1.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/2/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/2/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q5",
@@ -74,7 +78,8 @@
       "correctIndex": 2,
       "feedback": "Duryodhana lists prominent commanders to assert strength, yet his detailed comparison betrays insecurity rather than confidence.",
       "verseLabel": "BG 1.3-1.6",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/3/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/3/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q6",
@@ -88,7 +93,8 @@
       "correctIndex": 1,
       "feedback": "Bhisma's conchshell is blown specifically to cheer Duryodhana, whose confidence was shaken.",
       "verseLabel": "BG 1.12",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/12/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/12/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q7",
@@ -102,7 +108,8 @@
       "correctIndex": 2,
       "feedback": "The Pandavas respond with many conchshells, symbolizing confidence and unity under divine guidance.",
       "verseLabel": "BG 1.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/13/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/13/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q8",
@@ -116,7 +123,8 @@
       "correctIndex": 1,
       "feedback": "Arjuna wants to see who has assembled, revealing the personal relationships that soon overwhelm him.",
       "verseLabel": "BG 1.21-1.22",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/21/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/21/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q9",
@@ -130,7 +138,8 @@
       "correctIndex": 2,
       "feedback": "Arjuna's compassion becomes entangled with bodily attachment, leading to confusion rather than clarity.",
       "verseLabel": "BG 1.26",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/26/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/26/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q10",
@@ -142,9 +151,10 @@
         "It is influenced by fear alone"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains that Arjuna's pity arises from identifying the soul with the body, a foundational spiritual mistake.",
+      "feedback": "Srila Prabhupada explains that Arjuna's pity arises from identifying the soul with the body, a foundational spiritual mistake. This bodily attachment clouds wisdom and prevents him from acting in the soul's best interest.",
       "verseLabel": "BG 1.28",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/28/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/28/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q11",
@@ -156,9 +166,10 @@
         "His weapons slip from his hands"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna describes his body trembling, showing that his inner confusion has begun to overwhelm even his physical stability.",
+      "feedback": "Arjuna describes his body trembling, showing that his inner confusion has begun to overwhelm even his physical stability. This represents complete loss of control.",
       "verseLabel": "BG 1.29",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/29/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/29/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q12",
@@ -170,9 +181,10 @@
         "He becomes proud of his skill"
       ],
       "correctIndex": 0,
-      "feedback": "Arjuna reports clouded vision and inability to stand, indicating deep agitation rather than readiness for duty.",
+      "feedback": "Arjuna reports clouded vision and inability to stand, indicating deep agitation rather than readiness for duty. The physical paralysis mirrors spiritual blindness.",
       "verseLabel": "BG 1.30",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/30/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/30/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q13",
@@ -184,9 +196,10 @@
         "He says it will increase family prosperity"
       ],
       "correctIndex": 0,
-      "feedback": "Arjuna says he foresees no good in killing his own kinsmen, showing that emotion has begun to outweigh his sense of duty.",
+      "feedback": "Arjuna says he foresees no good in killing his own kinsmen, showing that emotion has begun to outweigh his sense of duty. Yet this reasoning is incomplete without understanding the eternal nature of the soul.",
       "verseLabel": "BG 1.31",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/31/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/31/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q14",
@@ -198,9 +211,10 @@
         "Only religious rituals"
       ],
       "correctIndex": 2,
-      "feedback": "Arjuna argues that kingdom, happiness, and even life itself are worthless if obtained by killing those for whom these things would have meaning.",
+      "feedback": "Arjuna argues that kingdom, happiness, and even life itself are worthless if obtained by killing those for whom these things would have meaning. This reflects his confusion about dharmic action.",
       "verseLabel": "BG 1.32-1.35",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/32-35/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/32-35/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q15",
@@ -212,9 +226,10 @@
         "Public criticism"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna says sin will overcome them if they slay such aggressors, and he questions how happiness could come from killing kinsmen.",
+      "feedback": "Arjuna says sin will overcome them if they slay such aggressors, and he questions how happiness could come from killing kinsmen. This is his material analysis, lacking transcendental knowledge.",
       "verseLabel": "BG 1.36",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/36/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/36/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q16",
@@ -226,9 +241,10 @@
         "Because he has no skill in battle"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna argues that even if others, overtaken by greed, see no fault, those who can see the crime in destroying a family should not participate in sin.",
+      "feedback": "Arjuna argues that even if others, overtaken by greed, see no fault, those who can see the crime in destroying a family should not participate in sin. This shows moral sensitivity but lacks understanding of transcendental duty.",
       "verseLabel": "BG 1.37-1.38",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/37-38/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/37-38/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q17",
@@ -240,9 +256,10 @@
         "Everyone automatically becomes renounced"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna warns that destruction of the dynasty destroys family tradition, and the rest of the family becomes involved in irreligion.",
+      "feedback": "Arjuna warns that destruction of the dynasty destroys family tradition, and the rest of the family becomes involved in irreligion. He understands social consequences but cannot see spiritual reality.",
       "verseLabel": "BG 1.39",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/39/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/39/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q18",
@@ -254,9 +271,10 @@
         "The elders become free from responsibility"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna links prominent irreligion to degradation in family life and to the rise of unwanted progeny (varna-sankara).",
+      "feedback": "Arjuna links prominent irreligion to degradation in family life and to the rise of unwanted progeny (varna-sankara). His analysis, though perceptive, is still bound by materialistic perspective.",
       "verseLabel": "BG 1.40",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/40/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/40/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q19",
@@ -268,9 +286,10 @@
         "Because they abandon their teachers"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna says the ancestors fall down when the family becomes corrupt, because the traditional offerings of food and water are no longer performed.",
+      "feedback": "Arjuna says the ancestors fall down when the family becomes corrupt, because the traditional offerings of food and water are no longer performed. This reveals Arjuna's concern for proper ritualistic and familial duties.",
       "verseLabel": "BG 1.41",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/41/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/41/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q20",
@@ -282,9 +301,10 @@
         "Trade and farming permanently stop"
       ],
       "correctIndex": 2,
-      "feedback": "Arjuna warns that the breakdown of tradition damages society broadly, ruining community projects and family welfare activities.",
+      "feedback": "Arjuna warns that the breakdown of tradition damages society broadly, ruining community projects and family welfare activities. His argument demonstrates understanding of social consequences across generations.",
       "verseLabel": "BG 1.42",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/42/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/42/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q21",
@@ -296,9 +316,10 @@
         "That teachers should never fight"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna appeals to what he has heard in disciplic succession: those who destroy family traditions dwell always in hell.",
+      "feedback": "Arjuna appeals to what he has heard in disciplic succession: those who destroy family traditions dwell always in hell. He attempts to establish his argument on scriptural authority, but lacks discriminative understanding.",
       "verseLabel": "BG 1.43",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/43/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/43/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q22",
@@ -310,9 +331,10 @@
         "That the Pandavas are outnumbered"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna is shocked that desire for royal happiness can push people into preparing greatly sinful acts like killing their own relatives.",
+      "feedback": "Arjuna is shocked that desire for royal happiness can push people into preparing greatly sinful acts like killing their own relatives. He fails to understand that Dharma transcends material considerations.",
       "verseLabel": "BG 1.44",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/44/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/44/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q23",
@@ -324,9 +346,10 @@
         "To fight only with Bhisma and Drona"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna says it would be better if the sons of Dhritarastra killed him while he is unarmed and not resisting, rather than he killing them.",
+      "feedback": "Arjuna says it would be better if the sons of Dhritarastra killed him while he is unarmed and not resisting, rather than he killing them. This extreme statement shows how deeply lamentation has gripped him.",
       "verseLabel": "BG 1.45",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/45/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/45/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q24",
@@ -338,9 +361,10 @@
         "He orders Krsna to drive back immediately"
       ],
       "correctIndex": 2,
-      "feedback": "Sanjaya states that Arjuna puts down his bow and arrows and sits on the chariot, overwhelmed with grief, showing collapse under illusion.",
+      "feedback": "Sanjaya states that Arjuna puts down his bow and arrows and sits on the chariot, overwhelmed with grief, showing collapse under illusion. This marks the culmination of material reasoning without spiritual knowledge.",
       "verseLabel": "BG 1.46",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/46/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/46/",
+      "verdict": "Correct"
     },
     {
       "id": "bg1-q25",
@@ -352,9 +376,10 @@
         "He prays silently to Krsna"
       ],
       "correctIndex": 2,
-      "feedback": "Arjuna's collapse symbolizes the failure of material compassion and moral reasoning when disconnected from spiritual knowledge. Without Krsna's instruction, even sincere arguments can end in paralysis.",
+      "feedback": "Arjuna's collapse symbolizes the failure of material compassion and moral reasoning when disconnected from spiritual knowledge. Without Krsna's instruction through transcendental wisdom, even sincere arguments can end in paralysis and despair.",
       "verseLabel": "BG 1.46",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/46/"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/46/",
+      "verdict": "Correct"
     }
   ]
 }

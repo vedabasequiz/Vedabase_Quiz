@@ -50,20 +50,26 @@ function CircularProgress({ percentage, size = 60, strokeWidth = 6 }) {
 }
 
 export default function HomePage() {
-  const [audience, setAudience] = useState("adult");
+  const [bgAudience, setBgAudience] = useState("adult");
+  const [sbAudience, setSbAudience] = useState("adult");
   const [streak, setStreak] = useState(0);
   const [bgProgress, setBgProgress] = useState({ completed: 0, total: 18, percentage: 0 });
   const [sbProgress, setSbProgress] = useState({ completed: 0, total: 0, percentage: 0 });
 
   useEffect(() => {
     const currentStreak = getWeeklyStreak();
-    const bg = getBgProgress(audience);
-    const sb = getSbProgress(audience);
-
     setStreak(currentStreak);
+  }, []);
+
+  useEffect(() => {
+    const bg = getBgProgress(bgAudience);
     setBgProgress(bg);
+  }, [bgAudience]);
+
+  useEffect(() => {
+    const sb = getSbProgress(sbAudience);
     setSbProgress(sb);
-  }, [audience]);
+  }, [sbAudience]);
 
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
@@ -93,21 +99,23 @@ export default function HomePage() {
         }
         .audience-selector {
           display: flex;
-          gap: 8px;
-          margin-bottom: 16px;
+          gap: 6px;
+          margin-top: 8px;
         }
         .audience-btn {
-          padding: 8px 16px;
-          border: 2px solid #dee2e6;
-          border-radius: 8px;
+          padding: 4px 10px;
+          border: 1px solid #dee2e6;
+          border-radius: 6px;
           background: white;
           cursor: pointer;
-          font-size: 14px;
+          font-size: 12px;
           font-weight: 500;
           transition: all 0.2s ease;
+          color: #6c757d;
         }
         .audience-btn:hover {
           border-color: #adb5bd;
+          background: #f8f9fa;
         }
         .audience-btn.active {
           background: #4caf50;
@@ -138,28 +146,6 @@ export default function HomePage() {
         </div>
       )}
 
-      {/* Audience Selector */}
-      <div className="audience-selector">
-        <button
-          className={`audience-btn ${audience === "adult" ? "active" : ""}`}
-          onClick={() => setAudience("adult")}
-        >
-          Adults
-        </button>
-        <button
-          className={`audience-btn ${audience === "teens" ? "active" : ""}`}
-          onClick={() => setAudience("teens")}
-        >
-          Teens
-        </button>
-        <button
-          className={`audience-btn ${audience === "kids" ? "active" : ""}`}
-          onClick={() => setAudience("kids")}
-        >
-          Kids
-        </button>
-      </div>
-
       {/* NEW intro text (mobile-tight) */}
       <div style={{ opacity: 0.9, marginTop: 0, lineHeight: 1.5 }}>
         <p style={{ marginTop: 0, marginBottom: 10 }}>
@@ -181,15 +167,12 @@ export default function HomePage() {
 
       {/* Cards with Progress */}
 <div style={{ display: "grid", gap: 12 }}>
-  <a
-    href={`/bg/?audience=${audience}`}
+  <div
     className="scripture-card"
     style={{
       padding: 14,
       border: "1px solid #ddd",
       borderRadius: 10,
-      textDecoration: "none",
-      color: "inherit",
       display: "grid",
       gridTemplateColumns: "88px 1fr auto",
       gap: 12,
@@ -210,23 +193,45 @@ export default function HomePage() {
       }}
     />
     <div>
-      <div style={{ fontWeight: 700, marginBottom: 4 }}>Bhagavad Gita</div>
-      <div style={{ fontSize: 14, color: "#6c757d" }}>
-        {bgProgress.completed}/{bgProgress.total} chapters
+      <a 
+        href={`/bg/?audience=${bgAudience}`}
+        style={{ textDecoration: "none", color: "inherit" }}
+      >
+        <div style={{ fontWeight: 700, marginBottom: 4 }}>Bhagavad Gita</div>
+        <div style={{ fontSize: 14, color: "#6c757d" }}>
+          {bgProgress.completed}/{bgProgress.total} chapters
+        </div>
+      </a>
+      <div className="audience-selector">
+        <button
+          className={`audience-btn ${bgAudience === "adult" ? "active" : ""}`}
+          onClick={() => setBgAudience("adult")}
+        >
+          Adults
+        </button>
+        <button
+          className={`audience-btn ${bgAudience === "teens" ? "active" : ""}`}
+          onClick={() => setBgAudience("teens")}
+        >
+          Teens
+        </button>
+        <button
+          className={`audience-btn ${bgAudience === "kids" ? "active" : ""}`}
+          onClick={() => setBgAudience("kids")}
+        >
+          Kids
+        </button>
       </div>
     </div>
     <CircularProgress percentage={bgProgress.percentage} />
-  </a>
+  </div>
 
-  <a
-    href={`/sb/?audience=${audience}`}
+  <div
     className="scripture-card"
     style={{
       padding: 14,
       border: "1px solid #ddd",
       borderRadius: 10,
-      textDecoration: "none",
-      color: "inherit",
       display: "grid",
       gridTemplateColumns: "88px 1fr auto",
       gap: 12,
@@ -247,13 +252,38 @@ export default function HomePage() {
       }}
     />
     <div>
-      <div style={{ fontWeight: 700, marginBottom: 4 }}>Srimad Bhagavatam</div>
-      <div style={{ fontSize: 14, color: "#6c757d" }}>
-        {sbProgress.completed}/{sbProgress.total} chapters
+      <a 
+        href={`/sb/?audience=${sbAudience}`}
+        style={{ textDecoration: "none", color: "inherit" }}
+      >
+        <div style={{ fontWeight: 700, marginBottom: 4 }}>Srimad Bhagavatam</div>
+        <div style={{ fontSize: 14, color: "#6c757d" }}>
+          {sbProgress.completed}/{sbProgress.total} chapters
+        </div>
+      </a>
+      <div className="audience-selector">
+        <button
+          className={`audience-btn ${sbAudience === "adult" ? "active" : ""}`}
+          onClick={() => setSbAudience("adult")}
+        >
+          Adults
+        </button>
+        <button
+          className={`audience-btn ${sbAudience === "teens" ? "active" : ""}`}
+          onClick={() => setSbAudience("teens")}
+        >
+          Teens
+        </button>
+        <button
+          className={`audience-btn ${sbAudience === "kids" ? "active" : ""}`}
+          onClick={() => setSbAudience("kids")}
+        >
+          Kids
+        </button>
       </div>
     </div>
     <CircularProgress percentage={sbProgress.percentage} />
-  </a>
+  </div>
 </div>
 
        {/* About section as card */}

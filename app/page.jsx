@@ -145,7 +145,9 @@ export default function HomePage() {
       readers slow down, reflect carefully on verses, and consider the intended meaning of the teachings as presented
       in Srila Prabhupada’s translations and purports.
     </p>
-
+    <p>
+      Each quiz is carefully tailored for three age groups — <strong>kids</strong>, <strong>teens</strong>, and <strong>adults</strong> — ensuring that questions, explanations, and vocabulary are appropriate for each audience. Whether you're introducing children to sacred texts or deepening your own understanding, the quizzes adapt to different learning stages.
+    </p>
     <h3 style={{ fontSize: 16, margin: "16px 0 8px" }}>Purpose of the quizzes</h3>
     <p style={{ marginTop: 0 }}>
       Reading sacred texts often happens quickly—especially for familiar chapters or well-known verses. Vedabase Quiz

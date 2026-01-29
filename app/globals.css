@@ -204,6 +204,9 @@ details li {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  
+  /* Fixed height = 2 lines at 14px * 1.3 line-height = ~36px */
+  height: 36px;
 }
 
 /* Disabled state */

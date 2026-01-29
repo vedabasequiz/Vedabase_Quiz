@@ -208,63 +208,73 @@ def main():
     chapters_with_t2_issues = 0
     chapters_with_t3_issues = 0
     
+    total_files = 0
+    total_pass_all = 0
+    total_pass_t1 = 0
+    total_t2_issues = 0
+    total_t3_issues = 0
+    
     print("=" * 80)
     print("COMPREHENSIVE VALIDATION: All Tiers (T1, T2, T3)")
     print("=" * 80)
     
+    # Check all audience types for chapters 1-18
+    audiences = ['adult', 'teens']
+    
     for chapter in range(1, 19):
-        filepath = data_dir / f'{chapter}-adult.json'
-        
-        if not filepath.exists():
-            print(f"BG {chapter:2d}: FILE NOT FOUND")
-            results[chapter] = 'NOT_FOUND'
-            continue
-        
-        status, issues, questions, obj = validator.validate_chapter(chapter, filepath)
-        results[chapter] = status
-        
-        # Summarize
-        t1_cnt = len(issues['tier1'])
-        t2_cnt = len(issues['tier2'])
-        t3_cnt = len(issues['tier3'])
-        
-        if status == 'JSON_ERROR':
-            print(f"BG {chapter:2d}: {status} - {issues}")
-        elif status == 'PASS_ALL':
-            chapters_pass_all += 1
-            print(f"BG {chapter:2d}: ✓ PASS (All Tiers)")
-        else:
-            print(f"BG {chapter:2d}: {status}")
-            if t1_cnt > 0:
-                chapters_pass_t1 += 1
-                print(f"           Tier 1 Issues ({t1_cnt}):")
-                for issue in issues['tier1'][:3]:
-                    print(f"             • {issue}")
-                if t1_cnt > 3:
-                    print(f"             ... and {t1_cnt - 3} more")
-            if t2_cnt > 0:
-                chapters_with_t2_issues += 1
-                print(f"           Tier 2 Issues ({t2_cnt}):")
-                for issue in issues['tier2'][:2]:
-                    print(f"             • {issue}")
-                if t2_cnt > 2:
-                    print(f"             ... and {t2_cnt - 2} more")
-            if t3_cnt > 0:
-                chapters_with_t3_issues += 1
-                print(f"           Tier 3 Notes ({t3_cnt}):")
-                for issue in issues['tier3'][:2]:
-                    print(f"             • {issue}")
+        for audience in audiences:
+            filepath = data_dir / f'{chapter}-{audience}.json'
+            
+            if not filepath.exists():
+                continue
+            
+            total_files += 1
+            status, issues, questions, obj = validator.validate_chapter(chapter, filepath)
+            results[(chapter, audience)] = status
+            
+            # Summarize
+            t1_cnt = len(issues['tier1'])
+            t2_cnt = len(issues['tier2'])
+            t3_cnt = len(issues['tier3'])
+            
+            if status == 'JSON_ERROR':
+                print(f"BG {chapter:2d} ({audience:5s}): {status}")
+            elif status == 'PASS_ALL':
+                total_pass_all += 1
+                print(f"BG {chapter:2d} ({audience:5s}): ✓ PASS (All Tiers)")
+            else:
+                print(f"BG {chapter:2d} ({audience:5s}): {status}")
+                if t1_cnt > 0:
+                    total_pass_t1 += 1
+                    print(f"             Tier 1 Issues ({t1_cnt}):")
+                    for issue in issues['tier1'][:3]:
+                        print(f"               • {issue}")
+                    if t1_cnt > 3:
+                        print(f"               ... and {t1_cnt - 3} more")
+                if t2_cnt > 0:
+                    total_t2_issues += 1
+                    print(f"             Tier 2 Issues ({t2_cnt}):")
+                    for issue in issues['tier2'][:2]:
+                        print(f"               • {issue}")
+                    if t2_cnt > 2:
+                        print(f"               ... and {t2_cnt - 2} more")
+                if t3_cnt > 0:
+                    total_t3_issues += 1
+                    print(f"             Tier 3 Notes ({t3_cnt}):")
+                    for issue in issues['tier3'][:2]:
+                        print(f"               • {issue}")
     
     print("\n" + "=" * 80)
     print("SUMMARY")
     print("=" * 80)
-    print(f"✓ Chapters PASS All Tiers:     {chapters_pass_all}/18")
-    print(f"✓ Chapters PASS Tier 1 only:   {chapters_pass_t1}/18")
-    print(f"⚠ Chapters with Tier 2 issues: {chapters_with_t2_issues}/18")
-    print(f"💡 Chapters with Tier 3 notes: {chapters_with_t3_issues}/18")
+    print(f"Total files scanned:              {total_files}")
+    print(f"✓ Files PASS All Tiers:           {total_pass_all}/{total_files}")
+    print(f"✓ Files PASS Tier 1 only:         {total_pass_t1}/{total_files}")
+    print(f"⚠ Files with Tier 2 issues:      {total_t2_issues}/{total_files}")
+    print(f"💡 Files with Tier 3 notes:      {total_t3_issues}/{total_files}")
     print("=" * 80)
     
-    return 0 if chapters_pass_all == 18 else 1
+    return 0 if total_pass_all == total_files else 1
 
 if __name__ == '__main__':
     import sys

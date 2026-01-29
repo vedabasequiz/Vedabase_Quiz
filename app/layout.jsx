@@ -43,7 +43,7 @@ export default function RootLayout({ children }) {
     style={{
       maxWidth: 900,
       margin: "0 auto",
-      padding: "12px 16px 20px",
+      padding: "8px 16px 20px",
       fontSize: 13,
       color: "#666",
       lineHeight: 1.6,

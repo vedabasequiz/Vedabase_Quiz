@@ -323,3 +323,56 @@ details li {
   .feedbackBox { padding: 11px 11px; }
   .feedbackMeta { display: none; }
 }
+
+/* Buttons used in QuizClient */
+.btnPrimary {
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid #111;
+  cursor: pointer;
+  font-weight: 800;
+  background: #111;
+  color: #fff;
+}
+
+.btnSecondary {
+  padding: 10px 14px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  font-weight: 700;
+  background: #fff;
+}
+
+/* Missed question chips in score box */
+.missedWrap {
+  margin-top: 12px;
+}
+
+.missedLabel {
+  font-weight: 800;
+  margin-bottom: 8px;
+  opacity: 0.9;
+}
+
+.missedChips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.missedChip {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 999px;
+  border: 1px solid #ddd;
+  background: #fff;
+  text-decoration: none;
+  font-weight: 800;
+  font-size: 13px;
+}
+
+.missedChip:hover {
+  border-color: #999;
+}
+

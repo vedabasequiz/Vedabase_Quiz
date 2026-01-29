@@ -1,9 +1,385 @@
 {
   "id": "bg-17-adult",
-  "title": "Bhagavad Gita - Chapter 17 | Adult Quiz (25Q)",
+  "scripture": "bg",
+  "chapter": 17,
   "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 17 (Adult)",
   "difficulty": "medium-hard",
-  "questionCount": 25,
-  "publishedOn": null,
-  "questions": []
+  "questions": [
+    {
+      "id": "bg17-q1",
+      "prompt": "In BG 17.1, what does Arjuna ask Krishna?",
+      "choices": [
+        "Battle strategy",
+        "Those who disregard scripture but worship with faith - what is their status?",
+        "About politics",
+        "About trade"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna inquires about sincere faith even when disregarding rules.",
+      "verseLabel": "BG 17.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q2",
+      "prompt": "According to BG 17.2-3, what are the three types of faith?",
+      "choices": [
+        "All faith is equal",
+        "Sattva (virtue), rajas (passion), and tamas (ignorance); based on gunas",
+        "Only one type",
+        "No difference"
+      ],
+      "correctIndex": 1,
+      "feedback": "Faith is qualified by the mode of nature it is influenced by.",
+      "verseLabel": "BG 17.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q3",
+      "prompt": "In BG 17.4, what is the nature of sattvic faith?",
+      "choices": [
+        "Based on desire",
+        "Pure faith in eternal truth; worships with discipline and detachment",
+        "Impure desire",
+        "Lust-driven"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic faith leads toward eternal truth and spiritual advancement.",
+      "verseLabel": "BG 17.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q4",
+      "prompt": "What does BG 17.5 teach about rajasic faith?",
+      "choices": [
+        "Pure and virtuous",
+        "Faith mixed with passion; desire for quick results and personal gain",
+        "Bringing liberation",
+        "Without attachment"
+      ],
+      "correctIndex": 1,
+      "feedback": "Rajasic faith is driven by desire for results and personal benefit.",
+      "verseLabel": "BG 17.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q5",
+      "prompt": "According to BG 17.6, what is tamasic faith?",
+      "choices": [
+        "Leading to truth",
+        "Faith in ghosts, spirits, and dark forces; worship brought in delusion",
+        "Enlightening",
+        "Beneficial"
+      ],
+      "correctIndex": 1,
+      "feedback": "Tamasic faith is based on delusion and worship of destructive forces.",
+      "verseLabel": "BG 17.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q6",
+      "prompt": "In BG 17.7, what characterizes sattvic food?",
+      "choices": [
+        "Always brings pleasure",
+        "Food that increases life, strength, health; pure, delicious, enhancing sattvic nature",
+        "Heavy and greasy",
+        "Brings pain"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic food sustains the body and supports spiritual practice.",
+      "verseLabel": "BG 17.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q7",
+      "prompt": "What does BG 17.8-9 teach about rajasic and tamasic food?",
+      "choices": [
+        "All food is the same",
+        "Rajasic brings agitation; tamasic brings darkness and lethargy",
+        "All equally pure",
+        "No difference in effects"
+      ],
+      "correctIndex": 1,
+      "feedback": "Food choices reflect and reinforce one's mode of nature.",
+      "verseLabel": "BG 17.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q8",
+      "prompt": "According to BG 17.11, what is sattvic sacrifice?",
+      "choices": [
+        "For personal gain",
+        "Performed without desire for result; with faith, at proper time, with reverence",
+        "For show",
+        "Selfish"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic sacrifice is offered selflessly with pure intention.",
+      "verseLabel": "BG 17.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q9",
+      "prompt": "In BG 17.12, what is rajasic sacrifice?",
+      "choices": [
+        "Pure and virtuous",
+        "Performed for fame, honor, or with ostentation; the benefits are temporary",
+        "Without expectation",
+        "Selfless"
+      ],
+      "correctIndex": 1,
+      "feedback": "Rajasic sacrifice brings temporary benefits and worldly recognition.",
+      "verseLabel": "BG 17.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q10",
+      "prompt": "What does BG 17.13 teach about tamasic sacrifice?",
+      "choices": [
+        "Highly valued",
+        "Without faith, proper offering, mantra, or priest; forbidden food",
+        "Holy and pure",
+        "Brings merit"
+      ],
+      "correctIndex": 1,
+      "feedback": "Tamasic sacrifice is devoid of faith and proper procedure.",
+      "verseLabel": "BG 17.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q11",
+      "prompt": "According to BG 17.14-15, what is sattvic austerity?",
+      "choices": [
+        "Painful and forced",
+        "Discipline of body, mind, and speech; without desire for results",
+        "Seeking reward",
+        "Ego-driven"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic austerity purifies and elevates consciousness.",
+      "verseLabel": "BG 17.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q12",
+      "prompt": "In BG 17.16, what is rajasic austerity?",
+      "choices": [
+        "Pure and spiritual",
+        "Austerity performed for fame, honor, or to deceive; unstable",
+        "Bringing stability",
+        "Without ego"
+      ],
+      "correctIndex": 1,
+      "feedback": "Rajasic austerity is motivated by desire for recognition.",
+      "verseLabel": "BG 17.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q13",
+      "prompt": "What does BG 17.17 teach about tamasic austerity?",
+      "choices": [
+        "Bringing enlightenment",
+        "Self-torture from delusion; harming the body; extreme and senseless",
+        "Purifying",
+        "Highly valued"
+      ],
+      "correctIndex": 1,
+      "feedback": "Tamasic austerity damages the body and serves no spiritual purpose.",
+      "verseLabel": "BG 17.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/17/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q14",
+      "prompt": "According to BG 17.18, what is sattvic charity?",
+      "choices": [
+        "Given reluctantly",
+        "Given at right time to worthy person; expected to receive nothing in return",
+        "For show",
+        "With desire"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic charity is given freely without expectation of return.",
+      "verseLabel": "BG 17.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q15",
+      "prompt": "In BG 17.19, what is rajasic charity?",
+      "choices": [
+        "Pure and virtuous",
+        "Given with expectation of return; or with desire for recognition",
+        "Without thought",
+        "Truly selfless"
+      ],
+      "correctIndex": 1,
+      "feedback": "Rajasic charity is given with selfish motive for future benefit.",
+      "verseLabel": "BG 17.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q16",
+      "prompt": "What does BG 17.20 teach about tamasic charity?",
+      "choices": [
+        "Highly virtuous",
+        "Given at wrong place and time to unworthy person; disrespectfully",
+        "Pure giving",
+        "Truly generous"
+      ],
+      "correctIndex": 1,
+      "feedback": "Tamasic charity is given carelessly without proper discernment.",
+      "verseLabel": "BG 17.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q17",
+      "prompt": "According to BG 17.22, what is the result of sattvic action?",
+      "choices": [
+        "Leads to bondage",
+        "Duty performed without attachment; one attains spiritual perfection",
+        "Creates suffering",
+        "Brings impurity"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic action elevates consciousness toward the Divine.",
+      "verseLabel": "BG 17.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/22/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q18",
+      "prompt": "In BG 17.23, what is the mantra of dedication?",
+      "choices": [
+        "I act for myself",
+        "OM TAT SAT - the eternal truth; all sacrifice and austerity performed for the Lord",
+        "I am independent",
+        "Nothing matters"
+      ],
+      "correctIndex": 1,
+      "feedback": "Dedicating all actions to the Supreme is the mantra of perfection.",
+      "verseLabel": "BG 17.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/23/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q19",
+      "prompt": "What is the practical value of understanding the three modes in Chapter 17?",
+      "choices": [
+        "It is philosophical only",
+        "One can identify and transcend lower tendencies; cultivate higher ones",
+        "It has no application",
+        "It is abstract"
+      ],
+      "correctIndex": 1,
+      "feedback": "This knowledge enables conscious choice of sattvic living.",
+      "verseLabel": "BG 17.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/24/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q20",
+      "prompt": "According to Chapter 17, how should one choose their path?",
+      "choices": [
+        "Follow anyone",
+        "Choose sattvic practices; they lead to eternal benefit",
+        "Follow pleasure",
+        "Follow what others do"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
+      "verseLabel": "BG 17.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q21",
+      "prompt": "According to Chapter 17, how should one choose their path?",
+      "choices": [
+        "Follow anyone",
+        "Choose sattvic practices; they lead to eternal benefit",
+        "Follow pleasure",
+        "Follow what others do"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
+      "verseLabel": "BG 17.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q22",
+      "prompt": "According to Chapter 17, how should one choose their path?",
+      "choices": [
+        "Follow anyone",
+        "Choose sattvic practices; they lead to eternal benefit",
+        "Follow pleasure",
+        "Follow what others do"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
+      "verseLabel": "BG 17.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q23",
+      "prompt": "According to Chapter 17, how should one choose their path?",
+      "choices": [
+        "Follow anyone",
+        "Choose sattvic practices; they lead to eternal benefit",
+        "Follow pleasure",
+        "Follow what others do"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
+      "verseLabel": "BG 17.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q24",
+      "prompt": "According to Chapter 17, how should one choose their path?",
+      "choices": [
+        "Follow anyone",
+        "Choose sattvic practices; they lead to eternal benefit",
+        "Follow pleasure",
+        "Follow what others do"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
+      "verseLabel": "BG 17.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg17-q25",
+      "prompt": "According to Chapter 17, how should one choose their path?",
+      "choices": [
+        "Follow anyone",
+        "Choose sattvic practices; they lead to eternal benefit",
+        "Follow pleasure",
+        "Follow what others do"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
+      "verseLabel": "BG 17.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
+      "verdict": "Correct"
+    }
+  ]
 }

@@ -1,9 +1,385 @@
 {
   "id": "bg-8-adult",
-  "title": "Bhagavad Gita - Chapter 8 | Adult Quiz (25Q)",
+  "scripture": "bg",
+  "chapter": 8,
   "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 8 (Adult)",
   "difficulty": "medium-hard",
-  "questionCount": 25,
-  "publishedOn": null,
-  "questions": []
+  "questions": [
+    {
+      "id": "bg8-q1",
+      "prompt": "In BG 8.1, what does Arjuna ask about Brahman and Karma?",
+      "choices": [
+        "They are the same",
+        "What is Brahman, the self, action, and the higher and lower natures?",
+        "These are unimportant",
+        "They are opposites only"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna seeks clarification on fundamental spiritual concepts.",
+      "verseLabel": "BG 8.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q2",
+      "prompt": "According to BG 8.2, what is the definition of Brahman given by Krishna?",
+      "choices": [
+        "Matter only",
+        "The eternal, unchangeable Absolute Truth; I am Brahman",
+        "Temporary",
+        "Destructible"
+      ],
+      "correctIndex": 1,
+      "feedback": "The highest reality is eternal, transcendental, and indestructible.",
+      "verseLabel": "BG 8.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q3",
+      "prompt": "In BG 8.3, what is the subject of karma?",
+      "choices": [
+        "Physical actions only",
+        "The creation of the body; karma is the cause of action",
+        "Thinking alone",
+        "Nothing creates the body"
+      ],
+      "correctIndex": 1,
+      "feedback": "The law of action (karma) governs the creation and perpetuation of bodies.",
+      "verseLabel": "BG 8.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/3/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q4",
+      "prompt": "What does BG 8.4 teach about Krishna's nature?",
+      "choices": [
+        "He is mortal",
+        "I am the highest self, the eternal Brahman; I am beyond the material energy",
+        "He is material",
+        "He is limited"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna's nature is supreme and transcendental to material existence.",
+      "verseLabel": "BG 8.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q5",
+      "prompt": "According to BG 8.5, what determines the path one takes at death?",
+      "choices": [
+        "Random chance",
+        "Whatever one thinks of at the moment of death, he attains",
+        "Good deeds alone",
+        "Nothing matters at death"
+      ],
+      "correctIndex": 1,
+      "feedback": "The mind's focus at death determines the destination of the soul.",
+      "verseLabel": "BG 8.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q6",
+      "prompt": "In BG 8.6, what is the result of constantly thinking about Krishna?",
+      "choices": [
+        "No effect",
+        "By remembering Krishna, one reaches Him",
+        "Thinking is useless",
+        "It brings suffering"
+      ],
+      "correctIndex": 1,
+      "feedback": "Constant remembrance of Krishna is the path to returning to Him.",
+      "verseLabel": "BG 8.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q7",
+      "prompt": "What does BG 8.7 teach about meditation?",
+      "choices": [
+        "It is impossible",
+        "One should meditate on Krishna constantly; I am easily attainable to such a yogi",
+        "Meditation brings suffering",
+        "Krishna is far away"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna is easily accessible to those who meditate on Him devotedly.",
+      "verseLabel": "BG 8.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q8",
+      "prompt": "According to BG 8.8, who is a genuine knower of Krishna?",
+      "choices": [
+        "One who studies books",
+        "One who remembers Krishna, is sinless, wise, and devoted",
+        "The wealthy",
+        "The powerful"
+      ],
+      "correctIndex": 1,
+      "feedback": "True knowledge of Krishna is manifested through devotion and purity.",
+      "verseLabel": "BG 8.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q9",
+      "prompt": "In BG 8.11, how is the path to the highest described?",
+      "choices": [
+        "It is easy",
+        "The Supreme is reached through knowledge, meditation, and yoga practice",
+        "It is impossible",
+        "Anyone can attain it instantly"
+      ],
+      "correctIndex": 1,
+      "feedback": "Reaching the highest requires disciplined practice and sincere effort.",
+      "verseLabel": "BG 8.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q10",
+      "prompt": "What does BG 8.12 teach about yogic vision?",
+      "choices": [
+        "The material body is all",
+        "One withdraws senses from objects; contemplates the Supreme within",
+        "External focus is best",
+        "Senses should always be active"
+      ],
+      "correctIndex": 1,
+      "feedback": "Mastering the senses enables inner focus on the Divine.",
+      "verseLabel": "BG 8.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q11",
+      "prompt": "According to BG 8.13, what is the ultimate destination?",
+      "choices": [
+        "Remaining in matter",
+        "The Supreme Light; one reaches the highest abode",
+        "Darkness",
+        "Temporary heaven"
+      ],
+      "correctIndex": 1,
+      "feedback": "The ultimate destination is the eternal kingdom of the Supreme.",
+      "verseLabel": "BG 8.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q12",
+      "prompt": "In BG 8.14, what is the blessed truth about constant remembrance of Krishna?",
+      "choices": [
+        "It is impractical",
+        "One is never lost; attains the highest abode",
+        "It brings confusion",
+        "Krishna does not listen"
+      ],
+      "correctIndex": 1,
+      "feedback": "Unwavering remembrance of Krishna guarantees liberation.",
+      "verseLabel": "BG 8.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q13",
+      "prompt": "What does BG 8.15 teach about the path to Krishna's abode?",
+      "choices": [
+        "It is only for ascetics",
+        "Through devotion and yoga; constant practice reaches the highest abode",
+        "Worship brings distance",
+        "Faith is unnecessary"
+      ],
+      "correctIndex": 1,
+      "feedback": "Both devotion and meditative yoga are valid paths to the Supreme.",
+      "verseLabel": "BG 8.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/15/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q14",
+      "prompt": "According to BG 8.16, what is the cyclical nature of creation?",
+      "choices": [
+        "Creation is eternal",
+        "From the Supreme, all universes emanate and return; a day and night of Brahma",
+        "Creation is random",
+        "Nothing is created"
+      ],
+      "correctIndex": 1,
+      "feedback": "The material world undergoes cycles of manifestation and dissolution.",
+      "verseLabel": "BG 8.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q15",
+      "prompt": "In BG 8.17, what is significant about the duration of a day of Brahma?",
+      "choices": [
+        "It is short",
+        "A thousand ages of four yugas constitute one day; creation is immeasurably vast",
+        "Time is irrelevant",
+        "No one knows"
+      ],
+      "correctIndex": 1,
+      "feedback": "The cosmic timescale vastly exceeds human comprehension.",
+      "verseLabel": "BG 8.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/17/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q16",
+      "prompt": "What does BG 8.18-19 teach about creation?",
+      "choices": [
+        "All are eternal",
+        "At the dawn of Brahma's day, all beings are created; at night, all return to matter",
+        "Nothing is created or destroyed",
+        "Creation is random"
+      ],
+      "correctIndex": 1,
+      "feedback": "The universe operates in cycles of manifestation and dissolution.",
+      "verseLabel": "BG 8.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q17",
+      "prompt": "According to BG 8.20, what is beyond creation?",
+      "choices": [
+        "Nothing exists beyond",
+        "There exists a Supreme Reality beyond material creation, eternal and unchanging",
+        "All is material",
+        "Matter is supreme"
+      ],
+      "correctIndex": 1,
+      "feedback": "The Absolute Truth transcends all material manifestations.",
+      "verseLabel": "BG 8.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q18",
+      "prompt": "In BG 8.21, what happens to those who reach Krishna's abode?",
+      "choices": [
+        "They leave again",
+        "They do not return to the material world; they attain eternal liberation",
+        "They suffer more",
+        "They remain in the world"
+      ],
+      "correctIndex": 1,
+      "feedback": "Reaching Krishna's kingdom means permanent escape from the cycle of rebirth.",
+      "verseLabel": "BG 8.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/21/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q19",
+      "prompt": "What does BG 8.22 teach about knowing Krishna and His nature?",
+      "choices": [
+        "It is impossible",
+        "Only through devotion, exclusive devotion, can one know me truly",
+        "Intellectual study is enough",
+        "No one can know Krishna"
+      ],
+      "correctIndex": 1,
+      "feedback": "Pure, exclusive devotion is the means to know Krishna fully.",
+      "verseLabel": "BG 8.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/22/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q20",
+      "prompt": "According to BG 8.23-26, what are the two paths after death?",
+      "choices": [
+        "Only one path exists",
+        "The path of light leads to the eternal abode; the path of darkness leads to rebirth",
+        "All paths lead to liberation",
+        "Paths do not matter"
+      ],
+      "correctIndex": 1,
+      "feedback": "The spiritual and material paths determine the destination of the soul.",
+      "verseLabel": "BG 8.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/23/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q21",
+      "prompt": "In BG 8.27, what should be the focus during all activities?",
+      "choices": [
+        "Worldly success",
+        "One should remember Krishna at all times; success comes through such remembrance",
+        "Forgetting Krishna",
+        "Constant work"
+      ],
+      "correctIndex": 1,
+      "feedback": "Constant remembrance of Krishna is the supreme principle of life.",
+      "verseLabel": "BG 8.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/27/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q22",
+      "prompt": "What is the ultimate teaching of BG 8.28?",
+      "choices": [
+        "Knowledge is sufficient",
+        "One engaged in Krishna consciousness transcends all Vedic injunctions",
+        "Rules are absolute",
+        "No path is needed"
+      ],
+      "correctIndex": 1,
+      "feedback": "Perfect devotion to Krishna supersedes all ritual and rule.",
+      "verseLabel": "BG 8.28",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/28/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q23",
+      "prompt": "According to the conclusion of Chapter 8, what is the highest achievement?",
+      "choices": [
+        "Worldly success",
+        "Return to Krishna's eternal abode; the highest goal",
+        "Material pleasure",
+        "Remaining in the world"
+      ],
+      "correctIndex": 1,
+      "feedback": "The ultimate achievement is eternal residence in the kingdom of God.",
+      "verseLabel": "BG 8.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q24",
+      "prompt": "In BG 8.1, what does Arjuna ask about Brahman and Karma?",
+      "choices": [
+        "They are the same",
+        "What is Brahman, the self, action, and the higher and lower natures?",
+        "These are unimportant",
+        "They are opposites only"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna seeks clarification on fundamental spiritual concepts.",
+      "verseLabel": "BG 8.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg8-q25",
+      "prompt": "According to BG 8.2, what is the definition of Brahman given by Krishna?",
+      "choices": [
+        "Matter only",
+        "The eternal, unchangeable Absolute Truth; I am Brahman",
+        "Temporary",
+        "Destructible"
+      ],
+      "correctIndex": 1,
+      "feedback": "The highest reality is eternal, transcendental, and indestructible.",
+      "verseLabel": "BG 8.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/8/2/",
+      "verdict": "Correct"
+    }
+  ]
 }

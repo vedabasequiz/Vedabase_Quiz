@@ -1,9 +1,385 @@
 {
   "id": "bg-4-adult",
-  "title": "Bhagavad Gita - Chapter 4 | Adult Quiz (25Q)",
+  "scripture": "bg",
+  "chapter": 4,
   "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 4 (Adult)",
   "difficulty": "medium-hard",
-  "questionCount": 25,
-  "publishedOn": null,
-  "questions": []
+  "questions": [
+    {
+      "id": "bg4-q1",
+      "prompt": "In BG 4.1, what does Krishna reveal about the origin of yoga?",
+      "choices": [
+        "It was invented by sages",
+        "It was taught by Him in the beginning to the sun god",
+        "It is found only in books",
+        "It was developed gradually over time"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna taught this yoga to Vivasvan (sun god) at the creation of the universe.",
+      "verseLabel": "BG 4.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q2",
+      "prompt": "What warning does BG 4.2 give about the transmission of knowledge?",
+      "choices": [
+        "It should be kept secret",
+        "It becomes lost over time",
+        "It should only be written",
+        "It is permanent and unchanging"
+      ],
+      "correctIndex": 1,
+      "feedback": "Over time, this succession of knowledge is lost; Krishna revives it.",
+      "verseLabel": "BG 4.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q3",
+      "prompt": "In BG 4.3, who recognizes Krishna's true nature and identity?",
+      "choices": [
+        "All human beings",
+        "Those with demoniac tendencies",
+        "One with transcendental knowledge",
+        "Atheistic philosophers"
+      ],
+      "correctIndex": 2,
+      "feedback": "Only the realized soul knows Krishna's transcendental nature.",
+      "verseLabel": "BG 4.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/3/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q4",
+      "prompt": "According to BG 4.4, how many types of births does Krishna describe?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Many"
+      ],
+      "correctIndex": 2,
+      "feedback": "Divine birth, demonic birth, animal birth, and plant birth.",
+      "verseLabel": "BG 4.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q5",
+      "prompt": "What is the significance of BG 4.5?",
+      "choices": [
+        "Krishna appears rarely",
+        "Many take birth but few know Krishna's true nature",
+        "All births are the same",
+        "Birth determines everything"
+      ],
+      "correctIndex": 1,
+      "feedback": "Though Krishna appears in every millennium, few recognize His divinity.",
+      "verseLabel": "BG 4.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q6",
+      "prompt": "In BG 4.6, what does Krishna teach about His incarnations?",
+      "choices": [
+        "He does not take birth",
+        "He is born through His own internal energy",
+        "He is forced to take birth",
+        "He depends on material nature"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna's appearance is not forced; He comes by His own will.",
+      "verseLabel": "BG 4.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q7",
+      "prompt": "BG 4.7 states that whenever there is decline of what, Krishna appears?",
+      "choices": [
+        "Money",
+        "Religion and rise of unrighteousness",
+        "Technology",
+        "Population"
+      ],
+      "correctIndex": 1,
+      "feedback": "To establish righteousness and eliminate irreligion, Krishna incarnates.",
+      "verseLabel": "BG 4.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q8",
+      "prompt": "According to BG 4.8, what is the purpose of Krishna's advent?",
+      "choices": [
+        "Personal enjoyment",
+        "To deliver the pious and annihilate the wicked, and establish dharma",
+        "To collect taxes",
+        "To gain reputation"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna comes to protect the righteous and punish the wicked.",
+      "verseLabel": "BG 4.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q9",
+      "prompt": "In BG 4.9, what is guaranteed to one who knows the transcendental nature of Krishna's appearance and activities?",
+      "choices": [
+        "Material wealth",
+        "Liberation and return to His abode after death",
+        "Long life only",
+        "Supernatural powers"
+      ],
+      "correctIndex": 1,
+      "feedback": "Understanding Krishna's true nature leads to liberation and return to godhead.",
+      "verseLabel": "BG 4.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q10",
+      "prompt": "What does BG 4.10 teach about those who are fully absorbed in Krishna consciousness?",
+      "choices": [
+        "They suffer in the material world",
+        "They are free from fear, anger, and lust; attain Him",
+        "They become weak",
+        "They lose interest in life"
+      ],
+      "correctIndex": 1,
+      "feedback": "Full surrender to Krishna purifies the heart and grants liberation.",
+      "verseLabel": "BG 4.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q11",
+      "prompt": "According to BG 4.13, how is society organized according to the modes of nature?",
+      "choices": [
+        "By chance alone",
+        "By the division of tasks according to qualities and work (varna)",
+        "Randomly",
+        "By government decree alone"
+      ],
+      "correctIndex": 1,
+      "feedback": "Natural qualities determine occupations and social organization.",
+      "verseLabel": "BG 4.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q12",
+      "prompt": "In BG 4.14, what determines one's work according to the modes of nature?",
+      "choices": [
+        "Family lineage alone",
+        "Quality born of nature (guna) and work (karma) performed",
+        "Government assignment",
+        "Personal preference only"
+      ],
+      "correctIndex": 1,
+      "feedback": "One's own nature and previous karma determine one's fit work.",
+      "verseLabel": "BG 4.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q13",
+      "prompt": "BG 4.15 asks: what is the path of those engaged in pure devotional service?",
+      "choices": [
+        "Material success only",
+        "Freedom from the result of work; return to the eternal kingdom",
+        "Remaining in the world forever",
+        "Achieving great fame"
+      ],
+      "correctIndex": 1,
+      "feedback": "Devotees are freed from karmic reactions and return to Krishna.",
+      "verseLabel": "BG 4.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/15/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q14",
+      "prompt": "According to BG 4.16, what is the difference between action and inaction in terms of confusion?",
+      "choices": [
+        "There is no difference",
+        "Even the wise are bewildered about what is action and what is inaction",
+        "This is obvious to everyone",
+        "Inaction is always superior"
+      ],
+      "correctIndex": 1,
+      "feedback": "Even scholars are puzzled by the mystery of action and inaction.",
+      "verseLabel": "BG 4.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q15",
+      "prompt": "In BG 4.17, what characterizes work performed in knowledge?",
+      "choices": [
+        "It always brings material gain",
+        "It is without attachment, ego, and produces no reaction",
+        "It requires great effort",
+        "It brings fear and anxiety"
+      ],
+      "correctIndex": 1,
+      "feedback": "Work done selflessly and wisely does not bind one.",
+      "verseLabel": "BG 4.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/17/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q16",
+      "prompt": "What does BG 4.18 teach about detachment from the results of work?",
+      "choices": [
+        "One should be lazy",
+        "Those unattached to the results, self-controlled, are freed from reactions",
+        "Success is unimportant",
+        "Results never matter"
+      ],
+      "correctIndex": 1,
+      "feedback": "Freedom comes from performing work without selfish desire for results.",
+      "verseLabel": "BG 4.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q17",
+      "prompt": "According to BG 4.19, what kind of knowledge is superior?",
+      "choices": [
+        "Empirical knowledge only",
+        "Knowledge of all work is action; understanding this is transcendental knowledge",
+        "Philosophical speculation",
+        "Accumulation of information"
+      ],
+      "correctIndex": 1,
+      "feedback": "Realizing all action in the phenomenal world through Krishna's energy is supreme knowledge.",
+      "verseLabel": "BG 4.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q18",
+      "prompt": "In BG 4.20, what qualifies one as wise?",
+      "choices": [
+        "One who is always studying",
+        "One who understands that neither body nor senses are performing action",
+        "One who is very intelligent in worldly matters",
+        "One with great wealth"
+      ],
+      "correctIndex": 1,
+      "feedback": "The wise understand the witness consciousness beyond bodily action.",
+      "verseLabel": "BG 4.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q19",
+      "prompt": "BG 4.22 states that what kind of gift is superior?",
+      "choices": [
+        "Expensive gifts",
+        "One that is given at the right time to the right person with the right attitude",
+        "Large quantities of gifts",
+        "Gifts that bring fame"
+      ],
+      "correctIndex": 1,
+      "feedback": "The best gift is given in the proper spirit and at the appropriate time.",
+      "verseLabel": "BG 4.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/22/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q20",
+      "prompt": "According to BG 4.23, what is Brahman?",
+      "choices": [
+        "A person or demiGod",
+        "The ultimate reality; all action is performed by Him",
+        "Only found in scripture",
+        "An impersonal force"
+      ],
+      "correctIndex": 1,
+      "feedback": "The Absolute Truth (Brahman) is the substratum of all activities.",
+      "verseLabel": "BG 4.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/23/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q21",
+      "prompt": "In BG 4.24, what is the proper understanding of sacrifice?",
+      "choices": [
+        "Killing animals",
+        "All offering and action performed as service to the Absolute",
+        "Money only",
+        "Ritualistic ceremony alone"
+      ],
+      "correctIndex": 1,
+      "feedback": "All work and offerings done for Krishna are acts of spiritual sacrifice.",
+      "verseLabel": "BG 4.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/24/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q22",
+      "prompt": "According to BG 4.28, what are the different types of sacrifices?",
+      "choices": [
+        "Only one kind exists",
+        "Some sacrifice possessions, senses, life breath, study, austerity, and yoga",
+        "All sacrifices are identical",
+        "Sacrifice is optional"
+      ],
+      "correctIndex": 1,
+      "feedback": "There are many paths of sacrifice suited to different natures.",
+      "verseLabel": "BG 4.28",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/28/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q23",
+      "prompt": "In BG 4.29, what is the greatest sacrifice?",
+      "choices": [
+        "Offering material wealth",
+        "The breath of life itself",
+        "Self-realization through knowledge",
+        "Performing elaborate rituals"
+      ],
+      "correctIndex": 2,
+      "feedback": "Knowledge of self (atma-jnana yajna) is the greatest sacrifice. BG 4.29 states that this sacrifice of knowledge is superior to material offerings or bodily austerities. Through transcendental knowledge, one attains the Supreme.",
+      "verseLabel": "BG 4.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q24",
+      "prompt": "BG 4.31 concludes that those who taste the nectar of spiritual knowledge and share it are what?",
+      "choices": [
+        "Selfish",
+        "Bound by material laws",
+        "Freed and happy",
+        "Unable to help others"
+      ],
+      "correctIndex": 2,
+      "feedback": "Those established in knowledge attain the supreme goal.",
+      "verseLabel": "BG 4.31",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/31/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q25",
+      "prompt": "What is the main teaching of BG 4.35 about knowledge?",
+      "choices": [
+        "It cannot be attained",
+        "Once you know this transcendental knowledge, no confusion remains",
+        "It is impossible to understand",
+        "Only brahmins can attain it"
+      ],
+      "correctIndex": 1,
+      "feedback": "Transcendental knowledge is the key that unlocks all doors to liberation.",
+      "verseLabel": "BG 4.35",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/35/",
+      "verdict": "Correct"
+    }
+  ]
 }

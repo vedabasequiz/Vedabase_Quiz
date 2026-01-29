@@ -1,9 +1,385 @@
 {
   "id": "bg-6-adult",
-  "title": "Bhagavad Gita - Chapter 6 | Adult Quiz (25Q)",
+  "scripture": "bg",
+  "chapter": 6,
   "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 6 (Adult)",
   "difficulty": "medium-hard",
-  "questionCount": 25,
-  "publishedOn": null,
-  "questions": []
+  "questions": [
+    {
+      "id": "bg6-q1",
+      "prompt": "In BG 6.1, what is the definition of a true renunciate?",
+      "choices": [
+        "One who avoids all work",
+        "One who performs prescribed duty without attachment to results",
+        "One who left home",
+        "One who never speaks"
+      ],
+      "correctIndex": 1,
+      "feedback": "The true renunciate is a yogi who works without selfish motive.",
+      "verseLabel": "BG 6.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q2",
+      "prompt": "According to BG 6.2, what is the main purpose of yoga practice?",
+      "choices": [
+        "To gain powers",
+        "To gradually elevate oneself from material consciousness",
+        "To become famous",
+        "To gain wealth"
+      ],
+      "correctIndex": 1,
+      "feedback": "Yoga is a systematic means to transcend material entanglement.",
+      "verseLabel": "BG 6.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q3",
+      "prompt": "In BG 6.3, what must a person do to reach the goal of yoga?",
+      "choices": [
+        "Meditate occasionally",
+        "Act and work but without attachment; use mind as a friend",
+        "Only sit and think",
+        "Perform rituals"
+      ],
+      "correctIndex": 1,
+      "feedback": "Work done with detachment is a stepping stone to pure meditation.",
+      "verseLabel": "BG 6.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/3/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q4",
+      "prompt": "What does BG 6.4 teach about attaining yoga?",
+      "choices": [
+        "It is achieved quickly",
+        "When one has ceased all desires and has won mind and senses",
+        "It is impossible",
+        "Only monks attain it"
+      ],
+      "correctIndex": 1,
+      "feedback": "Yoga is attained by those who have conquered the mind and desires.",
+      "verseLabel": "BG 6.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q5",
+      "prompt": "According to BG 6.5, what is the main function of the mind?",
+      "choices": [
+        "Always to seek pleasure",
+        "The mind can be one's best friend or worst enemy; one must elevate it",
+        "The mind is useless",
+        "The mind should be ignored"
+      ],
+      "correctIndex": 1,
+      "feedback": "Self-discipline and yoga practice transform the mind into an ally.",
+      "verseLabel": "BG 6.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q6",
+      "prompt": "In BG 6.6, what keeps a person from ascending to the platform of yoga?",
+      "choices": [
+        "Physical exercise",
+        "An uncontrolled mind; the mind is both friend and enemy",
+        "Too much study",
+        "Kindness"
+      ],
+      "correctIndex": 1,
+      "feedback": "Mastery over the turbulent mind is the primary requirement.",
+      "verseLabel": "BG 6.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q7",
+      "prompt": "What does BG 6.7 teach about the self-realized person?",
+      "choices": [
+        "They are always disturbed",
+        "They are peaceful within; equanimous toward heat, cold, honor, and disgrace",
+        "They seek praise constantly",
+        "They are always anxious"
+      ],
+      "correctIndex": 1,
+      "feedback": "The realized soul remains balanced in all circumstances.",
+      "verseLabel": "BG 6.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q8",
+      "prompt": "According to BG 6.8, what is the relationship between knowledge and yoga?",
+      "choices": [
+        "They are unrelated",
+        "One established in yoga is superior to those with mere knowledge",
+        "Knowledge is obsolete",
+        "Yoga makes knowledge unnecessary"
+      ],
+      "correctIndex": 1,
+      "feedback": "The practical application of knowledge through yoga is superior to theory alone.",
+      "verseLabel": "BG 6.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q9",
+      "prompt": "In BG 6.9, who is considered a yogi?",
+      "choices": [
+        "One who performs rituals",
+        "One who eats modestly, who controls mind and senses, and is engaged in yoga",
+        "One who meditates only once a week",
+        "One with supernatural powers"
+      ],
+      "correctIndex": 1,
+      "feedback": "The true yogi is distinguished by discipline, moderation, and constant practice.",
+      "verseLabel": "BG 6.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q10",
+      "prompt": "What does BG 6.10 teach about meditation and the yogi?",
+      "choices": [
+        "Meditation is not important",
+        "A yogi should always be in meditation, engaging in yoga practice continuously",
+        "Meditation is passive",
+        "Meditation requires external support"
+      ],
+      "correctIndex": 1,
+      "feedback": "The yogi maintains constant awareness of the Divine through practice.",
+      "verseLabel": "BG 6.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/10/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q11",
+      "prompt": "According to BG 6.11, what should be the place and posture for meditation?",
+      "choices": [
+        "Anywhere is fine",
+        "Sit on a pure seat, in a solitary place, with proper posture",
+        "In crowds",
+        "Lying down is best"
+      ],
+      "correctIndex": 1,
+      "feedback": "The proper environment supports deep concentration and inner peace.",
+      "verseLabel": "BG 6.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q12",
+      "prompt": "In BG 6.12, what should the yogi focus the mind upon during meditation?",
+      "choices": [
+        "External objects",
+        "Focus the mind and intelligence on the self; make the mind steady",
+        "Worldly thoughts",
+        "Other people"
+      ],
+      "correctIndex": 1,
+      "feedback": "Turning attention inward reveals the true nature of the self.",
+      "verseLabel": "BG 6.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q13",
+      "prompt": "What does BG 6.13-14 teach about the posture and gaze of a yogi?",
+      "choices": [
+        "Eyes should be wide open",
+        "Eyes should be steady, gazing at the tip of the nose; steady in posture",
+        "Looking at the sky",
+        "Sleeping position"
+      ],
+      "correctIndex": 1,
+      "feedback": "Proper physical alignment supports mental concentration.",
+      "verseLabel": "BG 6.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q14",
+      "prompt": "According to BG 6.15, what is the highest attainment for a yogi?",
+      "choices": [
+        "Material success",
+        "Full absorption in Krishna consciousness; seeing Krishna everywhere",
+        "Avoiding all work",
+        "Achieving fame"
+      ],
+      "correctIndex": 1,
+      "feedback": "The ultimate yoga is union with the Supreme Lord, Krishna.",
+      "verseLabel": "BG 6.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/15/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q15",
+      "prompt": "In BG 6.16, what types of people cannot practice yoga?",
+      "choices": [
+        "Those who work hard",
+        "Those who eat too much, too little, or sleep too much",
+        "Those who are disciplined",
+        "Those who study"
+      ],
+      "correctIndex": 1,
+      "feedback": "Balance in eating, sleeping, and working is essential for yoga success.",
+      "verseLabel": "BG 6.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q16",
+      "prompt": "What does BG 6.17 teach about reaching yoga?",
+      "choices": [
+        "It is unattainable",
+        "Through temperance in eating, work, sleep, and wakefulness, yoga removes suffering",
+        "Only through extreme asceticism",
+        "It requires no effort"
+      ],
+      "correctIndex": 1,
+      "feedback": "Moderation in all activities is the key to success in yoga.",
+      "verseLabel": "BG 6.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/17/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q17",
+      "prompt": "According to BG 6.18, what qualifies as the perfection of yoga?",
+      "choices": [
+        "Achieving wealth",
+        "When the mind becomes absolutely absorbed in Krishna; one is beyond material influence",
+        "Becoming famous",
+        "Having many followers"
+      ],
+      "correctIndex": 1,
+      "feedback": "Perfect yoga is the state of being fully absorbed in divine consciousness.",
+      "verseLabel": "BG 6.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q18",
+      "prompt": "In BG 6.19, what should be the state of consciousness of a yogi in meditation?",
+      "choices": [
+        "Dreaming",
+        "Like a lamp in a windless place that flickers not; steady and unwavering",
+        "Restless",
+        "Confused"
+      ],
+      "correctIndex": 1,
+      "feedback": "The perfected yogi's mind is as steady as a lamp without wind.",
+      "verseLabel": "BG 6.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q19",
+      "prompt": "What does BG 6.20-23 teach about supreme yoga attainment?",
+      "choices": [
+        "It is impossible",
+        "One separates from material pleasure, finding bliss in the self",
+        "Material enjoyment is the goal",
+        "It leads to loss of memory"
+      ],
+      "correctIndex": 1,
+      "feedback": "The yogi experiences transcendental happiness beyond material sense gratification.",
+      "verseLabel": "BG 6.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q20",
+      "prompt": "According to BG 6.24, what must one possess to practice yoga?",
+      "choices": [
+        "Wealth alone",
+        "Uncompromising devotion and proper understanding of yoga; gradual elevation",
+        "Natural ability only",
+        "No special qualifications"
+      ],
+      "correctIndex": 1,
+      "feedback": "With determination and proper guidance, anyone can succeed in yoga.",
+      "verseLabel": "BG 6.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/24/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q21",
+      "prompt": "In BG 6.25, what is the result of practicing yoga continuously?",
+      "choices": [
+        "Material gains only",
+        "After many births, a yogi finally attains Krishna; becomes very rare",
+        "Suffering increases",
+        "One remains in the world"
+      ],
+      "correctIndex": 1,
+      "feedback": "Yoga practice eventually leads to reunion with the Supreme Lord.",
+      "verseLabel": "BG 6.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q22",
+      "prompt": "What does BG 6.26-27 teach about the yogi's vision?",
+      "choices": [
+        "Only sees material world",
+        "A yogi sees Krishna in all beings and all beings in Krishna; loves all equally",
+        "Does not see clearly",
+        "Sees only enemies"
+      ],
+      "correctIndex": 1,
+      "feedback": "Perfect realization includes perceiving the unity of all existence in God.",
+      "verseLabel": "BG 6.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/26/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q23",
+      "prompt": "According to BG 6.28, what is the goal of yoga practice?",
+      "choices": [
+        "Gaining powers",
+        "Complete harmony between soul and God; supreme peace",
+        "Material comfort",
+        "Remaining in the material world"
+      ],
+      "correctIndex": 1,
+      "feedback": "The ultimate goal of yoga is eternal union with the Supreme.",
+      "verseLabel": "BG 6.28",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/28/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q24",
+      "prompt": "In BG 6.29, what does Krishna promise to the yogi?",
+      "choices": [
+        "Temporary relief",
+        "I am equal in all beings; one sees me in all and all in me",
+        "Special favors only",
+        "Material wealth"
+      ],
+      "correctIndex": 1,
+      "feedback": "This is the highest promise of yoga: Krishna's omnipresence and presence.",
+      "verseLabel": "BG 6.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q25",
+      "prompt": "What is the main message of BG 6.32, the conclusion of Chapter 6?",
+      "choices": [
+        "Yoga is too difficult",
+        "One who sees equality in all and loves all as oneself is the best yogi",
+        "Only brahmins can succeed",
+        "External practice is enough"
+      ],
+      "correctIndex": 1,
+      "feedback": "True yoga is measured by how one treats all beings with equal love and respect.",
+      "verseLabel": "BG 6.32",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/32/",
+      "verdict": "Correct"
+    }
+  ]
 }

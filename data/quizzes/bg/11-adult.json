@@ -1,9 +1,385 @@
 {
   "id": "bg-11-adult",
-  "title": "Bhagavad Gita - Chapter 11 | Adult Quiz (25Q)",
+  "scripture": "bg",
+  "chapter": 11,
   "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 11 (Adult)",
   "difficulty": "medium-hard",
-  "questionCount": 25,
-  "publishedOn": null,
-  "questions": []
+  "questions": [
+    {
+      "id": "bg11-q1",
+      "prompt": "In BG 11.1, what does Arjuna request from Krishna?",
+      "choices": [
+        "A weapon",
+        "To see your divine form and cosmic manifestation",
+        "Wealth and power",
+        "Military strategy"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna seeks direct perception of Krishna's transcendental nature.",
+      "verseLabel": "BG 11.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q2",
+      "prompt": "According to BG 11.2, who has the power to grant Arjuna this vision?",
+      "choices": [
+        "Only Arjuna can see it",
+        "Only I can grant this; you need divine eyes to see my form",
+        "Sages can grant it",
+        "It is impossible"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna alone possesses the power to reveal His divine form.",
+      "verseLabel": "BG 11.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q3",
+      "prompt": "In BG 11.5, what does Krishna offer to show Arjuna?",
+      "choices": [
+        "Treasures",
+        "My divine forms, countless and unlimited",
+        "The material world",
+        "His relatives"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna reveals infinite divine manifestations beyond ordinary perception.",
+      "verseLabel": "BG 11.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q4",
+      "prompt": "What does BG 11.7 teach about the cosmic form?",
+      "choices": [
+        "It is small",
+        "Behold the entire universe in my body; all that exists is within me",
+        "It is limited",
+        "It is without light"
+      ],
+      "correctIndex": 1,
+      "feedback": "The cosmos is contained within Krishna's divine manifestation.",
+      "verseLabel": "BG 11.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q5",
+      "prompt": "According to BG 11.8, what characterizes the vision of the cosmic form?",
+      "choices": [
+        "It brings fear",
+        "One cannot see it with ordinary eyes; it is beyond perception",
+        "It is easily visible",
+        "No special vision is needed"
+      ],
+      "correctIndex": 1,
+      "feedback": "Divine transcendental eyes are necessary to perceive Krishna's form.",
+      "verseLabel": "BG 11.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q6",
+      "prompt": "In BG 11.12-14, what is the impact of Arjuna witnessing the cosmic form?",
+      "choices": [
+        "He is unmoved",
+        "He experiences great fear, wonder, and trembling",
+        "He falls asleep",
+        "He remains unmoved"
+      ],
+      "correctIndex": 1,
+      "feedback": "The direct revelation of divine power overwhelms mortal consciousness.",
+      "verseLabel": "BG 11.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q7",
+      "prompt": "What does BG 11.24-26 teach about the form Arjuna sees?",
+      "choices": [
+        "It is entirely peaceful",
+        "He sees terrifying forms with infinite mouths, eyes, and weapons",
+        "It is comforting",
+        "It is ordinary"
+      ],
+      "correctIndex": 1,
+      "feedback": "The cosmic form represents both creative and destructive divine powers.",
+      "verseLabel": "BG 11.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q8",
+      "prompt": "According to BG 11.32, what is declared about this cosmic form?",
+      "choices": [
+        "It is temporary",
+        "I am time, the great destroyer of all; I am here to consume all",
+        "It creates forever",
+        "It has no purpose"
+      ],
+      "correctIndex": 1,
+      "feedback": "The cosmic form represents the ultimate power of time and destiny.",
+      "verseLabel": "BG 11.32",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/32/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q9",
+      "prompt": "In BG 11.33-34, what does Krishna promise regarding this cosmic form?",
+      "choices": [
+        "It is permanent",
+        "All those before you shall be slain; they are already doomed by me",
+        "No one will be harmed",
+        "Everyone will survive"
+      ],
+      "correctIndex": 1,
+      "feedback": "Divine will transcends mortal plans; all outcomes are predetermined.",
+      "verseLabel": "BG 11.33",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/33/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q10",
+      "prompt": "What does BG 11.36 teach about the impact of this vision?",
+      "choices": [
+        "It brings confusion",
+        "Be not fearful; drop your timidity; arise and fight",
+        "One should flee",
+        "War should be abandoned"
+      ],
+      "correctIndex": 1,
+      "feedback": "Understanding Krishna's supremacy removes fear and empowers action.",
+      "verseLabel": "BG 11.36",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/36/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q11",
+      "prompt": "According to BG 11.37-38, how do the celestial beings respond to the cosmic form?",
+      "choices": [
+        "They are not impressed",
+        "All praise you and bow; they chant your glory",
+        "They oppose you",
+        "They ignore you"
+      ],
+      "correctIndex": 1,
+      "feedback": "The cosmic form commands universal reverence and worship.",
+      "verseLabel": "BG 11.37",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/37/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q12",
+      "prompt": "In BG 11.40, what is the effect on Arjuna of this divine revelation?",
+      "choices": [
+        "He remains doubtful",
+        "Fear has left me; I am in harmony; all my confusion is gone",
+        "He becomes more afraid",
+        "He is angry"
+      ],
+      "correctIndex": 1,
+      "feedback": "Direct knowledge of Krishna's supremacy grants complete peace and clarity.",
+      "verseLabel": "BG 11.40",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/40/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q13",
+      "prompt": "What does BG 11.42-43 teach about the nature of this cosmic form?",
+      "choices": [
+        "It is limited",
+        "No being can fully comprehend my form; it is infinite",
+        "It is finite",
+        "Others have seen it"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna's nature is beyond mortal comprehension in its fullness.",
+      "verseLabel": "BG 11.42",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/42/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q14",
+      "prompt": "According to BG 11.44, what does Krishna offer as a means of worship?",
+      "choices": [
+        "Elaborate rituals",
+        "Through exclusive loving devotion one can know me and enter my abode",
+        "Rituals are best",
+        "Devotion is impossible"
+      ],
+      "correctIndex": 1,
+      "feedback": "Exclusive devotion is the highest and most direct path to Krishna.",
+      "verseLabel": "BG 11.44",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/44/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q15",
+      "prompt": "In BG 11.45, what does Krishna conclude about the vision?",
+      "choices": [
+        "It will happen again",
+        "This form cannot be regained by study or sacrifice; only through devotion",
+        "Everyone can see it",
+        "It is always visible"
+      ],
+      "correctIndex": 1,
+      "feedback": "The divine form is revealed exclusively to sincere, devoted disciples.",
+      "verseLabel": "BG 11.45",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/45/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q16",
+      "prompt": "What does BG 11.48 teach about those who surrender?",
+      "choices": [
+        "They suffer",
+        "Be not afraid; I am pleased with you; I grant you grace",
+        "I am displeased",
+        "I will abandon you"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna's grace flows to those who surrender with faith.",
+      "verseLabel": "BG 11.48",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/48/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q17",
+      "prompt": "According to BG 11.50-51, what is Krishna's promise?",
+      "choices": [
+        "Hardship comes",
+        "I am pleased with you; do not fear; abandon all worry",
+        "Trouble will increase",
+        "Neglect your duty"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna assures the sincere disciple of His protection and grace.",
+      "verseLabel": "BG 11.50",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/50/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q18",
+      "prompt": "In BG 11.53, what is the only way to know the cosmic form fully?",
+      "choices": [
+        "Through study",
+        "Through exclusive devotion to me can one know me thus",
+        "Through knowledge alone",
+        "It is impossible"
+      ],
+      "correctIndex": 1,
+      "feedback": "Perfect knowledge comes through unwavering devotional service.",
+      "verseLabel": "BG 11.53",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/53/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q19",
+      "prompt": "What does BG 11.54 teach about achieving Krishna consciousness?",
+      "choices": [
+        "It is complicated",
+        "Through bhakti (devotion), one transcends all bondage and attains the Absolute",
+        "It is simple ritual",
+        "Others are superior"
+      ],
+      "correctIndex": 1,
+      "feedback": "Pure devotion is the direct path to realizing the Absolute Truth.",
+      "verseLabel": "BG 11.54",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/54/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q20",
+      "prompt": "According to BG 11.55, what is the ultimate perfection?",
+      "choices": [
+        "Material achievement",
+        "One becomes my dear devotee; all is revealed; one attains me",
+        "Worldly success",
+        "Ritual completion"
+      ],
+      "correctIndex": 1,
+      "feedback": "The highest perfection is becoming Krishna's intimate devotee.",
+      "verseLabel": "BG 11.55",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/55/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q21",
+      "prompt": "In Chapter 11, what is the main theme?",
+      "choices": [
+        "Wealth and power",
+        "The revelation of Krishna's cosmic form and divine supremacy",
+        "Material success",
+        "War strategy"
+      ],
+      "correctIndex": 1,
+      "feedback": "Chapter 11 reveals Krishna's infinite transcendental nature.",
+      "verseLabel": "BG 11.56",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/56/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q22",
+      "prompt": "What practical lesson does the cosmic vision teach?",
+      "choices": [
+        "Pursue pleasure",
+        "Understanding divine supremacy destroys fear and pride",
+        "Ignore Krishna",
+        "Avoid responsibility"
+      ],
+      "correctIndex": 1,
+      "feedback": "Witnessing the cosmic form purifies Arjuna's consciousness.",
+      "verseLabel": "BG 11.57",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/57/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q23",
+      "prompt": "According to the chapter, why does Krishna show this form?",
+      "choices": [
+        "To intimidate",
+        "To convince Arjuna of His supremacy and authority",
+        "To confuse",
+        "To test strength"
+      ],
+      "correctIndex": 1,
+      "feedback": "The vision confirms Krishna's authority to instruct Arjuna.",
+      "verseLabel": "BG 11.58",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/58/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q24",
+      "prompt": "In BG 11, what does Arjuna finally understand?",
+      "choices": [
+        "Nothing changes",
+        "Krishna is the Supreme Lord; all must surrender to Him",
+        "Krishna is weak",
+        "Arjuna is stronger"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna gains complete faith through direct perception.",
+      "verseLabel": "BG 11.59",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/59/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg11-q25",
+      "prompt": "What does this chapter teach about approaching the Divine?",
+      "choices": [
+        "Demand answers",
+        "Humble surrender with faith opens the way to divine grace",
+        "Be skeptical",
+        "Question everything"
+      ],
+      "correctIndex": 1,
+      "feedback": "Devotion and humility are prerequisites for divine revelation.",
+      "verseLabel": "BG 11.60",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/60/",
+      "verdict": "Correct"
+    }
+  ]
 }

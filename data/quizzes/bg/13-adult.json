@@ -1,9 +1,385 @@
 {
   "id": "bg-13-adult",
-  "title": "Bhagavad Gita - Chapter 13 | Adult Quiz (25Q)",
+  "scripture": "bg",
+  "chapter": 13,
   "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 13 (Adult)",
   "difficulty": "medium-hard",
-  "questionCount": 25,
-  "publishedOn": null,
-  "questions": []
+  "questions": [
+    {
+      "id": "bg13-q1",
+      "prompt": "In BG 13.1, what does Arjuna request?",
+      "choices": [
+        "Battle strategy",
+        "Explain prakriti (nature) and purusa (spirit); their characteristics",
+        "Prophecy",
+        "Political advice"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna seeks understanding of the distinction between matter and consciousness.",
+      "verseLabel": "BG 13.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q2",
+      "prompt": "According to BG 13.2, what is the field?",
+      "choices": [
+        "The body only",
+        "This body is called the field; the knowing self is the knower of the field",
+        "The mind",
+        "External objects"
+      ],
+      "correctIndex": 1,
+      "feedback": "The body is the field of activity; consciousness is the observer.",
+      "verseLabel": "BG 13.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q3",
+      "prompt": "In BG 13.3, what is the result of knowing the knower of the field?",
+      "choices": [
+        "Material progress",
+        "One understands the truth; liberation is achieved",
+        "Confusion increases",
+        "Nothing changes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Understanding the witness self is the key to liberation.",
+      "verseLabel": "BG 13.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/3/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q4",
+      "prompt": "What does BG 13.4-6 teach about the field?",
+      "choices": [
+        "The field is permanent",
+        "It consists of five gross and three subtle elements; knowledge, attachment, and aversion",
+        "It is simple",
+        "It is only matter"
+      ],
+      "correctIndex": 1,
+      "feedback": "The field is composed of both gross material and subtle energies.",
+      "verseLabel": "BG 13.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q5",
+      "prompt": "According to BG 13.7, what are the twenty-four cosmic elements?",
+      "choices": [
+        "Bodies of demigods",
+        "Earth, water, fire, air, sky, mind, intellect, ego, and five sense organs and five organs of action",
+        "Only physical matter",
+        "Non-existent"
+      ],
+      "correctIndex": 1,
+      "feedback": "The entire field operates through these natural principles of creation.",
+      "verseLabel": "BG 13.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q6",
+      "prompt": "In BG 13.8, what does Krishna teach about humility?",
+      "choices": [
+        "Strength is best",
+        "Humility, modesty, harmlessness, patience, and honesty are divine virtues",
+        "Pride is good",
+        "Rudeness helps"
+      ],
+      "correctIndex": 1,
+      "feedback": "Divine qualities are built on the foundation of humility.",
+      "verseLabel": "BG 13.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q7",
+      "prompt": "What does BG 13.9-10 teach about knowledge of the field?",
+      "choices": [
+        "It is unnecessary",
+        "Detachment from material pleasure, unwavering devotion to meditation is knowledge",
+        "Attachment is wise",
+        "Worldly life is knowledge"
+      ],
+      "correctIndex": 1,
+      "feedback": "True knowledge emerges from detachment and inward focus.",
+      "verseLabel": "BG 13.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q8",
+      "prompt": "According to BG 13.12, what is the ultimate object of knowledge?",
+      "choices": [
+        "The material world",
+        "Know that I am the Supreme; all knowledge is culmination in knowing me",
+        "Matter is supreme",
+        "Spirit does not exist"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna is the ultimate object of all knowledge and understanding.",
+      "verseLabel": "BG 13.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q9",
+      "prompt": "In BG 13.13, what does Krishna explain about His manifestation?",
+      "choices": [
+        "I am distant",
+        "I am everywhere; with infinite hands, feet, eyes, mouths, and faces",
+        "I am limited",
+        "I am in one place"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna's omnipresence is reflected in infinite divine manifestations.",
+      "verseLabel": "BG 13.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q10",
+      "prompt": "What does BG 13.14-15 teach about perceiving Krishna?",
+      "choices": [
+        "He is invisible",
+        "Through all senses, yet is beyond the senses; sustains all",
+        "He is material",
+        "He is dependent"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna is simultaneously transcendental and sustaining all creation.",
+      "verseLabel": "BG 13.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q11",
+      "prompt": "According to BG 13.16, what is Krishna's relationship to the field?",
+      "choices": [
+        "He is absent",
+        "I am seated in the heart of all; I am the origin, sustenance, and dissolution",
+        "He is created by it",
+        "He depends on it"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna is the ultimate ground of all existence and consciousness.",
+      "verseLabel": "BG 13.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q12",
+      "prompt": "In BG 13.18, what is the distinction between the field and the knower?",
+      "choices": [
+        "They are identical",
+        "All beings are made of the field; I am the knower, eternal and unchanging",
+        "The field is conscious",
+        "The knower is material"
+      ],
+      "correctIndex": 1,
+      "feedback": "The eternal soul is distinct from the changing material body.",
+      "verseLabel": "BG 13.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q13",
+      "prompt": "What does BG 13.19-23 teach about the modes of nature?",
+      "choices": [
+        "They do not exist",
+        "Three modes of nature; knowledge is born from sattva; passion and ignorance cloud the mind",
+        "All are equal",
+        "Only matter exists"
+      ],
+      "correctIndex": 1,
+      "feedback": "The modes of nature determine one's perception and actions.",
+      "verseLabel": "BG 13.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q14",
+      "prompt": "According to BG 13.25, what is the path to eternal truth?",
+      "choices": [
+        "Material knowledge",
+        "Some perceive the self within through meditation; others through knowledge; others through work",
+        "Only one path",
+        "Paths do not lead there"
+      ],
+      "correctIndex": 1,
+      "feedback": "There are many legitimate paths to realizing the Supreme.",
+      "verseLabel": "BG 13.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q15",
+      "prompt": "In BG 13.26, what does Krishna teach about suffering?",
+      "choices": [
+        "It is permanent",
+        "Know that all beings emerge from me; I am the origin; when dissolved, they merge in me",
+        "Creation is eternal",
+        "Nothing originates"
+      ],
+      "correctIndex": 1,
+      "feedback": "All existence flows from and returns to Krishna's transcendental nature.",
+      "verseLabel": "BG 13.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/26/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q16",
+      "prompt": "What does BG 13.27 teach about the Supreme?",
+      "choices": [
+        "He is limited",
+        "There is no difference between Krishna dwelling everywhere; know me as the eternal Lord",
+        "He is absent",
+        "He is dependent"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna's presence is equally distributed throughout all creation.",
+      "verseLabel": "BG 13.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/27/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q17",
+      "prompt": "According to BG 13.28, what is the result of understanding the field?",
+      "choices": [
+        "Bondage increases",
+        "One sees Krishna everywhere; understands him to be eternal; is not destroyed",
+        "Confusion grows",
+        "Nothing changes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Perceiving Krishna in all beings leads to liberation and immortality.",
+      "verseLabel": "BG 13.28",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/28/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q18",
+      "prompt": "In BG 13.29, what is the teaching about equality?",
+      "choices": [
+        "Hierarchy is real",
+        "One who perceives Krishna equally present in all beings, does not fall",
+        "Separation is eternal",
+        "Each is different only"
+      ],
+      "correctIndex": 1,
+      "feedback": "Recognizing the equal presence of Krishna in all brings perfection.",
+      "verseLabel": "BG 13.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q19",
+      "prompt": "What does BG 13.30 conclude about spiritual perfection?",
+      "choices": [
+        "Material success",
+        "By practicing this knowledge, one attains supreme realization and returns to the eternal abode",
+        "Worldly life",
+        "The material world"
+      ],
+      "correctIndex": 1,
+      "feedback": "Perfect knowledge grants liberation and eternal residence with Krishna.",
+      "verseLabel": "BG 13.30",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/30/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q20",
+      "prompt": "In Chapter 13, what is the main teaching?",
+      "choices": [
+        "Matter is supreme",
+        "Understanding the field and the knower leads to liberation",
+        "The body is eternal",
+        "Spirit is illusion"
+      ],
+      "correctIndex": 1,
+      "feedback": "Chapter 13 teaches the fundamental distinction between matter and spirit.",
+      "verseLabel": "BG 13.31",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/31/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q21",
+      "prompt": "What does knowing the 'field' and 'knower' accomplish?",
+      "choices": [
+        "Nothing changes",
+        "It reveals the nature of consciousness and material nature",
+        "It brings bondage",
+        "It increases confusion"
+      ],
+      "correctIndex": 1,
+      "feedback": "This knowledge is the foundation of all spiritual advancement.",
+      "verseLabel": "BG 13.32",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/32/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q22",
+      "prompt": "According to Chapter 13, how does one transcend material nature?",
+      "choices": [
+        "By indulging senses",
+        "Through knowledge of the field and surrender to Krishna",
+        "Through denial",
+        "It is impossible"
+      ],
+      "correctIndex": 1,
+      "feedback": "Knowledge combined with devotion transcends material conditioning.",
+      "verseLabel": "BG 13.33",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/33/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q23",
+      "prompt": "What is the ultimate realization from this chapter?",
+      "choices": [
+        "Matter is eternal",
+        "The knower is eternal and superior; the field is temporary",
+        "The body is permanent",
+        "Nothing is real"
+      ],
+      "correctIndex": 1,
+      "feedback": "Realizing the eternal nature of consciousness is the key to freedom.",
+      "verseLabel": "BG 13.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/34/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q24",
+      "prompt": "In BG 13, what path does Krishna emphasize for understanding?",
+      "choices": [
+        "Intellectual alone",
+        "A combination of knowledge, meditation, and devotion",
+        "Ritual only",
+        "None work"
+      ],
+      "correctIndex": 1,
+      "feedback": "Integrated spiritual practice leads to perfect understanding.",
+      "verseLabel": "BG 13.35",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/35/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg13-q25",
+      "prompt": "In BG 13, what path does Krishna emphasize for understanding?",
+      "choices": [
+        "Intellectual alone",
+        "A combination of knowledge, meditation, and devotion",
+        "Ritual only",
+        "None work"
+      ],
+      "correctIndex": 1,
+      "feedback": "Integrated spiritual practice leads to perfect understanding.",
+      "verseLabel": "BG 13.35",
+      "verseUrl": "https://vedabase.io/en/library/bg/13/35/",
+      "verdict": "Correct"
+    }
+  ]
 }

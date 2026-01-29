@@ -1,9 +1,385 @@
 {
   "id": "bg-18-adult",
-  "title": "Bhagavad Gita - Chapter 18 | Adult Quiz (25Q)",
+  "scripture": "bg",
+  "chapter": 18,
   "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 18 (Adult)",
   "difficulty": "medium-hard",
-  "questionCount": 25,
-  "publishedOn": null,
-  "questions": []
+  "questions": [
+    {
+      "id": "bg18-q1",
+      "prompt": "In BG 18.1, what does Arjuna ask at the beginning of the final chapter?",
+      "choices": [
+        "About victory",
+        "To clearly explain sannyasa (renunciation) and tyaga (relinquishment)",
+        "War tactics",
+        "Political strategy"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna seeks final clarity on the path of renunciation versus action.",
+      "verseLabel": "BG 18.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q2",
+      "prompt": "According to BG 18.2, what is the definition of renunciation given?",
+      "choices": [
+        "Abandoning work",
+        "Relinquishing the desire for fruits; not the action itself",
+        "Doing nothing",
+        "Avoiding all duties"
+      ],
+      "correctIndex": 1,
+      "feedback": "True renunciation is freedom from selfish motive, not cessation of action.",
+      "verseLabel": "BG 18.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q3",
+      "prompt": "In BG 18.3, what do some wise men teach?",
+      "choices": [
+        "All actions are evil",
+        "All action is tainted by desire; one should abandon it",
+        "Action is always good",
+        "Never work"
+      ],
+      "correctIndex": 1,
+      "feedback": "Some philosophers advocate complete withdrawal from all activity.",
+      "verseLabel": "BG 18.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/3/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q4",
+      "prompt": "What does BG 18.4-5 teach about the reality of renunciation?",
+      "choices": [
+        "Renunciation is worthless",
+        "One cannot abandon action; even maintaining body requires action",
+        "Work is optional",
+        "No one works"
+      ],
+      "correctIndex": 1,
+      "feedback": "Action is inherent in maintaining the body and consciousness.",
+      "verseLabel": "BG 18.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q5",
+      "prompt": "According to BG 18.6, what is the superior path?",
+      "choices": [
+        "Pretend renunciation",
+        "Work without desire for fruit; offer it to the Lord",
+        "Inaction",
+        "Selfish action"
+      ],
+      "correctIndex": 1,
+      "feedback": "Selfless work offered to Krishna is superior to renouncing work.",
+      "verseLabel": "BG 18.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q6",
+      "prompt": "In BG 18.7, what characterizes true renunciation?",
+      "choices": [
+        "Hatred of work",
+        "Disliking work but performing duty without attachment; unaffected by results",
+        "Avoiding action",
+        "Desiring fruits"
+      ],
+      "correctIndex": 1,
+      "feedback": "The renunciate acts dutifully without selfish attachment.",
+      "verseLabel": "BG 18.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q7",
+      "prompt": "What does BG 18.8 teach about those who abandon action?",
+      "choices": [
+        "They progress",
+        "They do not attain perfection; duties must be performed",
+        "Perfect renunciation",
+        "They are liberated"
+      ],
+      "correctIndex": 1,
+      "feedback": "Complete inaction cannot lead to spiritual advancement.",
+      "verseLabel": "BG 18.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q8",
+      "prompt": "According to BG 18.9, what is truly renounced?",
+      "choices": [
+        "The body",
+        "The desire for the fruit; not the action itself",
+        "All work",
+        "Thought and mind"
+      ],
+      "correctIndex": 1,
+      "feedback": "The fruit of action must be relinquished, not the action.",
+      "verseLabel": "BG 18.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q9",
+      "prompt": "In BG 18.11, what is stated about karma yoga?",
+      "choices": [
+        "It is ineffective",
+        "Though imperfect, work performed for the Lord purifies the heart",
+        "Actions are useless",
+        "No fruit comes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Even imperfect work purifies when offered devotionally.",
+      "verseLabel": "BG 18.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q10",
+      "prompt": "What does BG 18.12 teach about the fruit of renunciation?",
+      "choices": [
+        "No fruit comes",
+        "The fruits are either peace, pleasure, or destruction based on actions",
+        "Only one result",
+        "Fruits are temporary"
+      ],
+      "correctIndex": 1,
+      "feedback": "The quality of results depends on the mode and nature of action.",
+      "verseLabel": "BG 18.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q11",
+      "prompt": "According to BG 18.13-14, what are the five factors in action?",
+      "choices": [
+        "Three exist",
+        "Body, doer, senses, effort, and divine providence work together",
+        "Only two",
+        "Countless factors"
+      ],
+      "correctIndex": 1,
+      "feedback": "Action depends on multiple conditions working together harmoniously.",
+      "verseLabel": "BG 18.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q12",
+      "prompt": "In BG 18.15, what determines the fruits of action?",
+      "choices": [
+        "Luck alone",
+        "The nature of knowledge, action, and agent; based on modes of nature",
+        "Only effort",
+        "Random chance"
+      ],
+      "correctIndex": 1,
+      "feedback": "The mode of nature determines the nature and results of action.",
+      "verseLabel": "BG 18.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/15/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q13",
+      "prompt": "What does BG 18.16 teach about the different types of knowledge?",
+      "choices": [
+        "All knowledge is one",
+        "Sattvic knowledge is unified; rajasic is fragmented; tamasic is confused",
+        "No difference",
+        "Types are equal"
+      ],
+      "correctIndex": 1,
+      "feedback": "The mode of nature qualifies the nature of knowledge.",
+      "verseLabel": "BG 18.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q14",
+      "prompt": "According to BG 18.17, what defines sattvic action?",
+      "choices": [
+        "Painful and difficult",
+        "Performed without attachment; free from ego; steady and purposeful",
+        "Causing disturbance",
+        "Selfish"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic action is characterized by equilibrium and selflessness.",
+      "verseLabel": "BG 18.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/17/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q15",
+      "prompt": "In BG 18.18, what is rajasic action?",
+      "choices": [
+        "Pure and selfless",
+        "Performed with ego, effort, and desire for fruit; causes disturbance",
+        "Without attachment",
+        "Harmonious"
+      ],
+      "correctIndex": 1,
+      "feedback": "Rajasic action is driven by personal desire and produces agitation.",
+      "verseLabel": "BG 18.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q16",
+      "prompt": "What does BG 18.19 teach about tamasic action?",
+      "choices": [
+        "Highly virtuous",
+        "Performed in delusion, without regard for result, consequence, or law",
+        "Pure and noble",
+        "Brings peace"
+      ],
+      "correctIndex": 1,
+      "feedback": "Tamasic action is reckless and ignores ethical consequences.",
+      "verseLabel": "BG 18.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q17",
+      "prompt": "According to BG 18.20-22, what are the different types of doers?",
+      "choices": [
+        "All doers are equal",
+        "Sattvic doer is dedicated; rajasic desires results; tamasic acts in delusion",
+        "No difference",
+        "Only one type"
+      ],
+      "correctIndex": 1,
+      "feedback": "The mode of nature determines the nature of the actor.",
+      "verseLabel": "BG 18.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q18",
+      "prompt": "In BG 18.26, what is sattvic duty?",
+      "choices": [
+        "No duty exists",
+        "One performs duty without attachment, rightly, at proper time",
+        "All duties are equal",
+        "Duty is optional"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sattvic duty is performed with proper discrimination and timing.",
+      "verseLabel": "BG 18.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/26/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q19",
+      "prompt": "What does BG 18.31-32 teach about intelligence?",
+      "choices": [
+        "All are equal",
+        "Sattvic intelligence distinguishes paths; rajasic confuses them; tamasic is deluded",
+        "No difference",
+        "Intelligence is single"
+      ],
+      "correctIndex": 1,
+      "feedback": "The mode of nature determines one's capacity for wisdom.",
+      "verseLabel": "BG 18.31",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/31/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q20",
+      "prompt": "According to BG 18.40-48, what are the duties based on birth?",
+      "choices": [
+        "No duties differ",
+        "Four classes exist based on qualities and occupation; each has prescribed duties",
+        "All do same work",
+        "No order exists"
+      ],
+      "correctIndex": 1,
+      "feedback": "Each person has duties suited to their nature and station.",
+      "verseLabel": "BG 18.40",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/40/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q21",
+      "prompt": "In BG 18.49-50, what is the path to perfection?",
+      "choices": [
+        "Material success",
+        "Perfection comes through devotion to prescribed duty; knowing Krishna in all",
+        "Escaping action",
+        "Inaction alone"
+      ],
+      "correctIndex": 1,
+      "feedback": "Perfection is achieved by performing one's duty with devotion.",
+      "verseLabel": "BG 18.49",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/49/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q22",
+      "prompt": "What does BG 18.54 teach about the self-realized person?",
+      "choices": [
+        "Still entangled",
+        "Fixed in Krishna consciousness; endowed with supreme peace and bliss",
+        "Suffering increases",
+        "Still confused"
+      ],
+      "correctIndex": 1,
+      "feedback": "The realized soul achieves eternal peace through Krishna consciousness.",
+      "verseLabel": "BG 18.54",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/54/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q23",
+      "prompt": "According to BG 18.55, what is the highest path to Krishna?",
+      "choices": [
+        "Study alone",
+        "Through exclusive devotion one can know me, enter my being, and attain the eternal abode",
+        "Meditation only",
+        "Rituals"
+      ],
+      "correctIndex": 1,
+      "feedback": "Pure devotion to Krishna is the ultimate means to liberation.",
+      "verseLabel": "BG 18.55",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/55/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q24",
+      "prompt": "In BG 18.62, what is the final instruction to Arjuna?",
+      "choices": [
+        "Ignore Krishna",
+        "Seek refuge in Krishna; surrender unto him in all respects",
+        "Follow your own path",
+        "Disregard scripture"
+      ],
+      "correctIndex": 1,
+      "feedback": "Complete surrender to Krishna is the highest teaching of the Gita.",
+      "verseLabel": "BG 18.62",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/62/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg18-q25",
+      "prompt": "What does BG 18.66 conclude about liberation?",
+      "choices": [
+        "Renounce all",
+        "I will deliver you from all sin; abandon all else and come to me",
+        "Rely on others",
+        "You must struggle alone"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna guarantees complete liberation to those who surrender fully.",
+      "verseLabel": "BG 18.66",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/66/",
+      "verdict": "Correct"
+    }
+  ]
 }

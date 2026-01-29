@@ -1,9 +1,385 @@
 {
   "id": "bg-5-adult",
-  "title": "Bhagavad Gita - Chapter 5 | Adult Quiz (25Q)",
+  "scripture": "bg",
+  "chapter": 5,
   "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 5 (Adult)",
   "difficulty": "medium-hard",
-  "questionCount": 25,
-  "publishedOn": null,
-  "questions": []
+  "questions": [
+    {
+      "id": "bg5-q1",
+      "prompt": "In BG 5.1, what does Arjuna ask about renunciation versus the path of action?",
+      "choices": [
+        "Which is older?",
+        "Which path is superior: renunciation or work in devotion?",
+        "Which brings faster results?",
+        "Which requires less effort?"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna seeks to understand both paths and their relationship.",
+      "verseLabel": "BG 5.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q2",
+      "prompt": "According to BG 5.2, what is the true nature of renunciation?",
+      "choices": [
+        "Abandoning all work",
+        "Abandoning the desire for fruits of action; performing duty is renunciation",
+        "Leaving home and family",
+        "Sitting idle"
+      ],
+      "correctIndex": 1,
+      "feedback": "True renunciation is not giving up work but performing it without attachment.",
+      "verseLabel": "BG 5.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q3",
+      "prompt": "In BG 5.3, what is the main difference between the sannyasi and the yogi?",
+      "choices": [
+        "Sannyasi is superior",
+        "Both reach the same goal; the yogi works, sannyasi studies only",
+        "There is no connection",
+        "They follow different religions"
+      ],
+      "correctIndex": 1,
+      "feedback": "Both paths lead to the same destination of self-realization.",
+      "verseLabel": "BG 5.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/3/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q4",
+      "prompt": "What does BG 5.4 teach about the qualities needed for renunciation?",
+      "choices": [
+        "Strength alone",
+        "Solitude and forbearance",
+        "Renunciation is not for ordinary persons",
+        "It requires superhuman abilities"
+      ],
+      "correctIndex": 1,
+      "feedback": "The renounced order is meant for those purified by works.",
+      "verseLabel": "BG 5.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q5",
+      "prompt": "According to BG 5.5, what is the real consequence of true renunciation?",
+      "choices": [
+        "You become poor",
+        "You attain Brahman and are freed from sorrow",
+        "You lose respect",
+        "You become weak"
+      ],
+      "correctIndex": 1,
+      "feedback": "The renunciated soul is peaceful, self-satisfied, and free from suffering.",
+      "verseLabel": "BG 5.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q6",
+      "prompt": "In BG 5.6, what keeps one bound to the world?",
+      "choices": [
+        "Knowledge",
+        "Work without yoga; one cannot be freed by mere renunciation",
+        "Study",
+        "Austerity"
+      ],
+      "correctIndex": 1,
+      "feedback": "Without the proper yoga (union with God), one cannot be freed.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q7",
+      "prompt": "According to BG 5.7, what characterizes the transcendental person?",
+      "choices": [
+        "They are always angry",
+        "They are unaffected by joy or sorrow, are self-controlled",
+        "They enjoy pleasures heavily",
+        "They are easily disturbed"
+      ],
+      "correctIndex": 1,
+      "feedback": "The transcendentalist remains balanced in success and failure.",
+      "verseLabel": "BG 5.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q8",
+      "prompt": "In BG 5.8, how does the transcendentalist use the senses?",
+      "choices": [
+        "They suppress all senses",
+        "They withdraw from sense objects and use senses properly",
+        "They indulge freely",
+        "They become insensitive"
+      ],
+      "correctIndex": 1,
+      "feedback": "The wise engage senses for their proper purpose without attachment.",
+      "verseLabel": "BG 5.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q9",
+      "prompt": "What does BG 5.9 teach about one who engages in devotional service?",
+      "choices": [
+        "They accumulate more karma",
+        "They are quickly freed from karma and attain peace",
+        "They suffer more",
+        "They remain bound"
+      ],
+      "correctIndex": 1,
+      "feedback": "Devotional service swiftly purifies the soul and removes all impurities.",
+      "verseLabel": "BG 5.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q10",
+      "prompt": "According to BG 5.10, how does one attain freedom from material bondage?",
+      "choices": [
+        "Through intellectual study alone",
+        "By dedicating body and mind to Krishna, with detachment from results",
+        "By wealth and power",
+        "Through suffering"
+      ],
+      "correctIndex": 1,
+      "feedback": "Full surrender and devotion are the quickest paths to liberation.",
+      "verseLabel": "BG 5.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/10/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q11",
+      "prompt": "In BG 5.11, who is a true renunciate according to Krishna?",
+      "choices": [
+        "One who leaves home",
+        "One who has conquered the senses and mind; who serves all equally",
+        "One who never works",
+        "One who lives in poverty"
+      ],
+      "correctIndex": 1,
+      "feedback": "True renunciation is mastery over mind and senses, not external appearance.",
+      "verseLabel": "BG 5.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q12",
+      "prompt": "What does BG 5.12 teach about the fruits of work?",
+      "choices": [
+        "They should be hoarded",
+        "The wise perform work and offer all results to Krishna",
+        "Results are unimportant",
+        "Work produces only suffering"
+      ],
+      "correctIndex": 1,
+      "feedback": "By offering results to God, one is freed from karmic reactions.",
+      "verseLabel": "BG 5.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q13",
+      "prompt": "According to BG 5.13, what can the body truly do?",
+      "choices": [
+        "Create new desires",
+        "Only act in response to the modes of material nature",
+        "Achieve permanent results",
+        "Always remain pure"
+      ],
+      "correctIndex": 1,
+      "feedback": "The material body can only interact with material nature.",
+      "verseLabel": "BG 5.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q14",
+      "prompt": "In BG 5.14, who is truly liberated according to Krishna?",
+      "choices": [
+        "The wealthy",
+        "One who has transcended ego and false identification with the body",
+        "The powerful",
+        "The famous"
+      ],
+      "correctIndex": 1,
+      "feedback": "Liberation comes from renouncing the false ego and bodily identification.",
+      "verseLabel": "BG 5.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q15",
+      "prompt": "What does BG 5.15 teach about attaining peace?",
+      "choices": [
+        "Peace comes from gratification",
+        "Peace comes through self-knowledge and surrender to Krishna",
+        "Peace is impossible",
+        "Peace requires isolation"
+      ],
+      "correctIndex": 1,
+      "feedback": "True peace comes from knowing the eternal nature of the soul.",
+      "verseLabel": "BG 5.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/15/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q16",
+      "prompt": "According to BG 5.16, what is the result of attaining knowledge?",
+      "choices": [
+        "Temporary relief",
+        "All doubts are dispelled and one is liberated",
+        "Confusion increases",
+        "Knowledge brings more questions"
+      ],
+      "correctIndex": 1,
+      "feedback": "True knowledge destroys all doubts and grants liberation.",
+      "verseLabel": "BG 5.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q17",
+      "prompt": "In BG 5.17, what is the qualification for experiencing Krishna?",
+      "choices": [
+        "Being born in a high family",
+        "Purity, control of senses, dedication, knowledge of self",
+        "Wealth alone",
+        "Physical strength"
+      ],
+      "correctIndex": 1,
+      "feedback": "These qualifications purify the consciousness for divine perception.",
+      "verseLabel": "BG 5.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/17/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q18",
+      "prompt": "What does BG 5.18 teach about vision and equanimity?",
+      "choices": [
+        "The learned see all beings as one",
+        "The truly learned see God equally in all beings and are never attached",
+        "This is impossible",
+        "Only saints can do this"
+      ],
+      "correctIndex": 1,
+      "feedback": "The wise perceive the same eternal soul in all creatures.",
+      "verseLabel": "BG 5.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q19",
+      "prompt": "According to BG 5.19, what is the ideal state of a yogi?",
+      "choices": [
+        "Constant mental agitation",
+        "Mind fixed on Krishna, free from lust; sees all beings equally",
+        "Confusion and doubt",
+        "Endless desires"
+      ],
+      "correctIndex": 1,
+      "feedback": "Such a soul attains the highest peace and spiritual position.",
+      "verseLabel": "BG 5.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q20",
+      "prompt": "In BG 5.20, what happens when one attains brahma-nirvana?",
+      "choices": [
+        "Extinction of existence",
+        "The jiva is freed from all material conditioning; returns to Krishna",
+        "Remaining in the material world",
+        "Becoming impersonal"
+      ],
+      "correctIndex": 1,
+      "feedback": "Liberation is reunion with the source and attainment of eternal existence.",
+      "verseLabel": "BG 5.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q21",
+      "prompt": "What does BG 5.21 teach about sensory control?",
+      "choices": [
+        "Suppression is the goal",
+        "The wise internally renounce sensory pleasure and are not disturbed",
+        "Senses should be indulged",
+        "Control is impossible"
+      ],
+      "correctIndex": 1,
+      "feedback": "The transcendentalist masters senses without forceful suppression.",
+      "verseLabel": "BG 5.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/21/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q22",
+      "prompt": "According to BG 5.22, what external stimulus cannot disturb a realized soul?",
+      "choices": [
+        "Pain alone",
+        "Heat, cold, pleasure, pain, praise, or blame",
+        "Success alone",
+        "Only intense suffering"
+      ],
+      "correctIndex": 1,
+      "feedback": "The liberated soul remains unmoved by the dualities of the world.",
+      "verseLabel": "BG 5.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/22/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q23",
+      "prompt": "In BG 5.23, what is the meaning of the phrase 'before leaving the body'?",
+      "choices": [
+        "Death",
+        "Before the external world can disturb one in meditation",
+        "Immediately",
+        "Gradually over time"
+      ],
+      "correctIndex": 1,
+      "feedback": "One should achieve this peace and detachment while still living.",
+      "verseLabel": "BG 5.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/23/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q24",
+      "prompt": "What does BG 5.24 teach about the path to Brahman?",
+      "choices": [
+        "It is very difficult",
+        "The process of yoga and meditation; controlling mind and senses",
+        "It is impossible",
+        "It requires years of study"
+      ],
+      "correctIndex": 1,
+      "feedback": "The path requires practice and dedication but is within reach of all.",
+      "verseLabel": "BG 5.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/24/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q25",
+      "prompt": "According to BG 5.25 (conclusion of Chapter 5), what can the yogi attain?",
+      "choices": [
+        "Temporary peace only",
+        "Freedom from all misery; eternal happiness in Krishna",
+        "More karma",
+        "Worldly success"
+      ],
+      "correctIndex": 1,
+      "feedback": "The ultimate goal is attainment of eternal bliss in the kingdom of God.",
+      "verseLabel": "BG 5.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/25/",
+      "verdict": "Correct"
+    }
+  ]
 }

@@ -1,9 +1,385 @@
 {
   "id": "bg-16-adult",
-  "title": "Bhagavad Gita - Chapter 16 | Adult Quiz (25Q)",
+  "scripture": "bg",
+  "chapter": 16,
   "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 16 (Adult)",
   "difficulty": "medium-hard",
-  "questionCount": 25,
-  "publishedOn": null,
-  "questions": []
+  "questions": [
+    {
+      "id": "bg16-q1",
+      "prompt": "In BG 16.1, what does Krishna teach about the divine and demoniac natures?",
+      "choices": [
+        "They are similar",
+        "The divine nature is virtuous; demoniac brings bondage; I will explain both",
+        "No difference exists",
+        "One path only"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna teaches the distinction between virtuous and degrading qualities.",
+      "verseLabel": "BG 16.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q2",
+      "prompt": "According to BG 16.2-3, what are the qualities of the divine?",
+      "choices": [
+        "Greed and anger",
+        "Fearlessness, purity, knowledge, forgiveness, truth, and self-control",
+        "Violence and lust",
+        "Attachment and hate"
+      ],
+      "correctIndex": 1,
+      "feedback": "Divine qualities elevate consciousness toward liberation.",
+      "verseLabel": "BG 16.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q3",
+      "prompt": "In BG 16.4, what are the qualities of the demoniac?",
+      "choices": [
+        "Virtue and honesty",
+        "Pride, anger, greed, harshness, lust, and violent speech",
+        "Kindness and truth",
+        "Humility and peace"
+      ],
+      "correctIndex": 1,
+      "feedback": "Demoniac qualities bind the soul in material darkness.",
+      "verseLabel": "BG 16.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q4",
+      "prompt": "What does BG 16.5 teach about the destiny of divine and demoniac natures?",
+      "choices": [
+        "They are the same",
+        "Divine attains liberation; demoniac continues in cycle of birth and death",
+        "Both suffer",
+        "Both are free"
+      ],
+      "correctIndex": 1,
+      "feedback": "The nature one cultivates determines one's spiritual destiny.",
+      "verseLabel": "BG 16.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q5",
+      "prompt": "According to BG 16.7, what should all beings strive for?",
+      "choices": [
+        "Demoniac nature",
+        "The divine nature and the knowledge of it; the path to eternal good",
+        "Material success",
+        "Worldly power"
+      ],
+      "correctIndex": 1,
+      "feedback": "Developing divine qualities is essential for spiritual progress.",
+      "verseLabel": "BG 16.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q6",
+      "prompt": "In BG 16.8, what happens to the demoniac person?",
+      "choices": [
+        "They prosper",
+        "They increase passion and wrath; bewildered, they take wrong paths",
+        "They find peace",
+        "They attain wisdom"
+      ],
+      "correctIndex": 1,
+      "feedback": "Demoniac qualities create confusion and lead to destructive paths.",
+      "verseLabel": "BG 16.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q7",
+      "prompt": "What does BG 16.11 teach about the demoniac's view of the world?",
+      "choices": [
+        "They see unity",
+        "They declare the world has no basis; no God, no laws; only lust",
+        "They recognize God",
+        "They are virtuous"
+      ],
+      "correctIndex": 1,
+      "feedback": "Atheism and materialism are the hallmarks of the demoniac.",
+      "verseLabel": "BG 16.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q8",
+      "prompt": "According to BG 16.12, what are the characteristics of demoniac people?",
+      "choices": [
+        "They are peaceful",
+        "Violent, lustful, sensual; they resort to dark magic and cruelty",
+        "They are kind",
+        "They are wise"
+      ],
+      "correctIndex": 1,
+      "feedback": "Demoniac qualities lead to destructive and immoral behavior.",
+      "verseLabel": "BG 16.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q9",
+      "prompt": "In BG 16.13-15, what is the goal of demoniac people?",
+      "choices": [
+        "Liberation",
+        "To enjoy wealth and power; driven by passion and desire; deceive others",
+        "Spiritual growth",
+        "Service to others"
+      ],
+      "correctIndex": 1,
+      "feedback": "The demoniac are enslaved by endless pursuit of material satisfaction.",
+      "verseLabel": "BG 16.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q10",
+      "prompt": "What does BG 16.16-18 teach about the karma created?",
+      "choices": [
+        "No karma exists",
+        "Bound by hundreds of desires; they accumulate sin and suffer hell",
+        "Virtue grows",
+        "They are blessed"
+      ],
+      "correctIndex": 1,
+      "feedback": "Demoniac actions create severe karmic consequences and suffering.",
+      "verseLabel": "BG 16.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q11",
+      "prompt": "According to BG 16.19-20, what is the destination of the demoniac?",
+      "choices": [
+        "Liberation",
+        "They are thrown into demoniac wombs; subject to endless cycles of rebirth",
+        "Spiritual abode",
+        "Heaven"
+      ],
+      "correctIndex": 1,
+      "feedback": "Demoniac nature leads to degraded births and continued material bondage.",
+      "verseLabel": "BG 16.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q12",
+      "prompt": "In BG 16.21, what are the three gates of hell?",
+      "choices": [
+        "They do not exist",
+        "Lust, anger, and greed; one must abandon these",
+        "Virtues",
+        "Knowledge"
+      ],
+      "correctIndex": 1,
+      "feedback": "Overcoming passion, anger, and greed is essential for liberation.",
+      "verseLabel": "BG 16.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/21/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q13",
+      "prompt": "What does BG 16.22 teach about one who abandons these?",
+      "choices": [
+        "They gain more",
+        "One obtains liberation; he progresses toward the Supreme",
+        "They fail",
+        "They suffer"
+      ],
+      "correctIndex": 1,
+      "feedback": "Renouncing destructive qualities leads to spiritual elevation.",
+      "verseLabel": "BG 16.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/22/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q14",
+      "prompt": "According to BG 16.23, what should guide one's conduct?",
+      "choices": [
+        "Personal desire",
+        "The scriptures and ordinances; do not act on whim and desire",
+        "Impulse only",
+        "Passion"
+      ],
+      "correctIndex": 1,
+      "feedback": "Following scriptural guidance ensures righteous and beneficial living.",
+      "verseLabel": "BG 16.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/23/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q15",
+      "prompt": "In BG 16.24, what is the status of those who abandon scriptural guidance?",
+      "choices": [
+        "They are wise",
+        "They are defeated in their goals; they do not attain perfection",
+        "They succeed",
+        "They prosper"
+      ],
+      "correctIndex": 1,
+      "feedback": "Ignoring scriptural wisdom leads to failure and spiritual decline.",
+      "verseLabel": "BG 16.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/24/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q16",
+      "prompt": "What distinguishes the divine nature from the demoniac?",
+      "choices": [
+        "Strength vs weakness",
+        "Alignment with cosmic law vs selfish indulgence",
+        "Knowledge vs ignorance",
+        "Rituals vs non-rituals"
+      ],
+      "correctIndex": 1,
+      "feedback": "The divine align with universal truth; the demoniac with selfish desire.",
+      "verseLabel": "BG 16.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q17",
+      "prompt": "How does Chapter 16 help in spiritual development?",
+      "choices": [
+        "It condemns people",
+        "By identifying qualities to cultivate and reject",
+        "It divides people",
+        "It is judgmental only"
+      ],
+      "correctIndex": 1,
+      "feedback": "Self-assessment of qualities enables conscious spiritual growth.",
+      "verseLabel": "BG 16.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/26/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q18",
+      "prompt": "What is the practical value of understanding divine and demoniac?",
+      "choices": [
+        "Theoretical only",
+        "One can consciously choose to develop divine qualities",
+        "It is useless",
+        "No application exists"
+      ],
+      "correctIndex": 1,
+      "feedback": "This knowledge empowers individuals to transform themselves.",
+      "verseLabel": "BG 16.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/27/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q19",
+      "prompt": "In BG 16, what is the promised outcome for the divine?",
+      "choices": [
+        "Confusion",
+        "Liberation and eternal happiness in Krishna's abode",
+        "Bondage",
+        "Suffering"
+      ],
+      "correctIndex": 1,
+      "feedback": "Cultivating divine qualities leads to the highest destination.",
+      "verseLabel": "BG 16.28",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/28/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q20",
+      "prompt": "According to the chapter, what prevents the demoniac from progressing?",
+      "choices": [
+        "Bad luck",
+        "Ego, delusion, and ignorance; refusal to follow dharma",
+        "Fate",
+        "Others' actions"
+      ],
+      "correctIndex": 1,
+      "feedback": "Self-created delusion binds the demoniac in endless cycles.",
+      "verseLabel": "BG 16.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q21",
+      "prompt": "According to the chapter, what prevents the demoniac from progressing?",
+      "choices": [
+        "Bad luck",
+        "Ego, delusion, and ignorance; refusal to follow dharma",
+        "Fate",
+        "Others' actions"
+      ],
+      "correctIndex": 1,
+      "feedback": "Self-created delusion binds the demoniac in endless cycles.",
+      "verseLabel": "BG 16.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q22",
+      "prompt": "According to the chapter, what prevents the demoniac from progressing?",
+      "choices": [
+        "Bad luck",
+        "Ego, delusion, and ignorance; refusal to follow dharma",
+        "Fate",
+        "Others' actions"
+      ],
+      "correctIndex": 1,
+      "feedback": "Self-created delusion binds the demoniac in endless cycles.",
+      "verseLabel": "BG 16.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q23",
+      "prompt": "According to the chapter, what prevents the demoniac from progressing?",
+      "choices": [
+        "Bad luck",
+        "Ego, delusion, and ignorance; refusal to follow dharma",
+        "Fate",
+        "Others' actions"
+      ],
+      "correctIndex": 1,
+      "feedback": "Self-created delusion binds the demoniac in endless cycles.",
+      "verseLabel": "BG 16.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q24",
+      "prompt": "According to the chapter, what prevents the demoniac from progressing?",
+      "choices": [
+        "Bad luck",
+        "Ego, delusion, and ignorance; refusal to follow dharma",
+        "Fate",
+        "Others' actions"
+      ],
+      "correctIndex": 1,
+      "feedback": "Self-created delusion binds the demoniac in endless cycles.",
+      "verseLabel": "BG 16.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg16-q25",
+      "prompt": "According to the chapter, what prevents the demoniac from progressing?",
+      "choices": [
+        "Bad luck",
+        "Ego, delusion, and ignorance; refusal to follow dharma",
+        "Fate",
+        "Others' actions"
+      ],
+      "correctIndex": 1,
+      "feedback": "Self-created delusion binds the demoniac in endless cycles.",
+      "verseLabel": "BG 16.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/29/",
+      "verdict": "Correct"
+    }
+  ]
 }

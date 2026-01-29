@@ -1,0 +1,235 @@
+{
+  "id": "bg-2-teens",
+  "scripture": "bg",
+  "chapter": 2,
+  "audience": "teens",
+  "title": "Bhagavad Gita — Chapter 2 (Teens)",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "id": "bg2-q1-teens",
+      "prompt": "In BG 2.2, what does Krsna point out to Arjuna?",
+      "choices": [
+        "His military strategy is weak",
+        "He is showing weakness and sadness even though he is a warrior",
+        "His weapons are not strong enough",
+        "He should have run away earlier"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krsna tells Arjuna that he is acting weakly and unmanly despite being a warrior, and should overcome this weakness.",
+      "verseLabel": "BG 2.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q2-teens",
+      "prompt": "In BG 2.3, how does Krsna tell Arjuna to overcome weakness?",
+      "choices": [
+        "By hiding from the battle",
+        "By becoming angry",
+        "By giving up his sadness and standing up to face his duty",
+        "By running away quickly"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna urges Arjuna to stop being sad, stand up, and face what he needs to do with courage.",
+      "verseLabel": "BG 2.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/3/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q3-teens",
+      "prompt": "What does Arjuna do in BG 2.7?",
+      "choices": [
+        "He insults Krsna",
+        "He ignores Krsna's words",
+        "He asks Krsna to teach him what he should do",
+        "He walks away from the chariot"
+      ],
+      "correctIndex": 2,
+      "feedback": "Arjuna accepts that he is confused and asks Krsna to teach him the right way to act in this situation.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q4-teens",
+      "prompt": "In BG 2.11, what does Krsna say wise people understand about mourning?",
+      "choices": [
+        "They mourn only for dead people",
+        "They mourn both living and dead equally",
+        "They do not mourn excessively for anyone who dies",
+        "They mourn for everyone"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna says that wise people understand that mourning endlessly is not the answer, whether for the living or for those who pass away.",
+      "verseLabel": "BG 2.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q5-teens",
+      "prompt": "According to BG 2.12, what is true about the soul and individual beings?",
+      "choices": [
+        "They are created only at birth",
+        "They exist forever; there was never a time when they did not exist",
+        "They are destroyed when the body dies",
+        "They are all the same being"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krsna teaches that individual souls exist eternally; there is no time when they did not exist and no time when they will cease to exist.",
+      "verseLabel": "BG 2.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q6-teens",
+      "prompt": "In BG 2.13, what does Krsna compare to the changes in a person's body over time?",
+      "choices": [
+        "Seasons changing",
+        "A tree growing",
+        "The stages of life from childhood to old age while the person remains the same",
+        "A river flowing"
+      ],
+      "correctIndex": 2,
+      "feedback": "Just as a person grows from childhood to youth to old age but remains the same person, the soul remains eternal while the body changes.",
+      "verseLabel": "BG 2.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q7-teens",
+      "prompt": "What does BG 2.14 teach about happiness and sadness?",
+      "choices": [
+        "They are permanent and never change",
+        "Happiness is good but sadness is bad forever",
+        "They come and go like summer and winter, and we should accept both",
+        "We should only feel happiness"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna teaches that happiness and sadness are temporary experiences, like seasons, and the wise person learns to deal with both.",
+      "verseLabel": "BG 2.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q8-teens",
+      "prompt": "In BG 2.15, who is ready to reach a higher state of being?",
+      "choices": [
+        "Someone who is disturbed by happiness and sadness",
+        "Someone who stays calm and not disturbed by happiness or sadness",
+        "Someone who chases happiness",
+        "Someone who avoids all responsibility"
+      ],
+      "correctIndex": 1,
+      "feedback": "A person who remains calm and steady even when experiencing happiness or sadness is qualified to reach a higher spiritual state.",
+      "verseLabel": "BG 2.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/15/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q9-teens",
+      "prompt": "According to BG 2.17, what is the soul compared to?",
+      "choices": [
+        "The body and senses",
+        "Water and air",
+        "That which exists throughout the body, cannot be destroyed, and is eternal",
+        "A temporary spark"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna describes the soul as eternal and indestructible, present throughout the body, and impossible to harm or destroy.",
+      "verseLabel": "BG 2.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/17/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q10-teens",
+      "prompt": "In BG 2.20, what is stated about the soul and birth and death?",
+      "choices": [
+        "The soul is born and dies like the body",
+        "The soul is born but does not die",
+        "The soul has never been born and will never die",
+        "Death is the end of everything"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna teaches that the soul does not have birth or death; it is eternal and is not destroyed even when the body dies.",
+      "verseLabel": "BG 2.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q11-teens",
+      "prompt": "In BG 2.22, what does Krsna compare to changing clothes?",
+      "choices": [
+        "Life itself",
+        "The soul's transition from one body to another",
+        "Age and growing up",
+        "War and peace"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krsna uses the simple analogy that just as we change old clothes for new ones, the soul takes on a new body when the old one dies.",
+      "verseLabel": "BG 2.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/22/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q12-teens",
+      "prompt": "What does BG 2.31 teach about a warrior's duty?",
+      "choices": [
+        "A warrior should never fight",
+        "A warrior should only fight for wealth",
+        "Fighting for what is right is a warrior's sacred duty",
+        "A warrior should become a priest instead"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna teaches that a warrior's duty is to fight righteously, and there is no better engagement for a warrior than to fight for what is right.",
+      "verseLabel": "BG 2.31",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/31/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q13-teens",
+      "prompt": "According to BG 2.37, what happens if Arjuna refuses to fight?",
+      "choices": [
+        "He will be hailed as a great pacifist",
+        "He will gain immediate peace and happiness",
+        "He will lose respect and fail in his duty",
+        "He will become wealthier"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna warns that if Arjuna does not do his duty as a warrior, he will be seen as a coward and will lose respect.",
+      "verseLabel": "BG 2.37",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/37/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q14-teens",
+      "prompt": "In BG 2.47, what is the main point about doing your duty?",
+      "choices": [
+        "You should do your duty only if you are sure you will win",
+        "You should do your duty without being attached to whether you succeed or fail",
+        "You should do your duty only if it brings rewards",
+        "You should never do your duty"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krsna teaches that you should do what is right and your duty without worrying too much about whether you win or lose.",
+      "verseLabel": "BG 2.47",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/47/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q15-teens",
+      "prompt": "What is Krsna's main message to Arjuna in Chapter 2?",
+      "choices": [
+        "Avoid all conflict and hide",
+        "The soul is eternal, so you should do your duty as a warrior without fear",
+        "Only material things matter",
+        "Grief and sadness are good"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krsna's main teaching is that since the soul is eternal and cannot be harmed, Arjuna should do his duty as a warrior without being afraid or overwhelmed by sadness.",
+      "verseLabel": "BG 2.20-2.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
+      "verdict": "Correct"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "bg-1-teens",
+  "scripture": "bg",
+  "chapter": 1,
+  "audience": "teens",
+  "title": "Bhagavad Gita — Chapter 1 (Teens)",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "id": "bg1-q1-teens",
+      "prompt": "In BG 1.1, what does Dhritarastra ask Sanjaya to describe?",
+      "choices": [
+        "The outcome of the war",
+        "What his sons and the Pandavas did after assembling on the battlefield",
+        "The weapons of both armies",
+        "Why Krsna came to the battlefield"
+      ],
+      "correctIndex": 1,
+      "feedback": "Dhritarastra asks about what his sons and the Pandavas are doing after assembling for battle.",
+      "verseLabel": "BG 1.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q2-teens",
+      "prompt": "Why does Duryodhana go to meet his teacher Drona in BG 1.2?",
+      "choices": [
+        "To boast confidently about his strong army",
+        "To ask for his blessing before the war",
+        "To secretly express his worries about the battle",
+        "To receive final weapons training"
+      ],
+      "correctIndex": 2,
+      "feedback": "Although Duryodhana tries to sound confident, his words actually show that he is worried about the upcoming war.",
+      "verseLabel": "BG 1.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q3-teens",
+      "prompt": "How do the Pandavas respond when Bhisma blows his conchshell in BG 1.13?",
+      "choices": [
+        "They become afraid",
+        "They blow their own conchshells in response",
+        "They remain silent",
+        "They attack immediately"
+      ],
+      "correctIndex": 1,
+      "feedback": "The Pandavas respond to Bhisma by blowing many conchshells, showing they are ready and united.",
+      "verseLabel": "BG 1.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q4-teens",
+      "prompt": "What does Arjuna ask Krsna to do in BG 1.21-1.22?",
+      "choices": [
+        "Negotiate peace with the opposing side",
+        "Place the chariot between the armies so he can see who is there",
+        "Give him his weapons",
+        "Drive him away from the battlefield"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna asks Krsna to position the chariot so he can see all the warriors assembled for battle.",
+      "verseLabel": "BG 1.21-1.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/21/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q5-teens",
+      "prompt": "What happens to Arjuna after he sees his relatives on the battlefield in BG 1.26?",
+      "choices": [
+        "He becomes angry",
+        "He becomes sad and confused",
+        "He feels excited to fight",
+        "He remains calm"
+      ],
+      "correctIndex": 1,
+      "feedback": "When Arjuna sees his grandfathers, teachers, and cousins, he feels compassion and sadness rather than readiness to fight.",
+      "verseLabel": "BG 1.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/26/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q6-teens",
+      "prompt": "In BG 1.29-1.30, what physical symptoms does Arjuna describe?",
+      "choices": [
+        "His muscles feel strong",
+        "His body trembles, his vision becomes unclear, and he cannot stand steady",
+        "He feels alert and ready",
+        "He hears voices"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna describes his body trembling, his mind becoming confused, and his vision becoming cloudy due to his emotional distress.",
+      "verseLabel": "BG 1.29-1.30",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/30/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q7-teens",
+      "prompt": "What does Arjuna say about fighting his own relatives in BG 1.31?",
+      "choices": [
+        "It will bring him honor",
+        "He sees no good in killing his own family members",
+        "It is required by duty",
+        "It will make him famous"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna believes there is no good outcome from fighting people who are his own blood relatives.",
+      "verseLabel": "BG 1.31",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/31/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q8-teens",
+      "prompt": "What does Arjuna question the value of in BG 1.32-1.35?",
+      "choices": [
+        "Only military victory",
+        "Only his weapons",
+        "A kingdom and happiness if they come from killing relatives",
+        "Only gold and treasure"
+      ],
+      "correctIndex": 2,
+      "feedback": "Arjuna argues that neither a kingdom nor happiness would be worth anything if obtained by killing his own family.",
+      "verseLabel": "BG 1.32-1.35",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/32-35/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q9-teens",
+      "prompt": "In BG 1.36, what does Arjuna fear will happen if he fights?",
+      "choices": [
+        "He will lose the battle",
+        "He will become weak",
+        "He will become wealthy",
+        "He will commit sin"
+      ],
+      "correctIndex": 3,
+      "feedback": "Arjuna believes that by killing his own relatives, he will do something wrong and become tainted with sin.",
+      "verseLabel": "BG 1.36",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/36/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q10-teens",
+      "prompt": "What does Arjuna say happens to a family when its traditions are destroyed in BG 1.39-1.40?",
+      "choices": [
+        "The family becomes wealthier",
+        "The family becomes happier",
+        "Bad practices spread and the family's way of life is corrupted",
+        "Everyone becomes wise"
+      ],
+      "correctIndex": 2,
+      "feedback": "Arjuna warns that destroying family traditions leads to problems, dishonesty, and the breakdown of good family values.",
+      "verseLabel": "BG 1.39-1.40",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/40/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q11-teens",
+      "prompt": "According to Arjuna in BG 1.41, what happens to the ancestors of families that lose their traditions?",
+      "choices": [
+        "They become proud",
+        "They are happy with the changes",
+        "They lose the honor of receiving respect and proper ceremonies",
+        "They become kings of other lands"
+      ],
+      "correctIndex": 2,
+      "feedback": "When families stop performing proper ceremonies and respecting tradition, the ancestors no longer receive honor and remembrance.",
+      "verseLabel": "BG 1.41",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/41/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q12-teens",
+      "prompt": "In BG 1.43, what has Arjuna heard about families that destroy their traditions?",
+      "choices": [
+        "They become more powerful",
+        "They live happily forever",
+        "They suffer bad consequences for their actions",
+        "They become famous throughout the world"
+      ],
+      "correctIndex": 2,
+      "feedback": "Arjuna has been taught that families who destroy their traditions face serious consequences for harming their own people.",
+      "verseLabel": "BG 1.43",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/43/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q13-teens",
+      "prompt": "In BG 1.44, what does Arjuna think is strange about the situation?",
+      "choices": [
+        "The armies are far apart",
+        "Everyone is well trained and skilled",
+        "People are ready to do something harmful just to gain power and wealth",
+        "Krsna is present"
+      ],
+      "correctIndex": 2,
+      "feedback": "Arjuna is shocked that people's desire for power and possessions makes them willing to harm even their own family.",
+      "verseLabel": "BG 1.44",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/44/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q14-teens",
+      "prompt": "What does Arjuna say would be better for him personally in BG 1.45?",
+      "choices": [
+        "To win the war and rule the kingdom",
+        "To be killed by his enemies while not fighting back",
+        "To run away and never return",
+        "To hide until the war ends"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna expresses that it would be better to die unarmed and defenseless than to kill his own relatives.",
+      "verseLabel": "BG 1.45",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/45/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg1-q15-teens",
+      "prompt": "What is Arjuna's condition at the end of Chapter 1 in BG 1.46?",
+      "choices": [
+        "He stands ready to fight with confidence",
+        "He negotiates peace",
+        "He puts down his weapons and sits down, overcome with sadness and confusion",
+        "He leaves the battlefield quickly"
+      ],
+      "correctIndex": 2,
+      "feedback": "At the end of Chapter 1, Arjuna is so confused and sad that he puts down his bow and arrows and sits in the chariot overwhelmed by grief.",
+      "verseLabel": "BG 1.46",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/46/",
+      "verdict": "Correct"
+    }
+  ]
+}

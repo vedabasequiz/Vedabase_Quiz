@@ -328,25 +328,36 @@ export default function HomePage() {
       background: "#fff",
       cursor: "pointer",
       minHeight: aboutExpanded ? "auto" : 100,
+      display: "grid",
+      gridTemplateColumns: "70px 1fr auto",
+      gap: 12,
+      alignItems: "center",
     }}
   >
-    <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
-      <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
-        <span style={{ fontSize: 32 }}>🪷</span>
-        <div>
-          <div style={{ fontWeight: 700, fontSize: 16 }}>About Vedabase Quiz</div>
-          <div style={{ fontSize: 13, color: "#6c757d" }}>
-            {aboutExpanded ? "Click to collapse" : "Click to learn more"}
-          </div>
-        </div>
-      </div>
-      <span style={{ fontSize: 20, color: "#6c757d" }}>
-        {aboutExpanded ? "▲" : "▼"}
-      </span>
+    <div style={{ 
+      width: 70, 
+      height: 70, 
+      display: "flex", 
+      alignItems: "center", 
+      justifyContent: "center",
+      fontSize: 40,
+      background: "#f8f9fa",
+      borderRadius: 6,
+    }}>
+      🪷
     </div>
+    <div>
+      <div style={{ fontWeight: 700, marginBottom: 4 }}>About Vedabase Quiz</div>
+      <div style={{ fontSize: 13, color: "#6c757d" }}>
+        {aboutExpanded ? "Click to collapse" : "Click to learn more"}
+      </div>
+    </div>
+    <span style={{ fontSize: 20, color: "#6c757d" }}>
+      {aboutExpanded ? "▲" : "▼"}
+    </span>
 
     {aboutExpanded && (
-      <div style={{ paddingTop: 20, opacity: 0.92, lineHeight: 1.55, fontSize: 15 }} onClick={(e) => e.stopPropagation()}>
+      <div style={{ gridColumn: "1 / -1", paddingTop: 20, opacity: 0.92, lineHeight: 1.55, fontSize: 15 }} onClick={(e) => e.stopPropagation()}>
         <p style={{ marginTop: 0, marginBottom: 16 }}>
           Vedabase Quiz is a sacred self-study space to deepen understanding of the Bhagavad Gita and Srimad Bhagavatam.
         </p>

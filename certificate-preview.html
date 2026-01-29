@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certificate Design Preview - Vedabase Quiz</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 40px;
+            background: #f5f5f5;
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+        
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        
+        .preview-section {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .preview-section h2 {
+            margin-top: 0;
+            color: #333;
+            border-bottom: 2px solid #d4a574;
+            padding-bottom: 10px;
+        }
+        
+        canvas {
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background: white;
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+        }
+        
+        .description {
+            color: #666;
+            line-height: 1.6;
+            padding: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>🏆 Vedabase Quiz - Certificate Design Preview</h1>
+    
+    <div class="preview-section">
+        <h2>Design 1: Classic Elegant (Current)</h2>
+        <canvas id="cert1" width="1200" height="800"></canvas>
+        <div class="description">
+            <strong>Style:</strong> Classic, professional, printable<br>
+            <strong>Colors:</strong> Warm cream background with brown borders<br>
+            <strong>Fonts:</strong> Georgia serif for elegance<br>
+            <strong>Best for:</strong> Traditional, formal achievement recognition
+        </div>
+    </div>
+    
+    <div class="preview-section">
+        <h2>Design 2: Modern Minimalist</h2>
+        <canvas id="cert2" width="1200" height="800"></canvas>
+        <div class="description">
+            <strong>Style:</strong> Clean, contemporary, minimal<br>
+            <strong>Colors:</strong> White background with blue-green gradient header<br>
+            <strong>Fonts:</strong> Sans-serif for modern look<br>
+            <strong>Best for:</strong> Digital sharing, clean aesthetic
+        </div>
+    </div>
+    
+    <div class="preview-section">
+        <h2>Design 3: Glassmorphism Modern</h2>
+        <canvas id="cert3" width="1200" height="800"></canvas>
+        <div class="description">
+            <strong>Style:</strong> Trendy glassmorphism effect<br>
+            <strong>Colors:</strong> Frosted glass look with purple gradient background<br>
+            <strong>Fonts:</strong> Bold sans-serif for impact<br>
+            <strong>Best for:</strong> Contemporary, premium feel
+        </div>
+    </div>
+    
+    <div class="preview-section">
+        <h2>Design 4: Gradient Vibrant</h2>
+        <canvas id="cert4" width="1200" height="800"></canvas>
+        <div class="description">
+            <strong>Style:</strong> Vibrant, dynamic, eye-catching<br>
+            <strong>Colors:</strong> Bold color gradients with high contrast<br>
+            <strong>Fonts:</strong> Bold sans-serif for strong impact<br>
+            <strong>Best for:</strong> Social media sharing, youth engagement
+        </div>
+    </div>
+
+    <script>
+        // Design 1: Classic Elegant with Vedabase branding
+        function drawCertificate1() {
+            const canvas = document.getElementById('cert1');
+            const ctx = canvas.getContext('2d');
+            
+            ctx.fillStyle = "#f5f1e8";
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            ctx.strokeStyle = "#8b7355";
+            ctx.lineWidth = 4;
+            ctx.strokeRect(40, 40, canvas.width - 80, canvas.height - 80);
+            
+            ctx.strokeStyle = "#d4a574";
+            ctx.lineWidth = 2;
+            ctx.strokeRect(60, 60, canvas.width - 120, canvas.height - 120);
+            
+            // Vedabase branding
+            ctx.font = "bold 16px Arial, sans-serif";
+            ctx.fillStyle = "#d4a574";
+            ctx.textAlign = "center";
+            ctx.fillText("VEDABASE QUIZ", canvas.width / 2, 95);
+            
+            ctx.font = "bold 48px Georgia, serif";
+            ctx.fillStyle = "#5d4e37";
+            ctx.fillText("Certificate of Achievement", canvas.width / 2, 150);
+            
+            ctx.font = "32px serif";
+            ctx.fillStyle = "rgba(139, 115, 85, 0.3)";
+            ctx.fillText("✨", canvas.width / 2 - 120, 160);
+            ctx.fillText("✨", canvas.width / 2 + 120, 160);
+            
+            ctx.font = "28px Georgia, serif";
+            ctx.fillStyle = "#6b5d47";
+            ctx.fillText("Bhagavad Gita Quiz", canvas.width / 2, 250);
+            
+            ctx.font = "24px Georgia, serif";
+            ctx.fillStyle = "#8b7355";
+            ctx.fillText("This certifies that", canvas.width / 2, 330);
+            
+            ctx.font = "bold 36px Georgia, serif";
+            ctx.fillStyle = "#1e3a8a";
+            ctx.fillText("95% Mastery", canvas.width / 2, 410);
+            
+            ctx.font = "20px Georgia, serif";
+            ctx.fillStyle = "#8b7355";
+            ctx.fillText("19 out of 20 questions correct", canvas.width / 2, 450);
+            
+            ctx.font = "bold 32px Arial";
+            ctx.fillStyle = "#5d4e37";
+            ctx.fillText("✨ Excellent!", canvas.width / 2, 510);
+            
+            const today = new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+            ctx.font = "18px Georgia, serif";
+            ctx.fillStyle = "#a0957a";
+            ctx.fillText(`Issued: ${today}`, canvas.width / 2, 700);
+        }
+        
+        // Design 2: Modern Minimalist
+        function drawCertificate2() {
+            const canvas = document.getElementById('cert2');
+            const ctx = canvas.getContext('2d');
+            
+            ctx.fillStyle = "#ffffff";
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            const gradient = ctx.createLinearGradient(0, 0, canvas.width, 0);
+            gradient.addColorStop(0, "#1e3a8a");
+            gradient.addColorStop(1, "#2f7d32");
+            ctx.fillStyle = gradient;
+            ctx.fillRect(0, 0, canvas.width, 100);
+            
+            ctx.font = "bold 18px Arial, sans-serif";
+            ctx.fillStyle = "#ffffff";
+            ctx.textAlign = "center";
+            ctx.fillText("VEDABASE QUIZ", canvas.width / 2, 35);
+            
+            ctx.font = "12px Arial, sans-serif";
+            ctx.fillStyle = "rgba(255,255,255,0.8)";
+            ctx.fillText("Learning Platform", canvas.width / 2, 65);
+            
+            ctx.font = "bold 40px Arial, sans-serif";
+            ctx.fillStyle = "#333";
+            ctx.fillText("Achievement Unlocked", canvas.width / 2, 200);
+            
+            ctx.font = "26px Arial, sans-serif";
+            ctx.fillStyle = "#666";
+            ctx.fillText("Bhagavad Gita Quiz", canvas.width / 2, 280);
+            
+            ctx.font = "18px Arial, sans-serif";
+            ctx.fillStyle = "#999";
+            ctx.fillText("Score Achieved", canvas.width / 2, 340);
+            
+            ctx.font = "bold 56px Arial, sans-serif";
+            ctx.fillStyle = "#1e3a8a";
+            ctx.fillText("95%", canvas.width / 2, 420);
+            
+            ctx.font = "16px Arial, sans-serif";
+            ctx.fillStyle = "#999";
+            ctx.fillText("19 of 20 Correct", canvas.width / 2, 460);
+            
+            ctx.font = "bold 28px Arial, sans-serif";
+            ctx.fillStyle = "#2f7d32";
+            ctx.fillText("✨ Excellent Performance!", canvas.width / 2, 530);
+            
+            ctx.font = "14px Arial, sans-serif";
+            ctx.fillStyle = "#ccc";
+            const today = new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+            ctx.fillText(`Completed on ${today}`, canvas.width / 2, 680);
+        }
+        
+        // Design 3: Glassmorphism Modern
+        function drawCertificate3() {
+            const canvas = document.getElementById('cert3');
+            const ctx = canvas.getContext('2d');
+            
+            const bgGradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
+            bgGradient.addColorStop(0, "#667eea");
+            bgGradient.addColorStop(1, "#764ba2");
+            ctx.fillStyle = bgGradient;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            ctx.fillStyle = "rgba(255, 255, 255, 0.15)";
+            ctx.fillRect(80, 80, canvas.width - 160, canvas.height - 160);
+            
+            ctx.strokeStyle = "rgba(255, 255, 255, 0.3)";
+            ctx.lineWidth = 2;
+            ctx.strokeRect(80, 80, canvas.width - 160, canvas.height - 160);
+            
+            ctx.font = "bold 16px Arial, sans-serif";
+            ctx.fillStyle = "rgba(255, 255, 255, 0.8)";
+            ctx.textAlign = "center";
+            ctx.fillText("VEDABASE QUIZ", canvas.width / 2, 130);
+            
+            ctx.font = "bold 48px Arial, sans-serif";
+            ctx.fillStyle = "#ffffff";
+            ctx.fillText("Certificate", canvas.width / 2, 200);
+            
+            ctx.font = "18px Arial, sans-serif";
+            ctx.fillStyle = "rgba(255, 255, 255, 0.9)";
+            ctx.fillText("of Outstanding Achievement", canvas.width / 2, 235);
+            
+            ctx.font = "24px Arial, sans-serif";
+            ctx.fillStyle = "#ffffff";
+            ctx.fillText("Bhagavad Gita Quiz", canvas.width / 2, 320);
+            
+            ctx.fillStyle = "rgba(255, 255, 255, 0.1)";
+            ctx.fillRect(300, 360, canvas.width - 600, 120);
+            
+            ctx.strokeStyle = "rgba(255, 255, 255, 0.2)";
+            ctx.lineWidth = 1;
+            ctx.strokeRect(300, 360, canvas.width - 600, 120);
+            
+            ctx.font = "14px Arial, sans-serif";
+            ctx.fillStyle = "rgba(255, 255, 255, 0.7)";
+            ctx.fillText("Score", canvas.width / 2, 390);
+            
+            ctx.font = "bold 52px Arial, sans-serif";
+            ctx.fillStyle = "#ffd700";
+            ctx.fillText("95%", canvas.width / 2, 455);
+            
+            ctx.font = "bold 24px Arial, sans-serif";
+            ctx.fillStyle = "#ffffff";
+            ctx.fillText("✨ Excellent! ✨", canvas.width / 2, 540);
+            
+            ctx.font = "14px Arial, sans-serif";
+            ctx.fillStyle = "rgba(255, 255, 255, 0.6)";
+            const today = new Date().toLocaleDateString("en-US", { year: "numeric", month: "long", day: "numeric" });
+            ctx.fillText(today, canvas.width / 2, 680);
+        }
+        
+        // Design 4: Gradient Vibrant
+        function drawCertificate4() {
+            const canvas = document.getElementById('cert4');
+            const ctx = canvas.getContext('2d');
+            
+            const bgGradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
+            bgGradient.addColorStop(0, "#00d4ff");
+            bgGradient.addColorStop(0.5, "#0099ff");
+            bgGradient.addColorStop(1, "#6f00ff");
+            ctx.fillStyle = bgGradient;
+            ctx.fillRect(0, 0, canvas.width, canvas.height);
+            
+            ctx.fillStyle = "#ffffff";
+            ctx.fillRect(100, 100, canvas.width - 200, canvas.height - 200);
+            
+            const headerGrad = ctx.createLinearGradient(100, 100, canvas.width - 100, 160);
+            headerGrad.addColorStop(0, "#ff6b6b");
+            headerGrad.addColorStop(1, "#ff9f43");
+            ctx.fillStyle = headerGrad;
+            ctx.fillRect(100, 100, canvas.width - 200, 90);
+            
+            ctx.font = "bold 16px Arial, sans-serif";
+            ctx.fillStyle = "#ffffff";
+            ctx.textAlign = "center";
+            ctx.fillText("VEDABASE QUIZ", canvas.width / 2, 128);
+            
+            ctx.font = "12px Arial, sans-serif";
+            ctx.fillStyle = "rgba(255, 255, 255, 0.9)";
+            ctx.fillText("Certificate of Achievement", canvas.width / 2, 152);
+            
+            ctx.font = "bold 32px Arial, sans-serif";
+            ctx.fillStyle = "#ff6b6b";
+            ctx.fillText("Bhagavad Gita Quiz", canvas.width / 2, 240);
+            
+            ctx.font = "16px Arial, sans-serif";
+            ctx.fillStyle = "#999";
+            ctx.fillText("Your Score", canvas.width / 2, 290);
+            
+            ctx.font = "bold 72px Arial, sans-serif";
+            ctx.fillStyle = "#0099ff";
+            ctx.fillText("95%", canvas.width / 2, 380);
+            
+            ctx.font = "14px Arial, sans-serif";
+            ctx.fillStyle = "#666";
+            ctx.fillText("19 out of 20 questions answered correctly", canvas.width / 2, 420);
+            
+            ctx.font = "48px Arial";
+            ctx.fillText("✨", canvas.width / 2 - 60, 500);
+            ctx.fillText("✨", canvas.width / 2 + 60, 500);
+            
+            ctx.font = "bold 26px Arial, sans-serif";
+            ctx.fillStyle = "#333";
+            ctx.fillText("Excellent Achievement!", canvas.width / 2, 560);
+        }
+        
+        drawCertificate1();
+        drawCertificate2();
+        drawCertificate3();
+        drawCertificate4();
+    </script>
+</body>
+</html>

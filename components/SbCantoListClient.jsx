@@ -66,9 +66,13 @@ export default function SbCantoListClient({ audience }) {
             </div>
             
             <div className="chapterListRight">
-              <div className={hasProgress ? "chapterListBadge" : "chapterListHint"}>
-                {progress.completed}/{progress.total} chapters
-              </div>
+              {hasProgress ? (
+                <div className="chapterListBadge">
+                  {progress.completed}/{progress.total} chapters
+                </div>
+              ) : (
+                <div className="chapterListHint">Not started</div>
+              )}
             </div>
           </Link>
         );

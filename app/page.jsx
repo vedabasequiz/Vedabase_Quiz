@@ -10,6 +10,21 @@ export default function HomePage() {
           box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
           border-color: #bbb !important;
         }
+        .about-card {
+          transition: all 0.2s ease;
+        }
+        .about-card:hover {
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+          border-color: #bbb !important;
+        }
+        .about-card summary {
+          cursor: pointer;
+          user-select: none;
+          list-style: none;
+        }
+        .about-card summary::-webkit-details-marker {
+          display: none;
+        }
       `}} />
       
       <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
@@ -98,19 +113,32 @@ export default function HomePage() {
   </a>
 </div>
 
-       {/* Collapsible section */}
-      <details style={{ marginTop: 14, marginBottom: 18 }}>
+       {/* About section as card */}
+      <details 
+        className="about-card"
+        style={{ 
+          marginTop: 14, 
+          marginBottom: 18,
+          padding: 14,
+          border: "1px solid #ddd",
+          borderRadius: 10,
+          background: "#fff"
+        }}
+      >
   <summary
     style={{
-      cursor: "pointer",
       fontWeight: 700,
       fontSize: 16,
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "space-between"
     }}
   >
-    About Vedabase Quiz
+    <span>🪷 About Vedabase Quiz</span>
+    <span style={{ fontSize: 12, opacity: 0.6 }}>▼</span>
   </summary>
 
-  <div style={{ paddingTop: 12, paddingLeft: 12, opacity: 0.92, lineHeight: 1.55 }}>
+  <div style={{ paddingTop: 16, opacity: 0.92, lineHeight: 1.55 }}>
     <p style={{ marginTop: 0 }}>
       <strong>Vedabase Quiz</strong> is a quiet self-study project created to support deeper engagement with the{" "}
       <em>Bhagavad Gita</em> and <em>Srimad Bhagavatam</em>.

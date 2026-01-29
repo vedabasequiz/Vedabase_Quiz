@@ -24,7 +24,7 @@ export default function SbCantoClient({ cantoNum, chapters, availability, titles
     return meta ? `/quiz/${meta.slug}/` : null;
   }
 
-  function titleFor(canto, chapter) {
+  function titleFor(chapter) {
     return titles[chapter] || "";
   }
 
@@ -63,7 +63,7 @@ export default function SbCantoClient({ cantoNum, chapters, availability, titles
         {chapters.map((ch) => {
           const selectedUrl = linkFor(ch, audience);
           const isAvailable = !!selectedUrl;
-          const title = titleFor(cantoNum, ch);
+          const title = titleFor(ch);
           
           // Get quiz result for this chapter
           const slug = selectedUrl ? selectedUrl.replace(/^\/quiz\//, "").replace(/\/$/, "") : null;

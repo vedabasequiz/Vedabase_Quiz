@@ -68,14 +68,16 @@ export default function BgClient({ chapters, availability, titles, initialAudien
                 {title ? <div className="chapterTitle">{title}</div> : null}
                 
                 {/* Progress badge */}
-                {result && (
+                {result ? (
                   <div style={{ marginTop: 8, fontSize: 13 }}>
                     <div className="completionBadge">
                       ✓ {result.score}/{result.total} ({result.percentage}%)
                     </div>
                     <div className="lastPlayed">{formatTimeAgo(result.date)}</div>
                   </div>
-                )}
+                ) : isAvailable ? (
+                  <div className="progressHint">Complete to track progress</div>
+                ) : null}
               </div>
 
               {!isAvailable ? (

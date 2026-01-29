@@ -180,7 +180,7 @@ details li {
   justify-content: space-between;
   gap: 10px;
 
-  height: 140px;
+  height: 180px;
 
   transition: transform 0.08s ease,
               box-shadow 0.12s ease,
@@ -251,6 +251,13 @@ details li {
 .chapterCardCompleted {
   border-left-width: 4px;
   border-left-color: #4caf50;
+}
+
+.progressHint {
+  font-size: 11px;
+  color: #999;
+  margin-top: 4px;
+  font-style: italic;
 }
 
 /* -----------------------------

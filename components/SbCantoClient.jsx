@@ -1,22 +1,13 @@
 "use client";
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
 import { formatTimeAgo } from "../lib/quizProgress";
 
 export default function SbCantoClient({ cantoNum, chapters, availability, titles, initialAudience }) {
-  const router = useRouter();
-  const searchParams = useSearchParams();
   const [quizResults, setQuizResults] = useState({});
   
-  const audience = searchParams.get("audience") || initialAudience;
+  const audience = initialAudience;
   const audienceLabel = audience.charAt(0).toUpperCase() + audience.slice(1);
-
-  useEffect(() => {
-    if (!searchParams.get("audience")) {
-      router.replace(`/sb/${cantoNum}/?audience=adult`);
-    }
-  }, [searchParams, router, cantoNum]);
 
   useEffect(() => {
     try {

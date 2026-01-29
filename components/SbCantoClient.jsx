@@ -89,7 +89,7 @@ export default function SbCantoClient({ cantoNum, chapters, availability, titles
                     <div className="chapterListDate">{formatTimeAgo(result.date)}</div>
                   </>
                 ) : isAvailable ? (
-                  <div className="chapterListHint">Complete to track progress</div>
+                  <div className="chapterListHint">Not started</div>
                 ) : (
                   <div className="chapterListComingSoon">{audienceLabel}: coming soon</div>
                 )}

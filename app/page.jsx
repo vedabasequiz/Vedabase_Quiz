@@ -1,6 +1,70 @@
-import WeeklyEngagement from "../components/WeeklyEngagement";
+"use client";
+
+import { useState, useEffect } from "react";
+import { getWeeklyStreak, getBgProgress, getSbProgress } from "../lib/quizProgress";
+
+function CircularProgress({ percentage, size = 60, strokeWidth = 6 }) {
+  const radius = (size - strokeWidth) / 2;
+  const circumference = radius * 2 * Math.PI;
+  const offset = circumference - (percentage / 100) * circumference;
+
+  return (
+    <svg width={size} height={size} style={{ transform: "rotate(-90deg)" }}>
+      {/* Background circle */}
+      <circle
+        cx={size / 2}
+        cy={size / 2}
+        r={radius}
+        fill="none"
+        stroke="#e9ecef"
+        strokeWidth={strokeWidth}
+      />
+      {/* Progress circle */}
+      <circle
+        cx={size / 2}
+        cy={size / 2}
+        r={radius}
+        fill="none"
+        stroke="#4caf50"
+        strokeWidth={strokeWidth}
+        strokeDasharray={circumference}
+        strokeDashoffset={offset}
+        strokeLinecap="round"
+        style={{ transition: "stroke-dashoffset 0.5s ease" }}
+      />
+      {/* Percentage text */}
+      <text
+        x="50%"
+        y="50%"
+        textAnchor="middle"
+        dy="0.3em"
+        fontSize="16"
+        fontWeight="600"
+        fill="#212529"
+        style={{ transform: "rotate(90deg)", transformOrigin: "center" }}
+      >
+        {percentage}%
+      </text>
+    </svg>
+  );
+}
 
 export default function HomePage() {
+  const [audience, setAudience] = useState("adult");
+  const [streak, setStreak] = useState(0);
+  const [bgProgress, setBgProgress] = useState({ completed: 0, total: 18, percentage: 0 });
+  const [sbProgress, setSbProgress] = useState({ completed: 0, total: 0, percentage: 0 });
+
+  useEffect(() => {
+    const currentStreak = getWeeklyStreak();
+    const bg = getBgProgress(audience);
+    const sb = getSbProgress(audience);
+
+    setStreak(currentStreak);
+    setBgProgress(bg);
+    setSbProgress(sb);
+  }, [audience]);
+
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       <style dangerouslySetInnerHTML={{__html: `
@@ -27,12 +91,74 @@ export default function HomePage() {
         .about-card summary::marker {
           font-size: 20px;
         }
+        .audience-selector {
+          display: flex;
+          gap: 8px;
+          margin-bottom: 16px;
+        }
+        .audience-btn {
+          padding: 8px 16px;
+          border: 2px solid #dee2e6;
+          border-radius: 8px;
+          background: white;
+          cursor: pointer;
+          font-size: 14px;
+          font-weight: 500;
+          transition: all 0.2s ease;
+        }
+        .audience-btn:hover {
+          border-color: #adb5bd;
+        }
+        .audience-btn.active {
+          background: #4caf50;
+          color: white;
+          border-color: #4caf50;
+        }
       `}} />
       
       <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
 
-      {/* Weekly Engagement (Streak + Challenge) */}
-      <WeeklyEngagement />
+      {/* Streak Counter */}
+      {streak > 0 && (
+        <div style={{
+          display: "flex",
+          alignItems: "center",
+          gap: 8,
+          padding: "12px 16px",
+          background: "linear-gradient(135deg, #ff6b35 0%, #ff8c42 100%)",
+          borderRadius: 10,
+          boxShadow: "0 2px 8px rgba(255, 107, 53, 0.25)",
+          color: "white",
+          fontWeight: 600,
+          fontSize: 16,
+          marginBottom: 16,
+        }}>
+          <span style={{ fontSize: 24 }}>🔥</span>
+          <span>{streak}-week streak!</span>
+        </div>
+      )}
+
+      {/* Audience Selector */}
+      <div className="audience-selector">
+        <button
+          className={`audience-btn ${audience === "adult" ? "active" : ""}`}
+          onClick={() => setAudience("adult")}
+        >
+          Adults
+        </button>
+        <button
+          className={`audience-btn ${audience === "teens" ? "active" : ""}`}
+          onClick={() => setAudience("teens")}
+        >
+          Teens
+        </button>
+        <button
+          className={`audience-btn ${audience === "kids" ? "active" : ""}`}
+          onClick={() => setAudience("kids")}
+        >
+          Kids
+        </button>
+      </div>
 
       {/* NEW intro text (mobile-tight) */}
       <div style={{ opacity: 0.9, marginTop: 0, lineHeight: 1.5 }}>
@@ -53,10 +179,10 @@ export default function HomePage() {
         </p>
       </div>
 
-      {/* Cards */}
+      {/* Cards with Progress */}
 <div style={{ display: "grid", gap: 12 }}>
   <a
-    href="/bg/"
+    href={`/bg/?audience=${audience}`}
     className="scripture-card"
     style={{
       padding: 14,
@@ -65,10 +191,10 @@ export default function HomePage() {
       textDecoration: "none",
       color: "inherit",
       display: "grid",
-      gridTemplateColumns: "88px 1fr",
+      gridTemplateColumns: "88px 1fr auto",
       gap: 12,
       alignItems: "center",
-      minHeight: 180,
+      minHeight: 100,
       background: "#fff",
     }}
   >
@@ -84,12 +210,16 @@ export default function HomePage() {
       }}
     />
     <div>
-      <div style={{ fontWeight: 700 }}>Bhagavad Gita</div>
+      <div style={{ fontWeight: 700, marginBottom: 4 }}>Bhagavad Gita</div>
+      <div style={{ fontSize: 14, color: "#6c757d" }}>
+        {bgProgress.completed}/{bgProgress.total} chapters
+      </div>
     </div>
+    <CircularProgress percentage={bgProgress.percentage} />
   </a>
 
   <a
-    href="/sb/"
+    href={`/sb/?audience=${audience}`}
     className="scripture-card"
     style={{
       padding: 14,
@@ -98,10 +228,10 @@ export default function HomePage() {
       textDecoration: "none",
       color: "inherit",
       display: "grid",
-      gridTemplateColumns: "88px 1fr",
+      gridTemplateColumns: "88px 1fr auto",
       gap: 12,
       alignItems: "center",
-      minHeight: 180,
+      minHeight: 100,
       background: "#fff",
     }}
   >
@@ -117,8 +247,12 @@ export default function HomePage() {
       }}
     />
     <div>
-      <div style={{ fontWeight: 700 }}>Srimad Bhagavatam</div>
+      <div style={{ fontWeight: 700, marginBottom: 4 }}>Srimad Bhagavatam</div>
+      <div style={{ fontSize: 14, color: "#6c757d" }}>
+        {sbProgress.completed}/{sbProgress.total} chapters
+      </div>
     </div>
+    <CircularProgress percentage={sbProgress.percentage} />
   </a>
 </div>
 

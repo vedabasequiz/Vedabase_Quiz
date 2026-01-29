@@ -127,6 +127,16 @@ export default function HomePage() {
           color: white;
           border-color: #4caf50;
         }
+        @media (max-width: 600px) {
+          .audience-selector {
+            flex-direction: column;
+            gap: 4px;
+          }
+          .audience-btn {
+            padding: 4px 8px;
+            font-size: 11px;
+          }
+        }
       `}} />
       
       <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>

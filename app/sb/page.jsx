@@ -1,21 +1,6 @@
 import Link from "next/link";
 import { redirect } from "next/navigation";
-
-// Vedabase Canto titles (ASCII-only)
-const SB_CANTO_TITLES = {
-  1: "Creation",
-  2: "The Cosmic Manifestation",
-  3: "The Status Quo",
-  4: "The Creation of the Fourth Order",
-  5: "The Creative Impetus",
-  6: "Prescribed Duties for Mankind",
-  7: "The Science of God",
-  8: "Withdrawal of the Cosmic Creations",
-  9: "Liberation",
-  10: "The Summum Bonum",
-  11: "General History",
-  12: "The Age of Deterioration",
-};
+import SbCantoListClient from "../../components/SbCantoListClient";
 
 function getAudienceFromSearchParams(searchParams) {
   const a = searchParams?.audience;
@@ -31,9 +16,6 @@ export default function SbIndex({ searchParams }) {
 
   const audience = getAudienceFromSearchParams(searchParams);
   const audienceLabel = audience.charAt(0).toUpperCase() + audience.slice(1);
-
-  // Always show all 12 cantos
-  const cantos = Array.from({ length: 12 }, (_, i) => i + 1);
 
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
@@ -61,21 +43,8 @@ export default function SbIndex({ searchParams }) {
         </Link>
       </div>
 
-      {/* Canto List */}
-      <div className="chapterList">
-        {cantos.map((c) => (
-          <Link 
-            key={c} 
-            href={`/sb/${c}/?audience=${audience}`} 
-            className="chapterListItem"
-          >
-            <div className="chapterListContent">
-              <div className="chapterListHeader">Canto {c}</div>
-              <div className="chapterListTitle">{SB_CANTO_TITLES[c] || ""}</div>
-            </div>
-          </Link>
-        ))}
-      </div>
+      {/* Canto List with Progress */}
+      <SbCantoListClient audience={audience} />
 
       <div style={{ marginTop: 18 }}>
         <Link href="/">Back to home</Link>

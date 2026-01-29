@@ -1,7 +1,19 @@
 export default function HomePage() {
   return (
-    <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
-      <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
+    <>
+      <style jsx>{`
+        .scripture-card {
+          transition: all 0.2s ease;
+        }
+        .scripture-card:hover {
+          transform: scale(1.02);
+          box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+          border-color: #bbb !important;
+        }
+      `}</style>
+      
+      <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+        <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
 
       {/* NEW intro text (mobile-tight) */}
       <div style={{ opacity: 0.9, marginTop: 0, lineHeight: 1.5 }}>
@@ -26,6 +38,7 @@ export default function HomePage() {
 <div style={{ display: "grid", gap: 12 }}>
   <a
     href="/bg/"
+    className="scripture-card"
     style={{
       padding: 14,
       border: "1px solid #ddd",
@@ -56,6 +69,7 @@ export default function HomePage() {
 
   <a
     href="/sb/"
+    className="scripture-card"
     style={{
       padding: 14,
       border: "1px solid #ddd",
@@ -166,5 +180,6 @@ export default function HomePage() {
 
 
     </main>
+    </>
   );
 }

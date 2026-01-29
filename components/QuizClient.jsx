@@ -56,8 +56,10 @@ export default function QuizClient({ quiz }) {
     if (submitted && soundEnabled) {
       if (scorePct === 1) {
         playSound("celebration"); // Epic celebration for 100%
+        speakHariBol(); // Say "Hari Bol" for 100%
       } else if (scorePct >= 0.9) {
         playSound("tada"); // Cheerful tada for 90%+
+        speakHariBol(); // Say "Hari Bol" for 90%+
       }
     }
   }, [submitted, soundEnabled, scorePct]);
@@ -97,6 +99,33 @@ export default function QuizClient({ quiz }) {
     
     oscillator.start(startTime);
     oscillator.stop(startTime + duration);
+  }
+
+  function speakHariBol() {
+    try {
+      // Cancel any previous speech
+      window.speechSynthesis.cancel();
+      
+      const utterance = new SpeechSynthesisUtterance("Hari Bol");
+      utterance.rate = 0.9; // Slightly slower for clarity
+      utterance.pitch = 1.0;
+      utterance.volume = 1.0;
+      
+      // Use a pleasant voice if available
+      const voices = window.speechSynthesis.getVoices();
+      if (voices.length > 0) {
+        // Try to find a good voice, fallback to first available
+        const goodVoice = voices.find(v => v.lang.includes("en")) || voices[0];
+        utterance.voice = goodVoice;
+      }
+      
+      // Speak after a small delay (200ms) to let the melody finish
+      setTimeout(() => {
+        window.speechSynthesis.speak(utterance);
+      }, 200);
+    } catch (e) {
+      // Silently fail if speech synthesis not available
+    }
   }
 
   // Generate share message based on score

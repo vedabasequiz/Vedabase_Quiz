@@ -368,6 +368,10 @@ const SB_CHAPTER_TITLES = {
   },
 };
 
+export function generateStaticParams() {
+  return listSbCantos().map((c) => ({ canto: String(c) }));
+}
+
 function getAudienceFromSearchParams(searchParams) {
   const a = searchParams?.audience;
   const v = Array.isArray(a) ? a[0] : a;

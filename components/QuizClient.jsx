@@ -1,6 +1,7 @@
 "use client";
 
-import React, { useMemo, useState } from "react";
+import React, { useMemo, useState, useRef, useEffect } from "react";
+import Confetti from "react-confetti";
 
 function getGrade(score, total) {
   const pct = total > 0 ? score / total : 0;
@@ -21,6 +22,8 @@ function cleanFeedbackText(text) {
 export default function QuizClient({ quiz }) {
   const [answers, setAnswers] = useState(Array.from({ length: quiz.questions.length }, () => null));
   const [submitted, setSubmitted] = useState(false);
+  const [soundEnabled, setSoundEnabled] = useState(true);
+  const confettiRef = useRef(null);
 
   const results = useMemo(() => {
     return quiz.questions.map((q, i) => {
@@ -44,8 +47,57 @@ export default function QuizClient({ quiz }) {
 
   const score = useMemo(() => results.reduce((acc, r) => acc + (r.isCorrect ? 1 : 0), 0), [results]);
   const grade = useMemo(() => getGrade(score, quiz.questions.length), [score, quiz.questions.length]);
+  const scorePct = quiz.questions.length > 0 ? score / quiz.questions.length : 0;
 
   const missed = useMemo(() => results.filter((r) => !r.isCorrect), [results]);
+
+  // Play sound effect based on score
+  useEffect(() => {
+    if (submitted && soundEnabled) {
+      if (scorePct === 1) {
+        playSound("celebration"); // Epic celebration for 100%
+      } else if (scorePct >= 0.9) {
+        playSound("tada"); // Cheerful tada for 90%+
+      }
+    }
+  }, [submitted, soundEnabled, scorePct]);
+
+  function playSound(type) {
+    try {
+      const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+      const now = audioContext.currentTime;
+
+      if (type === "celebration") {
+        // Ascending notes: C, E, G, C (happy major chord)
+        playTone(audioContext, 262, 0.1, now); // C
+        playTone(audioContext, 330, 0.1, now + 0.1); // E
+        playTone(audioContext, 392, 0.1, now + 0.2); // G
+        playTone(audioContext, 524, 0.2, now + 0.3); // C
+      } else if (type === "tada") {
+        // Shorter cheerful melody
+        playTone(audioContext, 440, 0.08, now); // A
+        playTone(audioContext, 554, 0.08, now + 0.08); // C#
+        playTone(audioContext, 659, 0.15, now + 0.16); // E
+      }
+    } catch (e) {
+      // Silently fail if audio context not available
+    }
+  }
+
+  function playTone(audioContext, frequency, duration, startTime) {
+    const oscillator = audioContext.createOscillator();
+    const envelope = audioContext.createGain();
+    
+    oscillator.frequency.value = frequency;
+    oscillator.connect(envelope);
+    envelope.connect(audioContext.destination);
+    
+    envelope.gain.setValueAtTime(0.3, startTime);
+    envelope.gain.exponentialRampToValueAtTime(0.01, startTime + duration);
+    
+    oscillator.start(startTime);
+    oscillator.stop(startTime + duration);
+  }
 
   function onSelect(qIdx, choiceIdx) {
     if (submitted) return;
@@ -87,36 +139,108 @@ export default function QuizClient({ quiz }) {
       </div>
 
       {submitted ? (
-        <div className={`scoreBox score${grade.key}`}>
-          <div className="scoreTitle">
-            {grade.emoji} {grade.title} — {score} / {quiz.questions.length}
-          </div>
-
-          <div className="scoreLine">{grade.line}</div>
-          <div className="scoreSub">Self-study mode: explanations and verse links are shown below.</div>
-
-          {/* Missed question tags (jump links) */}
-          {missed.length > 0 ? (
-            <div className="missedWrap">
-              <div className="missedLabel">Review missed questions:</div>
-              <div className="missedChips">
-                {missed.map((r) => (
-                  <a key={r.qId} className="missedChip" href={`#q-${r.idx + 1}`}>
-                    Q{r.idx + 1}
-                  </a>
-                ))}
-              </div>
-            </div>
-          ) : (
-            <div className="missedWrap">
-              <div className="missedLabel">No missed questions. Nice work!</div>
-            </div>
+        <>
+          {/* Confetti: Epic for 100%, Moderate for 90%+ */}
+          {scorePct === 1 && (
+            <Confetti
+              ref={confettiRef}
+              width={typeof window !== "undefined" ? window.innerWidth : 800}
+              height={typeof window !== "undefined" ? window.innerHeight : 600}
+              numberOfPieces={80}
+              gravity={0.5}
+              colors={["#2f7d32", "#1e3a8a", "#6b4f1d", "#c41e3a", "#fbbf24"]}
+            />
+          )}
+          {scorePct >= 0.9 && scorePct < 1 && (
+            <Confetti
+              ref={confettiRef}
+              width={typeof window !== "undefined" ? window.innerWidth : 800}
+              height={typeof window !== "undefined" ? window.innerHeight : 600}
+              numberOfPieces={40}
+              gravity={0.8}
+              colors={["#1e3a8a", "#fbbf24", "#06b6d4"]}
+            />
           )}
 
-          <button className="btnSecondary" onClick={onReset} style={{ marginTop: 12 }}>
-            Retake quiz
-          </button>
-        </div>
+          <div className={`scoreBox score${grade.key}`}>
+            {/* Sound toggle button */}
+            <button
+              onClick={() => setSoundEnabled(!soundEnabled)}
+              style={{
+                position: "absolute",
+                top: 16,
+                right: 16,
+                background: "none",
+                border: "none",
+                fontSize: 20,
+                cursor: "pointer",
+                opacity: 0.7,
+                transition: "opacity 0.2s",
+              }}
+              onMouseEnter={(e) => (e.target.style.opacity = "1")}
+              onMouseLeave={(e) => (e.target.style.opacity = "0.7")}
+              title={soundEnabled ? "Mute sound" : "Unmute sound"}
+            >
+              {soundEnabled ? "🔊" : "🔇"}
+            </button>
+
+            {/* Animated Score Ring + Title */}
+            <div style={{ display: "flex", alignItems: "center", gap: 20, marginBottom: 16 }}>
+              <div className="scoreRing" style={{ "--score": scorePct }}>
+                <svg
+                  width="80"
+                  height="80"
+                  viewBox="0 0 80 80"
+                  style={{ transform: "rotate(-90deg)", filter: "drop-shadow(0 2px 4px rgba(0,0,0,0.1))" }}
+                >
+                  <circle cx="40" cy="40" r="35" fill="none" stroke="#f0f0f0" strokeWidth="8" />
+                  <circle
+                    cx="40"
+                    cy="40"
+                    r="35"
+                    fill="none"
+                    stroke={scorePct === 1 ? "#2f7d32" : scorePct >= 0.9 ? "#1e3a8a" : scorePct >= 0.75 ? "#6b4f1d" : "#666"}
+                    strokeWidth="8"
+                    strokeDasharray={`${2 * Math.PI * 35}`}
+                    strokeDashoffset={`${2 * Math.PI * 35 * (1 - scorePct)}`}
+                    style={{ transition: "stroke-dashoffset 0.8s ease-out" }}
+                  />
+                </svg>
+                <div className="scoreRingText">{score}/{quiz.questions.length}</div>
+              </div>
+              <div>
+                <div className="scoreTitle" style={{ fontSize: 24 }}>
+                  {grade.emoji} {grade.title}
+                </div>
+              </div>
+            </div>
+
+            <div className="scoreLine">{grade.line}</div>
+            <div className="scoreSub">Self-study mode: explanations and verse links are shown below.</div>
+
+            {/* Missed question tags (jump links) */}
+            {missed.length > 0 ? (
+              <div className="missedWrap">
+                <div className="missedLabel">Review missed questions:</div>
+                <div className="missedChips">
+                  {missed.map((r) => (
+                    <a key={r.qId} className="missedChip" href={`#q-${r.idx + 1}`}>
+                      Q{r.idx + 1}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            ) : (
+              <div className="missedWrap">
+                <div className="missedLabel">No missed questions. Nice work!</div>
+              </div>
+            )}
+
+            <button className="btnSecondary" onClick={onReset} style={{ marginTop: 12 }}>
+              Retake quiz
+            </button>
+          </div>
+        </>
       ) : (
         <div className="scoreBox" style={{ background: "#fff" }}>
           <div style={{ fontSize: 16, fontWeight: 800 }}>Instructions</div>

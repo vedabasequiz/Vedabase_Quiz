@@ -218,7 +218,7 @@ export default function HomePage() {
       border: "1px solid #ddd",
       borderRadius: 10,
       display: "grid",
-      gridTemplateColumns: "88px 1fr auto",
+      gridTemplateColumns: "70px 1fr auto",
       gap: 12,
       alignItems: "center",
       minHeight: 100,
@@ -230,11 +230,10 @@ export default function HomePage() {
       src="/images/bg-cover.jpg"
       alt="Bhagavad Gita"
       style={{
-        width: 88,
-        height: 88,
+        width: 70,
+        height: 70,
         objectFit: "cover",
-        borderRadius: 10,
-        border: "1px solid #eee",
+        borderRadius: 6,
       }}
     />
     <div>
@@ -279,7 +278,7 @@ export default function HomePage() {
       border: "1px solid #ddd",
       borderRadius: 10,
       display: "grid",
-      gridTemplateColumns: "88px 1fr auto",
+      gridTemplateColumns: "70px 1fr auto",
       gap: 12,
       alignItems: "center",
       minHeight: 100,
@@ -291,11 +290,10 @@ export default function HomePage() {
       src="/images/sb-cover.jpg"
       alt="Srimad Bhagavatam"
       style={{
-        width: 88,
-        height: 88,
+        width: 70,
+        height: 70,
         objectFit: "cover",
-        borderRadius: 10,
-        border: "1px solid #eee",
+        borderRadius: 6,
       }}
     />
     <div>

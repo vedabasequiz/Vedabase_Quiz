@@ -1,0 +1,160 @@
+{
+  "id": "bg-2-kids",
+  "scripture": "bg",
+  "chapter": 2,
+  "audience": "kids",
+  "title": "Bhagavad Gita — Chapter 2 (Kids)",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "id": "bg2-q1-kids",
+      "prompt": "In BG 2.2, what does Krsna point out to sad Arjuna?",
+      "choices": [
+        "His sword is too heavy",
+        "He is acting weak and sad even though he is a warrior",
+        "His clothes are torn",
+        "His horse is tired"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krsna tells Arjuna that he is being weak and sad when he should be brave and strong.",
+      "verseLabel": "BG 2.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q2-kids",
+      "prompt": "What does Krsna tell Arjuna to do in BG 2.3?",
+      "choices": [
+        "Run away from the battle",
+        "Cry and feel sad",
+        "Stop being weak and stand up to face what needs to be done",
+        "Sit and do nothing"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna tells Arjuna to give up being sad and weak, and to stand up and be strong.",
+      "verseLabel": "BG 2.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/3/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q3-kids",
+      "prompt": "What does Arjuna do in BG 2.7?",
+      "choices": [
+        "He tells Krsna to go away",
+        "He gets angry with Krsna",
+        "He asks Krsna to teach him what the right thing to do is",
+        "He ignores everything Krsna says"
+      ],
+      "correctIndex": 2,
+      "feedback": "Arjuna is confused and asks Krsna to teach him because he knows Krsna is wise.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q4-kids",
+      "prompt": "Are the things we see and experience permanent, or do they always change?",
+      "choices": [
+        "They are always exactly the same",
+        "They change like seasons - sometimes happy, sometimes sad, and that is normal",
+        "They never change at all",
+        "Only bad things change"
+      ],
+      "correctIndex": 1,
+      "feedback": "Just like seasons come and go, our feelings and experiences change all the time. This is natural and happens to everyone.",
+      "verseLabel": "BG 2.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q5-kids",
+      "prompt": "According to BG 2.13, what happens as we grow from young to old?",
+      "choices": [
+        "We become a different person each time we grow",
+        "We stay exactly the same",
+        "Our body changes but we remain the same person inside",
+        "We are a new person every day"
+      ],
+      "correctIndex": 2,
+      "feedback": "Just as you grow from a baby to a child to a young person, your body changes but you are still the same you inside.",
+      "verseLabel": "BG 2.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q6-kids",
+      "prompt": "Who is ready to do great things in life?",
+      "choices": [
+        "Only people who never feel sad",
+        "Only people who never feel happy",
+        "People who stay calm even when things are happy or sad",
+        "People who run away from problems"
+      ],
+      "correctIndex": 2,
+      "feedback": "A person who can stay calm and not get too upset whether things are good or bad is strong and ready for great things.",
+      "verseLabel": "BG 2.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/15/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q7-kids",
+      "prompt": "In BG 2.20, what does Krsna teach about the soul?",
+      "choices": [
+        "The soul is born and dies with the body",
+        "The soul is not born and cannot die; it is eternal",
+        "The soul lives only for a few years",
+        "Only rich people have a soul"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krsna teaches that the soul inside us never dies and was never born. It is eternal and forever.",
+      "verseLabel": "BG 2.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q8-kids",
+      "prompt": "In BG 2.22, Krsna compares changing bodies to what?",
+      "choices": [
+        "Eating food",
+        "Climbing a tree",
+        "Changing into new clothes and taking off old ones",
+        "Playing a game"
+      ],
+      "correctIndex": 2,
+      "feedback": "Just as we take off old clothes and put on new ones, the soul takes on a new body when the old one ends.",
+      "verseLabel": "BG 2.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/22/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q9-kids",
+      "prompt": "What is special about doing the right duty without expecting rewards?",
+      "choices": [
+        "It is bad and you should not do it",
+        "It is boring and a waste of time",
+        "It is good and keeps you free from bad results",
+        "It doesn't matter what you do"
+      ],
+      "correctIndex": 2,
+      "feedback": "When you do what is right without worrying about getting rewards, it keeps you happy and free from harm.",
+      "verseLabel": "BG 2.47",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/47/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q10-kids",
+      "prompt": "What is Krsna's main message to Arjuna in Chapter 2?",
+      "choices": [
+        "Always be sad and worried",
+        "The soul is eternal and cannot be hurt, so be brave and do what is right",
+        "Never do anything difficult",
+        "Only think about what makes you happy"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krsna teaches that the soul is eternal and safe, so Arjuna should be brave, do his duty, and not be afraid.",
+      "verseLabel": "BG 2.20-2.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
+      "verdict": "Correct"
+    }
+  ]
+}

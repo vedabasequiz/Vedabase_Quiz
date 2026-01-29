@@ -203,11 +203,6 @@ def main():
     data_dir = Path('data/quizzes/bg')
     
     results = {}
-    chapters_pass_all = 0
-    chapters_pass_t1 = 0
-    chapters_with_t2_issues = 0
-    chapters_with_t3_issues = 0
-    
     total_files = 0
     total_pass_all = 0
     total_pass_t1 = 0
@@ -219,7 +214,7 @@ def main():
     print("=" * 80)
     
     # Check all audience types for chapters 1-18
-    audiences = ['adult', 'teens']
+    audiences = ['adult', 'teens', 'kids']
     
     for chapter in range(1, 19):
         for audience in audiences:

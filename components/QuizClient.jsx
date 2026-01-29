@@ -106,23 +106,35 @@ export default function QuizClient({ quiz }) {
       // Cancel any previous speech
       window.speechSynthesis.cancel();
       
-      const utterance = new SpeechSynthesisUtterance("Hari Bol");
-      utterance.rate = 0.9; // Slightly slower for clarity
-      utterance.pitch = 1.0;
-      utterance.volume = 1.0;
-      
-      // Use a pleasant voice if available
       const voices = window.speechSynthesis.getVoices();
-      if (voices.length > 0) {
-        // Try to find a good voice, fallback to first available
-        const goodVoice = voices.find(v => v.lang.includes("en")) || voices[0];
-        utterance.voice = goodVoice;
+      
+      // Try to find an Indian English voice (en-IN)
+      let selectedVoice = voices.find(v => v.lang === "en-IN" || v.lang.startsWith("en-IN"));
+      
+      // If no Indian English, try Hindi
+      if (!selectedVoice) {
+        selectedVoice = voices.find(v => v.lang === "hi-IN" || v.lang.startsWith("hi-IN"));
       }
       
-      // Speak after a small delay (200ms) to let the melody finish
-      setTimeout(() => {
-        window.speechSynthesis.speak(utterance);
-      }, 200);
+      // Fallback to any English voice
+      if (!selectedVoice) {
+        selectedVoice = voices.find(v => v.lang.includes("en")) || voices[0];
+      }
+      
+      // Speak "Hari Bol" three times with delays between
+      const delays = [200, 800, 1400]; // Delays for 1st, 2nd, and 3rd utterance
+      
+      delays.forEach((delay, index) => {
+        setTimeout(() => {
+          const utterance = new SpeechSynthesisUtterance("Hari Bol");
+          utterance.rate = 0.85; // Natural speaking pace
+          utterance.pitch = 1.0;
+          utterance.volume = 1.0;
+          utterance.voice = selectedVoice;
+          
+          window.speechSynthesis.speak(utterance);
+        }, delay);
+      });
     } catch (e) {
       // Silently fail if speech synthesis not available
     }

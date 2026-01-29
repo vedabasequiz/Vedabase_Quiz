@@ -1,3 +1,5 @@
+import WeeklyEngagement from "../components/WeeklyEngagement";
+
 export default function HomePage() {
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
@@ -28,6 +30,9 @@ export default function HomePage() {
       `}} />
       
       <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
+
+      {/* Weekly Engagement (Streak + Challenge) */}
+      <WeeklyEngagement />
 
       {/* NEW intro text (mobile-tight) */}
       <div style={{ opacity: 0.9, marginTop: 0, lineHeight: 1.5 }}>

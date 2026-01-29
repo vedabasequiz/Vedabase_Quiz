@@ -2,6 +2,7 @@
 
 import React, { useMemo, useState, useRef, useEffect } from "react";
 import Confetti from "react-confetti";
+import { checkMilestone } from "../lib/quizProgress";
 
 function getGrade(score, total) {
   const pct = total > 0 ? score / total : 0;
@@ -240,6 +241,20 @@ export default function QuizClient({ quiz }) {
           date: new Date().toISOString(),
         };
         localStorage.setItem("vedabaseQuizResults", JSON.stringify(results));
+        
+        // Check for milestone achievements
+        const milestone = checkMilestone();
+        if (milestone && soundEnabled) {
+          // Celebrate milestone with confetti and voice
+          setTimeout(() => {
+            playSound("celebration");
+            speakHariBol();
+            // Show milestone message
+            setTimeout(() => {
+              alert(`🎊 ${milestone.message}`);
+            }, 500);
+          }, 1500);
+        }
       }
     } catch (e) {
       // Silently fail if localStorage not available

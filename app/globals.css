@@ -254,6 +254,151 @@ details li {
   padding-left: 14px;
 }
 
+/* -----------------------------
+   Weekly Engagement (Streak & Challenge)
+-------------------------------- */
+.weeklyEngagement {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.streakCounter {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 16px;
+  background: linear-gradient(135deg, #ff6b35 0%, #ff8c42 100%);
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(255, 107, 53, 0.25);
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.streakEmoji {
+  font-size: 24px;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2));
+}
+
+.streakText {
+  letter-spacing: 0.3px;
+}
+
+.weeklyChallenge {
+  padding: 16px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border: 2px solid #dee2e6;
+  border-radius: 10px;
+  transition: all 0.2s ease;
+}
+
+.weeklyChallenge:hover {
+  border-color: #adb5bd;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.challengeHeader {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #495057;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.challengeIcon {
+  font-size: 18px;
+}
+
+.challengeTitle {
+  opacity: 0.9;
+}
+
+.challengeLink {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.challengeContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 12px;
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.challengeLink:hover .challengeContent {
+  border-color: #adb5bd;
+  transform: translateX(4px);
+}
+
+.challengeText {
+  font-size: 16px;
+  font-weight: 500;
+  color: #212529;
+}
+
+.challengeCheck {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  background: #d4edda;
+  color: #155724;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .weeklyEngagement {
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+  
+  .streakCounter {
+    padding: 10px 14px;
+    font-size: 15px;
+  }
+  
+  .streakEmoji {
+    font-size: 20px;
+  }
+  
+  .weeklyChallenge {
+    padding: 14px;
+  }
+  
+  .challengeHeader {
+    font-size: 13px;
+    margin-bottom: 8px;
+  }
+  
+  .challengeContent {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  
+  .challengeText {
+    font-size: 15px;
+  }
+  
+  .challengeCheck {
+    align-self: flex-start;
+  }
+}
+
 .chapterListContent {
   flex: 1;
   min-width: 0;

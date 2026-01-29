@@ -238,6 +238,9 @@ export default function HomePage() {
       </div>
     </div>
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }} className="progress-container">
+      <div style={{ fontSize: 11, fontWeight: 600, color: "#6c757d", textTransform: "uppercase", letterSpacing: "0.5px" }}>
+        Progress
+      </div>
       <CircularProgress percentage={bgProgress.percentage} />
       <div className="audience-selector" onClick={(e) => e.stopPropagation()} style={{ marginTop: 0 }}>
         <button
@@ -296,6 +299,9 @@ export default function HomePage() {
       </div>
     </div>
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }} className="progress-container">
+      <div style={{ fontSize: 11, fontWeight: 600, color: "#6c757d", textTransform: "uppercase", letterSpacing: "0.5px" }}>
+        Progress
+      </div>
       <CircularProgress percentage={sbProgress.percentage} />
       <div className="audience-selector" onClick={(e) => e.stopPropagation()} style={{ marginTop: 0 }}>
         <button

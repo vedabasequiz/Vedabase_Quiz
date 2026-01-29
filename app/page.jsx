@@ -190,6 +190,7 @@ export default function HomePage() {
 <div style={{ display: "grid", gap: 12 }}>
   <div
     className="scripture-card"
+    onClick={() => window.location.href = `/bg/?audience=${bgAudience}`}
     style={{
       padding: 14,
       border: "1px solid #ddd",
@@ -200,6 +201,7 @@ export default function HomePage() {
       alignItems: "center",
       minHeight: 100,
       background: "#fff",
+      cursor: "pointer",
     }}
   >
     <img
@@ -214,16 +216,11 @@ export default function HomePage() {
       }}
     />
     <div>
-      <a 
-        href={`/bg/?audience=${bgAudience}`}
-        style={{ textDecoration: "none", color: "inherit" }}
-      >
-        <div style={{ fontWeight: 700, marginBottom: 4 }}>Bhagavad Gita</div>
-        <div style={{ fontSize: 14, color: "#6c757d" }}>
-          {bgProgress.completed}/{bgProgress.total} chapters
-        </div>
-      </a>
-      <div className="audience-selector">
+      <div style={{ fontWeight: 700, marginBottom: 4 }}>Bhagavad Gita</div>
+      <div style={{ fontSize: 14, color: "#6c757d", marginBottom: 8 }}>
+        {bgProgress.completed}/{bgProgress.total} chapters
+      </div>
+      <div className="audience-selector" onClick={(e) => e.stopPropagation()}>
         <button
           className={`audience-btn ${bgAudience === "adult" ? "active" : ""}`}
           onClick={() => setBgAudience("adult")}
@@ -249,6 +246,7 @@ export default function HomePage() {
 
   <div
     className="scripture-card"
+    onClick={() => window.location.href = `/sb/?audience=${sbAudience}`}
     style={{
       padding: 14,
       border: "1px solid #ddd",
@@ -259,6 +257,7 @@ export default function HomePage() {
       alignItems: "center",
       minHeight: 100,
       background: "#fff",
+      cursor: "pointer",
     }}
   >
     <img
@@ -273,16 +272,11 @@ export default function HomePage() {
       }}
     />
     <div>
-      <a 
-        href={`/sb/?audience=${sbAudience}`}
-        style={{ textDecoration: "none", color: "inherit" }}
-      >
-        <div style={{ fontWeight: 700, marginBottom: 4 }}>Srimad Bhagavatam</div>
-        <div style={{ fontSize: 14, color: "#6c757d" }}>
-          {sbProgress.completed}/{sbProgress.total} chapters
-        </div>
-      </a>
-      <div className="audience-selector">
+      <div style={{ fontWeight: 700, marginBottom: 4 }}>Srimad Bhagavatam</div>
+      <div style={{ fontSize: 14, color: "#6c757d", marginBottom: 8 }}>
+        {sbProgress.completed}/{sbProgress.total} chapters
+      </div>
+      <div className="audience-selector" onClick={(e) => e.stopPropagation()}>
         <button
           className={`audience-btn ${sbAudience === "adult" ? "active" : ""}`}
           onClick={() => setSbAudience("adult")}

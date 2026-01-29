@@ -101,7 +101,7 @@ export default function BgIndex({ searchParams }) {
               {cardInner}
             </Link>
           ) : (
-            <div key={ch} className="cardLink">
+            <div key={ch} className="cardLink cardLinkDisabled">
               {cardInner}
             </div>
           );

@@ -133,6 +133,9 @@ export default function HomePage() {
             align-items: flex-start !important;
             gap: 12px !important;
           }
+          .progress-label {
+            display: none;
+          }
           .audience-selector {
             flex-direction: column;
             gap: 4px;
@@ -238,10 +241,10 @@ export default function HomePage() {
       </div>
     </div>
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }} className="progress-container">
-      <div style={{ fontSize: 11, fontWeight: 600, color: "#6c757d", textTransform: "uppercase", letterSpacing: "0.5px" }}>
+      <div className="progress-label" style={{ fontSize: 11, fontWeight: 600, color: "#6c757d", textTransform: "uppercase", letterSpacing: "0.5px" }}>
         Progress
       </div>
-      <CircularProgress percentage={bgProgress.percentage} />
+      <CircularProgress percentage={bgProgress.percentage} size={55} />
       <div className="audience-selector" onClick={(e) => e.stopPropagation()} style={{ marginTop: 0 }}>
         <button
           className={`audience-btn ${bgAudience === "adult" ? "active" : ""}`}
@@ -299,10 +302,10 @@ export default function HomePage() {
       </div>
     </div>
     <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }} className="progress-container">
-      <div style={{ fontSize: 11, fontWeight: 600, color: "#6c757d", textTransform: "uppercase", letterSpacing: "0.5px" }}>
+      <div className="progress-label" style={{ fontSize: 11, fontWeight: 600, color: "#6c757d", textTransform: "uppercase", letterSpacing: "0.5px" }}>
         Progress
       </div>
-      <CircularProgress percentage={sbProgress.percentage} />
+      <CircularProgress percentage={sbProgress.percentage} size={55} />
       <div className="audience-selector" onClick={(e) => e.stopPropagation()} style={{ marginTop: 0 }}>
         <button
           className={`audience-btn ${sbAudience === "adult" ? "active" : ""}`}

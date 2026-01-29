@@ -9,43 +9,48 @@ function CircularProgress({ percentage, size = 60, strokeWidth = 6 }) {
   const offset = circumference - (percentage / 100) * circumference;
 
   return (
-    <svg width={size} height={size} style={{ transform: "rotate(-90deg)" }}>
-      {/* Background circle */}
-      <circle
-        cx={size / 2}
-        cy={size / 2}
-        r={radius}
-        fill="none"
-        stroke="#e9ecef"
-        strokeWidth={strokeWidth}
-      />
-      {/* Progress circle */}
-      <circle
-        cx={size / 2}
-        cy={size / 2}
-        r={radius}
-        fill="none"
-        stroke="#4caf50"
-        strokeWidth={strokeWidth}
-        strokeDasharray={circumference}
-        strokeDashoffset={offset}
-        strokeLinecap="round"
-        style={{ transition: "stroke-dashoffset 0.5s ease" }}
-      />
-      {/* Percentage text */}
-      <text
-        x="50%"
-        y="50%"
-        textAnchor="middle"
-        dy="0.3em"
-        fontSize="16"
-        fontWeight="600"
-        fill="#212529"
-        style={{ transform: "rotate(90deg)", transformOrigin: "center" }}
-      >
+    <div style={{ position: "relative", width: size, height: size, flexShrink: 0 }}>
+      <svg width={size} height={size} style={{ transform: "rotate(-90deg)" }}>
+        {/* Background circle */}
+        <circle
+          cx={size / 2}
+          cy={size / 2}
+          r={radius}
+          fill="none"
+          stroke="#e9ecef"
+          strokeWidth={strokeWidth}
+        />
+        {/* Progress circle */}
+        <circle
+          cx={size / 2}
+          cy={size / 2}
+          r={radius}
+          fill="none"
+          stroke="#4caf50"
+          strokeWidth={strokeWidth}
+          strokeDasharray={circumference}
+          strokeDashoffset={offset}
+          strokeLinecap="round"
+          style={{ transition: "stroke-dashoffset 0.5s ease" }}
+        />
+      </svg>
+      {/* Percentage text overlay */}
+      <div style={{
+        position: "absolute",
+        top: 0,
+        left: 0,
+        width: size,
+        height: size,
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        fontSize: 14,
+        fontWeight: 600,
+        color: "#212529",
+      }}>
         {percentage}%
-      </text>
-    </svg>
+      </div>
+    </div>
   );
 }
 

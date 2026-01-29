@@ -1,23 +1,23 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { getWeeklyStreak, getWeeklyChallenge, isWeeklyChallengeCompleted } from "../lib/quizProgress";
+import { getWeeklyStreak, getBgProgress, getSbProgress } from "../lib/quizProgress";
 import Link from "next/link";
 
 export default function WeeklyEngagement() {
   const [streak, setStreak] = useState(0);
-  const [challenge, setChallenge] = useState(null);
-  const [challengeCompleted, setChallengeCompleted] = useState(false);
+  const [bgProgress, setBgProgress] = useState({ completed: 0, total: 18, percentage: 0 });
+  const [sbProgress, setSbProgress] = useState({ completed: 0, total: 0, percentage: 0 });
 
   useEffect(() => {
-    // Load streak and challenge data
+    // Load streak and progress data
     const currentStreak = getWeeklyStreak();
-    const weeklyChallenge = getWeeklyChallenge();
-    const isCompleted = isWeeklyChallengeCompleted();
+    const bg = getBgProgress('adult');
+    const sb = getSbProgress('adult');
 
     setStreak(currentStreak);
-    setChallenge(weeklyChallenge);
-    setChallengeCompleted(isCompleted);
+    setBgProgress(bg);
+    setSbProgress(sb);
   }, []);
 
   return (
@@ -30,23 +30,42 @@ export default function WeeklyEngagement() {
         </div>
       )}
 
-      {/* Weekly Challenge */}
-      {challenge && (
-        <div className="weeklyChallenge">
-          <div className="challengeHeader">
-            <span className="challengeIcon">🎯</span>
-            <span className="challengeTitle">This Week's Challenge</span>
+      {/* Progress Trackers */}
+      <div className="progressTrackers">
+        {/* Bhagavad-gita Progress */}
+        <Link href="/bg?audience=adult" className="progressTracker">
+          <div className="progressHeader">
+            <span className="progressTitle">📖 Bhagavad-gita</span>
+            <span className="progressStats">
+              {bgProgress.completed}/{bgProgress.total} chapters
+            </span>
           </div>
-          <Link href={`/quiz/${challenge.slug}`} className="challengeLink">
-            <div className="challengeContent">
-              <span className="challengeText">
-                {challenge.scripture === "bg" ? "Bhagavad-gita" : "Srimad Bhagavatam"} Chapter {challenge.chapter}
-              </span>
-              {challengeCompleted && <span className="challengeCheck">✓ Completed!</span>}
-            </div>
-          </Link>
-        </div>
-      )}
+          <div className="progressBarContainer">
+            <div 
+              className="progressBarFill"
+              style={{ width: `${bgProgress.percentage}%` }}
+            />
+          </div>
+          <div className="progressPercentage">{bgProgress.percentage}% complete</div>
+        </Link>
+
+        {/* Srimad Bhagavatam Progress */}
+        <Link href="/sb?audience=adult" className="progressTracker">
+          <div className="progressHeader">
+            <span className="progressTitle">📚 Srimad Bhagavatam</span>
+            <span className="progressStats">
+              {sbProgress.completed}/{sbProgress.total} chapters
+            </span>
+          </div>
+          <div className="progressBarContainer">
+            <div 
+              className="progressBarFill"
+              style={{ width: `${sbProgress.percentage}%` }}
+            />
+          </div>
+          <div className="progressPercentage">{sbProgress.percentage}% complete</div>
+        </Link>
+      </div>
     </div>
   );
 }

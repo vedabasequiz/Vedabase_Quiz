@@ -255,7 +255,7 @@ details li {
 }
 
 /* -----------------------------
-   Weekly Engagement (Streak & Challenge)
+   Weekly Engagement (Streak & Progress Trackers)
 -------------------------------- */
 .weeklyEngagement {
   display: flex;
@@ -286,78 +286,67 @@ details li {
   letter-spacing: 0.3px;
 }
 
-.weeklyChallenge {
-  padding: 16px;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+.progressTrackers {
+  display: grid;
+  gap: 12px;
+}
+
+.progressTracker {
+  padding: 14px 16px;
+  background: white;
   border: 2px solid #dee2e6;
   border-radius: 10px;
+  text-decoration: none;
+  color: inherit;
   transition: all 0.2s ease;
 }
 
-.weeklyChallenge:hover {
+.progressTracker:hover {
   border-color: #adb5bd;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
 }
 
-.challengeHeader {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 10px;
-  font-size: 14px;
-  font-weight: 600;
-  color: #495057;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
-
-.challengeIcon {
-  font-size: 18px;
-}
-
-.challengeTitle {
-  opacity: 0.9;
-}
-
-.challengeLink {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-}
-
-.challengeContent {
+.progressHeader {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-bottom: 10px;
   gap: 12px;
-  padding: 10px 12px;
-  background: white;
-  border: 1px solid #dee2e6;
-  border-radius: 8px;
-  transition: all 0.2s ease;
 }
 
-.challengeLink:hover .challengeContent {
-  border-color: #adb5bd;
-  transform: translateX(4px);
-}
-
-.challengeText {
+.progressTitle {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   color: #212529;
 }
 
-.challengeCheck {
-  display: inline-flex;
-  align-items: center;
-  padding: 4px 10px;
-  background: #d4edda;
-  color: #155724;
-  border-radius: 6px;
-  font-size: 13px;
-  font-weight: 600;
+.progressStats {
+  font-size: 14px;
+  font-weight: 500;
+  color: #6c757d;
   white-space: nowrap;
+}
+
+.progressBarContainer {
+  height: 8px;
+  background: #e9ecef;
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 6px;
+}
+
+.progressBarFill {
+  height: 100%;
+  background: linear-gradient(90deg, #4caf50 0%, #66bb6a 100%);
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+
+.progressPercentage {
+  font-size: 13px;
+  color: #6c757d;
+  text-align: right;
 }
 
 @media (max-width: 600px) {
@@ -375,27 +364,16 @@ details li {
     font-size: 20px;
   }
   
-  .weeklyChallenge {
-    padding: 14px;
+  .progressTracker {
+    padding: 12px 14px;
   }
   
-  .challengeHeader {
-    font-size: 13px;
-    margin-bottom: 8px;
-  }
-  
-  .challengeContent {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-  }
-  
-  .challengeText {
+  .progressTitle {
     font-size: 15px;
   }
   
-  .challengeCheck {
-    align-self: flex-start;
+  .progressStats {
+    font-size: 13px;
   }
 }
 

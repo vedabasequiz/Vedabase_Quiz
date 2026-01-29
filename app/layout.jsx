@@ -35,7 +35,7 @@ export default function RootLayout({ children }) {
         {/* Minimal footer */}
         <footer
   style={{
-    marginTop: 48,
+    marginTop: 32,
     borderTop: "1px solid #eee",
   }}
 >
@@ -43,14 +43,14 @@ export default function RootLayout({ children }) {
     style={{
       maxWidth: 900,
       margin: "0 auto",
-      padding: "18px 16px",
+      padding: "16px 16px 20px",
       fontSize: 13,
       color: "#666",
       lineHeight: 1.6,
       textAlign: "center",
     }}
   >
-    <div style={{ fontSize: 25, marginBottom: 8, opacity: 0.6 }}>
+    <div style={{ fontSize: 24, marginBottom: 6, opacity: 0.6 }}>
   🪷
 </div>
 

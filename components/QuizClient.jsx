@@ -227,6 +227,24 @@ export default function QuizClient({ quiz }) {
       return;
     }
     setSubmitted(true);
+    
+    // Save quiz result to localStorage
+    try {
+      const slug = typeof window !== "undefined" ? window.location.pathname.replace("/quiz/", "").replace(/\/$/, "") : null;
+      if (slug) {
+        const results = JSON.parse(localStorage.getItem("vedabaseQuizResults") || "{}");
+        results[slug] = {
+          score,
+          total: quiz.questions.length,
+          percentage: Math.round((score / quiz.questions.length) * 100),
+          date: new Date().toISOString(),
+        };
+        localStorage.setItem("vedabaseQuizResults", JSON.stringify(results));
+      }
+    } catch (e) {
+      // Silently fail if localStorage not available
+    }
+    
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 

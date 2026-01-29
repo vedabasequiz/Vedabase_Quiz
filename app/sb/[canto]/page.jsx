@@ -1,6 +1,9 @@
+"use client";
+import { useState, useEffect } from "react";
 import Link from "next/link";
-import { redirect } from "next/navigation";
+import { useParams, useRouter, useSearchParams } from "next/navigation";
 import { getSbAvailability, listSbCantos, listSbChaptersInCanto } from "../../../lib/quizLoader";
+import { getQuizResult, formatTimeAgo } from "../../../lib/quizProgress";
 
 // Expand as you publish (ASCII-only)
 const SB_CHAPTER_TITLES = {
@@ -365,10 +368,6 @@ const SB_CHAPTER_TITLES = {
   },
 };
 
-export function generateStaticParams() {
-  return listSbCantos().map((c) => ({ canto: String(c) }));
-}
-
 function getAudienceFromSearchParams(searchParams) {
   const a = searchParams?.audience;
   const v = Array.isArray(a) ? a[0] : a;
@@ -376,10 +375,27 @@ function getAudienceFromSearchParams(searchParams) {
   return "adult";
 }
 
-export default function SbCantoPage({ params, searchParams }) {
-  if (!searchParams?.audience) {
-    redirect(`/sb/${params.canto}/?audience=adult`);
-  }
+export default function SbCantoPage() {
+  const params = useParams();
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const audience = getAudienceFromSearchParams(Object.fromEntries(searchParams));
+  const [quizResults, setQuizResults] = useState({});
+
+  useEffect(() => {
+    if (!searchParams.get("audience")) {
+      router.replace(`/sb/${params.canto}/?audience=adult`);
+    }
+  }, [searchParams, router, params.canto]);
+
+  useEffect(() => {
+    try {
+      const stored = localStorage.getItem("vedabaseQuizResults");
+      if (stored) setQuizResults(JSON.parse(stored));
+    } catch (e) {
+      // Ignore localStorage errors
+    }
+  }, []);
 
   const cantoNum = Number(params.canto);
   const audience = getAudienceFromSearchParams(searchParams);
@@ -451,12 +467,26 @@ export default function SbCantoPage({ params, searchParams }) {
           const selectedUrl = linkFor(ch, audience);
           const isAvailable = !!selectedUrl;
           const title = titleFor(cantoNum, ch);
+          
+          // Get quiz result for this chapter
+          const slug = selectedUrl ? selectedUrl.replace(/^\/quiz\//, "").replace(/\/$/, "") : null;
+          const result = slug ? quizResults[slug] : null;
 
           const cardInner = (
-            <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
+            <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"} ${result ? "chapterCardCompleted" : ""}`}>
               <div>
                 <div style={{ fontWeight: 800, marginBottom: 8 }}>Chapter {ch}</div>
                 {title ? <div className="chapterTitle">{title}</div> : null}
+                
+                {/* Progress badge */}
+                {result && (
+                  <div style={{ marginTop: 8, fontSize: 13 }}>
+                    <div className="completionBadge">
+                      ✓ {result.score}/{result.total} ({result.percentage}%)
+                    </div>
+                    <div className="lastPlayed">{formatTimeAgo(result.date)}</div>
+                  </div>
+                )}
               </div>
 
               {!isAvailable ? (

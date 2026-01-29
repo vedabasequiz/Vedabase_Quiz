@@ -1,6 +1,9 @@
+"use client";
+import { useState, useEffect } from "react";
 import Link from "next/link";
-import { redirect } from "next/navigation";
+import { useRouter, useSearchParams } from "next/navigation";
 import { getBgAvailability } from "../../lib/quizLoader";
+import { getQuizResult, formatTimeAgo } from "../../lib/quizProgress";
 
 // Vedabase chapter headings (ASCII-only)
 const BG_CHAPTER_TITLES = {
@@ -31,8 +34,26 @@ function getAudienceFromSearchParams(searchParams) {
   return "adult";
 }
 
-export default function BgIndex({ searchParams }) {
-  if (!searchParams?.audience) redirect("/bg/?audience=adult");
+export default function BgIndex() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const audience = getAudienceFromSearchParams(Object.fromEntries(searchParams));
+  const [quizResults, setQuizResults] = useState({});
+
+  useEffect(() => {
+    if (!searchParams.get("audience")) {
+      router.replace("/bg/?audience=adult");
+    }
+  }, [searchParams, router]);
+
+  useEffect(() => {
+    try {
+      const stored = localStorage.getItem("vedabaseQuizResults");
+      if (stored) setQuizResults(JSON.parse(stored));
+    } catch (e) {
+      // Ignore localStorage errors
+    }
+  }, []);
 
   const availability = getBgAvailability();
   const audience = getAudienceFromSearchParams(searchParams);
@@ -79,12 +100,26 @@ export default function BgIndex({ searchParams }) {
           const selectedUrl = linkFor(ch, audience);
           const isAvailable = !!selectedUrl;
           const title = BG_CHAPTER_TITLES[ch] || "";
+          
+          // Get quiz result for this chapter
+          const slug = selectedUrl ? selectedUrl.replace(/^\/quiz\//, "").replace(/\/$/, "") : null;
+          const result = slug ? quizResults[slug] : null;
 
           const cardInner = (
-            <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"}`}>
+            <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"} ${result ? "chapterCardCompleted" : ""}`}>
               <div>
                 <div style={{ fontWeight: 800, marginBottom: 8 }}>Chapter {ch}</div>
                 {title ? <div className="chapterTitle">{title}</div> : null}
+                
+                {/* Progress badge */}
+                {result && (
+                  <div style={{ marginTop: 8, fontSize: 13 }}>
+                    <div className="completionBadge">
+                      ✓ {result.score}/{result.total} ({result.percentage}%)
+                    </div>
+                    <div className="lastPlayed">{formatTimeAgo(result.date)}</div>
+                  </div>
+                )}
               </div>
 
               {!isAvailable ? (

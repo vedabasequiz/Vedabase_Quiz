@@ -34,7 +34,7 @@ export default function SbCantoClient({ cantoNum, chapters, availability, titles
   }
 
   function titleFor(canto, chapter) {
-    return titles[canto]?.[chapter] || "";
+    return titles[chapter] || "";
   }
 
   return (

@@ -407,12 +407,15 @@ export default function SbCantoPage({ params, searchParams }) {
   // Convert Map to plain object for serialization
   const availabilityObj = Object.fromEntries(availability);
 
+  // Only pass the chapter titles for this specific canto to reduce prop size
+  const cantoTitles = SB_CHAPTER_TITLES[cantoNum] || {};
+
   return (
     <SbCantoClient
       cantoNum={cantoNum}
       chapters={chapters}
       availability={availabilityObj}
-      titles={SB_CHAPTER_TITLES}
+      titles={cantoTitles}
       initialAudience={audience}
     />
   );

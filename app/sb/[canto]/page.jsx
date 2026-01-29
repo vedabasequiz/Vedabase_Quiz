@@ -404,11 +404,14 @@ export default function SbCantoPage({ params, searchParams }) {
   const totalChapters = CHAPTERS_PER_CANTO[cantoNum] || 5;
   const chapters = Array.from({ length: totalChapters }, (_, i) => i + 1);
 
+  // Convert Map to plain object for serialization
+  const availabilityObj = Object.fromEntries(availability);
+
   return (
     <SbCantoClient
       cantoNum={cantoNum}
       chapters={chapters}
-      availability={availability}
+      availability={availabilityObj}
       titles={SB_CHAPTER_TITLES}
       initialAudience={audience}
     />

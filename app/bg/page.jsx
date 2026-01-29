@@ -38,10 +38,13 @@ export default function BgIndex({ searchParams }) {
   const audience = getAudienceFromSearchParams(searchParams);
   const chapters = Array.from({ length: 18 }, (_, i) => i + 1);
 
+  // Convert Map to plain object for serialization
+  const availabilityObj = Object.fromEntries(availability);
+
   return (
     <BgClient 
       chapters={chapters}
-      availability={availability}
+      availability={availabilityObj}
       titles={BG_CHAPTER_TITLES}
       initialAudience={audience}
     />

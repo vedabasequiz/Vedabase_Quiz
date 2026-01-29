@@ -29,7 +29,7 @@ export default function BgClient({ chapters, availability, titles, initialAudien
 
   function linkFor(chapter, aud) {
     const key = `${chapter}-${aud}`;
-    const meta = availability.get(key);
+    const meta = availability[key];
     return meta ? `/quiz/${meta.slug}/` : null;
   }
 

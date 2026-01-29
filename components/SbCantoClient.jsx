@@ -29,7 +29,7 @@ export default function SbCantoClient({ cantoNum, chapters, availability, titles
 
   function linkFor(chapter, aud) {
     const key = `${cantoNum}/${chapter}-${aud}`;
-    const meta = availability.get(key);
+    const meta = availability[key];
     return meta ? `/quiz/${meta.slug}/` : null;
   }
 

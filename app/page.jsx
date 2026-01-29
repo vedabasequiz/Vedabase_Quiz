@@ -1,7 +1,7 @@
 export default function HomePage() {
   return (
-    <>
-      <style jsx>{`
+    <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+      <style dangerouslySetInnerHTML={{__html: `
         .scripture-card {
           transition: all 0.2s ease;
         }
@@ -10,10 +10,9 @@ export default function HomePage() {
           box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
           border-color: #bbb !important;
         }
-      `}</style>
+      `}} />
       
-      <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
-        <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
+      <h1 style={{ fontSize: 20, marginBottom: 10 }}>Welcome & Hare Krsna!</h1>
 
       {/* NEW intro text (mobile-tight) */}
       <div style={{ opacity: 0.9, marginTop: 0, lineHeight: 1.5 }}>
@@ -178,8 +177,6 @@ export default function HomePage() {
   </div>
 </details>
 
-
     </main>
-    </>
   );
 }

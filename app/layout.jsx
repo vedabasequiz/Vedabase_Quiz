@@ -54,8 +54,7 @@ export default function RootLayout({ children }) {
   🪷
 </div>
 
-    Vedabase Quiz is a sacred, non-commercial self-study project based on
-    Srila Prabhupada’s translations and purports as published on Vedabase.io.
+    Grateful acknowledgment to Vedabase.io for making the works of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada freely accessible. All scriptural content, translations, purports, and cover images © Bhaktivedanta Book Trust. Vedabase Quiz is an independent, non-commercial project.
   </div>
 </footer>
 

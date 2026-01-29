@@ -24,6 +24,7 @@ export default function QuizClient({ quiz }) {
   const [submitted, setSubmitted] = useState(false);
   const [soundEnabled, setSoundEnabled] = useState(true);
   const confettiRef = useRef(null);
+  const scoreBoxRef = useRef(null);
 
   const results = useMemo(() => {
     return quiz.questions.map((q, i) => {
@@ -217,6 +218,50 @@ export default function QuizClient({ quiz }) {
     }
   }
 
+  // Export scorecard as an image (download or copy to clipboard)
+  async function exportScoreImage() {
+    if (typeof window === "undefined" || !scoreBoxRef.current) {
+      alert("Image export not available.");
+      return;
+    }
+
+    try {
+      const html2canvas = (await import("html2canvas")).default;
+      const canvas = await html2canvas(scoreBoxRef.current, { scale: 2, useCORS: true });
+
+      // Prefer clipboard write if supported
+      if (navigator.clipboard && window.ClipboardItem) {
+        canvas.toBlob(async (blob) => {
+          try {
+            await navigator.clipboard.write([new ClipboardItem({ "image/png": blob })]);
+            alert("Image copied to clipboard. Paste into chat or social apps.");
+            trackShareEvent("image_clipboard");
+          } catch (e) {
+            // Fallback to download
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = `${quiz.title.replace(/\s+/g, "-")}-score-${score}-${quiz.questions.length}.png`;
+            a.click();
+            URL.revokeObjectURL(url);
+            trackShareEvent("image_download_fallback");
+          }
+        }, "image/png");
+      } else {
+        // Direct download fallback
+        const url = canvas.toDataURL("image/png");
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = `${quiz.title.replace(/\s+/g, "-")}-score-${score}-${quiz.questions.length}.png`;
+        a.click();
+        trackShareEvent("image_download");
+      }
+    } catch (err) {
+      console.error(err);
+      alert("Failed to export image. Try again in a modern browser.");
+    }
+  }
+
   function onSelect(qIdx, choiceIdx) {
     if (submitted) return;
     setAnswers((prev) => {
@@ -280,7 +325,7 @@ export default function QuizClient({ quiz }) {
             />
           )}
 
-          <div className={`scoreBox score${grade.key}`}>
+          <div ref={scoreBoxRef} className={`scoreBox score${grade.key}`}>
             {/* Sound toggle button */}
             <button
               onClick={() => setSoundEnabled(!soundEnabled)}
@@ -373,6 +418,9 @@ export default function QuizClient({ quiz }) {
                 </button>
                 <button className="shareBtn shareBtn--email" onClick={shareEmail} title="Share via Email">
                   ✉️ Email
+                </button>
+                <button className="shareBtn" onClick={exportScoreImage} title="Download image of your score">
+                  📷 Download Image
                 </button>
                 <button className="shareBtn shareBtn--copy" onClick={copyToClipboard} title="Copy to clipboard">
                   📋 Copy Link

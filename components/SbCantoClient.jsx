@@ -58,8 +58,8 @@ export default function SbCantoClient({ cantoNum, chapters, availability, titles
         </Link>
       </div>
 
-      {/* Cards */}
-      <div className="chapterGrid">
+      {/* Chapter List */}
+      <div className="chapterList">
         {chapters.map((ch) => {
           const selectedUrl = linkFor(ch, audience);
           const isAvailable = !!selectedUrl;
@@ -69,40 +69,41 @@ export default function SbCantoClient({ cantoNum, chapters, availability, titles
           const slug = selectedUrl ? selectedUrl.replace(/^\/quiz\//, "").replace(/\/$/, "") : null;
           const result = slug ? quizResults[slug] : null;
 
-          const cardInner = (
-            <div className={`chapterCard ${isAvailable ? "" : "chapterCardDisabled"} ${result ? "chapterCardCompleted" : ""}`}>
-              <div>
-                <div style={{ fontWeight: 800, marginBottom: 8 }}>Chapter {ch}</div>
-                {title ? <div className="chapterTitle">{title}</div> : null}
-                
-                {/* Progress badge */}
+          const itemClass = `chapterListItem ${
+            !isAvailable ? "chapterListItemDisabled" : ""
+          } ${result ? "chapterListItemCompleted" : ""}`;
+
+          const content = (
+            <>
+              <div className="chapterListContent">
+                <div className="chapterListHeader">Chapter {ch}</div>
+                {title && <div className="chapterListTitle">{title}</div>}
+              </div>
+              
+              <div className="chapterListRight">
                 {result ? (
-                  <div style={{ marginTop: 8, fontSize: 13 }}>
-                    <div className="completionBadge">
+                  <>
+                    <div className="chapterListBadge">
                       ✓ {result.score}/{result.total} ({result.percentage}%)
                     </div>
-                    <div className="lastPlayed">{formatTimeAgo(result.date)}</div>
-                  </div>
+                    <div className="chapterListDate">{formatTimeAgo(result.date)}</div>
+                  </>
                 ) : isAvailable ? (
-                  <div className="progressHint">Complete to track progress</div>
-                ) : null}
+                  <div className="chapterListHint">Complete to track progress</div>
+                ) : (
+                  <div className="chapterListComingSoon">{audienceLabel}: coming soon</div>
+                )}
               </div>
-
-              {!isAvailable ? (
-                <div className="comingSoonBadge">{audienceLabel}: coming soon</div>
-              ) : (
-                <div />
-              )}
-            </div>
+            </>
           );
 
           return isAvailable ? (
-            <Link key={ch} href={selectedUrl} className="cardLink">
-              {cardInner}
+            <Link key={ch} href={selectedUrl} className={itemClass}>
+              {content}
             </Link>
           ) : (
-            <div key={ch} className="cardLink cardLinkDisabled">
-              {cardInner}
+            <div key={ch} className={itemClass}>
+              {content}
             </div>
           );
         })}

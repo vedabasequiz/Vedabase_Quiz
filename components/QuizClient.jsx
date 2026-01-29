@@ -121,20 +121,14 @@ export default function QuizClient({ quiz }) {
         selectedVoice = voices.find(v => v.lang.includes("en")) || voices[0];
       }
       
-      // Speak "Hari Bol" three times with delays between
-      const delays = [200, 800, 1400]; // Delays for 1st, 2nd, and 3rd utterance
+      // Speak "Hari Bol" once
+      const utterance = new SpeechSynthesisUtterance("Hari Bol");
+      utterance.rate = 0.85; // Natural speaking pace
+      utterance.pitch = 1.0;
+      utterance.volume = 1.0;
+      utterance.voice = selectedVoice;
       
-      delays.forEach((delay, index) => {
-        setTimeout(() => {
-          const utterance = new SpeechSynthesisUtterance("Hari Bol");
-          utterance.rate = 0.85; // Natural speaking pace
-          utterance.pitch = 1.0;
-          utterance.volume = 1.0;
-          utterance.voice = selectedVoice;
-          
-          window.speechSynthesis.speak(utterance);
-        }, delay);
-      });
+      window.speechSynthesis.speak(utterance);
     } catch (e) {
       // Silently fail if speech synthesis not available
     }
@@ -266,6 +260,7 @@ export default function QuizClient({ quiz }) {
               height={typeof window !== "undefined" ? window.innerHeight : 600}
               numberOfPieces={80}
               gravity={0.5}
+              recycle={false}
               colors={["#2f7d32", "#1e3a8a", "#6b4f1d", "#c41e3a", "#fbbf24"]}
             />
           )}
@@ -276,6 +271,7 @@ export default function QuizClient({ quiz }) {
               height={typeof window !== "undefined" ? window.innerHeight : 600}
               numberOfPieces={40}
               gravity={0.8}
+              recycle={false}
               colors={["#1e3a8a", "#fbbf24", "#06b6d4"]}
             />
           )}

@@ -54,7 +54,10 @@ export default function RootLayout({ children }) {
   🪷
 </div>
 
-    Grateful acknowledgment to Vedabase.io for making the works of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada freely accessible. All scriptural content, translations, purports, and cover images © Bhaktivedanta Book Trust. Vedabase Quiz is an independent, non-commercial project.
+    Grateful acknowledgment to <a href="https://vedabase.io" target="_blank" rel="noopener noreferrer" style={{ color: "#666", textDecoration: "underline" }}>Vedabase.io</a> for making the works of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada freely accessible. All scriptural content, translations, purports, and cover images © Bhaktivedanta Book Trust.
+    <div style={{ marginTop: 8 }}>
+      Vedabase Quiz is an independent, non-commercial project.
+    </div>
   </div>
 </footer>
 

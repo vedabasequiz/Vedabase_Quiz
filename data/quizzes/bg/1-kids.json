@@ -58,7 +58,7 @@
         "Very happy and excited",
         "Angry and ready to fight",
         "Sad and confused about what to do",
-        "Bored and sleepy"
+        "Confident and ready to lead them to victory"
       ],
       "correctIndex": 2,
       "feedback": "Arjuna feels very sad because he doesn't want to hurt people he loves and knows.",
@@ -73,7 +73,7 @@
         "It becomes very strong",
         "It feels shaky and he cannot stand up straight",
         "It feels hot and sweaty",
-        "It falls asleep"
+        "He feels energized and ready to fight"
       ],
       "correctIndex": 1,
       "feedback": "When Arjuna is very upset, his body starts shaking and he has trouble standing because his mind is so troubled.",
@@ -88,7 +88,7 @@
         "It will make him a great hero",
         "It is good and he will be happy",
         "It is wrong and he will gain nothing good",
-        "It doesn't matter"
+        "It will give him wealth and power to rule the kingdom"
       ],
       "correctIndex": 2,
       "feedback": "Arjuna believes there is no good result from fighting people who are his own blood relatives.",
@@ -103,7 +103,7 @@
         "They become richer and happier",
         "They become wiser and stronger",
         "Bad things happen and good values are lost",
-        "They move to a new place"
+        "They enjoy more freedom without old restrictions"
       ],
       "correctIndex": 2,
       "feedback": "When families break apart and stop following good traditions, the people suffer and lose important values.",
@@ -148,7 +148,7 @@
         "He is excited and ready to fight",
         "He stands with his weapons ready",
         "He is so sad and confused that he sits down and cannot continue",
-        "He runs away from the battle"
+        "He prepares to accept his fate courageously"
       ],
       "correctIndex": 2,
       "feedback": "Arjuna is so upset and sad that he puts down his weapons and sits down in the chariot, unable to do anything.",

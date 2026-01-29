@@ -61,18 +61,17 @@ export default function SbIndex({ searchParams }) {
         </Link>
       </div>
 
-      {/* Cards (use same grid + card classes as BG) */}
-      <div className="chapterGrid">
+      {/* Canto List */}
+      <div className="chapterList">
         {cantos.map((c) => (
-          <Link key={c} href={`/sb/${c}/?audience=${audience}`} className="cardLink">
-            <div className="chapterCard">
-              <div>
-                <div style={{ fontWeight: 800, marginBottom: 8 }}>Canto {c}</div>
-                <div className="chapterTitle">{SB_CANTO_TITLES[c] || ""}</div>
-              </div>
-
-              {/* Spacer to keep vertical rhythm similar to BG cards */}
-              <div />
+          <Link 
+            key={c} 
+            href={`/sb/${c}/?audience=${audience}`} 
+            className="chapterListItem"
+          >
+            <div className="chapterListContent">
+              <div className="chapterListHeader">Canto {c}</div>
+              <div className="chapterListTitle">{SB_CANTO_TITLES[c] || ""}</div>
             </div>
           </Link>
         ))}

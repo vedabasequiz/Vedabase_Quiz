@@ -217,10 +217,13 @@ export default function HomePage() {
     />
     <div>
       <div style={{ fontWeight: 700, marginBottom: 4 }}>Bhagavad Gita</div>
-      <div style={{ fontSize: 14, color: "#6c757d", marginBottom: 8 }}>
+      <div style={{ fontSize: 14, color: "#6c757d" }}>
         {bgProgress.completed}/{bgProgress.total} chapters
       </div>
-      <div className="audience-selector" onClick={(e) => e.stopPropagation()}>
+    </div>
+    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }}>
+      <CircularProgress percentage={bgProgress.percentage} />
+      <div className="audience-selector" onClick={(e) => e.stopPropagation()} style={{ marginTop: 0 }}>
         <button
           className={`audience-btn ${bgAudience === "adult" ? "active" : ""}`}
           onClick={() => setBgAudience("adult")}
@@ -241,7 +244,6 @@ export default function HomePage() {
         </button>
       </div>
     </div>
-    <CircularProgress percentage={bgProgress.percentage} />
   </div>
 
   <div
@@ -273,10 +275,13 @@ export default function HomePage() {
     />
     <div>
       <div style={{ fontWeight: 700, marginBottom: 4 }}>Srimad Bhagavatam</div>
-      <div style={{ fontSize: 14, color: "#6c757d", marginBottom: 8 }}>
+      <div style={{ fontSize: 14, color: "#6c757d" }}>
         {sbProgress.completed}/{sbProgress.total} chapters
       </div>
-      <div className="audience-selector" onClick={(e) => e.stopPropagation()}>
+    </div>
+    <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }}>
+      <CircularProgress percentage={sbProgress.percentage} />
+      <div className="audience-selector" onClick={(e) => e.stopPropagation()} style={{ marginTop: 0 }}>
         <button
           className={`audience-btn ${sbAudience === "adult" ? "active" : ""}`}
           onClick={() => setSbAudience("adult")}
@@ -297,7 +302,6 @@ export default function HomePage() {
         </button>
       </div>
     </div>
-    <CircularProgress percentage={sbProgress.percentage} />
   </div>
 </div>
 

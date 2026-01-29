@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { formatTimeAgo } from "../../lib/quizProgress";
+import { formatTimeAgo } from "../lib/quizProgress";
 
 export default function BgClient({ chapters, availability, titles, initialAudience }) {
   const [quizResults, setQuizResults] = useState({});

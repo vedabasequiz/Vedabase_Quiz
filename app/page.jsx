@@ -135,10 +135,11 @@ export default function HomePage() {
             gap: 8px !important;
           }
           .progress-label {
-            writing-mode: vertical-rl;
+            writing-mode: vertical-lr;
             text-orientation: mixed;
             font-size: 9px;
             letter-spacing: 1px;
+            transform: rotate(180deg);
           }
           .audience-selector {
             flex-direction: column;

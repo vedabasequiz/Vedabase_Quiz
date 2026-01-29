@@ -20,12 +20,10 @@ export default function HomePage() {
         .about-card summary {
           cursor: pointer;
           user-select: none;
-        }
-        .about-card summary::-webkit-details-marker {
-          display: none;
+          font-size: 16px;
         }
         .about-card summary::marker {
-          display: none;
+          font-size: 20px;
         }
       `}} />
       
@@ -131,13 +129,9 @@ export default function HomePage() {
     style={{
       fontWeight: 700,
       fontSize: 16,
-      display: "flex",
-      alignItems: "center",
-      justifyContent: "space-between"
     }}
   >
-    <span>🪷 About Vedabase Quiz</span>
-    <span style={{ fontSize: 12, opacity: 0.6 }}>▼</span>
+    🪷 About Vedabase Quiz
   </summary>
 
   <div style={{ paddingTop: 16, opacity: 0.92, lineHeight: 1.55 }}>

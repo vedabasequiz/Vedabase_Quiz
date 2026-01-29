@@ -58,3 +58,24 @@ export default function QuizPage({ params }) {
     </main>
   );
 }
+
+export async function generateMetadata({ params }) {
+  try {
+    const slug = params.slug.join("/");
+    const quiz = getQuizBySlug(slug);
+    const title = quiz.title || "Vedabase Quiz";
+    const total = Array.isArray(quiz.questions) ? quiz.questions.length : 0;
+    const base = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
+    const ogUrl = `${base.replace(/\/$/, "")}/api/og?title=${encodeURIComponent(title)}&score=0&total=${total}&emoji=%E2%9C%A8`;
+
+    return {
+      title,
+      openGraph: {
+        title,
+        images: [ogUrl],
+      },
+    };
+  } catch (e) {
+    return {};
+  }
+}

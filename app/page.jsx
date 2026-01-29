@@ -20,9 +20,11 @@ export default function HomePage() {
         .about-card summary {
           cursor: pointer;
           user-select: none;
-          list-style: none;
         }
         .about-card summary::-webkit-details-marker {
+          display: none;
+        }
+        .about-card summary::marker {
           display: none;
         }
       `}} />

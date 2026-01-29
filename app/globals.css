@@ -364,6 +364,99 @@ details li {
   background: #fff;
 }
 
+/* Share Section */
+.shareBox {
+  margin-top: 20px;
+  padding: 14px;
+  border-radius: 12px;
+  background: #f9f9f9;
+  border: 1px solid #eee;
+}
+
+.shareLabel {
+  font-weight: 800;
+  margin-bottom: 10px;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.shareBtnGroup {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.shareBtn {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 13px;
+  transition: all 0.2s ease;
+}
+
+.shareBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.shareBtn--whatsapp {
+  background: #25d366;
+  color: #fff;
+  border-color: #25d366;
+}
+
+.shareBtn--whatsapp:hover {
+  background: #1fa856;
+  border-color: #1fa856;
+}
+
+.shareBtn--twitter {
+  background: #1da1f2;
+  color: #fff;
+  border-color: #1da1f2;
+}
+
+.shareBtn--twitter:hover {
+  background: #1a8cd8;
+  border-color: #1a8cd8;
+}
+
+.shareBtn--facebook {
+  background: #1877f2;
+  color: #fff;
+  border-color: #1877f2;
+}
+
+.shareBtn--facebook:hover {
+  background: #165ec7;
+  border-color: #165ec7;
+}
+
+.shareBtn--email {
+  background: #ea4335;
+  color: #fff;
+  border-color: #ea4335;
+}
+
+.shareBtn--email:hover {
+  background: #d33426;
+  border-color: #d33426;
+}
+
+.shareBtn--copy {
+  background: #667085;
+  color: #fff;
+  border-color: #667085;
+}
+
+.shareBtn--copy:hover {
+  background: #555b68;
+  border-color: #555b68;
+}
+
 /* Missed question chips in score box */
 .missedWrap {
   margin-top: 12px;

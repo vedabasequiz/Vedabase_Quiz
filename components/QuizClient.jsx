@@ -99,6 +99,83 @@ export default function QuizClient({ quiz }) {
     oscillator.stop(startTime + duration);
   }
 
+  // Generate share message based on score
+  function generateShareMessage() {
+    const pct = Math.round(scorePct * 100);
+    const emoji = grade.emoji;
+    const achievement = grade.title;
+    
+    return `${emoji} Just scored ${score}/${quiz.questions.length} (${pct}%) on "${quiz.title}"!\n\nAchievement: ${achievement}\n\nTest yourself and challenge your knowledge!`;
+  }
+
+  function shareWhatsApp() {
+    const message = encodeURIComponent(generateShareMessage());
+    const quizUrl = typeof window !== "undefined" ? window.location.href : "";
+    const fullMessage = encodeURIComponent(generateShareMessage() + (quizUrl ? `\n\n${quizUrl}` : ""));
+    
+    trackShareEvent("whatsapp");
+    window.open(`https://wa.me/?text=${fullMessage}`, "_blank");
+  }
+
+  function copyToClipboard() {
+    const message = generateShareMessage() + (typeof window !== "undefined" ? `\n\n${window.location.href}` : "");
+    navigator.clipboard.writeText(message).then(() => {
+      alert("Score copied to clipboard! Paste and share with friends.");
+      trackShareEvent("clipboard");
+    }).catch(() => {
+      alert("Failed to copy. Try again or use another sharing method.");
+    });
+  }
+
+  function shareTwitter() {
+    const pct = Math.round(scorePct * 100);
+    const text = encodeURIComponent(
+      `${grade.emoji} Scored ${score}/${quiz.questions.length} (${pct}%) on "${quiz.title}"! ${grade.title} 📚 #VedabaseQuiz #BhagavadGita`
+    );
+    const url = typeof window !== "undefined" ? encodeURIComponent(window.location.href) : "";
+    
+    trackShareEvent("twitter");
+    window.open(
+      `https://twitter.com/intent/tweet?text=${text}&url=${url}&hashtags=VedabaseQuiz,BhagavadGita,Learning`,
+      "_blank"
+    );
+  }
+
+  function shareFacebook() {
+    const quizUrl = typeof window !== "undefined" ? window.location.href : "";
+    
+    trackShareEvent("facebook");
+    window.open(
+      `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(quizUrl)}&quote=${encodeURIComponent(generateShareMessage())}`,
+      "_blank"
+    );
+  }
+
+  function shareEmail() {
+    const pct = Math.round(scorePct * 100);
+    const subject = encodeURIComponent(`Check my ${pct}% score on the Bhagavad Gita Quiz!`);
+    const body = encodeURIComponent(
+      generateShareMessage() + 
+      (typeof window !== "undefined" ? `\n\nQuiz Link: ${window.location.href}` : "")
+    );
+    
+    trackShareEvent("email");
+    window.location.href = `mailto:?subject=${subject}&body=${body}`;
+  }
+
+  function trackShareEvent(platform) {
+    // Analytics tracking - can be connected to Google Analytics, Mixpanel, etc.
+    if (typeof window !== "undefined" && window.gtag) {
+      window.gtag("event", "quiz_share", {
+        platform,
+        score,
+        total: quiz.questions.length,
+        quiz_name: quiz.title,
+        score_level: grade.key,
+      });
+    }
+  }
+
   function onSelect(qIdx, choiceIdx) {
     if (submitted) return;
     setAnswers((prev) => {
@@ -239,6 +316,28 @@ export default function QuizClient({ quiz }) {
             <button className="btnSecondary" onClick={onReset} style={{ marginTop: 12 }}>
               Retake quiz
             </button>
+
+            {/* Share Section */}
+            <div className="shareBox">
+              <div className="shareLabel">📤 Share Your Achievement:</div>
+              <div className="shareBtnGroup">
+                <button className="shareBtn shareBtn--whatsapp" onClick={shareWhatsApp} title="Share on WhatsApp">
+                  💬 WhatsApp
+                </button>
+                <button className="shareBtn shareBtn--twitter" onClick={shareTwitter} title="Share on Twitter">
+                  𝕏 Twitter
+                </button>
+                <button className="shareBtn shareBtn--facebook" onClick={shareFacebook} title="Share on Facebook">
+                  f Facebook
+                </button>
+                <button className="shareBtn shareBtn--email" onClick={shareEmail} title="Share via Email">
+                  ✉️ Email
+                </button>
+                <button className="shareBtn shareBtn--copy" onClick={copyToClipboard} title="Copy to clipboard">
+                  📋 Copy Link
+                </button>
+              </div>
+            </div>
           </div>
         </>
       ) : (

@@ -3,9 +3,9 @@
   "scripture": "bg",
   "chapter": 5,
   "audience": "adult",
-  "title": "Bhagavad Gita - Chapter 5 (Adult) | 25Q",
+  "title": "Bhagavad Gita - Chapter 5 (Adult) | 38Q",
   "difficulty": "medium-hard",
-  "publishedOn": "2026-01-28",
+  "publishedOn": "2026-01-29",
   "questions": [
     {
       "id": "bg5-q1",
@@ -380,6 +380,201 @@
       "feedback": "The ultimate goal is attainment of eternal bliss in the kingdom of God.",
       "verseLabel": "BG 5.25",
       "verseUrl": "https://vedabase.io/en/library/bg/5/25/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q26-purport",
+      "prompt": "In the purport to BG 5.6, what false path does Srila Prabhupada warn about regarding Mayavadi sannyasis?",
+      "choices": [
+        "Their devotional service naturally leads to liberation",
+        "Dry speculation becomes tedious and they fall down",
+        "Their Brahman realization equals bhakti automatically",
+        "They engage in transcendental loving service"
+      ],
+      "correctIndex": 1,
+      "feedback": "Mayavadi sannyasis' studies become tedious, they tire of Brahman speculation, sometimes fall down to material philanthropy.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q27-purport",
+      "prompt": "In the purport to BG 5.6, what does Srila Prabhupada say about Mayavadi sannyasis who study Bhagavatam?",
+      "choices": [
+        "They relish transcendental service naturally",
+        "Dry speculations and impersonal interpretations are useless",
+        "Their artificial means help understand devotion",
+        "They have proper understanding of Bhagavatam"
+      ],
+      "correctIndex": 1,
+      "feedback": "When Mayavadis take shelter of Bhagavatam without proper understanding, dry speculations and impersonal interpretations are useless.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q28-purport",
+      "prompt": "In the purport to BG 5.29, what false approach does Srila Prabhupada identify as the cause of suffering?",
+      "choices": [
+        "Surrendering to Krsna as supreme proprietor",
+        "Understanding Krsna is beneficiary of sacrifices",
+        "Desiring to lord it over maya",
+        "Accepting oneself as eternal servant"
+      ],
+      "correctIndex": 2,
+      "feedback": "The pure soul comes into contact with maya due to the desire to lord it over maya, which causes many sufferings.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q29-purport",
+      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada say about living entities trying to be lords?",
+      "choices": [
+        "They are actually dominated by material energy",
+        "They successfully control material nature",
+        "Their independence from Krsna is real",
+        "They can become lords through effort"
+      ],
+      "correctIndex": 0,
+      "feedback": "Under illusion's spell, entities try to be lords of all they survey, but are actually dominated by Krsna's material energy.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q30-purport",
+      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada explain is the greatest peace formula?",
+      "choices": [
+        "Understanding oneself as supreme controller",
+        "Lord Krsna is beneficiary of all human activities",
+        "Becoming one with the impersonal Brahman",
+        "Independent material prosperity brings peace"
+      ],
+      "correctIndex": 1,
+      "feedback": "The greatest peace formula: Krsna is beneficiary, proprietor of all planets, greater than all demigods.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q31-purport",
+      "prompt": "In the purport to BG 5.18, what does Srila Prabhupada explain about equal vision?",
+      "choices": [
+        "Bodies of brahmana and outcaste are equal",
+        "Differences of body are meaningless to learned transcendentalist",
+        "Species and castes have equal spiritual value",
+        "Material distinctions define spiritual advancement"
+      ],
+      "correctIndex": 1,
+      "feedback": "Body differences are meaningless from viewpoint of learned transcendentalist due to relationship with Paramatma in everyone's heart.",
+      "verseLabel": "BG 5.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q32-purport",
+      "prompt": "In the purport to BG 5.18, what false conception does Srila Prabhupada clarify?",
+      "choices": [
+        "Individual soul and Supersoul are equal in quantity",
+        "Similarity in quality doesn't make them equal in quantity",
+        "Parammatma is only in brahmanical bodies",
+        "Soul's quantity increases with spiritual advancement"
+      ],
+      "correctIndex": 1,
+      "feedback": "Soul and Supersoul similar in quality (conscious, eternal, blissful) but not equal in quantity - soul in one body, Paramatma in all.",
+      "verseLabel": "BG 5.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q33-purport",
+      "prompt": "In the purport to BG 5.6, what does Srila Prabhupada say about those engaged in Krsna conscious activities?",
+      "choices": [
+        "They must speculate about Brahman first",
+        "Better situated than sannyasis in simple speculation",
+        "They need Brahman speculation for advancement",
+        "Simple renunciation is superior to devotion"
+      ],
+      "correctIndex": 1,
+      "feedback": "Those engaged in Krsna consciousness are better situated than sannyasis engaged in simple Brahman speculation.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q34-purport",
+      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada say about achieving peace?",
+      "choices": [
+        "Individual effort alone brings lasting peace",
+        "Not possible without understanding Krsna's position",
+        "Material adjustment leads to collective peace",
+        "Peace comes through controlling others"
+      ],
+      "correctIndex": 1,
+      "feedback": "Unless one understands bare facts (Krsna master, souls subordinate), not possible to achieve peace individually or collectively.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q35-purport",
+      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada explain about karma-yoga and bhakti-yoga?",
+      "choices": [
+        "Karma-yoga is superior to bhakti-yoga",
+        "They are completely unrelated paths",
+        "Direct Krsna consciousness is bhakti, jnana-yoga leads to bhakti",
+        "Both reject devotional service as unnecessary"
+      ],
+      "correctIndex": 2,
+      "feedback": "Direct Krsna consciousness is bhakti-yoga, and jnana-yoga is a path leading to bhakti-yoga.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q36-purport",
+      "prompt": "In the purport to BG 5.12, what does Srila Prabhupada explain as the cause of anxiety?",
+      "choices": [
+        "Attachment to Krsna and working for Him",
+        "Functioning in conception of duality without Absolute knowledge",
+        "Perfect understanding of transcendental activities",
+        "Offering results of activities to Krsna"
+      ],
+      "correctIndex": 1,
+      "feedback": "The cause of anxiety is functioning in duality conception, without knowledge of Absolute Truth (Krsna).",
+      "verseLabel": "BG 5.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q37-purport",
+      "prompt": "In the purport to BG 5.12, what does Srila Prabhupada say about a person attached to Krsna?",
+      "choices": [
+        "They are anxious about results constantly",
+        "They are certainly liberated with no anxiety",
+        "They must calculate profit and loss",
+        "They remain entangled in bodily conception"
+      ],
+      "correctIndex": 1,
+      "feedback": "Person attached to Krsna who works for Him only is certainly liberated and has no anxiety over results.",
+      "verseLabel": "BG 5.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q38-purport",
+      "prompt": "In the purport to BG 5.12, what false path prevents peace?",
+      "choices": [
+        "Working on the absolute transcendental plane",
+        "Entanglement in profit calculation for sense gratification",
+        "Offering everything to Krsna's service",
+        "Realization of Krsna's all-good energy"
+      ],
+      "correctIndex": 1,
+      "feedback": "One entangled in profit calculation for sense gratification cannot have peace. That is the secret of Krsna consciousness.",
+      "verseLabel": "BG 5.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/12/",
       "verdict": "Correct"
     }
   ]

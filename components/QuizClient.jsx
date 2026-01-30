@@ -24,21 +24,7 @@ export default function QuizClient({ quiz }) {
   const [answers, setAnswers] = useState(Array.from({ length: quiz.questions.length }, () => null));
   const [submitted, setSubmitted] = useState(false);
   const [soundEnabled, setSoundEnabled] = useState(true);
-  const [completionCount, setCompletionCount] = useState(0);
   const confettiRef = useRef(null);
-
-  // Load completion count on mount
-  useEffect(() => {
-    try {
-      const slug = typeof window !== "undefined" ? window.location.pathname.replace("/quiz/", "").replace(/\/$/, "") : null;
-      if (slug) {
-        const completions = JSON.parse(localStorage.getItem("vedabaseQuizCompletions") || "{}");
-        setCompletionCount(completions[slug] || 0);
-      }
-    } catch (e) {
-      // Silently fail
-    }
-  }, []);
 
   const results = useMemo(() => {
     return quiz.questions.map((q, i) => {
@@ -270,13 +256,7 @@ export default function QuizClient({ quiz }) {
             playSound("celebration");
             speakHariBol();
             // Show milestone message
-            setTimeout(() => {
-              alert(`🎊 ${milestone.message}`);
-            }, 500);
-          }, 1500);
-        }
-      }
-    } catch (e) {
+            (e) {
       // Silently fail if localStorage not available
     }
     
@@ -420,8 +400,6 @@ export default function QuizClient({ quiz }) {
           )}
           {scorePct >= 0.9 && scorePct < 1 && (
             <Confetti
-              ref={confettiRef}
-              width={typeof window !== "undefined" ? window.innerWidth : 800}
               height={typeof window !== "undefined" ? window.innerHeight : 600}
               numberOfPieces={40}
               gravity={0.8}

@@ -242,12 +242,6 @@ export default function QuizClient({ quiz }) {
         };
         localStorage.setItem("vedabaseQuizResults", JSON.stringify(results));
         
-        // Increment completion count
-        const completions = JSON.parse(localStorage.getItem("vedabaseQuizCompletions") || "{}");
-        completions[slug] = (completions[slug] || 0) + 1;
-        localStorage.setItem("vedabaseQuizCompletions", JSON.stringify(completions));
-        setCompletionCount(completions[slug]);
-        
         // Check for milestone achievements
         const milestone = checkMilestone();
         if (milestone && soundEnabled) {
@@ -382,8 +376,6 @@ export default function QuizClient({ quiz }) {
 
       <div style={{ opacity: 0.8, marginBottom: 18, lineHeight: 1.4, fontSize: 14 }}>
         {quiz.publishedOn ? `Published: ${quiz.publishedOn}` : ""}
-        {completionCount > 0 && (quiz.publishedOn ? " | " : "")}
-        {completionCount > 0 && `You've completed this ${completionCount} ${completionCount === 1 ? 'time' : 'times'}`}
       </div>
 
       {submitted ? (

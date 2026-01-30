@@ -272,11 +272,113 @@ export default function QuizClient({ quiz }) {
   const audienceClass =
     quiz.audience === "kids" ? "feedbackKids" : quiz.audience === "teens" ? "feedbackTeens" : "feedbackAdult";
 
+  // Chapter names mapping
+  const chapterNames = {
+    sb: {
+      1: {
+        1: "Questions by the Sages",
+        2: "Divinity and Divine Service",
+      }
+    },
+    bg: {
+      1: "Observing the Armies on the Battlefield of Kurukshetra",
+      2: "Contents of the Gita Summarized",
+      3: "Karma-yoga",
+      4: "Transcendental Knowledge",
+      5: "Karma-yoga—Action in Krishna Consciousness",
+      6: "Dhyana-yoga",
+      7: "Knowledge of the Absolute",
+      8: "Attaining the Supreme",
+      9: "The Most Confidential Knowledge",
+      10: "The Opulence of the Absolute",
+      11: "The Universal Form",
+      12: "Devotional Service",
+      13: "Nature, the Enjoyer, and Consciousness",
+      14: "The Three Modes of Material Nature",
+      15: "The Yoga of the Supreme Person",
+      16: "The Divine and Demoniac Natures",
+      17: "The Divisions of Faith",
+      18: "Conclusion—The Perfection of Renunciation",
+    }
+  };
+
+  // Parse quiz ID to extract scripture, canto/chapter info
+  function getFormattedTitle() {
+    const id = quiz.id || "";
+    
+    // SB format: sb-1-1-adult -> SB 1.1
+    if (id.startsWith("sb-")) {
+      const parts = id.split("-");
+      const canto = parts[1];
+      const chapter = parts[2];
+      const cantoUrl = `https://vedabase.io/en/library/sb/${canto}/`;
+      const chapterUrl = `https://vedabase.io/en/library/sb/${canto}/${chapter}/`;
+      const chapterName = chapterNames.sb?.[canto]?.[chapter] || "";
+      
+      return (
+        <>
+          <a href={cantoUrl} target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>
+            SB {canto}
+          </a>
+          .
+          <a href={chapterUrl} target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>
+            {chapter}
+          </a>
+          {chapterName && <span style={{ opacity: 0.8 }}> · {chapterName}</span>}
+        </>
+      );
+    }
+    
+    // BG format: bg-1-adult -> BG 1
+    if (id.startsWith("bg-")) {
+      const parts = id.split("-");
+      const chapter = parts[1];
+      const chapterUrl = `https://vedabase.io/en/library/bg/${chapter}/`;
+      const chapterName = chapterNames.bg?.[chapter] || "";
+      
+      return (
+        <>
+          <a href={chapterUrl} target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "none" }}>
+            BG {chapter}
+          </a>
+          {chapterName && <span style={{ opacity: 0.8 }}> · {chapterName}</span>}
+        </>
+      );
+    }
+    
+    // Fallback to original title
+    return quiz.title;
+  }
+
   return (
     <div style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
-      <h1 style={{ fontSize: 28, marginBottom: 6 }}>{quiz.title}</h1>
+      <h1 
+        style={{ 
+          fontSize: 16, 
+          marginBottom: 6,
+          lineHeight: 1.4,
+          wordBreak: "break-word"
+        }}
+        className="quiz-title"
+      >
+        {getFormattedTitle()}
+      </h1>
 
-      <div style={{ opacity: 0.8, marginBottom: 18, lineHeight: 1.4 }}>
+      <style jsx>{`
+        .quiz-title a {
+          transition: text-decoration 0.2s;
+        }
+        .quiz-title a:hover {
+          text-decoration: underline;
+        }
+        @media (max-width: 600px) {
+          .quiz-title {
+            font-size: 15px !important;
+          }
+        }
+      `}</style>
+
+      <div style={{ opacity: 0.8, marginBottom: 18, lineHeight: 1.4, fontSize: 14 }}>
         {quiz.audience ? <>Audience: {quiz.audience}{" "} |{" "}</> : null}
         {quiz.difficulty ? <>Difficulty: {quiz.difficulty}{" "} |{" "}</> : null}
         Questions: {quiz.questions.length}

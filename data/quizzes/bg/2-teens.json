@@ -8,7 +8,7 @@
   "publishedOn": "2026-01-29",
   "questions": [
     {
-      "id": "bg2-q1-teens",
+      "id": "bg2-q1",
       "prompt": "In BG 2.2, what does Krsna point out to Arjuna?",
       "choices": [
         "His military strategy is weak and will lead directly to defeat",
@@ -17,13 +17,13 @@
         "He should have run away earlier from the battlefield and escaped"
       ],
       "correctIndex": 1,
-      "feedback": "Krsna tells Arjuna that he is acting weakly and unmanly despite being a warrior, and should overcome this weakness. Sometimes compassion based on bodily identification must be overcome.",
+      "feedback": "Krsna tells Arjuna that he is acting weakly and unmanly despite being a warrior, and should overcome this weakness. Sometimes compassion based on bodily identification must be overcome. This teaches us that sentiment masquerading as compassion is not spiritual advancement.",
       "verseLabel": "BG 2.2",
       "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q1p-teens",
+      "id": "bg2-q2",
       "prompt": "In the purport to BG 2.2, Srila Prabhupada explains three realizations of Absolute Truth using the sun analogy. Which realization represents the highest?",
       "choices": [
         "Understanding the sunshine represents Brahman realization which is lower stage",
@@ -38,7 +38,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q2p-teens",
+      "id": "bg2-q3",
       "prompt": "In the purport to BG 2.3, what does Srila Prabhupada reveal about Arjuna's weakness?",
       "choices": [
         "Arjuna's compassion represents genuine spiritual realization and advancement as explained here",
@@ -53,22 +53,22 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q4p-teens",
-      "prompt": "In the purport to BG 2.11, what false philosophy does Srila Prabhupada refute?",
+      "id": "bg2-q4",
+      "prompt": "In BG 2.11, what does Krsna tell Arjuna about mourning?",
       "choices": [
-        "The idea that knowledge and devotion are completely separate paths",
-        "The impersonal conclusion that individuality merges into void at liberation",
-        "The concept that material and spiritual energy are fundamentally same",
-        "The belief that karma-yoga is superior to bhakti-yoga in all cases"
+        "A wise person laments for both the living and the dead equally",
+        "A wise person laments for the dead but not for the living at all",
+        "A wise person does not lament for either the living or the dead",
+        "A wise person should mourn continuously to show proper compassion"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada refutes the Mayavadi conclusion that individual souls lose their identity at liberation. The Gita's teachings presume individual existence continuing after liberation. Impersonalism is a misunderstanding, not ultimate truth. This challenges the widespread false belief that merging is the spiritual goal.",
-      "verseLabel": "BG 2.11 Purport",
+      "correctIndex": 2,
+      "feedback": "Krsna begins His philosophical instruction by stating that the wise do not lament for either living or dead. This verse establishes the foundation: the soul is eternal and separate from the body. Lamentation based on bodily identification is a sign of ignorance, not wisdom. True knowledge eliminates grief by revealing the soul's immortal nature.",
+      "verseLabel": "BG 2.11",
       "verseUrl": "https://vedabase.io/en/library/bg/2/11/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q5-teens",
+      "id": "bg2-q5",
       "prompt": "According to BG 2.12, what is true about the soul and individual beings?",
       "choices": [
         "They are created only at birth and begin existence at that moment",
@@ -83,7 +83,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q5p-teens",
+      "id": "bg2-q6",
       "prompt": "In the purport to BG 2.12, what does Srila Prabhupada teach about individuality in liberation?",
       "choices": [
         "Individual souls temporarily exist but merge at liberation into the Supreme as explained here",
@@ -98,7 +98,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q6p-teens",
+      "id": "bg2-q7",
       "prompt": "In the purport to BG 2.13, why does Srila Prabhupada say the instructor-instructed relationship between Krsna and Arjuna is meaningful?",
       "choices": [
         "Both are on the same level of realization and spiritual understanding",
@@ -113,7 +113,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q7-teens",
+      "id": "bg2-q8",
       "prompt": "In BG 2.13, what analogy does Krsna use to describe how the soul passes through the body?",
       "choices": [
         "Seasons changing through the natural cycles of nature",
@@ -128,7 +128,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q8-teens",
+      "id": "bg2-q9",
       "prompt": "In BG 2.15, who is ready to reach a higher state of being?",
       "choices": [
         "Someone who is disturbed by happiness and distress in daily life situations",
@@ -137,13 +137,13 @@
         "Someone who avoids all responsibility and runs from duty in life"
       ],
       "correctIndex": 1,
-      "feedback": "A person who remains calm and steady even when experiencing happiness or sadness is qualified to reach a higher spiritual state. Equanimity is a sign of spiritual advancement.",
+      "feedback": "A person who remains calm and steady even when experiencing happiness or sadness is qualified to reach a higher spiritual state. Equanimity is a sign of spiritual advancement. This transcendental steadiness comes from understanding the soul's eternal nature beyond bodily pleasures and pains.",
       "verseLabel": "BG 2.15",
       "verseUrl": "https://vedabase.io/en/library/bg/2/15/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q9-teens",
+      "id": "bg2-q10",
       "prompt": "According to BG 2.17, what is the soul compared to?",
       "choices": [
         "The body and senses that we experience every single day regularly",
@@ -152,13 +152,13 @@
         "A temporary spark that exists only while the body lives temporarily"
       ],
       "correctIndex": 2,
-      "feedback": "Krsna describes the soul as eternal and indestructible, present throughout the body, and impossible to harm or destroy. The soul is fundamentally different from matter.",
+      "feedback": "Krsna describes the soul as eternal and indestructible, present throughout the body, and impossible to harm or destroy. The soul is fundamentally different from matter. Understanding this distinction is the beginning of spiritual knowledge.",
       "verseLabel": "BG 2.17",
       "verseUrl": "https://vedabase.io/en/library/bg/2/17/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q10-teens",
+      "id": "bg2-q11",
       "prompt": "In BG 2.20, what is stated about the soul and birth and death?",
       "choices": [
         "The soul is born and dies like the body always",
@@ -167,13 +167,13 @@
         "Death is the end of everything that exists"
       ],
       "correctIndex": 2,
-      "feedback": "Krsna teaches that the soul does not have birth or death; it is eternal and is not destroyed even when the body dies. This understanding eliminates all fear.",
+      "feedback": "Krsna teaches that the soul does not have birth or death; it is eternal and is not destroyed even when the body dies. This understanding eliminates all fear. The soul's eternality is the fundamental truth upon which all spiritual knowledge rests.",
       "verseLabel": "BG 2.20",
       "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q10p-teens",
+      "id": "bg2-q12",
       "prompt": "In the purport to BG 2.20, what does Srila Prabhupada explain about the symptom of the soul?",
       "choices": [
         "The soul's presence is detected by bodily warmth and physical signs at all",
@@ -188,7 +188,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q11-teens",
+      "id": "bg2-q13",
       "prompt": "In BG 2.22, what does Krsna compare to changing clothes?",
       "choices": [
         "Life itself and all its various stages and experiences",
@@ -197,13 +197,13 @@
         "War and peace constantly alternating throughout all history"
       ],
       "correctIndex": 1,
-      "feedback": "Krsna uses the simple analogy that just as we change old clothes for new ones, the soul takes on a new body when the old one dies. This makes reincarnation easy to understand.",
+      "feedback": "Krsna uses the simple analogy that just as we change old clothes for new ones, the soul takes on a new body when the old one dies. This makes reincarnation easy to understand. This practical analogy helps us overcome fear of death.",
       "verseLabel": "BG 2.22",
       "verseUrl": "https://vedabase.io/en/library/bg/2/22/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q14-teens",
+      "id": "bg2-q14",
       "prompt": "In BG 2.47, what is the main point about doing your duty?",
       "choices": [
         "You should do your duty only if you are absolutely sure you win",
@@ -218,7 +218,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q14p-teens",
+      "id": "bg2-q15",
       "prompt": "In the purport to BG 2.46, what false path does Srila Prabhupada warn against regarding Vedic study?",
       "choices": [
         "Studying Vedas leads to material prosperity guaranteed by scriptural authority",

@@ -155,5 +155,6 @@ If a teen can answer correctly without understanding the verse, rewrite.
 ## Cross-References
 
 - **Adult Guide:** See [BG_DISTRACTOR_STYLE_GUIDE.md](BG_DISTRACTOR_STYLE_GUIDE.md)
+- **Kids Guide:** See [BG_DISTRACTOR_STYLE_GUIDE_KIDS.md](BG_DISTRACTOR_STYLE_GUIDE_KIDS.md)
 - **Validation:** See [BG_COMPREHENSIVE_VALIDATION_WORKFLOW.md](BG_COMPREHENSIVE_VALIDATION_WORKFLOW.md)
 - **Publishing Checklist:** See [VEDABASE_BG_PUBLISH_CHECKLIST.md](VEDABASE_BG_PUBLISH_CHECKLIST.md)

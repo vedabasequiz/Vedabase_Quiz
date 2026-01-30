@@ -84,12 +84,12 @@
     },
     {
       "id": "bg6-q6",
-      "prompt": "According to BG 6.6, how does the self become either friend or enemy?",
+      "prompt": "In the purport to BG 6.6, how does Srila Prabhupada explain the self becoming friend or enemy?",
       "choices": [
-        "Friend through good fortune; enemy through bad karma from past lives",
+        "Friend through good fortune; enemy through bad karma",
         "Friend when conquered through discipline; enemy when unconquered",
-        "Friend when naturally peaceful; enemy when born with restless nature",
-        "Friend with proper education; enemy when raised without spiritual training"
+        "Friend when naturally peaceful; enemy when born restless",
+        "Friend with proper education; enemy without training"
       ],
       "correctIndex": 1,
       "feedback": "Self conquered for one who conquered self becomes mitra (friend); for unconquered, self acts as shatru-vat (like enemy) in enmity. Conquered self controlled through discipline becomes ally enabling spiritual progress; unconquered self following every impulse sabotages spiritual goals like enemy. Not external enemy but internal lack of self-governance creates suffering. Practice self-control-not self-rejection but self-governance, converting inner chaos into inner ally through disciplined spiritual practice.",
@@ -114,7 +114,7 @@
     },
     {
       "id": "bg6-q8",
-      "prompt": "In BG 6.8, what vision characterizes the yogi satisfied through knowledge and realization?",
+      "prompt": "In the purport to BG 6.8, what vision does Srila Prabhupada explain characterizes the yogi satisfied through knowledge and realization?",
       "choices": [
         "Seeing all material objects as worthless and rejecting them completely",
         "Seeing clod, stone, and gold equally as Krsna's energy",
@@ -161,10 +161,10 @@
       "id": "bg6-q11",
       "prompt": "In BG 6.11, what practical requirements does Krsna specify for the yoga seat?",
       "choices": [
-        "Any comfortable modern chair or cushion suitable for extended sitting",
+        "Any comfortable chair or cushion suitable for extended sitting periods",
         "Clean place with firm seat neither too high nor too low",
-        "Expensive meditation equipment from traditional yoga suppliers",
-        "Elevated platform visible to others to inspire collective practice"
+        "Expensive meditation equipment purchased from traditional yoga suppliers only",
+        "Elevated platform positioned where others can observe collective practice"
       ],
       "correctIndex": 1,
       "feedback": "Shucau deshe (in clean place) establishing firm asana (seat)-neither ati-ucchritam (too high) nor ati-nicham (too low). Practical prerequisites-clean location, stable seat, moderate height-support meditation without guaranteeing it. Too much attention produces distraction through perfectionism; too little produces distraction through discomfort. Establish reasonable practice-conditions-adequate cleanliness/stability/comfort enabling focus without obsessive environment-engineering, balancing external support with internal priority.",
@@ -174,7 +174,7 @@
     },
     {
       "id": "bg6-q12",
-      "prompt": "According to BG 6.12, what is the actual purpose of making the mind one-pointed?",
+      "prompt": "In the purport to BG 6.12, what does Srila Prabhupada explain is the actual purpose of making the mind one-pointed?",
       "choices": [
         "To develop supernatural powers and impress others with abilities",
         "For self-purification through controlled consciousness and senses",
@@ -204,12 +204,12 @@
     },
     {
       "id": "bg6-q14",
-      "prompt": "In BG 6.13-14, how should the yogi position the body and focus the vision?",
+      "prompt": "In the purport to BG 6.13-14, what prerequisites does Srila Prabhupada explain enable meditation?",
       "choices": [
-        "Sitting erect with closed eyes, visualizing the transcendental form of the Lord intently",
-        "Sitting still with steady body, head, and neck in straight line, gazing at tip",
-        "Lying comfortably in shavasana posture while observing the breath flow naturally and easily",
-        "Walking meditation while maintaining continuous awareness of each single step taken forward"
+        "Expensive equipment and traditional location",
+        "Peace, fearlessness, celibacy, controlled mind, with Krsna as goal",
+        "Years of prior physical yoga practice",
+        "Complete isolation from all human contact"
       ],
       "correctIndex": 1,
       "feedback": "Prashanta-atma (peaceful self) vigata-bhih (without fear) brahmachari-vrate sthitah (established in celibacy-vow)-controlling manas (mind), yukta (engaged) asita (should sit) mat-parah (Me as supreme goal). Prerequisites-prashanta (peace), vigata-bhih (fearlessness), brahmacharya (celibacy), controlled mind-enable mat-parah meditation. Techniques serve devotional goal-meditation isn't impersonal training but Krsna-connection. Infuse technique with devotion, recognizing practice requires proper method and devotional consciousness.",
@@ -234,12 +234,12 @@
     },
     {
       "id": "bg6-q16",
-      "prompt": "In BG 6.16, what extremes prevent yoga practice from being successful?",
+      "prompt": "In the purport to BG 6.16, what extremes does Srila Prabhupada warn prevent yoga success?",
       "choices": [
-        "Too much study or complete ignorance of scripture and teachings",
-        "Excessive or insufficient eating, sleeping, and recreation",
-        "Too much solitude or constant social engagement with others",
-        "Extreme asceticism or complete material indulgence in sense pleasure"
+        "Too much study or complete ignorance of scripture",
+        "Excessive or insufficient eating, sleeping, recreation",
+        "Too much solitude or constant social engagement",
+        "Extreme asceticism or complete sense indulgence"
       ],
       "correctIndex": 1,
       "feedback": "Na ati-ashnatas (not overeating) nor ati-svapnasya (oversleeping) yoga bhavati (becomes), nor ekantam (complete) anashnatah (fasting) nor jagratah (waking). Yoga requires yukta (balance) not ati (excess)-eating/sleeping/activity/rest all moderated. Neither over-indulgence (ati-ashnatas) nor over-restriction (ekantam anashnatas) supports practice. Practice moderate lifestyle-sufficient eating/sleeping enabling practice without excess/deficiency, recognizing spiritual life requires practical sustainability through balanced habits not impressive extremism producing burnout.",
@@ -264,12 +264,12 @@
     },
     {
       "id": "bg6-q18",
-      "prompt": "According to BG 6.18, when is one said to be established in yoga (yukta)?",
+      "prompt": "In the purport to BG 6.18, when does Srila Prabhupada explain one is yukta?",
       "choices": [
-        "When one achieves temporary concentration during meditation sessions",
+        "When achieving temporary concentration during meditation",
         "When consciousness remains controlled, steady in self, desireless",
-        "When one develops the ability to sit motionless for many hours",
-        "When one receives initiation from a bona fide spiritual master"
+        "When developing ability to sit motionless for hours",
+        "When receiving initiation from a spiritual master"
       ],
       "correctIndex": 1,
       "feedback": "When citta (consciousness) niruddham (controlled) sthitah (remains) atmani (in self) eva nispriha (without desires) from sarva-kamat (all material desires)-then yuktah (established) iti ucyate (is said). Yukta (established yogi) maintains consciousness sthita (steady) atmani nispriha (desireless) toward all kamat-not temporary concentration but stable realization. Occasional meditation-success differs from established transcendence. Aim for stability-consistent consciousness-quality persisting beyond formal practice.",
@@ -279,12 +279,12 @@
     },
     {
       "id": "bg6-q19",
-      "prompt": "In the purport to BG 6.18-19, what warning does Srila Prabhupada give about artificial meditation?",
+      "prompt": "In the purport to BG 6.18-19, what does Srila Prabhupada warn about artificial meditation?",
       "choices": [
-        "That meditation without proper diet and exercise cannot succeed at all",
-        "That forcing the mind into silence without proper engagement creates frustration",
-        "That meditation should only be attempted in sacred locations with guidance",
-        "That modern people lack the genetic capacity for traditional meditation"
+        "That meditation without proper diet cannot succeed",
+        "That forcing mind into silence without engagement creates frustration",
+        "That meditation needs sacred locations with guidance",
+        "That modern people lack capacity for meditation"
       ],
       "correctIndex": 1,
       "feedback": "Yatha dipo nivata-sthah (as lamp in windless place) na ingate (doesn't flicker)-yoga-yukta (engaged yogi) whose citta (consciousness) controlled practicing atma-yoga (self-meditation). Controlled consciousness like lamp in windless place-steady unflickering focus indicating stability-quality not intensity-quantity. Restless struggling differs from steady focus-former indicates insufficient preparation, latter indicates ripening practice. Cultivate steadiness-patient consistent practice developing natural stability, measuring meditation-quality by steadiness not intensity.",
@@ -309,12 +309,12 @@
     },
     {
       "id": "bg6-q21",
-      "prompt": "In the purport to BG 6.20-23, what psychological trap does Srila Prabhupada warn about regarding happiness?",
+      "prompt": "In the purport to BG 6.20-23, what trap does Srila Prabhupada warn about regarding happiness?",
       "choices": [
-        "Seeking happiness through external achievements and acquisitions",
-        "Believing that material happiness and spiritual happiness are equivalent",
-        "Pursuing yoga for mystic powers rather than divine realization",
-        "Thinking happiness comes through suppression of all desires"
+        "Seeking happiness through external achievements",
+        "Believing material and spiritual happiness are equivalent",
+        "Pursuing yoga for mystic powers not realization",
+        "Thinking happiness needs suppression of all desires"
       ],
       "correctIndex": 1,
       "feedback": "Sukham atantikam (unlimited happiness) that buddhi-grahyam (intelligence grasps) atindriyam (beyond senses)-established knowing this na chalati (doesn't deviate) from tattvatah (from truth). Atindriyas sukham (transcendental happiness) buddhi-grahyam (grasped by purified intelligence) beyond sense-perception. Atantikam (unlimited/permanent) versus indriya-sukham (sense-based pleasure) which is anta-vantam (limited/temporary). Transcend spiritual hedonism-seeking permanent transcendental realization not temporary sublime experiences.",
@@ -326,10 +326,10 @@
       "id": "bg6-q22",
       "prompt": "In BG 6.22, what characterizes the supreme gain (param labham) in yoga?",
       "choices": [
-        "Accumulation of mystic powers that impress ordinary people greatly",
+        "Accumulation of mystic powers impressing ordinary people with abilities",
         "Gaining which, one considers no other gain greater and remains unshaken by sorrow",
-        "Achievement of perfect health and longevity in the material body",
-        "Recognition and fame as an advanced spiritual practitioner"
+        "Achievement of perfect health and extended longevity in material body",
+        "Recognition and fame as advanced spiritual practitioner among followers"
       ],
       "correctIndex": 1,
       "feedback": "Gaining which na aparam (no other) gain considers punyasam (greater)-established in which na duhkhena guruna api (not by heavy sorrow) vicalyate (is shaken). Having gained Krsna-connection considers it param labham (supreme gain)-nothing superior exists. Na vicalyate (unshaken) guruna duhkhena api-commitment persists through adversity. Develop unwavering commitment-establish Krsna-connection as non-negotiable life-priority maintained through favorable/unfavorable circumstances equally, testing spiritual maturity through adversity-persistence not prosperity-enthusiasm.",
@@ -339,12 +339,12 @@
     },
     {
       "id": "bg6-q23",
-      "prompt": "According to BG 6.23, what is yoga actually called, and how should it be practiced?",
+      "prompt": "In the purport to BG 6.23, how does Srila Prabhupada define yoga and its practice?",
       "choices": [
-        "Called union with Brahman; practiced through intellectual speculation alone",
-        "Called severing sorrow's connection; practiced with determination, without sad-heartedness",
-        "Called mystical perfection; practiced through severe austerities and fasting",
-        "Called physical fitness; practiced through proper diet and exercise routines"
+        "Union with Brahman through intellectual speculation",
+        "Severing sorrow's connection through determined, joyful practice",
+        "Mystical perfection through severe austerities",
+        "Physical fitness through proper diet and exercise"
       ],
       "correctIndex": 1,
       "feedback": "Duhkha-samyoga-viyogam (severing sorrow-connection) yoga-samjnita (called yoga)-practice with nishcayena (determination) yoga without sannyasa vishada (abandoning sad-heartedness). Yoga defined as duhkha-samyoga-viyoga-requires nishcayena (firm determination) without vishada (sad-heartedness/depression). Not grim determination but joyful resolve-enthusiasm without emotionalism. Cultivate determined consistency-neither passive compliance nor emotional fluctuation, maintaining steady committed practice through clear conviction.",
@@ -354,7 +354,7 @@
     },
     {
       "id": "bg6-q24",
-      "prompt": "In BG 6.24, what must be completely abandoned at the root level for yoga success?",
+      "prompt": "In the purport to BG 6.24, what does Srila Prabhupada explain must be completely abandoned at the root level for yoga success?",
       "choices": [
         "All external activities and social engagements with family members",
         "Desires born from mental formations (sankalpa), restraining senses by mind",

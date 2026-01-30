@@ -24,7 +24,21 @@ export default function QuizClient({ quiz }) {
   const [answers, setAnswers] = useState(Array.from({ length: quiz.questions.length }, () => null));
   const [submitted, setSubmitted] = useState(false);
   const [soundEnabled, setSoundEnabled] = useState(true);
+  const [completionCount, setCompletionCount] = useState(0);
   const confettiRef = useRef(null);
+
+  // Load completion count on mount
+  useEffect(() => {
+    try {
+      const slug = typeof window !== "undefined" ? window.location.pathname.replace("/quiz/", "").replace(/\/$/, "") : null;
+      if (slug) {
+        const completions = JSON.parse(localStorage.getItem("vedabaseQuizCompletions") || "{}");
+        setCompletionCount(completions[slug] || 0);
+      }
+    } catch (e) {
+      // Silently fail
+    }
+  }, []);
 
   const results = useMemo(() => {
     return quiz.questions.map((q, i) => {
@@ -242,6 +256,12 @@ export default function QuizClient({ quiz }) {
         };
         localStorage.setItem("vedabaseQuizResults", JSON.stringify(results));
         
+        // Increment completion count
+        const completions = JSON.parse(localStorage.getItem("vedabaseQuizCompletions") || "{}");
+        completions[slug] = (completions[slug] || 0) + 1;
+        localStorage.setItem("vedabaseQuizCompletions", JSON.stringify(completions));
+        setCompletionCount(completions[slug]);
+        
         // Check for milestone achievements
         const milestone = checkMilestone();
         if (milestone && soundEnabled) {
@@ -379,10 +399,9 @@ export default function QuizClient({ quiz }) {
       `}</style>
 
       <div style={{ opacity: 0.8, marginBottom: 18, lineHeight: 1.4, fontSize: 14 }}>
-        {quiz.audience ? <>Audience: {quiz.audience}{" "} |{" "}</> : null}
-        {quiz.difficulty ? <>Difficulty: {quiz.difficulty}{" "} |{" "}</> : null}
-        Questions: {quiz.questions.length}
-        {quiz.publishedOn ? ` | Published: ${quiz.publishedOn}` : ""}
+        {quiz.publishedOn ? `Published: ${quiz.publishedOn}` : ""}
+        {completionCount > 0 && (quiz.publishedOn ? " | " : "")}
+        {completionCount > 0 && `You've completed this ${completionCount} ${completionCount === 1 ? 'time' : 'times'}`}
       </div>
 
       {submitted ? (

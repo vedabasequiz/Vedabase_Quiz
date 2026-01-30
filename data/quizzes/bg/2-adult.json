@@ -24,7 +24,7 @@
     },
     {
       "id": "bg2-q2",
-      "prompt": "In BG 2.2, what does Krishna say about Arjuna's impurities (kasmalam)?",
+      "prompt": "In BG 2.2, what does Krsna say about Arjuna's impurities (kasmalam)?",
       "choices": [
         "They reflect natural human sensitivity requiring gentle understanding",
         "They lead not to higher planets but to infamy",
@@ -84,7 +84,7 @@
     },
     {
       "id": "bg2-q6",
-      "prompt": "In BG 2.12, what does Krishna establish about individual existence?",
+      "prompt": "In BG 2.12, what does Krsna establish about individual existence?",
       "choices": [
         "There was a time when we did not exist",
         "Never was there a time when I did not exist",
@@ -144,7 +144,7 @@
     },
     {
       "id": "bg2-q10",
-      "prompt": "In BG 2.31, what does Krishna say a kshatriya should consider regarding a righteous fight?",
+      "prompt": "In BG 2.31, what does Krsna say a kshatriya should consider regarding a righteous fight?",
       "choices": [
         "Warfare should be avoided unless it is clearly sinful",
         "Nothing is higher for a kshatriya than a righteous fight",
@@ -234,15 +234,15 @@
     },
     {
       "id": "bg2-q16",
-      "prompt": "In BG 2.49, how does Krishna characterize work done for fruitive results compared to buddhi-yoga?",
+      "prompt": "In BG 2.49, how does Krsna characterize work done for fruitive results compared to buddhi-yoga?",
       "choices": [
-        "Fruitive work can be offered to Krishna later for purification",
+        "Fruitive work can be offered to Krsna later for purification",
         "Abominable activities should be kept far distant by devotional service",
         "Planning one's work intelligently demonstrates buddhi-yoga in practice",
         "Desiring fruits from work is natural and spiritually neutral"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Krishna calls fruitive work inferior and tells Arjuna to keep it far away by buddhi-yoga. Desire for results binds one to anxiety and exploitation mentality. Buddhi-yoga is a different aim: duty as offering, not transaction.",
+      "feedback": "Correct: Krsna calls fruitive work inferior and tells Arjuna to keep it far away by buddhi-yoga. Desire for results binds one to anxiety and exploitation mentality. Buddhi-yoga is a different aim: duty as offering, not transaction.",
       "verseLabel": "BG 2.49",
       "verseUrl": "https://vedabase.io/en/library/bg/2/49/",
       "verdict": "Correct"
@@ -257,7 +257,7 @@
         "One who analyzes desires philosophically before acting on them selectively"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: The sthita-prajna gives up sense-gratificatory desires and is satisfied in the self. This is not suppression but a higher satisfaction replacing lower cravings. Krishna consciousness reduces desire by higher taste.",
+      "feedback": "Correct: The sthita-prajna gives up sense-gratificatory desires and is satisfied in the self. This is not suppression but a higher satisfaction replacing lower cravings. Krsna consciousness reduces desire by higher taste.",
       "verseLabel": "BG 2.55",
       "verseUrl": "https://vedabase.io/en/library/bg/2/55/",
       "verdict": "Correct"
@@ -324,7 +324,7 @@
     },
     {
       "id": "bg2-q22",
-      "prompt": "In BG 2.33, what consequence does Krishna warn if Arjuna refuses to fight?",
+      "prompt": "In BG 2.33, what consequence does Krsna warn if Arjuna refuses to fight?",
       "choices": [
         "His refusal may appear compassionate but contradicts his ordained duty",
         "He will incur sin and lose his reputation as a warrior",
@@ -354,7 +354,7 @@
     },
     {
       "id": "bg2-q24",
-      "prompt": "In BG 2.38, how does Krishna instruct Arjuna to regard happiness/distress, gain/loss, victory/defeat?",
+      "prompt": "In BG 2.38, how does Krsna instruct Arjuna to regard happiness/distress, gain/loss, victory/defeat?",
       "choices": [
         "Fight for victory, since success proves righteousness",
         "Treat them as equal and fight, incurring no sin",
@@ -369,7 +369,7 @@
     },
     {
       "id": "bg2-q25",
-      "prompt": "How does Prabhupada's teaching that the body is like clothes (BG 2.22) integrate with Krishna's instruction to fight without attachment to results (BG 2.38, 2.47)?",
+      "prompt": "How does Prabhupada's teaching that the body is like clothes (BG 2.22) integrate with Krsna's instruction to fight without attachment to results (BG 2.38, 2.47)?",
       "choices": [
         "Soul and bodily action operate in completely separate realms with no connection",
         "Soul-body distinction enables duty performance without existential investment in outcomes",

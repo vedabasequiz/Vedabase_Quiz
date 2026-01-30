@@ -38,18 +38,18 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q3",
-      "prompt": "According to BG 5.5, what is the real consequence of true renunciation?",
+      "id": "bg5-q3-purport",
+      "prompt": "In the purport to BG 5.3, what does Srila Prabhupada explain about the renouncer's attitude?",
       "choices": [
-        "You become poor and lose all material possessions completely",
-        "You attain Brahman and are freed from sorrow",
-        "You lose respect from society and family members entirely",
-        "You become weak physically and unable to maintain the body"
+        "True renunciation means hating all material objects and activities",
+        "Neither desires nor laments; everything for Krishna's pleasure",
+        "The renouncer must physically abandon all possessions immediately",
+        "Renunciation requires intense austerity and constant suffering"
       ],
       "correctIndex": 1,
-      "feedback": "The renunciated soul is peaceful, self-satisfied, and free from suffering.",
-      "verseLabel": "BG 5.5",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/5/",
+      "feedback": "A devotee in Krishna consciousness neither desires nor laments anything material-working only for Krishna's satisfaction, not personal enjoyment.",
+      "verseLabel": "BG 5.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/3/",
       "verdict": "Correct"
     },
     {
@@ -113,16 +113,16 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q10",
-      "prompt": "According to BG 5.10, how does one attain freedom from material bondage?",
+      "id": "bg5-q10-purport",
+      "prompt": "In the purport to BG 5.10, what does Srila Prabhupada explain about the lotus leaf analogy?",
       "choices": [
-        "Through intellectual study alone without any practical application",
-        "By dedicating body and mind to Krishna with detachment",
-        "By wealth and power accumulated through material success",
-        "Through suffering and austerities as means of purification"
+        "The devotee completely avoids all contact with material world",
+        "Like lotus untouched by water, devotee unaffected by sin",
+        "Water destroys lotus just as sin destroys spiritual life",
+        "The lotus represents material entanglement and attachment"
       ],
       "correctIndex": 1,
-      "feedback": "Full surrender and devotion are the quickest paths to liberation.",
+      "feedback": "Like a lotus leaf in water remains untouched, the devotee engaged in Krishna's service is unaffected by sinful reactions.",
       "verseLabel": "BG 5.10",
       "verseUrl": "https://vedabase.io/en/library/bg/5/10/",
       "verdict": "Correct"
@@ -158,16 +158,16 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q13",
-      "prompt": "According to BG 5.13, what can the body truly do?",
+      "id": "bg5-q13-purport",
+      "prompt": "In the purport to BG 5.13, what does Srila Prabhupada explain about the nine-gated city?",
       "choices": [
-        "Create new desires that lead to further material entanglement",
-        "primarily act in response to the modes of material nature",
-        "Achieve permanent results through sustained effort and work",
-        "Consistently remain pure despite contact with material objects"
+        "The city has nine gates for different sense gratification activities",
+        "Body with nine openings houses the soul who isn't the doer",
+        "Nine gates represent nine different types of material knowledge",
+        "The material world itself is described as a nine-gated city"
       ],
       "correctIndex": 1,
-      "feedback": "The material body can only interact with material nature.",
+      "feedback": "The body (nine-gated city) houses the soul who remains aloof from bodily activities-the soul is occupant, not actor in material engagements.",
       "verseLabel": "BG 5.13",
       "verseUrl": "https://vedabase.io/en/library/bg/5/13/",
       "verdict": "Correct"
@@ -218,33 +218,33 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q26-purport",
-      "prompt": "In the purport to BG 5.6, what false path does Srila Prabhupada warn about regarding Mayavadi sannyasis?",
+      "id": "bg5-q17-synthesis",
+      "prompt": "How does the teaching that karma-yoga and sannyasa reach the same goal (BG 5.4-5) relate to the yogi's equal vision (BG 5.18-19)?",
       "choices": [
-        "Their devotional service naturally leads to liberation automatically",
-        "Dry speculation becomes tedious and they fall down",
-        "Their Brahman realization equals bhakti automatically without effort",
-        "They engage in transcendental loving service to the Supreme"
+        "The relativist error that all paths are equally valid regardless of consciousness",
+        "Both paths cultivate detachment enabling perception of soul in all beings",
+        "The dualist misconception that action and knowledge exist separately",
+        "The elitist view that renunciation is inherently superior to work"
       ],
       "correctIndex": 1,
-      "feedback": "Mayavadi sannyasis' studies become tedious, they tire of Brahman speculation, sometimes fall down to material philanthropy.",
-      "verseLabel": "BG 5.6",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "feedback": "Whether through renunciation or work in devotion, the goal is transcending false identification with body-modes-ego. This purification enables equal vision: seeing the eternal soul (and Supersoul) in all bodies regardless of species or caste. The realized person sees through bodily designations (learned brahmana, outcaste, cow, dog, elephant) to the common spiritual essence. Both paths work because both develop detachment from material distinctions.",
+      "verseLabel": "BG 5.4-19",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/4/",
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q27-purport",
-      "prompt": "In the purport to BG 5.6, what does Srila Prabhupada say about Mayavadi sannyasis who study Bhagavatam?",
+      "id": "bg5-q18-synthesis",
+      "prompt": "How does understanding that modes control action (BG 5.14-15) integrate with the self-realized person's detachment (BG 5.7-12)?",
       "choices": [
-        "They relish transcendental service naturally without any difficulty",
-        "Dry speculations and impersonal interpretations are useless",
-        "Their artificial means help understand devotion more clearly",
-        "They have proper understanding of Bhagavatam's true meaning"
+        "The determinist error that mode-control eliminates all responsibility",
+        "Recognizing modes as controllers dispels false doership, enabling surrender",
+        "The libertarian assumption that understanding modes grants autonomy",
+        "The quietist misconception that knowledge of modes justifies inaction"
       ],
       "correctIndex": 1,
-      "feedback": "When Mayavadis take shelter of Bhagavatam without proper understanding, dry speculations and impersonal interpretations are useless.",
-      "verseLabel": "BG 5.6",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "feedback": "Understanding the body acts by modes' compulsion (not soul's independent choice) destroys false ego's claim 'I am the doer'-this isn't fatalism but liberation from the arrogance that binds. The self-realized person acts through body-senses but identifies as Krishna's instrument rather than independent agent, offering results to Him. Detachment flows from correct understanding of actual agency: modes act on body, soul serves Krishna.",
+      "verseLabel": "BG 5.7-15",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/14/",
       "verdict": "Correct"
     },
     {
@@ -263,33 +263,33 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q28-purport",
-      "prompt": "In the purport to BG 5.29, what false approach does Srila Prabhupada identify as the cause of suffering?",
+      "id": "bg5-q20-synthesis",
+      "prompt": "How does understanding the distinction between bodily and spiritual identity (BG 5.5-7) enable transcendental happiness (BG 5.21-24)?",
       "choices": [
-        "Surrendering to Krsna as supreme proprietor of everything",
-        "Understanding Krsna is beneficiary of sacrifices and yajnas",
-        "Desiring to lord it over maya and material nature",
-        "Accepting oneself as eternal servant of the Supreme Lord"
+        "The ascetic error that rejecting bodily pleasure automatically creates bliss",
+        "Spiritual identification frees from bodily dependencies, revealing internal joy",
+        "The hedonist misconception that maximizing pleasure brings satisfaction",
+        "The stoic fallacy that suppressing desire equals contentment"
       ],
-      "correctIndex": 2,
-      "feedback": "The pure soul comes into contact with maya due to the desire to lord it over maya, which causes many sufferings.",
-      "verseLabel": "BG 5.29",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "correctIndex": 1,
+      "feedback": "Bodily identification makes happiness depend on external contact (sense objects, others' approval, material conditions)-ever unstable and ultimately disappointing. Spiritual identity recognizes the self as soul, not body-happiness comes from within (atma-rati), independent of circumstances. This isn't denial of bodily reality but correct prioritization: body serves soul's purpose (Krishna consciousness), not soul enslaved to body's demands. Internal satisfaction makes external conditions irrelevant.",
+      "verseLabel": "BG 5.5-24",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/5/",
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q29-purport",
-      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada say about living entities trying to be lords?",
+      "id": "bg5-q22-synthesis",
+      "prompt": "How does the teaching that the embodied soul is not the doer (BG 5.8-9, 5.14) relate to offering work's fruits to Krishna (BG 5.10, 5.12)?",
       "choices": [
-        "They are actually dominated by material energy",
-        "They successfully control material nature through their efforts",
-        "Their independence from Krsna is real and substantial",
-        "They can become lords through sustained effort and practice"
+        "The quietist error that non-doership justifies complete inaction",
+        "Recognizing modes as agents enables offering Krishna what's actually His",
+        "The determinist misconception that no one is responsible for anything",
+        "The antinomian view that realized souls act without consequences"
       ],
-      "correctIndex": 0,
-      "feedback": "Under illusion's spell, entities try to be lords of all they survey, but are actually dominated by Krsna's material energy.",
-      "verseLabel": "BG 5.29",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "correctIndex": 1,
+      "feedback": "Understanding 'I am not the doer' (modes acting through body) dispels false proprietorship-if I'm not the real agent, I'm not the real owner of results either. This enables genuine offering: presenting to Krishna what He's producing through His energies (nature, body, intelligence) rather than taking credit and enjoying separately. False doership claims results; correct understanding offers them. Liberation comes through alignment with reality.",
+      "verseLabel": "BG 5.8-14",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/8/",
       "verdict": "Correct"
     },
     {

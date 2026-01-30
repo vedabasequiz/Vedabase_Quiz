@@ -128,31 +128,31 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q12",
-      "prompt": "In BG 4.14, what determines one's work according to the modes of nature?",
+      "id": "bg4-q12-purport",
+      "prompt": "In the purport to BG 4.13, what does Srila Prabhupada explain about the creator's non-doership?",
       "choices": [
-        "Family lineage alone passed down through hereditary succession",
-        "Quality born of nature (guna) and work performed",
-        "Government assignment and social regulations enforced by authorities",
-        "Personal preference primarily exercised through free will"
+        "Krishna creates but remains detached from all activities always",
+        "As supreme controller, He acts but isn't bound by karma",
+        "The creator participates in material activities like ordinary beings",
+        "Krishna is not actually the creator despite scriptural claims"
       ],
       "correctIndex": 1,
-      "feedback": "One's own nature and previous karma determine one's fit work.",
-      "verseLabel": "BG 4.14",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/14/",
+      "feedback": "Though Krishna created the varnashrama system, He's not entangled by it-His transcendental position allows creation without bondage to material laws.",
+      "verseLabel": "BG 4.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/13/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q13",
-      "prompt": "BG 4.15 asks: what is the path of those engaged in pure devotional service?",
+      "id": "bg4-q15-purport",
+      "prompt": "In the purport to BG 4.15, what does Srila Prabhupada explain about following mahajanas?",
       "choices": [
-        "Material success primarily achieved through hard work and effort",
-        "Freedom from the result of work in Krsna consciousness",
-        "Remaining in the world forever bound by material existence",
-        "Achieving great fame through extraordinary accomplishments always"
+        "Great souls create their own independent spiritual paths successfully",
+        "Following the path of great devotees leads to perfection",
+        "One should avoid imitation of previous spiritual authorities",
+        "Modern methods are superior to ancient devotional examples"
       ],
       "correctIndex": 1,
-      "feedback": "Devotees are freed from karmic reactions and return to Krishna.",
+      "feedback": "Following in the footsteps of great souls (mahajanas) who acted for Krishna's pleasure guarantees spiritual success-their example provides the safest path.",
       "verseLabel": "BG 4.15",
       "verseUrl": "https://vedabase.io/en/library/bg/4/15/",
       "verdict": "Correct"
@@ -203,48 +203,48 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q26-purport",
-      "prompt": "In the purport to BG 4.2, what does Srila Prabhupada warn about regarding Gita commentaries?",
+      "id": "bg4-q17-synthesis",
+      "prompt": "How does the disciplic succession principle (BG 4.2) relate to the instruction to approach a spiritual master with surrender and inquiry (BG 4.34)?",
       "choices": [
-        "All translations of Gita are equally valid spiritually for realization",
-        "Demons make good business but don't accept Krsna",
-        "Any scholarly interpretation helps spiritual progress and understanding",
-        "Personal opinions enhance understanding of scripture's deeper meanings"
+        "The individualist error that personal study suffices without guidance",
+        "Realized knowledge flows through living succession requiring submission",
+        "The traditionalist fallacy that lineage alone guarantees understanding",
+        "The skeptic's demand for proof before accepting any authority"
       ],
       "correctIndex": 1,
-      "feedback": "The demonic spirit doesn't believe in God but enjoys His property, making business on Krsna's words without accepting Him.",
-      "verseLabel": "BG 4.2",
+      "feedback": "Disciplic succession isn't mere historical chain but living transmission: knowledge passes through self-realized souls who embody the teachings. Approaching guru with surrender and sincere inquiry opens receptivity-realization can't be grasped intellectually but is awakened through relationship with one connected to Krishna through unbroken line. The living element (guru's realization) activates the traditional element (parampara).",
+      "verseLabel": "BG 4.2-34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q27-purport",
-      "prompt": "In the purport to BG 4.2, what does Srila Prabhupada explain about the disciplic succession?",
+      "id": "bg4-q18-synthesis",
+      "prompt": "How does Krishna's transcendental birth and activities (BG 4.6-9) inform the teaching about action-inaction (BG 4.16-18)?",
       "choices": [
-        "Disciplic succession is optional for understanding Gita's teachings",
-        "5000 years ago disciplic succession was already broken",
-        "Anyone can become spiritual master without succession or qualification",
-        "Mundane scholars preserve disciplic succession properly through study"
+        "The Docetic error that divine incarnation is illusory appearance",
+        "Krishna acts without material bondage; same principle applies to devotees",
+        "The pantheist confusion that all activity is equally divine",
+        "The Mayavadi view that the Absolute cannot engage in activities"
       ],
       "correctIndex": 1,
-      "feedback": "The Lord detected 5000 years ago that the succession was broken and the Gita's purpose appeared lost.",
-      "verseLabel": "BG 4.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
+      "feedback": "Though Krishna appears in material world and performs activities, He remains unbound because He acts in full knowledge of His transcendental nature-this demonstrates the principle that consciousness, not cessation, determines bondage. Devotees who understand Krishna's transcendental nature and act in His service similarly achieve akarma (inaction within action) because their consciousness transcends material identification despite bodily engagement.",
+      "verseLabel": "BG 4.6-18",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/6/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q28-purport",
-      "prompt": "In the purport to BG 4.10, what false paths does Srila Prabhupada identify?",
+      "id": "bg4-q21-synthesis",
+      "prompt": "How does the principle of detachment from work's results (BG 4.19-23) relate to the superiority of knowledge-sacrifice over material sacrifice (BG 4.33)?",
       "choices": [
-        "Devotional service, knowledge, and detachment paths are all false",
-        "Attachment to matter, fear of personality, and void conception",
-        "Surrender, service, and hearing from spiritual master are misconceptions",
-        "Faith, determination, and sense control approaches lead nowhere"
+        "The intellectualist error that theoretical knowledge surpasses practical service",
+        "Detachment reveals knowledge; knowledge perfects sacrifice by eliminating desire",
+        "The ritualist view that correct performance alone guarantees results",
+        "The gnostic assumption that information automatically liberates consciousness"
       ],
       "correctIndex": 1,
-      "feedback": "Three false stages: material attachment, fear of spiritual personality, and void conception from frustration.",
-      "verseLabel": "BG 4.10",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
+      "feedback": "Detachment from results purifies motivation, preparing consciousness for knowledge-when work performed without desire for fruits, understanding naturally dawns that all action is Krishna's. This knowledge perfects sacrifice: material rituals seek rewards, knowledge-sacrifice (jnana-yajna) seeks only truth. Detachment provides foundation; knowledge completes the transformation from karma-kanda (ritual for gain) to pure devotion.",
+      "verseLabel": "BG 4.19-33",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/19/",
       "verdict": "Correct"
     },
     {
@@ -337,18 +337,19 @@
       "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"
     },
-    {      "id": "bg4-q24-synthesis",
-      "prompt": "How does Prabhupada's instruction (BG 4.34 purport) to approach a guru with surrender, inquiry, and service balance submission with intelligence?",
+    {
+      "id": "bg4-q25-synthesis",
+      "prompt": "How does the varnashrama system based on guna and karma (BG 4.13) relate to transcendence through devotional service (BG 4.9-10, 4.15)?",
       "choices": [
-        "The fundamentalist error of blind acceptance without understanding",
-        "Humble service enables receptivity; sincere questions demonstrate seriousness",
-        "The skeptic's pride demanding proof before commitment or surrender",
-        "The relativist claim that no one has authority to teach absolute truth"
+        "The caste confusion that birth determines spiritual qualification permanently",
+        "Natural duties purify modes; transcendence via devotion regardless of position",
+        "The egalitarian error that social distinctions obstruct spiritual equality",
+        "The gradualist misconception that caste determines spiritual hierarchy"
       ],
       "correctIndex": 1,
-      "feedback": "True discipleship avoids both extremes: not blind belief (which lacks understanding) nor prideful interrogation (which lacks humility)-rather, service opens the heart while intelligent inquiry deepens comprehension, uniting devotion and discrimination.",
-      "verseLabel": "BG 4.34",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
+      "feedback": "Varnashrama organizes society according to natural qualities, providing appropriate duties that purify consciousness when performed for Vishnu's pleasure-not rigid hierarchy but functional arrangement. However, devotional service to Krishna transcends varna considerations: anyone understanding His transcendental nature attains Him (4.9). Proper social organization facilitates purification, but ultimate liberation comes through devotion, not through caste perfection.",
+      "verseLabel": "BG 4.9-15",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/13/",
       "verdict": "Correct"
     },
     {      "id": "bg4-q24-synthesis",

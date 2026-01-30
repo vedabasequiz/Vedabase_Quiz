@@ -23,16 +23,16 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg3-q5",
-      "prompt": "BG 3.5 states that all beings are compelled to act by what?",
+      "id": "bg3-q5-purport",
+      "prompt": "In the purport to BG 3.5, what does Srila Prabhupada explain about the conditioned soul's helplessness?",
       "choices": [
-        "Government laws and social regulations enforced by authorities",
-        "The three modes of material nature impelling all beings",
-        "Their parents' wishes and family traditions passed down",
-        "Economic necessity and the pressure to maintain livelihood"
+        "The soul can independently control all activities through willpower",
+        "Even unwilling to act, one is forced by modes of nature",
+        "Material nature has no influence on enlightened human beings",
+        "The soul's desires always override nature's compulsions completely"
       ],
       "correctIndex": 1,
-      "feedback": "The three gunas (modes) of nature impel all creatures to act.",
+      "feedback": "The conditioned soul is forced to act by material nature's modes even if unwilling-illustrating the soul's helpless condition under false ego.",
       "verseLabel": "BG 3.5",
       "verseUrl": "https://vedabase.io/en/library/bg/3/5/",
       "verdict": "Correct"
@@ -83,16 +83,16 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg3-q9",
-      "prompt": "BG 3.11 teaches that by performing prescribed duties, what is attained?",
+      "id": "bg3-q11-purport",
+      "prompt": "In the purport to BG 3.11, what does Srila Prabhupada explain about demigod cooperation?",
       "choices": [
-        "Wealth and power accumulated through honest business endeavors",
-        "Universal welfare and spiritual advancement for all beings",
-        "Fame and followers through charismatic leadership qualities",
-        "Physical strength and bodily health through proper diet"
+        "Demigods function independently without needing human cooperation",
+        "Sacrifice for Vishnu satisfies all demigods naturally",
+        "Humans should worship demigods separately for material benefits",
+        "Demigods have no relationship to human sacrifice activities"
       ],
       "correctIndex": 1,
-      "feedback": "Duty performed properly benefits all and leads to perfection.",
+      "feedback": "When sacrifice is performed for Vishnu, all demigods are satisfied automatically-they are limbs of the Supreme, not independent competitors.",
       "verseLabel": "BG 3.11",
       "verseUrl": "https://vedabase.io/en/library/bg/3/11/",
       "verdict": "Correct"
@@ -113,18 +113,18 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg3-q11",
-      "prompt": "According to BG 3.14, what sustains living beings?",
+      "id": "bg3-q14-purport",
+      "prompt": "In the purport to BG 3.19, what does Srila Prabhupada explain about King Janaka's perfection?",
       "choices": [
-        "Money and trade through commercial activities and business",
-        "Rain and agriculture provided by divine arrangement",
-        "Technology and science through human innovation and progress",
-        "Divine grace and mercy from the Supreme Lord"
+        "He achieved perfection by renouncing all duties and kingdom",
+        "Performing duties without attachment led to self-realization",
+        "His royal position automatically qualified him for liberation",
+        "He meditated in isolation avoiding all administrative responsibilities"
       ],
       "correctIndex": 1,
-      "feedback": "The cycle of rain, grain, and nourishment sustains life.",
-      "verseLabel": "BG 3.14",
-      "verseUrl": "https://vedabase.io/en/library/bg/3/14/",
+      "feedback": "King Janaka attained perfection by performing royal duties without attachment to results-demonstrating karma-yoga's efficacy for householders.",
+      "verseLabel": "BG 3.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/19/",
       "verdict": "Correct"
     },
     {
@@ -203,48 +203,48 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg3-q26-purport",
-      "prompt": "In the purport to BG 3.9, what false path does Srila Prabhupada warn about regarding work?",
+      "id": "bg3-q17-synthesis",
+      "prompt": "How does work performed as sacrifice for Vishnu (BG 3.9) contrast with work driven by the modes (BG 3.5, 3.27) in terms of agency and bondage?",
       "choices": [
-        "Work done for Vishnu's satisfaction causes material bondage",
-        "Both good and evil work bind the performer",
-        "Material work naturally leads to liberation automatically without effort",
-        "Sense gratification is acceptable if done moderately in balance"
+        "The compatibilist view that both involve genuine free will equally",
+        "Mode-driven work creates false doership; Krishna-centered work acknowledges true agency",
+        "The determinist error that all action is equally unfree and mechanical",
+        "The libertarian assumption that choice alone determines freedom or bondage"
       ],
       "correctIndex": 1,
-      "feedback": "Both good and evil work have reactions that bind. Only work for Krsna's satisfaction liberates.",
-      "verseLabel": "BG 3.9",
+      "feedback": "Mode-driven work enslaves through false ego ('I am the doer') while being controlled by nature-double bondage of illusion plus compulsion. Yajna work acknowledges Krishna as real controller and self as instrument-this alignment with reality liberates because it recognizes actual agency structure. Freedom comes not from autonomy but from conscious cooperation with Krishna's will.",
+      "verseLabel": "BG 3.5-27",
       "verseUrl": "https://vedabase.io/en/library/bg/3/9/",
       "verdict": "Correct"
     },
     {
-      "id": "bg3-q27-purport",
-      "prompt": "In the purport to BG 3.9, what does Srila Prabhupada explain about performing prescribed duties?",
+      "id": "bg3-q18-synthesis",
+      "prompt": "How does the warning against false renunciation (BG 3.4-6) relate to the prescription for regulated action (BG 3.8-9)?",
       "choices": [
-        "Duties should be done for family welfare primarily",
-        "Varnashrama aims at satisfying Lord Vishnu in all activities",
-        "Prescribed duties automatically guarantee material success and prosperity",
-        "Work can be done for personal benefit occasionally when necessary"
+        "The ascetic error that external inactivity purifies consciousness",
+        "Inner attachment makes inaction binding; regulated work purifies desire",
+        "The antinomian view that advanced souls transcend all regulations",
+        "The legalist misconception that correct performance alone liberates"
       ],
       "correctIndex": 1,
-      "feedback": "The varnashrama institution aims at satisfying Lord Vishnu. All work should be for His satisfaction.",
-      "verseLabel": "BG 3.9",
-      "verseUrl": "https://vedabase.io/en/library/bg/3/9/",
+      "feedback": "False renunciation (restraining senses while mentally dwelling on objects) shows cessation doesn't purify the mind-mental attachment persists. Regulated action in Krishna's service redirects desire from self to Krishna, actually transforming consciousness where forced inactivity fails. The cure isn't suppression but proper engagement of natural propensity to act.",
+      "verseLabel": "BG 3.4-9",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/4/",
       "verdict": "Correct"
     },
     {
-      "id": "bg3-q28-purport",
-      "prompt": "In the purport to BG 3.13, what does Srila Prabhupada warn about those who cook for personal sense gratification?",
+      "id": "bg3-q19-synthesis",
+      "prompt": "How does identifying lust as the enemy (BG 3.36-43) integrate with the teaching that modes compel action (BG 3.5, 3.27-29)?",
       "choices": [
-        "They are both thieves and eaters of sin",
-        "They achieve happiness through self-sufficiency naturally without divine help",
-        "They are independent and need no guidance from scripture",
-        "They are practicing legitimate material enjoyment within dharmic boundaries"
+        "The moralist error that willpower alone conquers material desire",
+        "Lust enslaves through modes; higher taste via Krishna consciousness liberates",
+        "The determinist resignation that mode-driven beings can't resist lust",
+        "The dualist view that spirit and matter exist without interaction"
       ],
-      "correctIndex": 0,
-      "feedback": "Those who prepare food for self-gratification are thieves and sinful eaters. No happiness is possible.",
-      "verseLabel": "BG 3.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
+      "correctIndex": 1,
+      "feedback": "Lust operates through modes (rajo-guna) compelling embodied beings to act for sense gratification-recognizing this reveals the enemy isn't external but consciousness misdirected by false ego. Solution isn't suppression (impossible while modes act) but engaging senses in Krishna consciousness, which provides superior satisfaction displacing lust. Control comes through proper engagement, not restraint.",
+      "verseLabel": "BG 3.5-43",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/36/",
       "verdict": "Correct"
     },
     {
@@ -263,18 +263,18 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg3-q30-purport",
-      "prompt": "In the purport to BG 3.27, what false conception does Srila Prabhupada warn against?",
+      "id": "bg3-q22-synthesis",
+      "prompt": "How does participation in the cosmic sacrifice cycle (BG 3.14-16) relate to achieving transcendental status (BG 3.17-20)?",
       "choices": [
-        "The soul controls all activities independently without any supervision",
-        "False ego makes one think they are the doer",
-        "Material nature has no influence on actions performed by humans",
-        "The body operates without any supervision from the Supersoul"
+        "The antinomian error that realized souls transcend social responsibilities",
+        "Performing duties in cosmic order purifies consciousness for transcendence",
+        "The ritualist view that mechanical performance creates automatic elevation",
+        "The world-negating assumption that material duties obstruct spiritual life"
       ],
       "correctIndex": 1,
-      "feedback": "False ego convinces one they are the independent doer, forgetting material nature works under Krsna's supervision.",
-      "verseLabel": "BG 3.27",
-      "verseUrl": "https://vedabase.io/en/library/bg/3/27/",
+      "feedback": "The sacrifice cycle (work->offering->rain->food) isn't mere social contract but purification process: performing one's role without selfish motive gradually cleanses consciousness of false proprietorship. The self-realized (3.17) isn't exempt from duties but performs them from position of internal freedom-participation with right consciousness leads to transcendence, not opposition between duty and liberation.",
+      "verseLabel": "BG 3.14-20",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/14/",
       "verdict": "Correct"
     },
     {
@@ -337,18 +337,19 @@
       "verseUrl": "https://vedabase.io/en/library/bg/3/9/",
       "verdict": "Correct"
     },
-    {      "id": "bg3-q24-synthesis",
-      "prompt": "How does Prabhupada's prescription of sankirtana-yajna (BG 3.13 purport) address modern society's epidemic of stress, anxiety, and meaninglessness?",
+    {
+      "id": "bg3-q25-synthesis",
+      "prompt": "How does Krishna's instruction for leaders to set examples (BG 3.21) integrate with His teaching that ignorant people shouldn't be disturbed (BG 3.26, 3.29)?",
       "choices": [
-        "The therapeutic misconception that chanting is merely stress relief",
-        "Connecting work to Krishna through sound restores purpose and peace",
-        "The secularist error that material adjustment alone solves unhappiness",
-        "The escapist view that ignoring problems through religion brings relief"
+        "The elitist error that truth is only for qualified intellectuals",
+        "Lead by example in Krishna consciousness without disrupting gradual purification",
+        "The relativist view that all practices are equally valid at different levels",
+        "The revolutionary misconception that immediate change uplifts everyone"
       ],
       "correctIndex": 1,
-      "feedback": "Modern stress stems from disconnected, self-centered work lacking transcendent purpose; sankirtana-yajna transforms every activity into loving offering through nama, reconnecting the soul to its source-unlike therapy or material solutions, this addresses the existential root of anxiety.",
-      "verseLabel": "BG 3.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
+      "feedback": "Great souls must act in Krishna consciousness because others imitate them-this sets beneficial standards. But forcing mode-bound persons to abandon prescribed duties causes chaos and bewilderment-they need gradual elevation through their current duties performed for Vishnu, not abrupt rejection. Leadership works through attractive example and appropriate guidance, not by destabilizing those at earlier stages.",
+      "verseLabel": "BG 3.21-29",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/21/",
       "verdict": "Correct"
     },
     {      "id": "bg3-q24-synthesis",

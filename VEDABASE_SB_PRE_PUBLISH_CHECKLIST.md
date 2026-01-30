@@ -110,6 +110,8 @@ Every question's feedback must include all three elements, in this order:
 
 ☐ Optional: In 2-5 questions, include "Why this matters" (practical/philosophical consequence)
 
+☐ **Adult quizzes must not frame bhakti as sentimental or isolated devotion; bhakti must be grounded in philosophical reasoning, contrastive analysis, and purport-supported epistemology**
+
 🧑‍🎓 Teen Feedback Requirements
 
 ☐ Length: 2-3 sentences

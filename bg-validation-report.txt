@@ -1,0 +1,1346 @@
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 1-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[93m⚠️  Purport ratio: 33.3% (11/33) - Below target 35-40%[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 33 (enhanced)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+[92m✅ Length balance: All 33 questions within 30% variance[0m
+[92m✅ Distractors: 3.0% with minor issues (3/99)[0m
+[92m✅ Correct-is-longest: 63.6% (21/33) - Acceptable[0m
+
+[93m[1m⚠️  QUIZ PASSES with warnings - Review recommended[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 10-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 1 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+[92m✅ Length balance: 96.0% pass rate (24/25)[0m
+[92m✅ Distractors: 1.3% with minor issues (1/75)[0m
+[92m✅ Correct-is-longest: 52.0% (13/25) - Acceptable[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 11-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q2 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q3 high variance: 1-6 words (6.0x)[0m
+[93m⚠️  Q4 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q5 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q6 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q7 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q8 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q9 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q10 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q11 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q12 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q13 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q14 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q15 high variance: 4-12 words (3.0x)[0m
+[93m⚠️  Q16 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q17 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q18 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q19 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q20 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q21 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q22 high variance: 2-7 words (3.5x)[0m
+[93m⚠️  Q23 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q24 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q25 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q1 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q3 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q3 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q18 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 4 is very short: 2 words[0m
+[93m⚠️  Distractors: 32.0% with issues (24/75)[0m
+[93m⚠️  Correct-is-longest: 96.0% (24/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 12-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q2 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q3 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q4 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q5 high variance: 1-12 words (12.0x)[0m
+[93m⚠️  Q6 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q7 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q8 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q9 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q10 high variance: 1-13 words (13.0x)[0m
+[93m⚠️  Q11 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q12 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q13 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q14 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q15 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q16 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q17 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q18 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q19 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q20 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q21 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q22 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q23 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q24 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q25 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q1 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q4 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q4 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q5 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q10 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q10 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q19 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q20 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q21 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q22 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q23 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q24 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q25 distractor 4 is very short: 1 words[0m
+[93m⚠️  Distractors: 46.7% with issues (35/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 13-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q2 high variance: 2-15 words (7.5x)[0m
+[93m⚠️  Q3 high variance: 2-7 words (3.5x)[0m
+[93m⚠️  Q4 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q5 high variance: 1-17 words (17.0x)[0m
+[93m⚠️  Q6 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q7 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q8 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q9 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q10 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q11 high variance: 3-15 words (5.0x)[0m
+[93m⚠️  Q12 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q13 high variance: 3-15 words (5.0x)[0m
+[93m⚠️  Q14 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q15 high variance: 2-17 words (8.5x)[0m
+[93m⚠️  Q16 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q17 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q18 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q19 high variance: 2-14 words (7.0x)[0m
+[93m⚠️  Q20 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q21 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q22 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q23 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q24 high variance: 2-7 words (3.5x)[0m
+[93m⚠️  Q25 high variance: 2-7 words (3.5x)[0m
+[93m⚠️  Q1 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q1 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q3 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q3 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q3 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q6 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q15 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q19 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q19 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 4 is very short: 2 words[0m
+[93m⚠️  Distractors: 44.0% with issues (33/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 14-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q2 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q3 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q4 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q5 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q6 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q7 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q8 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q9 high variance: 1-7 words (7.0x)[0m
+[93m⚠️  Q10 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q11 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q12 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q13 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q14 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q15 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q16 high variance: 2-14 words (7.0x)[0m
+[93m⚠️  Q17 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q18 high variance: 1-11 words (11.0x)[0m
+[93m⚠️  Q19 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q20 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q21 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q22 high variance: 2-7 words (3.5x)[0m
+[93m⚠️  Q23 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q24 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q25 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q1 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q9 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q9 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q10 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q10 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q10 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q15 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q18 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q18 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q19 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 4 is very short: 2 words[0m
+[93m⚠️  Distractors: 54.7% with issues (41/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 15-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q11 contains ambiguous word in prompt: 'might'[0m
+[93m⚠️  Q1 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q2 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q3 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q4 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q5 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q6 high variance: 1-12 words (12.0x)[0m
+[93m⚠️  Q7 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q8 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q9 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q10 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q11 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q12 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q13 high variance: 3-15 words (5.0x)[0m
+[93m⚠️  Q14 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q15 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q16 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q17 high variance: 2-14 words (7.0x)[0m
+[93m⚠️  Q18 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q19 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q20 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q21 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q22 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q23 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q24 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q25 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q1 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q3 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q4 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q4 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q4 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q9 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q10 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q18 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 3 is very short: 2 words[0m
+[93m⚠️  Distractors: 40.0% with issues (30/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 16-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q2 high variance: 3-7 words (2.3x)[0m
+[93m⚠️  Q3 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q4 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q5 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q6 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q7 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q8 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q9 high variance: 1-12 words (12.0x)[0m
+[93m⚠️  Q10 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q11 high variance: 1-12 words (12.0x)[0m
+[93m⚠️  Q12 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q13 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q14 high variance: 1-11 words (11.0x)[0m
+[93m⚠️  Q15 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q16 high variance: 3-7 words (2.3x)[0m
+[93m⚠️  Q17 high variance: 3-7 words (2.3x)[0m
+[93m⚠️  Q18 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q19 high variance: 1-7 words (7.0x)[0m
+[93m⚠️  Q20 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q21 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q22 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q23 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q24 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q25 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q4 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q9 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q9 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q10 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q11 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q12 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q12 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q13 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q15 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q15 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q18 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q19 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q19 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q19 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q20 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q20 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q21 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q22 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q23 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q24 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q25 distractor 4 is very short: 2 words[0m
+[93m⚠️  Distractors: 61.3% with issues (46/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 17-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q2 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q3 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q4 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q5 high variance: 1-11 words (11.0x)[0m
+[93m⚠️  Q6 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q7 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q8 high variance: 1-12 words (12.0x)[0m
+[93m⚠️  Q9 high variance: 1-11 words (11.0x)[0m
+[93m⚠️  Q10 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q11 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q12 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q13 high variance: 1-9 words (9.0x)[0m
+[93m⚠️  Q14 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q15 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q16 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q17 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q18 high variance: 2-15 words (7.5x)[0m
+[93m⚠️  Q19 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q20 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q21 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q22 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q23 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q24 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q25 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q1 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q3 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q3 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q4 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q4 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q5 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q6 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q9 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q9 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q10 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q10 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q12 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q13 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q15 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q15 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q18 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 3 is very short: 2 words[0m
+[93m⚠️  Distractors: 66.7% with issues (50/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 18-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q2 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q3 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q4 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q5 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q6 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q7 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q8 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q9 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q10 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q11 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q12 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q13 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q14 high variance: 1-9 words (9.0x)[0m
+[93m⚠️  Q15 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q16 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q17 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q18 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q19 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q20 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q21 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q22 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q23 high variance: 1-15 words (15.0x)[0m
+[93m⚠️  Q24 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q25 high variance: 2-14 words (7.0x)[0m
+[93m⚠️  Q1 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q3 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q5 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q7 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q7 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q15 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q15 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q16 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q19 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 1 is very short: 2 words[0m
+[93m⚠️  Distractors: 66.7% with issues (50/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 2-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q2 high variance: 4-8 words (2.0x)[0m
+[93m⚠️  Q3 high variance: 4-8 words (2.0x)[0m
+[93m⚠️  Q4 high variance: 3-6 words (2.0x)[0m
+[93m⚠️  Q5 high variance: 5-10 words (2.0x)[0m
+[93m⚠️  Q6 high variance: 6-12 words (2.0x)[0m
+[93m⚠️  Q7 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q8 high variance: 4-10 words (2.5x)[0m
+[93m⚠️  Q9 high variance: 4-9 words (2.2x)[0m
+[93m⚠️  Q10 high variance: 6-17 words (2.8x)[0m
+[93m⚠️  Q11 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q12 high variance: 4-14 words (3.5x)[0m
+[93m⚠️  Q13 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q14 high variance: 5-11 words (2.2x)[0m
+[93m⚠️  Q16 high variance: 4-11 words (2.8x)[0m
+[93m⚠️  Q17 high variance: 4-11 words (2.8x)[0m
+[93m⚠️  Q18 high variance: 5-11 words (2.2x)[0m
+[93m⚠️  Q19 high variance: 5-8 words (1.6x)[0m
+[93m⚠️  Q20 high variance: 4-14 words (3.5x)[0m
+[93m⚠️  Q21 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q22 high variance: 4-13 words (3.2x)[0m
+[93m⚠️  Q23 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q24 high variance: 4-14 words (3.5x)[0m
+[93m⚠️  Q7 distractor 1 is very short: 2 words[0m
+[93m⚠️  Distractors: 14.7% with issues (11/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 3-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 8.0% pass rate (2/25) - Well below 90%[0m
+[93m⚠️  Q2 high variance: 4-8 words (2.0x)[0m
+[93m⚠️  Q3 high variance: 3-7 words (2.3x)[0m
+[93m⚠️  Q4 high variance: 4-9 words (2.2x)[0m
+[93m⚠️  Q5 high variance: 2-6 words (3.0x)[0m
+[93m⚠️  Q6 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q7 high variance: 2-6 words (3.0x)[0m
+[93m⚠️  Q8 high variance: 4-9 words (2.2x)[0m
+[93m⚠️  Q9 high variance: 2-5 words (2.5x)[0m
+[93m⚠️  Q10 high variance: 3-7 words (2.3x)[0m
+[93m⚠️  Q12 high variance: 2-6 words (3.0x)[0m
+[93m⚠️  Q13 high variance: 2-5 words (2.5x)[0m
+[93m⚠️  Q14 high variance: 3-6 words (2.0x)[0m
+[93m⚠️  Q15 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q16 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q17 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q18 high variance: 4-7 words (1.8x)[0m
+[93m⚠️  Q19 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q20 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q21 high variance: 1-5 words (5.0x)[0m
+[93m⚠️  Q22 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q23 high variance: 3-6 words (2.0x)[0m
+[93m⚠️  Q24 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q25 high variance: 1-3 words (3.0x)[0m
+[93m⚠️  Q5 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q7 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q7 distractor 2 is very short: 2 words[0m
+[93m⚠️  Q7 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q9 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q15 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q15 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q21 distractor 2 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q25 distractor 4 is very short: 2 words[0m
+[93m⚠️  Distractors: 32.0% with issues (24/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 4-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 8.0% pass rate (2/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 5-12 words (2.4x)[0m
+[93m⚠️  Q3 high variance: 2-4 words (2.0x)[0m
+[93m⚠️  Q5 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q6 high variance: 5-8 words (1.6x)[0m
+[93m⚠️  Q7 high variance: 1-5 words (5.0x)[0m
+[93m⚠️  Q8 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q9 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q10 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q11 high variance: 1-11 words (11.0x)[0m
+[93m⚠️  Q12 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q13 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q14 high variance: 4-13 words (3.2x)[0m
+[93m⚠️  Q15 high variance: 4-9 words (2.2x)[0m
+[93m⚠️  Q16 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q17 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q18 high variance: 4-11 words (2.8x)[0m
+[93m⚠️  Q19 high variance: 2-16 words (8.0x)[0m
+[93m⚠️  Q20 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q21 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q22 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q23 high variance: 3-5 words (1.7x)[0m
+[93m⚠️  Q24 high variance: 1-4 words (4.0x)[0m
+[93m⚠️  Q25 high variance: 4-9 words (2.2x)[0m
+[93m⚠️  Q3 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q4 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q4 distractor 2 is very short: 1 words[0m
+[93m⚠️  Q4 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q7 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q7 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q7 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q8 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q9 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q9 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q12 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q19 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 1 words[0m
+[93m⚠️  Distractors: 41.3% with issues (31/75)[0m
+[93m⚠️  Correct-is-longest: 92.0% (23/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 5-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q2 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q3 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q4 high variance: 2-6 words (3.0x)[0m
+[93m⚠️  Q5 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q6 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q7 high variance: 4-9 words (2.2x)[0m
+[93m⚠️  Q8 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q9 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q10 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q11 high variance: 4-12 words (3.0x)[0m
+[93m⚠️  Q12 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q13 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q14 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q15 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q16 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q17 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q18 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q19 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q20 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q21 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q22 high variance: 2-7 words (3.5x)[0m
+[93m⚠️  Q23 high variance: 1-9 words (9.0x)[0m
+[93m⚠️  Q24 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q25 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q2 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q4 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q6 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q6 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q10 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q16 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q19 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q22 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q23 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q25 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 4 is very short: 2 words[0m
+[93m⚠️  Distractors: 37.3% with issues (28/75)[0m
+[93m⚠️  Correct-is-longest: 96.0% (24/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 6-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 4-9 words (2.2x)[0m
+[93m⚠️  Q2 high variance: 3-7 words (2.3x)[0m
+[93m⚠️  Q3 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q4 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q5 high variance: 4-14 words (3.5x)[0m
+[93m⚠️  Q6 high variance: 1-10 words (10.0x)[0m
+[93m⚠️  Q7 high variance: 4-11 words (2.8x)[0m
+[93m⚠️  Q8 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q9 high variance: 4-14 words (3.5x)[0m
+[93m⚠️  Q10 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q11 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q12 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q13 high variance: 2-14 words (7.0x)[0m
+[93m⚠️  Q14 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q15 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q16 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q17 high variance: 2-13 words (6.5x)[0m
+[93m⚠️  Q18 high variance: 1-13 words (13.0x)[0m
+[93m⚠️  Q19 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q20 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q21 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q22 high variance: 3-15 words (5.0x)[0m
+[93m⚠️  Q23 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q24 high variance: 2-15 words (7.5x)[0m
+[93m⚠️  Q25 high variance: 4-15 words (3.8x)[0m
+[93m⚠️  Q3 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q3 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q11 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q13 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q18 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q18 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q18 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q20 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 4 is very short: 2 words[0m
+[93m⚠️  Distractors: 49.3% with issues (37/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 7-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 2-7 words (3.5x)[0m
+[93m⚠️  Q2 high variance: 1-7 words (7.0x)[0m
+[93m⚠️  Q3 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q4 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q5 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q6 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q7 high variance: 3-15 words (5.0x)[0m
+[93m⚠️  Q8 high variance: 1-9 words (9.0x)[0m
+[93m⚠️  Q9 high variance: 4-15 words (3.8x)[0m
+[93m⚠️  Q10 high variance: 3-15 words (5.0x)[0m
+[93m⚠️  Q11 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q12 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q13 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q14 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q15 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q16 high variance: 3-18 words (6.0x)[0m
+[93m⚠️  Q17 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q18 high variance: 3-18 words (6.0x)[0m
+[93m⚠️  Q19 high variance: 2-14 words (7.0x)[0m
+[93m⚠️  Q20 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q21 high variance: 2-14 words (7.0x)[0m
+[93m⚠️  Q22 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q23 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q24 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q25 high variance: 2-14 words (7.0x)[0m
+[93m⚠️  Q1 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q2 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q8 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q11 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q17 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q19 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 1 is very short: 2 words[0m
+[93m⚠️  Distractors: 40.0% with issues (30/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 8-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q2 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q3 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q4 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q5 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q6 high variance: 2-6 words (3.0x)[0m
+[93m⚠️  Q7 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q8 high variance: 2-9 words (4.5x)[0m
+[93m⚠️  Q9 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q10 high variance: 4-9 words (2.2x)[0m
+[93m⚠️  Q11 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q12 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q13 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q14 high variance: 3-14 words (4.7x)[0m
+[93m⚠️  Q15 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q16 high variance: 3-16 words (5.3x)[0m
+[93m⚠️  Q17 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q18 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q19 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q20 high variance: 4-16 words (4.0x)[0m
+[93m⚠️  Q21 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q22 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q23 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q24 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q25 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q2 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q2 distractor 4 is very short: 1 words[0m
+[93m⚠️  Q3 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q5 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q6 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q8 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q11 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q23 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q25 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q25 distractor 4 is very short: 1 words[0m
+[93m⚠️  Distractors: 34.7% with issues (26/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 9-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[91m❌ Length balance: 0.0% pass rate (0/25) - Well below 90%[0m
+[93m⚠️  Q1 high variance: 2-12 words (6.0x)[0m
+[93m⚠️  Q2 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q3 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q4 high variance: 4-11 words (2.8x)[0m
+[93m⚠️  Q5 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q6 high variance: 3-9 words (3.0x)[0m
+[93m⚠️  Q7 high variance: 3-16 words (5.3x)[0m
+[93m⚠️  Q8 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q9 high variance: 4-11 words (2.8x)[0m
+[93m⚠️  Q10 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q11 high variance: 1-8 words (8.0x)[0m
+[93m⚠️  Q12 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q13 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q14 high variance: 2-8 words (4.0x)[0m
+[93m⚠️  Q15 high variance: 3-13 words (4.3x)[0m
+[93m⚠️  Q16 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q17 high variance: 3-10 words (3.3x)[0m
+[93m⚠️  Q18 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q19 high variance: 3-11 words (3.7x)[0m
+[93m⚠️  Q20 high variance: 2-11 words (5.5x)[0m
+[93m⚠️  Q21 high variance: 1-11 words (11.0x)[0m
+[93m⚠️  Q22 high variance: 3-8 words (2.7x)[0m
+[93m⚠️  Q23 high variance: 3-15 words (5.0x)[0m
+[93m⚠️  Q24 high variance: 2-10 words (5.0x)[0m
+[93m⚠️  Q25 high variance: 3-12 words (4.0x)[0m
+[93m⚠️  Q1 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q1 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q2 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q11 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q11 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q12 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q14 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q20 distractor 3 is very short: 2 words[0m
+[93m⚠️  Q21 distractor 1 is very short: 1 words[0m
+[93m⚠️  Q21 distractor 3 is very short: 1 words[0m
+[93m⚠️  Q21 distractor 4 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 1 is very short: 2 words[0m
+[93m⚠️  Q24 distractor 3 is very short: 2 words[0m
+[93m⚠️  Distractors: 36.0% with issues (27/75)[0m
+[93m⚠️  Correct-is-longest: 100.0% (25/25) - High (target <70%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+
+
+[1m[94m======================================================================[0m
+[1m[94m                          VALIDATION SUMMARY                          [0m
+[1m[94m======================================================================[0m
+
+✅ PASS | 1-adult.json | Errors: 0, Warnings: 1
+❌ FAIL | 10-adult.json | Errors: 1, Warnings: 0
+❌ FAIL | 11-adult.json | Errors: 2, Warnings: 49
+❌ FAIL | 12-adult.json | Errors: 2, Warnings: 57
+❌ FAIL | 13-adult.json | Errors: 2, Warnings: 52
+❌ FAIL | 14-adult.json | Errors: 2, Warnings: 64
+❌ FAIL | 15-adult.json | Errors: 2, Warnings: 55
+❌ FAIL | 16-adult.json | Errors: 2, Warnings: 69
+❌ FAIL | 17-adult.json | Errors: 2, Warnings: 74
+❌ FAIL | 18-adult.json | Errors: 2, Warnings: 69
+❌ FAIL | 2-adult.json | Errors: 2, Warnings: 25
+❌ FAIL | 3-adult.json | Errors: 2, Warnings: 46
+❌ FAIL | 4-adult.json | Errors: 2, Warnings: 42
+❌ FAIL | 5-adult.json | Errors: 2, Warnings: 48
+❌ FAIL | 6-adult.json | Errors: 2, Warnings: 49
+❌ FAIL | 7-adult.json | Errors: 2, Warnings: 44
+❌ FAIL | 8-adult.json | Errors: 2, Warnings: 45
+❌ FAIL | 9-adult.json | Errors: 2, Warnings: 44
+
+[1mTotal: 1/18 files passed[0m

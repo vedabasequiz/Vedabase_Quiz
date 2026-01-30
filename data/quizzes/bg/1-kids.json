@@ -3,18 +3,18 @@
   "scripture": "bg",
   "chapter": 1,
   "audience": "kids",
-  "title": "Bhagavad Gita - Chapter 1 (Kids) | 10Q",
+  "title": "Bhagavad Gita - Chapter 1 (Kids) | 15Q",
   "difficulty": "easy",
-  "publishedOn": "2026-01-28",
+  "publishedOn": "2026-01-29",
   "questions": [
     {
       "id": "bg1-q1-kids",
       "prompt": "King Dhritarastra cannot see the battlefield himself. What does he ask Sanjaya to tell him about?",
       "choices": [
-        "What the soldiers are eating",
+        "What the soldiers are eating for meals",
         "What his own sons are doing at the battle",
-        "Why the horses are tired",
-        "What day it is"
+        "Why the horses are tired and resting",
+        "What day it is on the calendar"
       ],
       "correctIndex": 1,
       "feedback": "The king wants to know what his own sons are doing now that they have gathered.",
@@ -23,13 +23,28 @@
       "verdict": "Correct"
     },
     {
+      "id": "bg1-q1p-kids",
+      "prompt": "Why is King Dhritarastra described as blind in Srila Prabhupada's explanation?",
+      "choices": [
+        "Only because his eyes cannot see physical things around him",
+        "Because he cannot see with his eyes or understand spiritual truth",
+        "Because he is very old and weak in his body",
+        "Only because he needs Sanjaya to help him always"
+      ],
+      "correctIndex": 1,
+      "feedback": "Dhritarastra is blind in two ways - his eyes cannot see, and his love for his sons prevents him from seeing what is spiritually right. Sometimes loving someone too much can make us forget what is good and bad.",
+      "verseLabel": "BG 1.1 Purport",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
+      "verdict": "Correct"
+    },
+    {
       "id": "bg1-q2-kids",
       "prompt": "When soldiers blow conchshells loudly, what are they trying to do?",
       "choices": [
-        "Play music for fun",
+        "Play music for fun and entertainment",
         "Make announcements and show they are ready",
-        "Scare animals away",
-        "Call people to eat"
+        "Scare animals away from the battlefield",
+        "Call people to eat their meals"
       ],
       "correctIndex": 1,
       "feedback": "Blowing the conchshells is a signal that the soldiers are ready and united for the battle.",
@@ -38,13 +53,28 @@
       "verdict": "Correct"
     },
     {
+      "id": "bg1-q2p-kids",
+      "prompt": "Srila Prabhupada explains that Krsna's conchshell and the Pandavas' conchshells have special names. What does this tell us?",
+      "choices": [
+        "These are just regular items that someone named much later",
+        "Only rich people can have named possessions and special items",
+        "Even Krsna's conchshell is eternal and special in the spiritual world",
+        "Names are just made up for fun in the stories"
+      ],
+      "correctIndex": 2,
+      "feedback": "Just like Krsna is eternal and never born, His conchshell and other items are also eternal and special. This shows that in the spiritual world, things are real and lasting, not like temporary things in our material world that break and disappear.",
+      "verseLabel": "BG 1.14 Purport",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/14/",
+      "verdict": "Correct"
+    },
+    {
       "id": "bg1-q3-kids",
       "prompt": "Why does Arjuna ask his friend Krsna to stop the chariot in the middle of the battle?",
       "choices": [
-        "To get a drink of water",
-        "So he can see and recognize all the people who came to fight",
-        "To take a nap",
-        "To play a game"
+        "To get a drink of water from his water pot",
+        "So he can see and recognize all the people who came",
+        "To take a nap and rest briefly on the chariot",
+        "To play a game with his warrior friends nearby"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna wants to see who all is there because he knows these people and cares about them.",
@@ -56,8 +86,8 @@
       "id": "bg1-q4-kids",
       "prompt": "When Arjuna sees his friends and family in the other army, how does he feel?",
       "choices": [
-        "Very happy and excited",
-        "Angry and ready to fight",
+        "Very happy and excited about the battle",
+        "Angry and ready to fight against them",
         "Sad and confused about what to do",
         "Confident and ready to lead them to victory"
       ],
@@ -68,12 +98,27 @@
       "verdict": "Correct"
     },
     {
+      "id": "bg1-q4p-kids",
+      "prompt": "According to Srila Prabhupada, why is Arjuna's sadness about his relatives a problem?",
+      "choices": [
+        "Because sadness is always wrong in all situations and should never happen",
+        "Because he thinks his relatives are only bodies and forgets their eternal souls",
+        "Because warriors should never care about anyone according to spiritual teaching",
+        "Because feeling sad makes you completely weak forever according to spiritual teaching"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna's pity comes from thinking his relatives are just their bodies. But everyone is really an eternal soul inside a body. When we only think of bodies and forget souls, we get confused about what is truly right.",
+      "verseLabel": "BG 1.28 Purport",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/28/",
+      "verdict": "Correct"
+    },
+    {
       "id": "bg1-q5-kids",
       "prompt": "What happens to Arjuna's body when he is very sad and confused?",
       "choices": [
-        "It becomes very strong",
+        "It becomes very strong and powerful for battle",
         "It feels shaky and he cannot stand up straight",
-        "It feels hot and sweaty",
+        "It feels hot and sweaty all over",
         "He feels energized and ready to fight"
       ],
       "correctIndex": 1,
@@ -83,12 +128,27 @@
       "verdict": "Correct"
     },
     {
+      "id": "bg1-q5p-kids",
+      "prompt": "Srila Prabhupada explains that Arjuna sees bad signs around him. What is really happening?",
+      "choices": [
+        "Real ghosts and demons are appearing everywhere on the field at all",
+        "His confused and attached mind makes him see bad signs",
+        "The gods are truly angry and sending warnings to him",
+        "Nothing at all is happening and he is just lying"
+      ],
+      "correctIndex": 1,
+      "feedback": "When Arjuna becomes attached to his relatives' bodies, his mind gets confused and sees bad signs everywhere. The real problem is his confused thinking, not actual bad omens. Our attachment to people and things can cloud our mind.",
+      "verseLabel": "BG 1.30 Purport",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/30/",
+      "verdict": "Correct"
+    },
+    {
       "id": "bg1-q6-kids",
       "prompt": "What does Arjuna think about fighting his own family members?",
       "choices": [
-        "It will make him a great hero",
-        "It is good and he will be happy",
-        "It is wrong and he will gain nothing good",
+        "It will make him a great hero in the world",
+        "It is good and he will be happy afterwards",
+        "It is wrong and he will gain nothing good from it",
         "It will give him wealth and power to rule the kingdom"
       ],
       "correctIndex": 2,
@@ -98,11 +158,26 @@
       "verdict": "Correct"
     },
     {
+      "id": "bg1-q6p-kids",
+      "prompt": "Srila Prabhupada explains that Arjuna talks about giving up the kingdom. What is the problem with Arjuna's thinking?",
+      "choices": [
+        "He truly wants to give up everything and serve Krsna purely with complete devotion",
+        "He sounds like he is giving up, but is really just attached to relatives' bodies",
+        "He is completely correct and should immediately leave the battle and go away now",
+        "He has achieved perfect spiritual understanding already and knows everything completely now"
+      ],
+      "correctIndex": 1,
+      "feedback": "Arjuna sounds spiritual when he says he will give up the kingdom, but he is really just attached to his family's bodies. True giving up means doing your duty without attachment, not running away because you are too attached to people.",
+      "verseLabel": "BG 1.32-35 Purport",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/32-35/",
+      "verdict": "Correct"
+    },
+    {
       "id": "bg1-q7-kids",
       "prompt": "When families are broken and lose their good ways, what happens to the people?",
       "choices": [
-        "They become richer and happier",
-        "They become wiser and stronger",
+        "They become richer and happier in every way",
+        "They become wiser and stronger in character",
         "Bad things happen and good values are lost",
         "They enjoy more freedom without old restrictions"
       ],
@@ -116,10 +191,10 @@
       "id": "bg1-q8-kids",
       "prompt": "What happens to the ancestors of a family that forgets its traditions?",
       "choices": [
-        "They become happy",
-        "They receive honor and respect",
+        "They become happy in the spiritual world",
+        "They receive honor and respect from everyone",
         "They lose the honor of being remembered properly",
-        "Nothing changes"
+        "Nothing changes and they remain the same"
       ],
       "correctIndex": 2,
       "feedback": "When families stop doing proper ceremonies and remembering their ancestors, the ancestors lose the respect and care they deserve.",
@@ -131,10 +206,10 @@
       "id": "bg1-q9-kids",
       "prompt": "Why do people sometimes do bad things just to get power and wealth?",
       "choices": [
-        "Because they are very wise",
-        "Because they want to help others",
+        "Because they are very wise and understand everything perfectly about life",
+        "Because they want to help others according to spiritual teaching always",
         "Because their strong desire for things makes them forget what is right",
-        "Because they are forced to do it"
+        "Because they are forced to do it according to spiritual teaching rules"
       ],
       "correctIndex": 2,
       "feedback": "When people really want power, money, or other things, they sometimes forget about right and wrong, and that causes harm.",
@@ -146,10 +221,10 @@
       "id": "bg1-q10-kids",
       "prompt": "At the end of Chapter 1, what is Arjuna's condition?",
       "choices": [
-        "He is excited and ready to fight",
-        "He stands with his weapons ready",
+        "He is excited and ready to fight with all his great strength",
+        "He stands with his weapons ready to begin the battle courageously",
         "He is so sad and confused that he sits down and cannot continue",
-        "He prepares to accept his fate courageously"
+        "He prepares to accept his fate courageously without any fear whatsoever"
       ],
       "correctIndex": 2,
       "feedback": "Arjuna is so upset and sad that he puts down his weapons and sits down in the chariot, unable to do anything.",

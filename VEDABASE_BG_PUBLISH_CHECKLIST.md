@@ -116,23 +116,85 @@ Misinterpretations warned against by Srila Prabhupada
 
 9. Feedback Quality
 
-☐ Feedback explains why the correct answer is correct
+✅ Global Feedback Rules (ALL quizzes, ALL ages)
 
-☐ For Adults:
+Every question's feedback must include all three elements, in this order:
 
-Contrastive reasoning included where relevant
+1. Verdict label
 
-False paths explicitly named when applicable
+☐ Use only: "Correct" or "Review"
 
-☐ For Teens:
+❌ Never use "Wrong", "Incorrect", or similar
 
-One-step reasoning, no abstract metaphysics
+2. Reasoned explanation
 
-☐ For Kids:
+☐ Must align with the intent of the verse and/or purport
 
-Concrete cause-effect only
+☐ Explanation quality scales by age group (see below)
 
-Positive, reassuring tone
+3. Mandatory verse link
+
+☐ A direct clickable link to the exact verse page on vedabase.io
+
+❌ No generic chapter links, no homepage links
+
+🎓 Adult Feedback Requirements
+
+☐ Length: 2-5 sentences per question
+
+☐ Contrastive and purport-driven
+
+☐ Explicitly warn against false paths, such as:
+
+Doership illusion
+
+False renunciation
+
+Mundane or speculative interpretation
+
+Attachment disguised as duty
+
+☐ Explain why wrong options fail, not just why the correct one works
+
+☐ Emphasize psychological and philosophical consequences of misunderstanding
+
+☐ Optional: In 2-5 questions per quiz, include "Why this matters" (practical/philosophical consequence)
+
+🧑‍🎓 Teen Feedback Requirements
+
+☐ Length: 2-3 sentences
+
+☐ Guided reasoning, one-step logic
+
+☐ May briefly explain why one distractor fails
+
+❌ No dense metaphysics
+
+❌ No abstract Sanskrit philosophy
+
+🧒 Kids Feedback Requirements
+
+☐ Length: 1-2 short, positive sentences
+
+☐ Concrete, cause-effect explanation only
+
+❌ No option comparison
+
+❌ No abstract or philosophical terms
+
+☐ References mainly appear in feedback, not the prompt
+
+🚫 Explicitly Forbidden Across ALL Feedback
+
+❌ Using "Wrong" instead of "Review"
+
+❌ Vague affirmations ("This is correct because Krishna says so")
+
+❌ Feedback that merely restates the question
+
+❌ Missing vedabase.io verse links
+
+❌ Neutral explanations that fail to warn about misinterpretation risks (Adults)
 
 10. UX & Labeling
 

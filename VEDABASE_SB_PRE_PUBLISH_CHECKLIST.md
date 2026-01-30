@@ -86,15 +86,59 @@ Bhakti Supremacy Framing
 
 Feedback Quality (Age-Locked)
 
-☐ Adults: 3–5 sentences, contrastive, purport-aligned
+✅ Global Feedback Rules (ALL quizzes, ALL ages)
 
-☐ Teens: 2–3 sentences, guided reasoning
+Every question's feedback must include all three elements, in this order:
 
-☐ Kids: 1–2 short, concrete sentences
+1. Verdict label: Use only "Correct" or "Review" (❌ Never "Wrong", "Incorrect")
 
-☐ No shaming language; use consequence-aware explanation
+2. Reasoned explanation: Must align with the intent of the verse and/or purport
 
-☐ Optional "Why this matters" included in 3–5 Adult questions
+3. Mandatory verse link: Direct clickable link to exact verse page on vedabase.io
+
+🎓 Adult Feedback Requirements
+
+☐ Length: 2-5 sentences per question
+
+☐ Contrastive and purport-driven
+
+☐ Explicitly warn against false paths: doership illusion, false renunciation, mundane interpretation, attachment disguised as duty
+
+☐ Explain why wrong options fail, not just why correct one works
+
+☐ Emphasize psychological and philosophical consequences of misunderstanding
+
+☐ Optional: In 2-5 questions, include "Why this matters" (practical/philosophical consequence)
+
+🧑‍🎓 Teen Feedback Requirements
+
+☐ Length: 2-3 sentences
+
+☐ Guided reasoning, one-step logic
+
+☐ May briefly explain why one distractor fails
+
+❌ No dense metaphysics, no abstract Sanskrit philosophy
+
+🧒 Kids Feedback Requirements
+
+☐ Length: 1-2 short, positive sentences
+
+☐ Concrete, cause-effect explanation only
+
+❌ No option comparison, no abstract terms
+
+🚫 Explicitly Forbidden
+
+❌ Using "Wrong" instead of "Review"
+
+❌ Vague affirmations ("This is correct because Krishna says so")
+
+❌ Feedback that merely restates the question
+
+❌ Missing vedabase.io verse links
+
+❌ Neutral explanations that fail to warn about risks (Adults)
 
 🎨 TIER 3 — GOLD-STANDARD REFINEMENT (Excellence, Not Blocking)
 

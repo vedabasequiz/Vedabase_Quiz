@@ -24,182 +24,182 @@
     },
     {
       "id": "bg6-q2",
-      "prompt": "In the purport to BG 6.1, what false path does Srila Prabhupada warn against regarding renunciation?",
+      "prompt": "According to BG 6.2, what is the actual relationship between yoga and sannyasa?",
       "choices": [
-        "Abandoning work before purifying consciousness through selfless service",
-        "Remaining in household life instead of taking formal sannyasa vows",
-        "Performing duties while maintaining family relationships and material obligations",
-        "Accepting guidance from spiritual teachers rather than acting independently"
-      ],
-      "correctIndex": 0,
-      "feedback": "What they call sannyasa (renunciation) know as yoga-na hyasannyasta-sankalpah yogi bhavati (one doesn't become yogi without renouncing sankalpas/desires). Why this matters: Yoga IS sannyasa when properly understood-both require identical internal state of desire-transcendence enabling Krsna-consciousness. External differences (active vs withdrawn) less significant than internal similarity-both achieve desireless consciousness through different expressions. Don't artificially separate yoga-sannyasa-consciousness unifies seemingly divergent paths.",
-      "verseLabel": "BG 6.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/1/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg6-q3",
-      "prompt": "According to BG 6.2, what is the relationship between yoga and renunciation?",
-      "choices": [
-        "Yoga practice and renunciation are completely separate paths",
-        "Renunciation of desire is itself the yoga Krsna describes",
-        "Physical yoga postures lead automatically to mental renunciation",
-        "Only after renunciation can one begin practicing yoga"
+        "Yoga and sannyasa are completely separate paths for different people",
+        "What is called sannyasa is actually yoga; both require desire-renunciation",
+        "Sannyasa must be completed before one can begin practicing yoga",
+        "Yoga is for householders while sannyasa is only for renunciates"
       ],
       "correctIndex": 1,
-      "feedback": "For muni (sage) desiring yoga-aroha (ascending), karma is karanam (means); for one yoga-arudha (ascended), shamah (tranquility) is karanam. Yogaruruksu (beginner ascending) needs karma-yoga (engaged action) for purification; yogarudha (advanced ascended) needs shama (tranquility) for deepening. Different stages require different approaches-beginners purify through action, advanced stabilize through stillness. Apply stage-appropriate practice-karma-yoga for purification-phase, dhyana-yoga for realization-phase, recognizing spiritual path's progressive developmental nature.",
+      "feedback": "What they call sannyasa (renunciation) know as yoga-na hyasannyasta-sankalpah yogi bhavati (one doesn't become yogi without renouncing sankalpas/desires). Why this matters: Yoga IS sannyasa when properly understood-both require identical internal state of desire-transcendence enabling Krsna-consciousness. External differences (active vs withdrawn) less significant than internal similarity-both achieve desireless consciousness through different expressions. Don't artificially separate yoga-sannyasa-consciousness unifies seemingly divergent paths.",
       "verseLabel": "BG 6.2",
       "verseUrl": "https://vedabase.io/en/library/bg/6/2/",
       "verdict": "Correct"
     },
     {
-      "id": "bg6-q4",
-      "prompt": "In BG 6.3, what distinguishes the beginning practitioner from the advanced yogi?",
+      "id": "bg6-q3",
+      "prompt": "In BG 6.3, what different means are prescribed for the beginning practitioner versus the advanced yogi?",
       "choices": [
-        "The beginner uses work without attachment; the advanced attains cessation",
-        "The beginner meditates occasionally during spare time; the advanced meditates constantly",
-        "The beginner needs a qualified teacher for guidance; the advanced practices independently",
-        "The beginner focuses on ethical behavior; the advanced transcends all moral codes"
+        "Both use the same practice of constant meditation in isolation",
+        "Beginner uses work as means; advanced uses tranquility as means",
+        "Beginner studies philosophy; advanced transcends all scriptural knowledge",
+        "Beginner practices physical postures; advanced practices breath control"
       ],
-      "correctIndex": 0,
-      "feedback": "When neither sarva-sankalpah (all desires) nor karmashu (in actions) attached-yogarudha (ascended in yoga) is declared. Yogarudha simultaneously transcends desires AND actions' binding power-not by avoiding but by performing without attachment. Sankalpah (mental formations) and karmashu (activities) both transcended through consciousness-shift not behavior-modification. Aim for engaged transcendence-active participation without volitional investment, achieving freedom through consciousness-quality not activity-quantity reduction.",
+      "correctIndex": 1,
+      "feedback": "For muni (sage) desiring yoga-aroha (ascending), karma is karanam (means); for one yoga-arudha (ascended), shamah (tranquility) is karanam. Yogaruruksu (beginner ascending) needs karma-yoga (engaged action) for purification; yogarudha (advanced ascended) needs shama (tranquility) for deepening. Different stages require different approaches-beginners purify through action, advanced stabilize through stillness. Apply stage-appropriate practice-karma-yoga for purification-phase, dhyana-yoga for realization-phase, recognizing spiritual path's progressive developmental nature.",
       "verseLabel": "BG 6.3",
       "verseUrl": "https://vedabase.io/en/library/bg/6/3/",
       "verdict": "Correct"
     },
     {
-      "id": "bg6-q5",
-      "prompt": "According to BG 6.4, when is one said to be established in yoga?",
+      "id": "bg6-q4",
+      "prompt": "According to BG 6.4, when is one declared to be established in yoga (yogarudha)?",
       "choices": [
-        "When one masters advanced meditation techniques and physical postures",
-        "When one renounces all sense objects and desires for them",
-        "When one withdraws from society and lives in complete isolation",
-        "When one achieves supernatural powers through yogic practice"
+        "When one renounces all activities and lives in complete seclusion",
+        "When attached to neither desires nor actions",
+        "When one masters all eight stages of ashtanga-yoga perfectly",
+        "When one develops supernatural powers through yogic perfection"
       ],
       "correctIndex": 1,
-      "feedback": "Uddharet atmana atmanam (one should elevate self by self)-atma (self) is both mitra (friend) and vairee (enemy) depending on self-mastery. Self must elevate self through disciplined practice-no external agent can substitute for personal striving. Atma becomes friend when controlled or enemy when uncontrolled-same entity, different relationship based on self-governance. Engage vigorous self-improvement-guru guides but individual must do work, God facilitates but won't override free will, establishing personal responsibility for spiritual advancement.",
+      "feedback": "When neither sarva-sankalpah (all desires) nor karmashu (in actions) attached-yogarudha (ascended in yoga) is declared. Yogarudha simultaneously transcends desires AND actions' binding power-not by avoiding but by performing without attachment. Sankalpah (mental formations) and karmashu (activities) both transcended through consciousness-shift not behavior-modification. Aim for engaged transcendence-active participation without volitional investment, achieving freedom through consciousness-quality not activity-quantity reduction.",
       "verseLabel": "BG 6.4",
       "verseUrl": "https://vedabase.io/en/library/bg/6/4/",
       "verdict": "Correct"
     },
     {
-      "id": "bg6-q6",
-      "prompt": "In BG 6.5, how does the mind function as both friend and enemy?",
+      "id": "bg6-q5",
+      "prompt": "What fundamental principle does BG 6.5 teach about spiritual advancement?",
       "choices": [
-        "As friend when focused on material success and achievement; as enemy when spiritual",
-        "As friend when controlled by purified intelligence; as enemy when left uncontrolled",
-        "As friend in youth when sharp and clear; as enemy in old age when becoming dull",
-        "As friend when educated through scripture study; as enemy when remaining ignorant"
+        "One should depend entirely on the guru's mercy for all advancement",
+        "One must elevate oneself by oneself; the self is friend or enemy",
+        "Spiritual progress comes automatically through divine grace alone",
+        "The material mind must be completely destroyed for liberation"
+      ],
+      "correctIndex": 1,
+      "feedback": "Uddharet atmana atmanam (one should elevate self by self)-atma (self) is both mitra (friend) and vairee (enemy) depending on self-mastery. Self must elevate self through disciplined practice-no external agent can substitute for personal striving. Atma becomes friend when controlled or enemy when uncontrolled-same entity, different relationship based on self-governance. Engage vigorous self-improvement-guru guides but individual must do work, God facilitates but won't override free will, establishing personal responsibility for spiritual advancement.",
+      "verseLabel": "BG 6.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q6",
+      "prompt": "According to BG 6.6, how does the self become either friend or enemy?",
+      "choices": [
+        "Friend through good fortune; enemy through bad karma from past lives",
+        "Friend when conquered through discipline; enemy when unconquered",
+        "Friend when naturally peaceful; enemy when born with restless nature",
+        "Friend with proper education; enemy when raised without spiritual training"
       ],
       "correctIndex": 1,
       "feedback": "Self conquered for one who conquered self becomes mitra (friend); for unconquered, self acts as shatru-vat (like enemy) in enmity. Conquered self controlled through discipline becomes ally enabling spiritual progress; unconquered self following every impulse sabotages spiritual goals like enemy. Not external enemy but internal lack of self-governance creates suffering. Practice self-control-not self-rejection but self-governance, converting inner chaos into inner ally through disciplined spiritual practice.",
-      "verseLabel": "BG 6.5",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/5/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg6-q7",
-      "prompt": "In the purport to BG 6.5, what psychological trap does Srila Prabhupada identify about the material mind?",
-      "choices": [
-        "The mind can be completely destroyed through intense meditation practice and effort",
-        "The uncontrolled mind perpetually seeks sense gratification and drags one down materially",
-        "The mind is inherently evil and must be replaced entirely by pure spirit",
-        "The mind functions identically for all people regardless of training or purification"
-      ],
-      "correctIndex": 1,
-      "feedback": "Jitatmanah prashantasya (for self-conquered peaceful one)-same-sighted in sheeta-ushna (cold-heat), sukha-duhkha (pleasure-pain), mana-apamana (honor-dishonor). Natural equanimity from self-conquest-jitatmanah (self-mastered) achieves prashantatva (peace) enabling sama-drishti (equal vision) toward all dualities. Not suppression but transcendence-dualities don't disturb because consciousness anchored beyond their reach. Cultivate self-mastery producing natural peace-enables spontaneous equanimity without forced neutralization.",
-      "verseLabel": "BG 6.5",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/5/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg6-q8",
-      "prompt": "According to BG 6.6, what characterizes one who has conquered the mind versus one who has not?",
-      "choices": [
-        "The conquered mind brings steady self-realization; the unconquered brings struggle and confusion",
-        "The conquered mind produces supernatural abilities; the unconquered produces weakness",
-        "The conquered mind requires no further practice; the unconquered needs constant effort",
-        "The conquered mind becomes emotionless; the unconquered remains emotionally reactive"
-      ],
-      "correctIndex": 0,
-      "feedback": "Jnana-vijnana-trptatma (satisfied by knowledge-realization)-sees sama (equally) loshta-ashma-kanchana (clod-stone-gold). Yuktatma (established yogi) sees sama not by ignoring differences but by transcending material value-hierarchy-clod/stone/gold differ functionally but equal spiritually as Krsna's energy. Not material leveling but spiritual transcendence beneath functional differences. Develop sama-drishti-recognize material varieties' practical utility while transcending attachment-hierarchy, seeing all as Krsna's energy regardless of material value-gradations.",
       "verseLabel": "BG 6.6",
       "verseUrl": "https://vedabase.io/en/library/bg/6/6/",
       "verdict": "Correct"
     },
     {
-      "id": "bg6-q9",
-      "prompt": "In BG 6.7, what dualities does the self-realized person transcend?",
+      "id": "bg6-q7",
+      "prompt": "In BG 6.7, what dualities does the self-conquered person transcend?",
       "choices": [
-        "Knowledge and ignorance, wisdom and complete foolishness",
-        "Heat and cold, happiness and distress, honor and dishonor",
-        "Rich and poor, healthy and sick, young and old",
-        "Success and failure, victory and defeat, gain and loss"
+        "Birth and death, bondage and liberation, ignorance and knowledge",
+        "Cold and heat, pleasure and pain, honor and dishonor",
+        "Right and wrong, good and evil, virtue and vice",
+        "Past and future, memory and anticipation, regret and anxiety"
       ],
       "correctIndex": 1,
-      "feedback": "Suhrn-mitra-ari-udasina-madhyastha-dveshya-bandhu-sadhu-api-ca-papesu-sama-buddhih (equal-minded toward friend-enemy-neutral-mediator-hateful-relative-virtuous-sinful)-vishishyate (is distinguished). Nine categories of relationships all met with sama-buddhi (equal intelligence) by yogi. Not ignoring differences but transcending reactive consciousness-honors functional distinctions without internal turbulence. Practice transcendent pragmatism-maintain appropriate responses while cultivating equal-minded consciousness underneath varied behaviors.",
+      "feedback": "Jitatmanah prashantasya (for self-conquered peaceful one)-same-sighted in sheeta-ushna (cold-heat), sukha-duhkha (pleasure-pain), mana-apamana (honor-dishonor). Natural equanimity from self-conquest-jitatmanah (self-mastered) achieves prashantatva (peace) enabling sama-drishti (equal vision) toward all dualities. Not suppression but transcendence-dualities don't disturb because consciousness anchored beyond their reach. Cultivate self-mastery producing natural peace-enables spontaneous equanimity without forced neutralization.",
       "verseLabel": "BG 6.7",
       "verseUrl": "https://vedabase.io/en/library/bg/6/7/",
       "verdict": "Correct"
     },
     {
-      "id": "bg6-q10",
-      "prompt": "In the purport to BG 6.8, why does Srila Prabhupada warn against merely theoretical knowledge?",
+      "id": "bg6-q8",
+      "prompt": "In BG 6.8, what vision characterizes the yogi satisfied through knowledge and realization?",
       "choices": [
-        "Because theoretical knowledge without realization is insufficient",
-        "Because reading books distracts from practical meditation and yogic exercises",
-        "Because understanding philosophy leads to pride and spiritual arrogance without humility",
-        "Because knowledge must be completely abandoned for pure devotional feeling"
+        "Seeing all material objects as worthless and rejecting them completely",
+        "Seeing clod, stone, and gold equally as Krsna's energy",
+        "Perceiving no differences between any material objects whatsoever",
+        "Valuing spiritual objects while despising all material things"
       ],
-      "correctIndex": 0,
-      "feedback": "Yogi constantly (satatam) should yunjita (engage) citta (consciousness) staying viviktadeshena (in solitary place), yatatma (self-controlled), nirasir (without desires), aparigraha (non-possessive). Why this matters: Satatam (constantly) yunjita-continuous practice not sporadic attempts, comprehensive lifestyle supporting integrated consciousness. Not segmented spirituality but persistent consciousness-orientation toward Supreme. Cultivate continuous practice maintaining spiritual focus as constant backdrop throughout activities.",
+      "correctIndex": 1,
+      "feedback": "Jnana-vijnana-trptatma (satisfied by knowledge-realization)-sees sama (equally) loshta-ashma-kanchana (clod-stone-gold). Yuktatma (established yogi) sees sama not by ignoring differences but by transcending material value-hierarchy-clod/stone/gold differ functionally but equal spiritually as Krsna's energy. Not material leveling but spiritual transcendence beneath functional differences. Develop sama-drishti-recognize material varieties' practical utility while transcending attachment-hierarchy, seeing all as Krsna's energy regardless of material value-gradations.",
       "verseLabel": "BG 6.8",
       "verseUrl": "https://vedabase.io/en/library/bg/6/8/",
       "verdict": "Correct"
     },
     {
-      "id": "bg6-q11",
+      "id": "bg6-q9",
       "prompt": "In BG 6.9, what quality of vision distinguishes the most elevated person?",
       "choices": [
-        "Seeing all people as spiritually equal regardless of all external behavior patterns",
-        "Equal vision toward the well-wisher, friend, enemy, envious, pious, and sinner equally",
-        "Ability to see the aura and spiritual advancement level of all beings",
-        "Recognizing one's own superiority while remaining humble externally toward others"
+        "Seeing all people as identical and treating everyone exactly the same way",
+        "Equal-minded toward friend, enemy, neutral, mediator, hateful, relative, virtuous, sinful",
+        "Ability to judge spiritual advancement levels accurately in all beings",
+        "Recognizing one's own superiority while remaining externally humble"
       ],
       "correctIndex": 1,
-      "feedback": "Shucau deshe (in clean place) establishing firm asana (seat)-neither ati-ucchritam (too high) nor ati-nicham (too low). Practical prerequisites-clean location, stable seat, moderate height-support meditation without guaranteeing it. Too much attention produces distraction through perfectionism; too little produces distraction through discomfort. Establish reasonable practice-conditions-adequate cleanliness/stability/comfort enabling focus without obsessive environment-engineering, balancing external support with internal priority.",
+      "feedback": "Suhrn-mitra-ari-udasina-madhyastha-dveshya-bandhu-sadhu-api-ca-papesu-sama-buddhih (equal-minded toward friend-enemy-neutral-mediator-hateful-relative-virtuous-sinful)-vishishyate (is distinguished). Nine categories of relationships all met with sama-buddhi (equal intelligence) by yogi. Not ignoring differences but transcending reactive consciousness-honors functional distinctions without internal turbulence. Practice transcendent pragmatism-maintain appropriate responses while cultivating equal-minded consciousness underneath varied behaviors.",
       "verseLabel": "BG 6.9",
       "verseUrl": "https://vedabase.io/en/library/bg/6/9/",
       "verdict": "Correct"
     },
     {
-      "id": "bg6-q12",
-      "prompt": "In the purport to BG 6.10, what false conception of yoga does Srila Prabhupada correct?",
+      "id": "bg6-q10",
+      "prompt": "According to BG 6.10, what should the yogi do constantly?",
       "choices": [
-        "That yoga requires expensive equipment and specialized training facilities for effective practice",
-        "That yoga can be practiced successfully in crowded cities with full social engagements",
-        "That yoga practice is only for those born in brahminical families and spiritual traditions",
-        "That yoga produces immediate results without sustained practice over extended time periods"
+        "Practice physical postures and breathing exercises throughout the day",
+        "Engage consciousness while secluded, self-controlled, desireless, non-possessive",
+        "Study scripture and attend philosophical discussions with devotees",
+        "Perform elaborate fire sacrifices and Vedic rituals regularly"
       ],
       "correctIndex": 1,
-      "feedback": "Tatraikagram manah kritva (making mind one-pointed there)-controlling citta (consciousness) and indriyas (senses), practice yoga for atma-vishuddhaye (self-purification). Ekagrata (one-pointedness) with controlled consciousness-senses for atma-vishuddhaye-meditation as spiritual discipline not therapeutic technique. Aim is consciousness-transformation purifying false ego, not temporary stress-reduction. Approach meditation as purification-practice-tolerating discomfort of confronting conditioned mind, seeking permanent transformation not temporary relief from material pressure.",
+      "feedback": "Yogi constantly (satatam) should yunjita (engage) citta (consciousness) staying viviktadeshena (in solitary place), yatatma (self-controlled), nirasir (without desires), aparigraha (non-possessive). Why this matters: Satatam (constantly) yunjita-continuous practice not sporadic attempts, comprehensive lifestyle supporting integrated consciousness. Not segmented spirituality but persistent consciousness-orientation toward Supreme. Cultivate continuous practice maintaining spiritual focus as constant backdrop throughout activities.",
       "verseLabel": "BG 6.10",
       "verseUrl": "https://vedabase.io/en/library/bg/6/10/",
       "verdict": "Correct"
     },
     {
-      "id": "bg6-q13",
-      "prompt": "According to BG 6.11-12, what are the specific requirements for the yoga seat and practice?",
+      "id": "bg6-q11",
+      "prompt": "In BG 6.11, what practical requirements does Krsna specify for the yoga seat?",
       "choices": [
-        "Any comfortable location with cushions and support for extended sitting",
-        "A firm seat of kusha grass, deerskin, and cloth in a sacred place",
-        "A professionally designed meditation room with proper lighting and temperature",
-        "An elevated platform visible to others to inspire collective practice"
+        "Any comfortable modern chair or cushion suitable for extended sitting",
+        "Clean place with firm seat neither too high nor too low",
+        "Expensive meditation equipment from traditional yoga suppliers",
+        "Elevated platform visible to others to inspire collective practice"
+      ],
+      "correctIndex": 1,
+      "feedback": "Shucau deshe (in clean place) establishing firm asana (seat)-neither ati-ucchritam (too high) nor ati-nicham (too low). Practical prerequisites-clean location, stable seat, moderate height-support meditation without guaranteeing it. Too much attention produces distraction through perfectionism; too little produces distraction through discomfort. Establish reasonable practice-conditions-adequate cleanliness/stability/comfort enabling focus without obsessive environment-engineering, balancing external support with internal priority.",
+      "verseLabel": "BG 6.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q12",
+      "prompt": "According to BG 6.12, what is the actual purpose of making the mind one-pointed?",
+      "choices": [
+        "To develop supernatural powers and impress others with abilities",
+        "For self-purification through controlled consciousness and senses",
+        "To achieve temporary stress relief and improved mental health",
+        "For enhanced productivity and success in material endeavors"
+      ],
+      "correctIndex": 1,
+      "feedback": "Tatraikagram manah kritva (making mind one-pointed there)-controlling citta (consciousness) and indriyas (senses), practice yoga for atma-vishuddhaye (self-purification). Ekagrata (one-pointedness) with controlled consciousness-senses for atma-vishuddhaye-meditation as spiritual discipline not therapeutic technique. Aim is consciousness-transformation purifying false ego, not temporary stress-reduction. Approach meditation as purification-practice-tolerating discomfort of confronting conditioned mind, seeking permanent transformation not temporary relief from material pressure.",
+      "verseLabel": "BG 6.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q13",
+      "prompt": "In BG 6.13, how should the yogi position the body and focus consciousness?",
+      "choices": [
+        "Lying comfortably while visualizing the transcendental form peacefully",
+        "Body-head-neck aligned motionless, consciousness fixed on Krsna",
+        "Walking meditation while maintaining continuous awareness of steps",
+        "Any comfortable position that allows extended sitting without pain"
       ],
       "correctIndex": 1,
       "feedback": "Samam kaya-shiro-grivam (body-head-neck evenly aligned) holding acalam (motionless)-practicing brahmacharya (celibacy) with citta (consciousness) on ekam (one) Krsna. Physical alignment (samam upright posture, acalam stillness) supports but doesn't substitute for mental focus-citta fixed ekam on Krsna. Brahmacharya (celibacy/sense-control) prevents distraction. Maintain proper posture while prioritizing consciousness-discipline-body's stillness supports mind's one-pointedness but can't replace it, physical foundation enabling mental focus.",
-      "verseLabel": "BG 6.11-12",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/11/",
+      "verseLabel": "BG 6.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/13/",
       "verdict": "Correct"
     },
     {
@@ -249,32 +249,32 @@
     },
     {
       "id": "bg6-q17",
-      "prompt": "In the purport to BG 6.16, what warning does Srila Prabhupada give about false renunciation?",
+      "prompt": "According to BG 6.17, what is the result of regulated habits in all domains?",
       "choices": [
-        "That any eating or sleeping disqualifies one from yoga practice",
-        "That artificial fasting and sleep deprivation without purification cause disturbance",
-        "That only those born as brahmanas can properly regulate eating and sleeping",
-        "That regulated habits are less important than intensity of meditation"
+        "Guaranteed achievement of mystic siddhis and supernatural powers",
+        "Yoga becomes the destroyer of all suffering",
+        "Complete independence from all bodily needs and requirements",
+        "Automatic entrance into samadhi without further practice needed"
       ],
       "correctIndex": 1,
       "feedback": "Yuktahara-viharasya (balanced eating-recreation) yukta-ceshtasya (balanced activity) karma-su yukta-svapna-avabodhasya (balanced sleep-waking)-yoga becomes duhkha-ha (destroyer of suffering). Yukta (balanced) in all domains-eating/recreation/work/sleep-enables yoga destroying duhkha. Not ascetic deprivation but intelligent moderation-enjoying necessities without excess. Maintain yukta-ahara-vihara-regulate material life intelligently supporting spiritual practice, avoiding both indulgent excess and ascetic deprivation.",
-      "verseLabel": "BG 6.16",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/16/",
+      "verseLabel": "BG 6.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/17/",
       "verdict": "Correct"
     },
     {
       "id": "bg6-q18",
-      "prompt": "According to BG 6.17, what is the result of regulated yoga practice?",
+      "prompt": "According to BG 6.18, when is one said to be established in yoga (yukta)?",
       "choices": [
-        "Development of perfect memory and intellectual capacity",
-        "Yoga destroys all material suffering and distress",
-        "Gradual reduction in the need for food and sleep",
-        "Ability to remain absorbed in trance indefinitely"
+        "When one achieves temporary concentration during meditation sessions",
+        "When consciousness remains controlled, steady in self, desireless",
+        "When one develops the ability to sit motionless for many hours",
+        "When one receives initiation from a bona fide spiritual master"
       ],
       "correctIndex": 1,
       "feedback": "When citta (consciousness) niruddham (controlled) sthitah (remains) atmani (in self) eva nispriha (without desires) from sarva-kamat (all material desires)-then yuktah (established) iti ucyate (is said). Yukta (established yogi) maintains consciousness sthita (steady) atmani nispriha (desireless) toward all kamat-not temporary concentration but stable realization. Occasional meditation-success differs from established transcendence. Aim for stability-consistent consciousness-quality persisting beyond formal practice.",
-      "verseLabel": "BG 6.17",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/17/",
+      "verseLabel": "BG 6.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/18/",
       "verdict": "Correct"
     },
     {
@@ -324,62 +324,62 @@
     },
     {
       "id": "bg6-q22",
-      "prompt": "According to BG 6.24, what must accompany yoga practice for it to succeed?",
+      "prompt": "In BG 6.22, what characterizes the supreme gain (param labham) in yoga?",
       "choices": [
-        "Natural talent and favorable birth in a spiritually advanced family",
-        "Uncompromising determination and complete mental renunciation of desires",
-        "Supernatural faith and belief in miraculous divine intervention without effort",
-        "Advanced intellectual understanding of all yogic philosophy and techniques"
+        "Accumulation of mystic powers that impress ordinary people greatly",
+        "Gaining which, one considers no other gain greater and remains unshaken by sorrow",
+        "Achievement of perfect health and longevity in the material body",
+        "Recognition and fame as an advanced spiritual practitioner"
       ],
       "correctIndex": 1,
       "feedback": "Gaining which na aparam (no other) gain considers punyasam (greater)-established in which na duhkhena guruna api (not by heavy sorrow) vicalyate (is shaken). Having gained Krsna-connection considers it param labham (supreme gain)-nothing superior exists. Na vicalyate (unshaken) guruna duhkhena api-commitment persists through adversity. Develop unwavering commitment-establish Krsna-connection as non-negotiable life-priority maintained through favorable/unfavorable circumstances equally, testing spiritual maturity through adversity-persistence not prosperity-enthusiasm.",
+      "verseLabel": "BG 6.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/22/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q23",
+      "prompt": "According to BG 6.23, what is yoga actually called, and how should it be practiced?",
+      "choices": [
+        "Called union with Brahman; practiced through intellectual speculation alone",
+        "Called severing sorrow's connection; practiced with determination, without sad-heartedness",
+        "Called mystical perfection; practiced through severe austerities and fasting",
+        "Called physical fitness; practiced through proper diet and exercise routines"
+      ],
+      "correctIndex": 1,
+      "feedback": "Duhkha-samyoga-viyogam (severing sorrow-connection) yoga-samjnita (called yoga)-practice with nishcayena (determination) yoga without sannyasa vishada (abandoning sad-heartedness). Yoga defined as duhkha-samyoga-viyoga-requires nishcayena (firm determination) without vishada (sad-heartedness/depression). Not grim determination but joyful resolve-enthusiasm without emotionalism. Cultivate determined consistency-neither passive compliance nor emotional fluctuation, maintaining steady committed practice through clear conviction.",
+      "verseLabel": "BG 6.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/23/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg6-q24",
+      "prompt": "In BG 6.24, what must be completely abandoned at the root level for yoga success?",
+      "choices": [
+        "All external activities and social engagements with family members",
+        "Desires born from mental formations (sankalpa), restraining senses by mind",
+        "All philosophical study and intellectual understanding of scripture",
+        "The physical body's needs for food, sleep, and basic maintenance"
+      ],
+      "correctIndex": 1,
+      "feedback": "Sankalpa-prabhavan kaman (desires born from sankalpa-mental formations) tyaktva sarvan (abandoning all) asheshatah (completely)-restraining indriya-gramam (sense-group) manasa (by mind) from sarvatah (all sides). Address sankalpa-prabhavan (desire-source)-mental formations generating desires-not just controlling expressions. Tyaktva sarvan asheshtah-thorough not superficial. Manasa control indriya-gramam-mind-level work enabling sense-level control. Work at root-level-transform sankalpa generating desires, not just restrain indriyas expressing desires.",
       "verseLabel": "BG 6.24",
       "verseUrl": "https://vedabase.io/en/library/bg/6/24/",
       "verdict": "Correct"
     },
     {
-      "id": "bg6-q23",
-      "prompt": "In the purport to BG 6.25, what false expectation does Srila Prabhupada correct about mind control?",
-      "choices": [
-        "That the mind can be controlled quickly through weekend retreats",
-        "That mind control develops gradually through patient practice, not suddenly",
-        "That only renunciates in monasteries can achieve mental steadiness",
-        "That the mind remains perpetually uncontrollable in the material world"
-      ],
-      "correctIndex": 1,
-      "feedback": "Duhkha-samyoga-viyogam (severing sorrow-connection) yoga-samjnita (called yoga)-practice with nishcayena (determination) yoga without sannyasa vishada (abandoning sad-heartedness). Yoga defined as duhkha-samyoga-viyoga-requires nishcayena (firm determination) without vishada (sad-heartedness/depression). Not grim determination but joyful resolve-enthusiasm without emotionalism. Cultivate determined consistency-neither passive compliance nor emotional fluctuation, maintaining steady committed practice through clear conviction.",
-      "verseLabel": "BG 6.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/25/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg6-q24",
-      "prompt": "According to BG 6.26, what should one do when the mind wanders during meditation?",
-      "choices": [
-        "Accept the distraction as natural and observe without making any judgment",
-        "Bring the mind back under control and fix it steadily on the Supreme",
-        "Pause the practice session and return when concentration naturally improves",
-        "Analyze carefully why the mind wandered to prevent all future occurrences"
-      ],
-      "correctIndex": 1,
-      "feedback": "Sankalpa-prabhavan kaman (desires born from sankalpa-mental formations) tyaktva sarvan (abandoning all) asheshatah (completely)-restraining indriya-gramam (sense-group) manasa (by mind) from sarvatah (all sides). Address sankalpa-prabhavan (desire-source)-mental formations generating desires-not just controlling expressions. Tyaktva sarvan asheshtah-thorough not superficial. Manasa control indriya-gramam-mind-level work enabling sense-level control. Work at root-level-transform sankalpa generating desires, not just restrain indriyas expressing desires.",
-      "verseLabel": "BG 6.26",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/26/",
-      "verdict": "Correct"
-    },
-    {
       "id": "bg6-q25",
-      "prompt": "How do BG 6.30-32 synthesize the vision of the perfected yogi regarding the Self and others?",
+      "prompt": "According to BG 6.25, how should one approach the process of mind control?",
       "choices": [
-        "Seeing the individual soul's independence while respecting diversity in paths",
-        "Perceiving the Supersoul in all beings and treating all suffering as oneself",
-        "Recognizing gradations of spiritual advancement among all practitioners",
-        "Understanding the ultimate illusion of all individual existence in matter"
+        "Through intense weekend retreats achieving immediate transformation rapidly",
+        "Gradually, by intelligence held firmly, thinking of nothing but the self",
+        "Through forceful suppression of all thoughts using willpower alone",
+        "By completely abandoning all practice until inspiration naturally arises"
       ],
       "correctIndex": 1,
       "feedback": "Shanai-shanai (gradually) uparamet (should cease) buddhi-dhrita-grihtaya (by intelligence held firmly)-fixing manas (mind) on atman (self) na kinchit api cintayet (should think nothing else). Shanai-shanai (gradually/slowly) approach-reasonable expectations preventing discouragement. Buddhi-dhrita (firmly grasped intelligence) guiding process through patient intelligent progression. Accept gradual development-measure progress over months/years not days/weeks, maintaining patient consistent practice without frustration from immediate-result expectations, trusting process over time.",
-      "verseLabel": "BG 6.30-32",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/30/",
+      "verseLabel": "BG 6.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/25/",
       "verdict": "Correct"
     }
   ]

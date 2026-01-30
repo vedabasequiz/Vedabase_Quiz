@@ -146,10 +146,10 @@
       "id": "bg2-q10",
       "prompt": "In BG 2.31, what does Krishna say a kshatriya should consider regarding a righteous fight?",
       "choices": [
-        "Warfare should be avoided to prevent karmic entanglement",
+        "Warfare should be avoided unless it is clearly sinful",
         "Nothing is higher for a kshatriya than a righteous fight",
-        "Fighting family members creates insurmountable spiritual obstacles",
-        "Battle requires complete detachment before righteous engagement"
+        "Fighting respected elders requires special caution and higher authorization",
+        "Battle is righteous only after conquering attachment and fear"
       ],
       "correctIndex": 1,
       "feedback": "Correct: For a kshatriya, nothing is higher than a righteous fight. Duty performed without material attachment is not a fall-down but a righteous engagement. Therefore avoiding one's prescribed dharma out of sentiment is not spiritual advancement.",
@@ -326,10 +326,10 @@
       "id": "bg2-q22",
       "prompt": "In BG 2.33, what consequence does Krishna warn if Arjuna refuses to fight?",
       "choices": [
-        "His refusal demonstrates spiritual maturity transcending violence",
+        "His refusal may appear compassionate but contradicts his ordained duty",
         "He will incur sin and lose his reputation as a warrior",
-        "Compassionate non-action will establish his moral superiority",
-        "Avoiding bloodshed proves advancement beyond material duty"
+        "He will be praised by some, but the result will be moral decline",
+        "Avoiding bloodshed seems noble, but it does not erase obligation"
       ],
       "correctIndex": 1,
       "feedback": "Correct: Krishna warns that refusing to fight will bring sin and loss of reputation. Neglect of prescribed duty is not transcendence, even if justified with 'compassion.' A sentimental motive does not cancel dharmic accountability.",
@@ -356,10 +356,10 @@
       "id": "bg2-q24",
       "prompt": "In BG 2.38, how does Krishna instruct Arjuna to regard happiness/distress, gain/loss, victory/defeat?",
       "choices": [
-        "Strive intensely for victory while avoiding defeat at all costs",
+        "Fight for victory, since success proves righteousness",
         "Treat them as equal and fight, incurring no sin",
-        "Abandon fighting to avoid attachment to outcomes",
-        "Focus only on happiness and victory as proper motivation"
+        "Withdraw from battle to maintain inner peace",
+        "Fight only if victory is assured"
       ],
       "correctIndex": 1,
       "feedback": "Correct: Krishna orders Arjuna to treat happiness/distress, gain/loss, victory/defeat as equal and then fight. This is active equanimity: engage in duty without bondage to outcomes. Such equipoise is the basis for sinless action.",

@@ -12,9 +12,9 @@
       "prompt": "In BG 2.2, what does Krsna ask Arjuna about his condition?",
       "choices": [
         "How these impurities have come upon him",
-        "Whether he desires more wealth",
-        "If he wants to become king",
-        "Why he has so many followers"
+        "Whether he desires more wealth and material gain",
+        "If he wants to become king of the realm",
+        "Why he has so many followers in the army"
       ],
       "correctIndex": 0,
       "feedback": "Krsna asks how these impurities have come upon Arjuna, urging him to abandon weakness.",
@@ -26,10 +26,10 @@
       "id": "bg2-q2",
       "prompt": "BG 2.3 advises Arjuna to overcome weakness by doing what?",
       "choices": [
-        "Yield to sorrow and accept defeat",
+        "Yield to sorrow and accept defeat with grace",
         "Give up petty weakness of heart and arise",
-        "Renounce the world immediately through independent material processes",
-        "Compose a hymn of praise"
+        "Renounce the world immediately and abandon all duties",
+        "Compose a hymn of praise to honor the elders"
       ],
       "correctIndex": 1,
       "feedback": "Krsna urges Arjuna to give up petty weakness of heart and arise with purpose.",
@@ -41,10 +41,10 @@
       "id": "bg2-q3",
       "prompt": "In BG 2.4, what concern does Arjuna express about fighting Bhisma and Drona?",
       "choices": [
-        "They will easily be defeated",
+        "They will easily be defeated in battle despite their experience",
         "They are worthy of his worship and respect",
-        "They are untrained in battle",
-        "They have no followers through independent material processes"
+        "They are untrained in the art of warfare",
+        "They have no true followers or supporters in the army"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna hesitates because Bhisma and Drona are his superiors and worthy of worship.",
@@ -56,10 +56,10 @@
       "id": "bg2-q4",
       "prompt": "What attitude does Arjuna adopt in BG 2.7 toward Krsna?",
       "choices": [
-        "He declares independence from Krsna",
-        "He surrenders and asks for instruction",
-        "He insults Krsna through independent material processes",
-        "He attacks Krsna verbally through independent material processes"
+        "He declares independence from Krsna's authority and guidance",
+        "He surrenders as a disciple and asks for instruction",
+        "He insults Krsna by questioning His wisdom directly",
+        "He attacks Krsna verbally for His contradictory teachings"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna takes shelter of Krsna as his teacher and asks for instruction.",
@@ -71,10 +71,10 @@
       "id": "bg2-q5",
       "prompt": "According to BG 2.11, how do the wise view mourning?",
       "choices": [
-        "They lament primarily for the living",
-        "They lament both the living and the dead",
+        "They lament primarily for the living in this world",
+        "They lament both the living and the dead equally",
         "They lament neither for the living nor for the dead",
-        "They consistently express visible grief"
+        "They consistently express visible grief over material losses"
       ],
       "correctIndex": 2,
       "feedback": "Those who are wise lament neither for the living nor for the dead.",
@@ -86,10 +86,10 @@
       "id": "bg2-q6",
       "prompt": "According to BG 2.12, what is the eternal nature of existence?",
       "choices": [
-        "There was a time no of us existed",
-        "not was there a time when I did not exist, nor you",
-        "All beings are created and destroyed daily",
-        "The body is the eternal self"
+        "There was a time when none of us existed",
+        "Never was there a time when I did not exist",
+        "All beings are created and destroyed daily in the cycle",
+        "The body and soul are eternally combined as one"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.12 teaches the eternal existence of the living entity.",
@@ -101,10 +101,10 @@
       "id": "bg2-q7",
       "prompt": "BG 2.13 compares changes of the body to what analogy?",
       "choices": [
-        "Seasons changing and worldly philosophical speculation",
-        "Wearing new garments through independent material processes",
+        "Seasons changing through the natural cycles of nature's laws",
+        "Wearing new garments after discarding the old worn-out ones",
         "A person passing from boyhood to youth to old age",
-        "A river flowing to the sea"
+        "A river flowing to the sea through various terrains and landscapes"
       ],
       "correctIndex": 2,
       "feedback": "BG 2.13 compares bodily changes to stages of life; the soul persists.",
@@ -116,10 +116,10 @@
       "id": "bg2-q8",
       "prompt": "What does BG 2.14 say about happiness and distress?",
       "choices": [
-        "They are permanent states through independent material processes",
+        "They are permanent states that define one's spiritual position",
         "They are like summer and winter and should be tolerated",
-        "They are illusions to be ignored entirely",
-        "They are signals of divine favor"
+        "They are illusions to be ignored entirely through detachment",
+        "They are signals of divine favor or displeasure from God"
       ],
       "correctIndex": 1,
       "feedback": "Happiness and distress are temporary like seasons and should be tolerated.",
@@ -131,10 +131,10 @@
       "id": "bg2-q9",
       "prompt": "According to BG 2.15, who is eligible for liberation?",
       "choices": [
-        "One disturbed by happiness and distress",
+        "One disturbed by happiness and distress in daily life's situations",
         "One steady and not disturbed by happiness or distress",
-        "One who accumulates wealth through independent material processes",
-        "One who renounces without understanding"
+        "One who accumulates wealth through honest work and material endeavors",
+        "One who renounces without understanding the goal of life"
       ],
       "correctIndex": 1,
       "feedback": "One steady amid happiness and distress is eligible for liberation.",
@@ -146,10 +146,10 @@
       "id": "bg2-q10",
       "prompt": "What distinction do the seers make in BG 2.16?",
       "choices": [
-        "The material body is eternal and the soul temporary",
-        "Of the nonexistent the body has no endurance and of the eternal the soul has no change",
-        "Both body and soul are equally perishable",
-        "minimal can be known for certain"
+        "The material body is eternal and the soul is temporary in nature",
+        "The body has no endurance, the eternal soul has no change",
+        "Both body and soul are equally perishable in all material nature",
+        "Nothing can be known for certain about these philosophical matters whatsoever"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.16 distinguishes the nonendurance of the body from the changeless soul.",
@@ -161,10 +161,10 @@
       "id": "bg2-q11",
       "prompt": "BG 2.17 describes the soul as what?",
       "choices": [
-        "Perishable and weak through independent material processes",
+        "Perishable and weak like the material body it inhabits",
         "That which pervades the entire body and is indestructible",
-        "Identical with the senses through independent material processes",
-        "Bound by time through independent material processes"
+        "Identical with the senses and mind working through the body",
+        "Bound by time and karma due to past actions"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.17 teaches the soul pervades the body and is indestructible.",
@@ -177,9 +177,9 @@
       "prompt": "What key assertion is made in BG 2.20 about the soul?",
       "choices": [
         "The soul has birth and death like the body",
-        "For the soul there is neither birth nor death",
-        "The soul is a temporary spark",
-        "Death ends every existence through independent material processes"
+        "For the soul there is neither birth nor death ever",
+        "The soul is a temporary spark that eventually fades away",
+        "Death ends all existence and consciousness permanently for all beings"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.20 states the soul is unborn, eternal, and not slain when the body is slain.",
@@ -191,10 +191,10 @@
       "id": "bg2-q13",
       "prompt": "Which simile is used in BG 2.22 to explain the soul's transition?",
       "choices": [
-        "A tree shedding leaves through independent material processes",
+        "A tree shedding leaves during the seasonal changes of nature",
         "Putting on new garments and giving up old ones",
-        "A river evaporating into mist",
-        "A mountain eroding through independent material processes"
+        "A river evaporating into mist through the heat of the sun",
+        "A mountain eroding gradually over the passage of countless years"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.22 compares the soul's change of body to changing garments.",
@@ -206,10 +206,10 @@
       "id": "bg2-q14",
       "prompt": "What does BG 2.23 teach about weapons and the soul?",
       "choices": [
-        "Weapons can destroy the soul",
-        "The soul can not be cut to pieces by any weapon",
-        "Fire alone can harm the soul",
-        "Water can wash away the soul"
+        "Weapons can destroy the soul through violence and force",
+        "The soul cannot be cut to pieces by weapons",
+        "Fire alone can harm the soul through intense burning",
+        "Water can wash away the soul through gradual dissolution"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.23 affirms that no weapon or element can affect the soul.",
@@ -221,10 +221,10 @@
       "id": "bg2-q15",
       "prompt": "BG 2.25 calls the soul which of the following?",
       "choices": [
-        "Visible and changeable through independent material processes",
-        "Invisible, inconceivable and immutable",
-        "A local entity through independent material processes",
-        "A collection of elements through independent material processes"
+        "Visible and changeable like the body it resides within",
+        "Invisible, inconceivable and immutable in all circumstances eternally",
+        "A local entity limited to one body alone",
+        "A collection of elements temporarily combined by material nature"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.25: the soul is invisible, inconceivable and immutable; do not grieve for the body.",
@@ -236,10 +236,10 @@
       "id": "bg2-q16",
       "prompt": "In BG 2.30, why need one not grieve for any living being?",
       "choices": [
-        "Because the body is the primarily reality",
+        "Because the body is the primary reality and soul is secondary",
         "Because he who dwells in the body can not be slain",
-        "Because grief is consistently rewarded",
-        "Because life is trivial through independent material processes"
+        "Because grief is consistently rewarded with spiritual advancement eventually",
+        "Because life is trivial and ultimately meaningless in the grand scheme"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.30 states the indwelling self cannot be slain, so grief is unnecessary.",
@@ -251,10 +251,10 @@
       "id": "bg2-q26-purport",
       "prompt": "In the purport to BG 2.2, Srila Prabhupada explains the three realizations of Absolute Truth using the sun analogy. Which realization represents the highest?",
       "choices": [
-        "Understanding the sunshine represents Brahman realization",
-        "Knowing the sun's surface represents Paramatma realization",
-        "Entering the sun planet represents Bhagavan realization",
-        "All three are equal according to impersonal philosophy"
+        "Understanding the sunshine represents Brahman realization which is lower stage",
+        "Knowing the sun's surface represents Paramatma realization which is intermediate",
+        "Entering the sun planet represents Bhagavan realization which is highest",
+        "All three are equal according to impersonal philosophy taught by Mayavadis"
       ],
       "correctIndex": 2,
       "feedback": "The bhaktas who realize Bhagavan are topmost transcendentalists, like those who enter the sun planet.",
@@ -266,10 +266,10 @@
       "id": "bg2-q27-purport",
       "prompt": "In the purport to BG 2.2, what does Srila Prabhupada say characterizes non-Aryans?",
       "choices": [
-        "They are noble warriors fighting for righteousness",
-        "They know liberation but prefer material life",
-        "They have no knowledge of liberation from bondage",
-        "They follow prescribed duties with determination"
+        "They are noble warriors fighting for righteousness and dharma on battlefields",
+        "They know liberation but prefer material life and sense gratification",
+        "They have no knowledge of liberation from material bondage at all",
+        "They follow prescribed duties with determination and complete devotion"
       ],
       "correctIndex": 2,
       "feedback": "Non-Aryans have no knowledge of liberation from material bondage, being captivated by external material features.",
@@ -283,8 +283,8 @@
       "choices": [
         "Families naturally protect each other from death eternally",
         "Family attachment is based on 'skin disease' mentality",
-        "Only humans can be affectionate to relatives",
-        "Society can definitely save one from death"
+        "Only humans can be affectionate to relatives and family",
+        "Society can definitely save one from death through collective effort"
       ],
       "correctIndex": 1,
       "feedback": "Family attachment is based on 'skin disease' - bodily conception. The krpana thinks family can protect from death.",
@@ -296,10 +296,10 @@
       "id": "bg2-q29-purport",
       "prompt": "In the purport to BG 2.7, who does Srila Prabhupada describe as a miserly person (krpana)?",
       "choices": [
-        "One who hoards wealth through legitimate means",
-        "One who solves life's problems as a human",
-        "One who quits without understanding self-realization",
-        "One who becomes detached from family life"
+        "One who hoards wealth through legitimate means and proper work",
+        "One who solves life's problems as a human should",
+        "One who quits without understanding self-realization like cats and dogs",
+        "One who becomes detached from family life and material affairs"
       ],
       "correctIndex": 2,
       "feedback": "The krpana does not solve life's problems as a human and quits like cats and dogs without self-realization.",
@@ -311,10 +311,10 @@
       "id": "bg2-q30-purport",
       "prompt": "In the purport to BG 2.7, what does Srila Prabhupada warn about mundane scholars who say one need not submit to Krsna as a person?",
       "choices": [
-        "They have deep philosophical understanding worthy of praise",
-        "They are the greatest fools in understanding Gita",
-        "They have legitimately transcended bodily conception",
-        "They correctly perceive no difference between Krsna's forms"
+        "They have deep philosophical understanding worthy of praise from learned scholars",
+        "They are the greatest fools in understanding the Gita's message",
+        "They have legitimately transcended bodily conception through spiritual practices",
+        "They correctly perceive no difference between Krsna's various forms"
       ],
       "correctIndex": 1,
       "feedback": "Foolish scholars who say to submit to 'the unborn within Krsna' not Krsna the person are the greatest fools.",
@@ -326,10 +326,10 @@
       "id": "bg2-q31-purport",
       "prompt": "In the purport to BG 2.13, what false theory does Srila Prabhupada reject regarding the spirit soul?",
       "choices": [
-        "The soul undergoes six transformations like the body",
+        "The soul undergoes six transformations like the material body",
         "The Mayavadi oneness theory that soul is cut into pieces",
-        "The soul takes birth in the womb",
-        "The soul deteriorates over time like a tree"
+        "The soul takes birth in the womb of the mother",
+        "The soul deteriorates over time like a tree gradually decays"
       ],
       "correctIndex": 1,
       "feedback": "The Mayavadi theory of oneness cannot be entertained - cutting the soul would make the Supreme changeable.",
@@ -341,10 +341,10 @@
       "id": "bg2-q32-purport",
       "prompt": "In the purport to BG 2.13, why does Srila Prabhupada say the instructor-instructed relationship between Krsna and Arjuna is meaningful?",
       "choices": [
-        "Both are on the same level of realization",
-        "Both are equally deluded by maya's influence",
+        "Both are on the same level of realization and spiritual understanding",
+        "Both are equally deluded by maya's influence and material energy",
         "Krsna is superior, Arjuna is forgetful soul deluded by maya",
-        "Arjuna is the Supreme teaching the subordinate"
+        "Arjuna is the Supreme teaching the subordinate Krsna divine knowledge"
       ],
       "correctIndex": 2,
       "feedback": "Krsna is the Supreme Lord superior to Arjuna, who is a forgetful soul deluded by maya.",
@@ -356,10 +356,10 @@
       "id": "bg2-q33-purport",
       "prompt": "In the purport to BG 2.20, what does Srila Prabhupada explain about the symptom of the soul?",
       "choices": [
-        "The soul's presence is detected by bodily warmth",
-        "Consciousness is the symptom of the soul's presence",
-        "The soul manifests as intellectual capacity in humans",
-        "Only advanced yogis can perceive the soul directly"
+        "The soul's presence is detected by bodily warmth and physical signs",
+        "Consciousness is the symptom of the soul's presence within the body",
+        "The soul manifests as intellectual capacity in human beings primarily",
+        "Only advanced yogis can perceive the soul directly through meditation"
       ],
       "correctIndex": 1,
       "feedback": "Consciousness is the symptom of the soul. Like sunlight indicates the sun, consciousness indicates the soul's presence.",
@@ -371,10 +371,10 @@
       "id": "bg2-q34-purport",
       "prompt": "In the purport to BG 2.46, what false path does Srila Prabhupada warn against regarding Vedic study?",
       "choices": [
-        "Studying Vedas leads to material prosperity guaranteed",
+        "Studying Vedas leads to material prosperity guaranteed by scriptural authority",
         "Attachment to rituals only without knowing their purpose",
-        "Chanting holy names is for sentimentalists not scholars",
-        "Self-realization requires abandoning all Vedic knowledge"
+        "Chanting holy names is for sentimentalists not for scholarly persons",
+        "Self-realization requires abandoning all Vedic knowledge and scriptural study"
       ],
       "correctIndex": 1,
       "feedback": "One must understand the purpose of Vedas (knowing Krsna), not just be attached to rituals and heavenly elevation.",

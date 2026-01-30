@@ -309,12 +309,12 @@
     },
     {
       "id": "bg6-q21",
-      "prompt": "In the purport to BG 6.20-23, what trap does Srila Prabhupada warn about regarding happiness?",
+      "prompt": "In the purport to BG 6.20-23, what confusion does Srila Prabhupada warn about when comparing material pleasure with transcendental happiness?",
       "choices": [
-        "Seeking happiness through external achievements",
+        "Seeking happiness through external achievements and possessions",
         "Believing material and spiritual happiness are equivalent",
-        "Pursuing yoga for mystic powers not realization",
-        "Thinking happiness needs suppression of all desires"
+        "Pursuing yoga for mystic powers rather than realization",
+        "Thinking happiness requires suppression of all material desires"
       ],
       "correctIndex": 1,
       "feedback": "Sukham atantikam (unlimited happiness) that buddhi-grahyam (intelligence grasps) atindriyam (beyond senses)-established knowing this na chalati (doesn't deviate) from tattvatah (from truth). Atindriyas sukham (transcendental happiness) buddhi-grahyam (grasped by purified intelligence) beyond sense-perception. Atantikam (unlimited/permanent) versus indriya-sukham (sense-based pleasure) which is anta-vantam (limited/temporary). Transcend spiritual hedonism-seeking permanent transcendental realization not temporary sublime experiences.",

@@ -144,7 +144,7 @@
     },
     {
       "id": "bg4-q10",
-      "prompt": "In the purport to BG 4.15, what does Srila Prabhupada explain about following mahajanas?",
+      "prompt": "In the purport to BG 4.15, what does Srila Prabhupada explain about following previous authorities?",
       "choices": [
         "Great souls create their own independent spiritual paths successfully",
         "Following the path of great devotees leads to perfection",
@@ -243,8 +243,8 @@
       ],
       "correctIndex": 1,
       "feedback": "Correct: Detachment from results (BG 4.19-23) purifies the worker by removing the root disease: 'I am the enjoyer and owner.' As desire and proprietorship fade, real knowledge awakens-and that awakened knowledge makes sacrifice complete. Therefore BG 4.33 says knowledge-sacrifice is superior to material sacrifice: it targets ignorance and motive, not only external ritual. Why this matters: Without knowledge, sacrifice easily becomes a transaction for prestige or reward; with knowledge, the same acts become akarma-service that does not bind.",
-      "verseLabel": "BG 4.19-33",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/19/",
+      "verseLabel": "BG 4.33",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/33/",
       "verdict": "Correct"
     },
     {

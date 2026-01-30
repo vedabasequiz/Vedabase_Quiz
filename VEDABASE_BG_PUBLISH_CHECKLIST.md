@@ -163,6 +163,8 @@ Attachment disguised as duty
 
 ☐ Optional: In 2-5 questions per quiz, include "Why this matters" (practical/philosophical consequence)
 
+☐ **Adult quizzes must not frame bhakti as sentimental or isolated devotion; bhakti must be grounded in philosophical reasoning, contrastive analysis, and purport-supported epistemology**
+
 🧑‍🎓 Teen Feedback Requirements
 
 ☐ Length: 2-3 sentences

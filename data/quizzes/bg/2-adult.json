@@ -12,9 +12,9 @@
       "prompt": "In the purport to BG 2.1, what does Srila Prabhupada say about Arjuna's compassion?",
       "choices": [
         "Material compassion for the dress of a drowning man is senseless",
-        "Compassion means refusing to fight to avoid causing bodily harm",
-        "Any kind of compassion reflects true spiritual advancement regardless of object",
-        "Expressing compassion for family members shows proper understanding of relationships"
+        "Compassion for relatives demonstrates spiritual evolution beyond ordinary consciousness",
+        "All compassion reflects transcendental awareness regardless of its object",
+        "Bodily compassion becomes spiritual when motivated by sincere family affection"
       ],
       "correctIndex": 0,
       "feedback": "Correct: Srila Prabhupada explains that compassion for the eternal soul is self-realization, while compassion for the gross material body is senseless-like saving a drowning man by rescuing only his clothes. Arjuna's compassion targets the wrong object (relatives' bodies), producing confusion rather than clarity. Why this matters: Material sentimentality masquerades as transcendental mercy when we focus on the body's temporary distress while neglecting the soul's eternal welfare.",
@@ -26,10 +26,10 @@
       "id": "bg2-q2",
       "prompt": "In BG 2.2, what does Krishna say about Arjuna's impurities (kasmalam)?",
       "choices": [
-        "They are befitting a warrior overwhelmed by family love",
+        "They reflect natural human sensitivity requiring gentle understanding",
         "They lead not to higher planets but to infamy",
-        "They demonstrate proper respect for elders and superiors",
-        "They show Arjuna's advanced understanding of compassionate principles"
+        "They demonstrate evolved moral reasoning about protecting life",
+        "They reveal spiritual advancement through compassionate discernment"
       ],
       "correctIndex": 1,
       "feedback": "Correct: Krishna calls Arjuna's weakness kasmalam, not befitting an Aryan, and warns it leads to infamy, not higher elevation. He treats it as contamination that covers duty, not as a virtue. This shows that sentimental softness can be a disguise for bodily illusion.",
@@ -69,12 +69,12 @@
     },
     {
       "id": "bg2-q5",
-      "prompt": "In the purport to BG 2.11, what false path does Srila Prabhupada warn against regarding lamentation?",
+      "prompt": "In the purport to BG 2.11, what does Srila Prabhupada explain about lamentation and wisdom?",
       "choices": [
-        "That emotional expression for material loss demonstrates spiritual sensitivity and advancement",
-        "That the wise lament neither the living nor dead recognizing soul eternality",
-        "That grieving for the soul's temporary bondage shows proper spiritual understanding",
-        "That expressing compassion through lamentation indicates evolved consciousness and empathy"
+        "Grief for material loss shows sensitivity when grounded in philosophical awareness",
+        "The wise lament neither the living nor dead, recognizing soul eternality",
+        "Mourning the soul's temporary material bondage indicates proper spiritual understanding",
+        "Compassionate sorrow for suffering bodies reflects evolved transcendental consciousness"
       ],
       "correctIndex": 1,
       "feedback": "Correct: Srila Prabhupada explains that lamentation for material bodies-living or dead-indicates ignorance of the soul's eternal nature (pandita sama-darshina). The wise neither lament the living nor the dead because they recognize the soul beyond bodily modifications. Material sentiment (attachment to bodies) differs categorically from spiritual wisdom (vision of soul).",
@@ -101,10 +101,10 @@
       "id": "bg2-q7",
       "prompt": "How does BG 2.13 illustrate the soul's continuity through bodily changes?",
       "choices": [
-        "Like a river flowing continuously through different changing landscapes",
+        "Like consciousness evolving through progressive stages of awareness",
         "As embodied soul passes from boyhood to youth to age",
-        "Like seasons changing from spring to summer to winter",
-        "As consciousness expands from childhood ignorance to mature wisdom"
+        "Through gradual spiritual awakening from material ignorance to self-knowledge",
+        "As identity transforms from bodily identification to transcendental realization"
       ],
       "correctIndex": 1,
       "feedback": "Correct: The same dehi passes from boyhood to youth to old age while the body changes. This everyday continuity supports the next step: death is another change of body, not the end of the self. Therefore grief based on bodily change is misplaced.",
@@ -114,12 +114,12 @@
     },
     {
       "id": "bg2-q8",
-      "prompt": "Why does BG 2.14 compare happiness and distress to summer and winter?",
+      "prompt": "In BG 2.14, why are happiness and distress compared to winter and summer?",
       "choices": [
-        "To show they are unavoidable and must be accepted as destiny",
+        "Because material existence follows inevitable karmic patterns beyond our control",
         "Temporary sensations come and go like seasons; endure them",
-        "Happiness and distress alternate predictably like seasonal weather cycles",
-        "To demonstrate that both states are equally valuable for spiritual growth"
+        "To show suffering and pleasure alternate in predictable karmic cycles",
+        "Because both experiences equally contribute to progressive spiritual maturation"
       ],
       "correctIndex": 1,
       "feedback": "Correct: Happiness and distress arise from sense contact and come and go like seasons. Knowing they are temporary supports tolerance rather than panic or craving. Equanimity flows from clear perception, not forced numbness.",
@@ -131,10 +131,10 @@
       "id": "bg2-q9",
       "prompt": "According to BG 2.15, who is eligible for liberation?",
       "choices": [
-        "One disturbed by happiness and distress in daily life's situations",
+        "One who responds naturally to pleasure and pain with appropriate emotions",
         "One steady and not disturbed by happiness or distress",
-        "One who accumulates wealth through honest work and material endeavors",
-        "One who renounces without understanding the goal of life"
+        "One who maintains detachment while pursuing prescribed material duties",
+        "One who transcends bodily needs through complete withdrawal from action"
       ],
       "correctIndex": 1,
       "feedback": "Correct: The dhira who is not disturbed by happiness and distress becomes fit for liberation. Qualification is about steadiness of consciousness, not perfect external conditions. Spiritual life is practiced now, amid dualities.",
@@ -146,10 +146,10 @@
       "id": "bg2-q10",
       "prompt": "In BG 2.31, what does Krishna say a kshatriya should consider regarding a righteous fight?",
       "choices": [
-        "It is better to avoid all warfare for spiritual advancement",
+        "Warfare should be avoided to prevent karmic entanglement",
         "Nothing is higher for a kshatriya than a righteous fight",
-        "Fighting relatives is always spiritually contaminating",
-        "One should postpone battle until achieving complete detachment"
+        "Fighting family members creates insurmountable spiritual obstacles",
+        "Battle requires complete detachment before righteous engagement"
       ],
       "correctIndex": 1,
       "feedback": "Correct: Krishna declares that for a kshatriya, nothing is higher than dharmyad yuddhad (righteous war)-this isn't concession but affirmation of varna-dharma's validity. Fighting in accordance with prescribed duty isn't spiritually neutral but positively righteous when performed without material attachment. This establishes that renouncing one's dharma isn't spiritual advancement but dereliction disguised as transcendence.",
@@ -161,10 +161,10 @@
       "id": "bg2-q11",
       "prompt": "In the purport to BG 2.20, what does Srila Prabhupada explain as the symptom of the soul's presence?",
       "choices": [
-        "The warmth and life energy circulating through the body",
+        "Life energy pervading the body produces observable warmth and vitality",
         "Consciousness spread throughout the body like sunlight from the sun",
-        "The breath moving in and out indicating vitality",
-        "The ability to think and reason distinguishing humans from animals"
+        "Coordinated biological functions indicate an organizing life principle within",
+        "Rational thought and self-awareness distinguish conscious beings from matter"
       ],
       "correctIndex": 1,
       "feedback": "Correct: Consciousness is the symptom of the soul, like sunshine indicates the sun. It is not a product of matter but evidence of the living self within the body. When consciousness is absent, the soul has departed.",
@@ -191,10 +191,10 @@
       "id": "bg2-q13",
       "prompt": "Why does BG 2.25 emphasize the soul as invisible, inconceivable and immutable?",
       "choices": [
-        "Only what can be measured and perceived exists in reality",
+        "Material observation provides the only reliable path to understanding reality",
         "To show the soul transcends material perception and speculation",
-        "The soul is merely a temporary combination of material elements",
-        "What cannot be seen or touched must not truly exist"
+        "Invisible phenomena require empirical verification before philosophical acceptance",
+        "Immutability indicates the soul's nature as unchanging eternal energy"
       ],
       "correctIndex": 1,
       "feedback": "Correct: The soul is described as invisible, inconceivable, and immutable, beyond material measurement. Because it does not change, bodily events cannot touch it. Realization requires hearing from shabda-pramana, not only sense-based proof.",
@@ -206,10 +206,10 @@
       "id": "bg2-q14",
       "prompt": "In BG 2.30, why need one not grieve for any living being?",
       "choices": [
-        "Because grieving shows devotion and humility toward those who leave",
+        "Grief honors the departed and demonstrates proper emotional sensitivity",
         "Because he who dwells in the body can not be slain",
-        "Because the soul will be reborn anyway, so grief is unnecessary",
-        "Because suffering is only imagination, so grief is pointless"
+        "Rebirth into another body makes death a temporary transition only",
+        "Material suffering lacks ultimate reality, making lamentation illusory"
       ],
       "correctIndex": 1,
       "feedback": "Correct: The indwelling self cannot be slain, so lamentation has no ultimate basis. The body can be destroyed, but the soul is unaffected. This ends grief at the root, not merely by offering consolation.",
@@ -272,7 +272,7 @@
         "Either fighting or fleeing would be acceptable since all choices are relative"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Krishna synthesizes metaphysics (2.12-25 soul eternality) with ethics (2.31-32 kshatriya duty)-a two-pronged resolution. The soul's indestructibility removes philosophical objection (can't truly kill anyone); kshatriya-dharma provides positive justification (righteous war for righteous warrior). Together they eliminate paralysis: metaphysical security plus ethical imperative produce fearless righteous action.",
+      "feedback": "Correct: Chapter 2's teaching synthesizes metaphysics with ethics-soul eternality (2.12-25) removes the fear of killing, while kshatriya-dharma (2.31-32) establishes fighting as righteous duty. This two-pronged approach transforms paralysis into action: metaphysical knowledge dissolves false compassion; ethical duty provides positive direction. Together they enable fearless engagement in prescribed responsibility.",
       "verseLabel": "BG 2.12-32",
       "verseUrl": "https://vedabase.io/en/library/bg/2/12/",
       "verdict": "Correct"
@@ -326,10 +326,10 @@
       "id": "bg2-q22",
       "prompt": "In BG 2.33, what consequence does Krishna warn if Arjuna refuses to fight?",
       "choices": [
-        "He will achieve renunciation through peaceful non-violence",
+        "His refusal demonstrates spiritual maturity transcending violence",
         "He will incur sin and lose his reputation as a warrior",
-        "He will be honored for choosing compassion over duty",
-        "He will demonstrate spiritual advancement by avoiding killing"
+        "Compassionate non-action will establish his moral superiority",
+        "Avoiding bloodshed proves advancement beyond material duty"
       ],
       "correctIndex": 1,
       "feedback": "Correct: Krishna warns that refusing this dharmic duty will result in papa (sin) and akirtim (loss of reputation)-not spiritual credit but moral failure. Abandoning prescribed duty isn't transcendence but transgression, regardless of how compassionate the rationalization sounds. This establishes that duty-neglect carries karmic consequences even when motivated by apparently noble sentiment.",

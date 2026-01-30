@@ -26,10 +26,10 @@
       "id": "bg7-q2",
       "prompt": "In the purport to BG 7.2, what false path does Srila Prabhupada warn against regarding spiritual knowledge?",
       "choices": [
-        "Pursuing intellectual understanding without practical realization through devotional service",
+        "Pursuing intellectual understanding without practical realization through devotional service engagement",
         "Reading too many books instead of focusing on single scripture study alone",
-        "Seeking knowledge from spiritual teachers rather than discovering independently",
-        "Studying philosophy before establishing firm foundation in ritual worship"
+        "Seeking knowledge from spiritual teachers rather than discovering independently through speculation",
+        "Studying philosophy before establishing firm foundation in ritual worship practices"
       ],
       "correctIndex": 0,
       "feedback": "Srila Prabhupada explains that theoretical knowledge alone is insufficient. One must combine jnana (knowledge) with vijnana (realized understanding) through practice. The trap is accumulating information without transformation. Why this matters: Modern seekers confuse intellectual grasp with actual realization. The false path is studying endlessly without applying knowledge in devotional practice.",
@@ -162,7 +162,7 @@
       "prompt": "According to BG 7.11, how does Krishna manifest in the world?",
       "choices": [
         "Only in temples through formal worship and ritualistic ceremonies alone",
-        "As the strength of the strong devoid of passion and as dharmic desire",
+        "As strength of strong devoid of passion and dharmic desire",
         "In nature alone through independent material processes without any purpose",
         "Through intellectual speculation and philosophical debate exclusively without devotion"
       ],
@@ -266,10 +266,10 @@
       "id": "bg7-q18",
       "prompt": "In BG 7.18-19, who are truly wise according to Krishna?",
       "choices": [
-        "The learned scholars through speculative material processes",
+        "The learned scholars who understand through speculative material processes",
         "After many births, wise know me as everything that is",
-        "Material scholars are wisest through speculative processes",
-        "No one is truly wise through speculative material processes"
+        "Material scholars are wisest who study through speculative processes",
+        "No one is truly wise who relies on speculative material processes"
       ],
       "correctIndex": 1,
       "feedback": "True wisdom culminates in surrender to the Supreme. After many births of philosophical searching (bahunam janmanam ante), one who truly knows surrenders to Krishna, understanding that Vasudeva is all. The psychological insight: intellectual seeking must eventually conclude in devotional surrender. The trap is perpetual philosophical speculation without reaching conclusion. Why this matters: The false path treats spiritual inquiry as endless academic pursuit. Real knowledge recognizes when the search must transform into relationship.",
@@ -296,10 +296,10 @@
       "id": "bg7-q20",
       "prompt": "According to BG 7.21, what happens when Krishna grants desires to other deities' worshippers?",
       "choices": [
-        "Krishna denies them through speculative material processes",
+        "Krishna denies them completely through speculative material processes only",
         "I grant desires, but they eventually return to material world",
-        "They achieve liberation through speculative material processes",
-        "They prosper forever through speculative material processes"
+        "They achieve complete liberation through speculative material processes entirely",
+        "They prosper forever eternally through speculative material processes constantly"
       ],
       "correctIndex": 1,
       "feedback": "Material desires may be fulfilled but lead only to temporary satisfaction. The verse (7.21) teaches that when one worships demigods with faith, Krishna actually grants the results. However, such worshipers of small intelligence go to the demigods, while Krishna's devotees come to Him. Why this matters: The trap is seeking immediate material solutions while sacrificing the eternal goal. Real intelligence directs worship to the Supreme who can grant both temporary and permanent benefits, rather than settling for temporary gains from lesser beings.",

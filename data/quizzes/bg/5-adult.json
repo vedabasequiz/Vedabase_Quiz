@@ -77,7 +77,7 @@
         "They are easily disturbed by external circumstances and events"
       ],
       "correctIndex": 1,
-      "feedback": "The transcendentalist remains balanced in success and failure.",
+      "feedback": "The transcendentalist remains balanced in success and failure, unaffected by dualities of material existence. While conditioned souls experience elation in gain and depression in loss, the self-realized person maintains equipoise because identity rests in the eternal soul, not fluctuating circumstances. Self-control means the senses serve Krishna's purpose rather than dragging consciousness into material reactions. This steadiness flows from spiritual identification, not stoic suppression.",
       "verseLabel": "BG 5.7",
       "verseUrl": "https://vedabase.io/en/library/bg/5/7/",
       "verdict": "Correct"
@@ -92,7 +92,7 @@
         "Transcendentalists simply have stronger willpower to resist temptation"
       ],
       "correctIndex": 1,
-      "feedback": "Same senses, different consciousness: sensualist uses for self-gratification (binding), transcendentalist engages for Krishna's service (liberating)-senses themselves neutral, directed by will.",
+      "feedback": "Same senses, different consciousness: sensualist uses for self-gratification (binding), transcendentalist engages for Krishna's service (liberating)-senses themselves neutral, directed by consciousness and engagement in Krishna's service.",
       "verseLabel": "BG 5.8",
       "verseUrl": "https://vedabase.io/en/library/bg/5/8/",
       "verdict": "Correct"
@@ -107,7 +107,7 @@
         "They remain bound by the reactions of their devotional work"
       ],
       "correctIndex": 1,
-      "feedback": "Devotional service swiftly purifies the soul and removes all impurities.",
+      "feedback": "Devotional service swiftly purifies the soul and removes all impurities. Work in Krishna consciousness does not accumulate karma because the doer offers proprietorship and results to Krishna-reactions accrue to the enjoyer, not the instrument. Ordinary work binds through false proprietorship ('I am the doer, results are mine'); devotional work liberates through correct understanding ('Krishna acts through His energies, I am His servant'). The speed of purification comes from direct engagement with the Absolute, not gradual piety accumulation.",
       "verseLabel": "BG 5.9",
       "verseUrl": "https://vedabase.io/en/library/bg/5/9/",
       "verdict": "Correct"
@@ -131,9 +131,9 @@
       "id": "bg5-q9",
       "prompt": "In BG 5.11, who is a true renunciate according to Krishna?",
       "choices": [
-        "One who leaves home through independent material processes",
+        "One who abandons home and seeks isolation from society",
         "One who has conquered the senses and mind",
-        "One who not works through independent material processes",
+        "One who refuses all work and remains completely inactive",
         "One who lives in poverty accepting no possessions"
       ],
       "correctIndex": 1,
@@ -174,30 +174,30 @@
     },
     {
       "id": "bg5-q12",
-      "prompt": "In BG 5.14, who is truly liberated according to Krishna?",
+      "prompt": "According to BG 5.14, what does Krishna say does not create activities or their fruits?",
       "choices": [
         "The wealthy who possess abundant material opulence and resources",
-        "One who has transcended ego and false identification",
+        "The embodied soul; all is enacted by modes of nature",
         "The powerful who control others through their influence and authority",
         "The famous who are celebrated throughout society everywhere"
       ],
       "correctIndex": 1,
-      "feedback": "Liberation comes from renouncing the false ego and bodily identification.",
+      "feedback": "The embodied soul, master of the body's city, does not create activities, induce others to act, or create fruits of action. All this is enacted by the modes of material nature. The soul is witness and sanctioner, not the independent doer. False identification with body-mode activities creates the illusion 'I am doing'-dispelling this reveals the soul's actual non-doership and the modes' agency.",
       "verseLabel": "BG 5.14",
       "verseUrl": "https://vedabase.io/en/library/bg/5/14/",
       "verdict": "Correct"
     },
     {
       "id": "bg5-q13",
-      "prompt": "What does BG 5.15 teach about attaining peace?",
+      "prompt": "What does BG 5.15 teach about the Lord's relation to living beings' activities?",
       "choices": [
         "Peace comes from gratification of material desires gradually",
-        "Peace comes through self-knowledge and surrender to Krishna",
+        "The Lord does not accept anyone's sinful or pious activities",
         "Peace is impossible to achieve in the material world",
         "Peace requires isolation from all external contact entirely"
       ],
       "correctIndex": 1,
-      "feedback": "True peace comes from knowing the eternal nature of the soul.",
+      "feedback": "The Supreme Lord does not assume anyone's sinful or pious activities. Embodied beings are bewildered because ignorance covers their real knowledge. The Lord is neutral witness; karma binds the soul due to false identification with doership under ignorance's cover, not because Krishna imposes reactions. Ignorance makes the soul claim 'I am the doer'-this false proprietorship, not Krishna's judgment, creates bondage.",
       "verseLabel": "BG 5.15",
       "verseUrl": "https://vedabase.io/en/library/bg/5/15/",
       "verdict": "Correct"

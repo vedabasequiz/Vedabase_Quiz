@@ -150,6 +150,9 @@ export default function HomePage() {
             padding: 4px 8px;
             font-size: 11px;
           }
+          .scripture-card {
+            margin-bottom: 16px;
+          }
         }
       `}} />
       
@@ -357,7 +360,7 @@ export default function HomePage() {
     </span>
 
     {aboutExpanded && (
-      <div style={{ gridColumn: "1 / -1", paddingTop: 20, opacity: 0.92, lineHeight: 1.55, fontSize: 15 }} onClick={(e) => e.stopPropagation()}>
+      <div style={{ gridColumn: "1 / -1", paddingTop: 20, paddingBottom: 16, opacity: 0.92, lineHeight: 1.55, fontSize: 15 }} onClick={(e) => e.stopPropagation()}>
         <p style={{ marginTop: 0, marginBottom: 16 }}>
           Vedabase Quiz is a sacred self-study space to deepen understanding of the Bhagavad Gita and Srimad Bhagavatam.
         </p>

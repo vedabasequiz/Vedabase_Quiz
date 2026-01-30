@@ -42,9 +42,9 @@
       "prompt": "Srila Prabhupada explains in the purport to BG 1.1 that Kuruksetra is a dharmaksetra (place of pilgrimage). Why is this significant for understanding the battle?",
       "choices": [
         "It merely provides historical accuracy for the location",
-        "It suggests the battle promoted religious tourism development",
+        "It demonstrates equal divine favor for both armies",
         "It reveals divine sanction through the sacred setting",
-        "It means both sides were equally righteous and favored"
+        "It means military strategy was secondary to location"
       ],
       "correctIndex": 2,
       "feedback": "Srila Prabhupada explains that Kuruksetra's status as a place of pilgrimage from Vedic times is significant because the Supreme Lord desired the battle to take place on a sacred field. This is not random geography but divine arrangement. Why this matters: Understanding that even warfare can be divinely sanctioned when aligned with dharma helps us transcend the simplistic view that all violence is equally sinful. The other options fail because they either reduce the significance to mere historical detail, misunderstand the purpose of pilgrimage sites, or wrongly assume both sides had equal divine support despite moral differences.",
@@ -162,12 +162,12 @@
       "prompt": "In the purport to BG 1.14, Srila Prabhupada describes the names of the conchshells blown by the Pandavas and Krsna. What is the significance of these transcendental names?",
       "choices": [
         "They are merely poetic decorations added later",
-        "They indicate manufactured items with brand names",
+        "They indicate temporary material designations without spiritual significance",
         "They represent eternal spiritual variety in Krsna's realm",
         "They prove the Pandavas were wealthier than assumed"
       ],
       "correctIndex": 2,
-      "feedback": "Srila Prabhupada explains that the conchshells' transcendental names are not material designations but indicate eternal spiritual variety. Because Krsna and His associates are beyond material contamination, even their weapons and paraphernalia have eternal existence in the spiritual world. This challenges the impersonalist notion that variety exists only in the material realm. Why this matters: Understanding that transcendental variety is eternal protects us from the false path of impersonalism, which wrongly concludes that the Absolute must be formless and without variety. Material variety is temporary and illusory, but spiritual variety is eternal and real.",
+      "feedback": "Srila Prabhupada explains that the conchshells' transcendental names are not material designations but indicate eternal spiritual variety. Because Krsna and His associates are beyond material contamination, even their weapons and paraphernalia have eternal existence in the spiritual world. This challenges the impersonalist notion that variety exists only in the material realm, which wrongly concludes that the Absolute must be formless. Material variety is temporary, but spiritual variety is eternal.",
       "verseLabel": "BG 1.14",
       "verseUrl": "https://vedabase.io/en/library/bg/1/14/",
       "verdict": "Correct"
@@ -242,7 +242,7 @@
         "Both arise independently from separate mental processes"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna's physical collapse (trembling, hair standing, Gandiva slipping) manifests first in verses 1.29-30, revealing that material attachment to relatives' bodies has already overwhelmed his consciousness. His subsequent philosophical arguments in verses 1.32-45 about family duty and social order are rationalizations constructed after emotional attachment has clouded his judgment. This demonstrates how bodily identification produces both physiological symptoms and distorted reasoning that appears logical but lacks transcendental foundation. Why this matters: We often believe our philosophical positions arise from pure reason, but Prabhupada shows that material attachment first destabilizes consciousness at the bodily level, then constructs intellectual justifications. True spiritual discrimination requires transcending both physical agitation and its rationalized philosophy.",
+      "feedback": "Arjuna's physical collapse (trembling, hair standing, Gandiva slipping) manifests first in verses 1.29-30, revealing that material attachment to relatives' bodies has already overwhelmed his consciousness. His subsequent philosophical arguments in verses 1.32-45 about family duty and social order are rationalizations constructed after emotional attachment has clouded his judgment. This demonstrates how bodily identification produces both physiological symptoms and distorted reasoning that appears logical but lacks transcendental foundation.",
       "verseLabel": "BG 1.29-30, 1.32-45",
       "verseUrl": "https://vedabase.io/en/library/bg/1/29/",
       "verdict": "Correct"
@@ -272,7 +272,7 @@
         "Arjuna has been cursed by Bhisma"
       ],
       "correctIndex": 2,
-      "feedback": "Srila Prabhupada clearly states that Arjuna is bewildered by illusion on account of material affection for his family members. The inauspicious omens Arjuna perceives are not objective supernatural warnings but subjective manifestations of his confused mental state. When consciousness is clouded by attachment, even neutral circumstances appear ominous. Why this matters: We often mistake our own psychological projections for external reality. Material attachment distorts perception, making us see obstacles where none truly exist from a spiritual perspective. The false path is trusting emotional interpretation over transcendental guidance when they conflict.",
+      "feedback": "Srila Prabhupada clearly states that Arjuna is bewildered by illusion on account of material affection for his family members. The inauspicious omens Arjuna perceives are not objective supernatural warnings but subjective manifestations of his confused mental state. When consciousness is clouded by attachment, even neutral circumstances appear ominous. The false path is trusting emotional interpretation over transcendental guidance when they conflict.",
       "verseLabel": "BG 1.30",
       "verseUrl": "https://vedabase.io/en/library/bg/1/30/",
       "verdict": "Correct"
@@ -317,14 +317,14 @@
         "Renouncing battle would immediately qualify Arjuna for liberation"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada reveals the subtle trap: Arjuna speaks of renouncing kingdom and pleasures, which sounds spiritual, but his motivation is material attachment to relatives' bodies. This is not genuine renunciation but attachment masquerading as detachment. True renunciation means acting without attachment to results while fulfilling one's duty, not avoiding duty due to emotional attachment. Why this matters: Many people confuse running away from responsibility with spiritual renunciation. The false path of sentimental renunciation based on bodily affection differs fundamentally from genuine Krsna consciousness, which engages everything in service regardless of emotional preference. Prabhupada warns against this confusion throughout his purports.",
+      "feedback": "Srila Prabhupada reveals the subtle trap: Arjuna speaks of renouncing kingdom and pleasures, which sounds spiritual, but his motivation is material attachment to relatives' bodies. This is not genuine renunciation but attachment masquerading as detachment. True renunciation means acting without attachment to results while fulfilling one's duty, not avoiding duty due to emotional attachment. The false path of sentimental renunciation based on bodily affection differs fundamentally from genuine Krsna consciousness.",
       "verseLabel": "BG 1.32-35",
       "verseUrl": "https://vedabase.io/en/library/bg/1/32-35/",
       "verdict": "Correct"
     },
     {
       "id": "bg1-q22",
-      "prompt": "How do Arjuna's physical symptoms (BG 1.29-31), his perception of inauspicious omens (BG 1.30), and his philosophical arguments about family duty (BG 1.36-39) all reflect a common underlying spiritual problem?",
+      "prompt": "What underlying spiritual problem connects Arjuna's physical collapse (1.29-31), his perception of omens (1.30), and his philosophical reasoning about duty (1.36-39)?",
       "choices": [
         "They are three separate issues requiring different solutions",
         "All stem from material affection and bodily identification",
@@ -353,7 +353,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg1-q25",
+      "id": "bg1-q24",
       "prompt": "How does Dhritarashtra's physical and spiritual blindness (BG 1.1 purport) connect to Arjuna's inability to see his duty despite having physical vision (BG 1.30-46)?",
       "choices": [
         "There is no connection; one concerns vision and the other duty",
@@ -362,13 +362,13 @@
         "Physical blindness always produces spiritual confusion"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains in BG 1.1 purport that Dhritarashtra is blind both physically and spiritually due to attachment to his sons, preventing clear moral vision. Similarly, though Arjuna has physical sight, he reports in BG 1.30 that his vision is clouded and he cannot stand--symptoms Prabhupada attributes to bewilderment from material affection. Both men can hear Vedic knowledge (Dhritarashtra from Sanjaya, Arjuna from Krsna), but material attachment creates a form of blindness that transcends physical capacity. Dhritarashtra cannot see the justice of the Pandavas' cause; Arjuna cannot see his dharmic duty. Why this matters: Spiritual blindness from bodily attachment affects even those with physical sight and intelligence. The false path is assuming that sensory capacity or intellectual ability alone can reveal transcendental truth. Only when material affection is transcended can either physical sight or hearing of Vedic knowledge restore spiritual vision.",
+      "feedback": "Srila Prabhupada explains in BG 1.1 purport that Dhritarashtra is blind both physically and spiritually due to attachment to his sons, preventing clear moral vision. Similarly, though Arjuna has physical sight, he reports in BG 1.30 that his vision is clouded and he cannot stand--symptoms Prabhupada attributes to bewilderment from material affection. Both men can hear Vedic knowledge (Dhritarashtra from Sanjaya, Arjuna from Krsna), but material attachment creates a form of blindness that transcends physical capacity. Spiritual blindness from bodily attachment affects even those with physical sight and intelligence.",
       "verseLabel": "BG 1.1, 1.30-46",
       "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
       "verdict": "Correct"
     },
     {
-      "id": "bg1-q26",
+      "id": "bg1-q25",
       "prompt": "In BG 1.40, what consequence does Arjuna describe when irreligion becomes prominent in the family?",
       "choices": [
         "The warriors become significantly more powerful",

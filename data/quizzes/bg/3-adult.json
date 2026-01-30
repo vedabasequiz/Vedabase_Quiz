@@ -9,15 +9,15 @@
   "questions": [
     {
       "id": "bg3-q1",
-      "prompt": "Why does Arjuna perceive Krishna's teachings as contradictory in BG 3.1?",
+      "prompt": "Why does Arjuna perceive Krsna's teachings as contradictory in BG 3.1?",
       "choices": [
         "The monist confusion that action and knowledge are mutually exclusive",
-        "Krishna explicitly advocates complete inaction over all action",
-        "The impersonalist error that the Absolute cannot engage in activities",
-        "Krishna teaches only one single path exists for spiritual advancement"
+        "Krsna explicitly advocates complete inaction over all action",
+        "Krsna is advising different audiences, so the message changes by person",
+        "Krsna teaches only one single path exists for spiritual advancement"
       ],
       "correctIndex": 0,
-      "feedback": "Correct: Arjuna misunderstands the relationship between sankhya (analytical knowledge) and karma-yoga (devotional action), treating them as mutually exclusive alternatives when they are complementary. His confusion stems from monist contamination-assuming enlightenment means cessation of activity rather than purified activity in Krishna consciousness. Why this matters: The false path is intellectual-practical split; real knowledge includes proper devotional action, not theoretical understanding divorced from service.",
+      "feedback": "Correct: Arjuna misunderstands the relationship between sankhya (analytical knowledge) and karma-yoga (devotional action), treating them as mutually exclusive alternatives when they are complementary. His confusion stems from monist contamination-assuming enlightenment means cessation of activity rather than purified activity in Krsna consciousness. Why this matters: The false path is intellectual-practical split; real knowledge includes proper devotional action, not theoretical understanding divorced from service.",
       "verseLabel": "BG 3.1",
       "verseUrl": "https://vedabase.io/en/library/bg/3/1/",
       "verdict": "Correct"
@@ -32,7 +32,7 @@
         "The soul's desires always override all of nature's compulsions completely"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: The conditioned soul is forced to act by material nature's three gunas (modes) even when unwilling, illustrating helplessness under false ego's control. Soul under false ego cannot resist these impulses-acting in goodness, passion, or ignorance involuntarily. Only transcending modes through Krishna consciousness provides actual freedom from nature's mechanical compulsion. Modern belief in complete autonomy ignores this reality-apparent choices are often mode-expressions, not independent decisions.",
+      "feedback": "Correct: The conditioned soul is forced to act by material nature's three gunas (modes) even when unwilling, illustrating helplessness under false ego's control. Soul under false ego cannot resist these impulses-acting in goodness, passion, or ignorance involuntarily. Only transcending modes through Krsna consciousness provides actual freedom from nature's mechanical compulsion. Modern belief in complete autonomy ignores this reality-apparent choices are often mode-expressions, not independent decisions.",
       "verseLabel": "BG 3.5",
       "verseUrl": "https://vedabase.io/en/library/bg/3/5/",
       "verdict": "Correct"
@@ -43,7 +43,7 @@
       "choices": [
         "They achieve transcendental consciousness through external practices",
         "External restraint masks internal attachment revealing self-delusion",
-        "The ascetic fallacy that suppression equals purification",
+        "Suppression of desires itself guarantees spiritual purification",
         "They demonstrate genuine detachment through austere practices"
       ],
       "correctIndex": 1,
@@ -58,11 +58,11 @@
       "choices": [
         "Meditation alone practiced in complete isolation from society",
         "Ritualistic sacrifice performed according to Vedic injunctions",
-        "Action performed without attachment to results whatsoever",
+        "Action without attachment to results",
         "Complete silence and withdrawal from all worldly activities"
       ],
       "correctIndex": 2,
-      "feedback": "Correct: Engaged action in Krishna consciousness (pravrtti karma-yoga) is superior to inaction, representing a revolutionary rejection of renunciation-as-passivity. The body cannot remain inactive anyway (BG 3.5)-the question is whether activity binds or liberates. Proper action in Krishna consciousness transcends both binding material activity and false renunciation. Rather than suppressing senses fruitlessly, engage them in devotional service.",
+      "feedback": "Correct: Engaged action in Krsna consciousness (pravrtti karma-yoga) is superior to inaction, representing a revolutionary rejection of renunciation-as-passivity. The body cannot remain inactive anyway (BG 3.5)-the question is whether activity binds or liberates. Proper action in Krsna consciousness transcends both binding material activity and false renunciation. Rather than suppressing senses fruitlessly, engage them in devotional service.",
       "verseLabel": "BG 3.7",
       "verseUrl": "https://vedabase.io/en/library/bg/3/7/",
       "verdict": "Correct"
@@ -72,12 +72,12 @@
       "prompt": "In BG 3.9, who is truly liberated by performing sacrificial duties?",
       "choices": [
         "Those who avoid all work and remain idle throughout life",
-        "Those who perform their duties as offerings to Krishna",
+        "Those who perform their duties as offerings to Krsna",
         "Those who perform duties for personal gain and material benefit",
         "Those who hoard wealth through material activities and endeavors"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Work performed as yajna (sacrifice) for Vishnu liberates, while work for sense gratification binds through karma-bandhana. Why this matters: Identical activities generate opposite results based on consciousness-cooking for Krishna versus for self, speaking for preaching versus for profit-revealing that purpose is supremely important. Yajna transforms work from binding to liberating not by changing the activity but by changing consciousness.",
+      "feedback": "Correct: Work performed as yajna (sacrifice) for Vishnu liberates, while work for sense gratification binds through karma-bandhana. Why this matters: Identical activities generate opposite results based on consciousness-cooking for Krsna versus for self, speaking for preaching versus for profit-revealing that purpose is supremely important. Yajna transforms work from binding to liberating not by changing the activity but by changing consciousness.",
       "verseLabel": "BG 3.9",
       "verseUrl": "https://vedabase.io/en/library/bg/3/9/",
       "verdict": "Correct"
@@ -92,7 +92,7 @@
         "Books are sufficient without living guidance from a spiritual master"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: The process requires expert guidance (vishad-acarya) from advanced devotees initially, not autonomous learning from books alone. Krishna consciousness is consciousness-transmission, not mere information-transfer-requiring the guru's personal guidance to recognize individual conditioning and prescribe tailored sadhana. Books provide the framework; guru provides the practical application and protection from deviation.",
+      "feedback": "Correct: The process requires very expert guidance from advanced devotees initially, not autonomous learning from books alone. Krsna consciousness is consciousness-transmission, not mere information-transfer-requiring the guru's personal guidance to recognize individual conditioning and prescribe tailored sadhana. Books provide the framework; guru provides the practical application and protection from deviation.",
       "verseLabel": "BG 3.9",
       "verseUrl": "https://vedabase.io/en/library/bg/3/9/",
       "verdict": "Correct"
@@ -117,12 +117,12 @@
       "prompt": "How does BG 3.13's teaching on prasadam transform eating from mundane to spiritual?",
       "choices": [
         "The nutritionist view that blessed food has superior material properties",
-        "Offering to Krishna purifies food and consciousness of the eater",
+        "Offering to Krsna purifies food and consciousness of the eater",
         "The ritualist conception that correct mantras transform material substances",
         "The superstitious belief that prayer makes contaminated food safe"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Food offered to Krishna becomes prasadam, purifying both the substance and the consumer through transcendental relationship rather than chemical change. Krishna accepts the devotee's love expressed through offering, and purified by His touch, the remnants carry spiritual potency transforming the eater's consciousness. Self-centered eating accumulates sin through sense gratification; Krishna-centered eating through prasadam liberates. This demonstrates how every activity can be spiritualized through devotional offering.",
+      "feedback": "Correct: Food offered to Krsna becomes prasadam, purifying both the substance and the consumer through transcendental relationship rather than chemical change. Krsna accepts the devotee's love expressed through offering, and purified by His touch, the remnants carry spiritual potency transforming the eater's consciousness. Self-centered eating accumulates sin through sense gratification; Krsna-centered eating through prasadam liberates. This demonstrates how every activity can be spiritualized through devotional offering.",
       "verseLabel": "BG 3.13",
       "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
       "verdict": "Correct"
@@ -137,7 +137,7 @@
         "They can eat anything due to their transcendental spiritual purity"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Advanced devotees (santas) in love with Krishna cannot accept anything without offering it to Him first-this is spontaneous affection, not obligatory ritual. Their love prevents enjoying separately from Krishna, like a lover wanting the beloved to share everything first. The offering spirit evolves from external obligation (neophyte) through habit (intermediate) to spontaneous love (advanced).",
+      "feedback": "Correct: Advanced devotees (santas) in love with Krsna cannot accept anything without offering it to Him first-this is spontaneous affection, not obligatory ritual. Their love prevents enjoying separately from Krsna, like a lover wanting the beloved to share everything first. The offering spirit evolves from external obligation (neophyte) through habit (intermediate) to spontaneous love (advanced).",
       "verseLabel": "BG 3.13",
       "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
       "verdict": "Correct"
@@ -152,7 +152,7 @@
         "Philosophical speculation about the Absolute Truth and Brahman"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Sankirtana-yajna (congregational chanting) provides an easy, accessible process for Krishna consciousness requiring no complicated qualifications, birth status, wealth, or special location. This democratic accessibility reflects Krishna's generosity-everyone can participate immediately without initiation, expense, or elaborate rituals. Sankirtana is the only viable process for mass spiritual awakening in Kali-yuga's degraded conditions.",
+      "feedback": "Correct: Sankirtana-yajna (congregational chanting) provides an easy, accessible process for Krsna consciousness requiring no complicated qualifications, birth status, wealth, or special location. This democratic accessibility reflects Krsna's generosity-everyone can participate immediately without initiation, expense, or elaborate rituals. Sankirtana is the only viable process for mass spiritual awakening in Kali-yuga's degraded conditions.",
       "verseLabel": "BG 3.13",
       "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
       "verdict": "Correct"
@@ -182,7 +182,7 @@
         "An ascetic performing extreme penances continuously"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: The atma-rama (self-satisfied person) finds pleasure within through soul-knowledge and Krishna-relationship, needing nothing external for fulfillment. This is satisfaction-based transcendence, not deprivation-based detachment-higher pleasure naturally eclipses lower pleasure. Unlike material happiness that depends on favorable conditions, the self-realized person remains content regardless of external circumstances.",
+      "feedback": "Correct: The atma-rama (self-satisfied person) finds pleasure within through soul-knowledge and Krsna-relationship, needing nothing external for fulfillment. This is satisfaction-based transcendence, not deprivation-based detachment-higher pleasure naturally eclipses lower pleasure. Unlike material happiness that depends on favorable conditions, the self-realized person remains content regardless of external circumstances.",
       "verseLabel": "BG 3.17",
       "verseUrl": "https://vedabase.io/en/library/bg/3/17/",
       "verdict": "Correct"
@@ -197,7 +197,7 @@
         "Working harder automatically generates spiritual merit through effort"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Nishkama-karma (desireless action) performed as offering gradually purifies consciousness by removing false proprietorship ('my work, my results, my enjoyment'). Purification is consciousness transformation-seeing oneself as Krishna's servant rather than independent enjoyer. Purified consciousness naturally gravitates toward its source (Krishna), like water naturally flowing downhill. Karma-yoga is thus a purification process enabling bhakti's flowering, not the final destination itself.",
+      "feedback": "Correct: Nishkama-karma (desireless action) performed as offering gradually purifies consciousness by removing false proprietorship ('my work, my results, my enjoyment'). Purification is consciousness transformation-seeing oneself as Krsna's servant rather than independent enjoyer. Purified consciousness naturally gravitates toward its source (Krsna), like water naturally flowing downhill. Karma-yoga is thus a purification process enabling bhakti's flowering, not the final destination itself.",
       "verseLabel": "BG 3.19",
       "verseUrl": "https://vedabase.io/en/library/bg/3/19/",
       "verdict": "Correct"
@@ -212,7 +212,7 @@
         "He meditated in isolation avoiding all administrative responsibilities"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: King Janaka attained perfection (siddhi) by performing royal duties without attachment, demonstrating that liberation is available through any social position when performed in Krishna consciousness. Janaka engaged fully in governance, warfare, and administration while maintaining transcendental consciousness-detachment-in-action, not detachment-through-inaction. Quality of consciousness determines liberation, not social position-any varna or ashrama becomes a vehicle for Krishna consciousness when performed as yajna.",
+      "feedback": "Correct: King Janaka attained perfection (siddhi) by performing royal duties without attachment, demonstrating that liberation is available through any social position when performed in Krsna consciousness. Janaka engaged fully in governance, warfare, and administration while maintaining transcendental consciousness-detachment-in-action, not detachment-through-inaction. Quality of consciousness determines liberation, not social position-any varna or ashrama becomes a vehicle for Krsna consciousness when performed as yajna.",
       "verseLabel": "BG 3.19",
       "verseUrl": "https://vedabase.io/en/library/bg/3/19/",
       "verdict": "Correct"
@@ -227,7 +227,7 @@
         "By gaining political power and influencing masses"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: King Janaka and other perfected souls performed duties for loka-sangraha (public welfare), not personal gain, because they were already internally satisfied. Advanced souls work for collective upliftment-guiding society toward transcendence through example and leadership rather than retreating into isolated perfection. Loka-sangraha means maintaining social order that facilitates mass spiritual advancement, creating conditions enabling others' Krishna consciousness. This extends karma-yoga beyond personal purification to social transformation.",
+      "feedback": "Correct: King Janaka and other perfected souls performed duties for loka-sangraha (public welfare), not personal gain, because they were already internally satisfied. Advanced souls work for collective upliftment-guiding society toward transcendence through example and leadership rather than retreating into isolated perfection. Loka-sangraha means maintaining social order that facilitates mass spiritual advancement, creating conditions enabling others' Krsna consciousness. This extends karma-yoga beyond personal purification to social transformation.",
       "verseLabel": "BG 3.20",
       "verseUrl": "https://vedabase.io/en/library/bg/3/20/",
       "verdict": "Correct"
@@ -242,7 +242,7 @@
         "Following leaders automatically guarantees spiritual advancement for everyone"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Great souls (maha-atmas) must act in Krishna consciousness because their actions set standards that common people follow-yad yad acarati shreshthas (whatever great ones do) becomes the public norm. Leaders' visible behavior establishes precedents others imitate consciously or unconsciously, imposing spiritual responsibility on those with influence. If great souls act materialistically, masses follow suit; if transcendentally, masses follow transcendentally. Advanced practitioners must therefore exemplify Krishna consciousness publicly, using their influence for collective spiritual elevation.",
+      "feedback": "Correct: Great souls (maha-atmas) must act in Krsna consciousness because their actions set standards that common people follow-yad yad acarati shreshthas (whatever great ones do) becomes the public norm. Leaders' visible behavior establishes precedents others imitate consciously or unconsciously, imposing spiritual responsibility on those with influence. If great souls act materialistically, masses follow suit; if transcendentally, masses follow transcendentally. Advanced practitioners must therefore exemplify Krsna consciousness publicly, using their influence for collective spiritual elevation.",
       "verseLabel": "BG 3.21",
       "verseUrl": "https://vedabase.io/en/library/bg/3/21/",
       "verdict": "Correct"
@@ -257,7 +257,7 @@
         "They remember their eternal relationship with Krsna through devotion"
       ],
       "correctIndex": 2,
-      "feedback": "Correct: The materialistic person thinks aham karta (I am the doer) under false ego's influence, falsely claiming independent agency when actually material nature (prakrti) performs all actions through the three gunas. Why this matters: Modern 'self-made' narratives exemplify this delusion-body, intelligence, opportunities all come from Krishna's arrangement, not individual origination. The real controller is Hrishikesha (Krishna, master of senses); false ego creates an independence-illusion obscuring actual dependency. Recognizing Krishna as the real doer dissolves false agency-claims, producing humility and gratitude.",
+      "feedback": "Correct: The materialistic person thinks aham karta (I am the doer) under false ego's influence, falsely claiming independent agency when actually material nature (prakrti) performs all actions through the three gunas. Why this matters: Modern 'self-made' narratives exemplify this delusion-body, intelligence, opportunities all come from Krsna's arrangement, not individual origination. The real controller is Hrishikesha (Krsna, master of senses); false ego creates an independence-illusion obscuring actual dependency. Recognizing Krsna as the real doer dissolves false agency-claims, producing humility and gratitude.",
       "verseLabel": "BG 3.27",
       "verseUrl": "https://vedabase.io/en/library/bg/3/27/",
       "verdict": "Correct"
@@ -272,7 +272,7 @@
         "Krsna has no control over material bodies and their activities"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Bewildered by false ego and sense gratification, the ignorant person forgets that Krishna is Hrishikesha (master of the senses), falsely treating senses as personal property. Actually, sensory capacity is Krishna's facility borrowed for His service-using it for self-gratification constitutes theft and rebellion. Re-engaging senses in their original purpose (Krishna's pleasure) produces satisfaction; misalignment with this reality produces frustration.",
+      "feedback": "Correct: Bewildered by false ego and sense gratification, the ignorant person forgets that Krsna is Hrishikesha (master of the senses), falsely treating senses as personal property. Actually, sensory capacity is Krsna's facility borrowed for His service-using it for self-gratification constitutes theft and rebellion. Re-engaging senses in their original purpose (Krsna's pleasure) produces satisfaction; misalignment with this reality produces frustration.",
       "verseLabel": "BG 3.27",
       "verseUrl": "https://vedabase.io/en/library/bg/3/27/",
       "verdict": "Correct"
@@ -282,12 +282,12 @@
       "prompt": "How does work performed as sacrifice for Vishnu (BG 3.9) contrast with work driven by the modes (BG 3.5, 3.27) in terms of agency and bondage?",
       "choices": [
         "Both are equally binding since all action produces karma",
-        "Mode-driven work creates false doership; Krishna-centered work acknowledges true agency",
+        "Mode-driven work creates false doership; Krsna-centered work acknowledges true agency",
         "The fatalistic error that all action is equally unfree under modes",
         "The willpower misconception that choice alone determines freedom"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Mode-driven work (BG 3.5, 3.27) falsely claims agency ('I am the doer') while actually being nature-controlled; yajna-work (BG 3.9) acknowledges Krishna as the supreme controller and self as instrument. Material nature executes Krishna's plan through the three gunas, compelling the embodied soul's actions. Yajna-orientation corrects this ontological error by recognizing Krishna as the real agent, nature as His instrument, and self as His servant. Accepting one's constitutional position (Krishna's servant) rather than usurping His position (independent enjoyer) produces peace through reality-acceptance.",
+      "feedback": "Correct: Mode-driven work (BG 3.5, 3.27) falsely claims agency ('I am the doer') while actually being nature-controlled; yajna-work (BG 3.9) acknowledges Krsna as the supreme controller and self as instrument. Material nature executes Krsna's plan through the three gunas, compelling the embodied soul's actions. Yajna-orientation corrects this ontological error by recognizing Krsna as the real agent, nature as His instrument, and self as His servant. Accepting one's constitutional position (Krsna's servant) rather than usurping His position (independent enjoyer) produces peace through reality-acceptance.",
       "verseLabel": "BG 3.5-27",
       "verseUrl": "https://vedabase.io/en/library/bg/3/9/",
       "verdict": "Correct"
@@ -302,7 +302,7 @@
         "The legalist misconception that correct performance alone liberates"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: False renunciation (BG 3.4-6) restrains senses externally while internal attachment continues; regulated action (BG 3.8-9) redirects desire through Krishna-service, actually transforming consciousness. Mere cessation doesn't purify the mind because the desire-structure remains intact though temporarily suppressed-like a dammed river still wanting to flow. Regulated engagement in Krishna's service provides superior satisfaction, naturally displacing material desire through higher taste rather than frontal suppression. Active redirection in devotional service proves more effective than passive restraint.",
+      "feedback": "Correct: False renunciation (BG 3.4-6) restrains senses externally while internal attachment continues; regulated action (BG 3.8-9) redirects desire through Krsna-service, actually transforming consciousness. Mere cessation doesn't purify the mind because the desire-structure remains intact though temporarily suppressed-like a dammed river still wanting to flow. Regulated engagement in Krsna's service provides superior satisfaction, naturally displacing material desire through higher taste rather than frontal suppression. Active redirection in devotional service proves more effective than passive restraint.",
       "verseLabel": "BG 3.4-9",
       "verseUrl": "https://vedabase.io/en/library/bg/3/4/",
       "verdict": "Correct"
@@ -312,12 +312,12 @@
       "prompt": "How does identifying lust as the enemy (BG 3.36-43) integrate with the teaching that modes compel action (BG 3.5, 3.27-29)?",
       "choices": [
         "The moralist error that willpower alone conquers material desire",
-        "Lust enslaves through modes; higher taste via Krishna consciousness liberates",
+        "Lust enslaves through modes; higher taste via Krsna consciousness liberates",
         "The fatalistic resignation that mode-driven beings can't resist lust",
         "The dualist view that spirit and matter exist without interaction"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Lust (BG 3.36-43) operates through passion-mode compelling sense gratification, while modes (BG 3.5, 3.27-29) force action; Krishna-conscious engagement provides superior satisfaction that displaces both. Lust isn't destroyed by willpower-based opposition but by higher engagement-like a child naturally abandoning an old toy when receiving a better one. Fighting lust directly empowers it through attention; serving Krishna weakens it through neglect. Engage senses in devotional service-hearing, chanting, serving-gradually overcoming lust through disinterest rather than exhausting frontal combat.",
+      "feedback": "Correct: Lust (BG 3.36-43) operates through passion-mode compelling sense gratification, while modes (BG 3.5, 3.27-29) force action; Krsna-conscious engagement provides superior satisfaction that displaces both. Lust isn't destroyed by willpower-based opposition but by higher engagement-like a child naturally abandoning an old toy when receiving a better one. Fighting lust directly empowers it through attention; serving Krsna weakens it through neglect. Engage senses in devotional service-hearing, chanting, serving-gradually overcoming lust through disinterest rather than exhausting frontal combat.",
       "verseLabel": "BG 3.5-43",
       "verseUrl": "https://vedabase.io/en/library/bg/3/36/",
       "verdict": "Correct"
@@ -332,7 +332,7 @@
         "The world-negating assumption that material duties obstruct spiritual life"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Participation in the cosmic sacrifice cycle (BG 3.14-16) performed selflessly gradually purifies consciousness by removing false proprietorship ('I own, I control, I enjoy'). Real yajna is a consciousness-purification process, not a transaction for material benefit. Purified consciousness recognizes Krishna's ownership and one's service position-the constitutional reality obscured by material conditioning. The self-realized (3.17-20) already see clearly; conditioned souls purify gradually through detached yajna performed as offering.",
+      "feedback": "Correct: Participation in the cosmic sacrifice cycle (BG 3.14-16) performed selflessly gradually purifies consciousness by removing false proprietorship ('I own, I control, I enjoy'). Real yajna is a consciousness-purification process, not a transaction for material benefit. Purified consciousness recognizes Krsna's ownership and one's service position-the constitutional reality obscured by material conditioning. The self-realized (3.17-20) already see clearly; conditioned souls purify gradually through detached yajna performed as offering.",
       "verseLabel": "BG 3.14-20",
       "verseUrl": "https://vedabase.io/en/library/bg/3/14/",
       "verdict": "Correct"
@@ -347,17 +347,17 @@
         "The materialistic compromise that blends independence with devotion"
       ],
       "correctIndex": 0,
-      "feedback": "Correct: False ego (BG 3.27) creates an independence-illusion when humans are actually instruments of prakrti under Krishna's direction, directly contradicting modern culture's emphasis on absolute personal autonomy. Modern 'self-made' narratives exemplify false-ego delusion-genetic endowment, social circumstances, opportunities all come from beyond individual control yet are claimed as personal credit. Nature (Krishna's energy) provides all facilities; individuals merely use them well or poorly. Recognizing this dependency produces humility, acknowledging capacities as gifts rather than self-generated achievements.",
+      "feedback": "Correct: False ego (BG 3.27) creates an independence-illusion when humans are actually instruments of prakrti under Krsna's direction, directly contradicting modern culture's emphasis on absolute personal autonomy. Modern 'self-made' narratives exemplify false-ego delusion-genetic endowment, social circumstances, opportunities all come from beyond individual control yet are claimed as personal credit. Nature (Krsna's energy) provides all facilities; individuals merely use them well or poorly. Recognizing this dependency produces humility, acknowledging capacities as gifts rather than self-generated achievements.",
       "verseLabel": "BG 3.27",
       "verseUrl": "https://vedabase.io/en/library/bg/3/27/",
       "verdict": "Correct"
     },
     {
       "id": "bg3-q24",
-      "prompt": "How does Krishna's instruction for leaders to set examples (BG 3.21) integrate with His teaching that ignorant people shouldn't be disturbed (BG 3.26, 3.29)?",
+      "prompt": "How does Krsna's instruction for leaders to set examples (BG 3.21) integrate with His teaching that ignorant people shouldn't be disturbed (BG 3.26, 3.29)?",
       "choices": [
         "The elitist error that truth is only for qualified intellectuals",
-        "Lead by example in Krishna consciousness without disrupting gradual purification",
+        "Lead by example in Krsna consciousness without disrupting gradual purification",
         "The relativist view that all practices are equally valid at levels",
         "The revolutionary misconception that immediate change uplifts everyone in society"
       ],
@@ -377,7 +377,7 @@
         "The escapist view that ignoring problems through religion brings relief"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Modern stress stems from existential disconnection-the soul employed in self-centered projects lacking transcendent purpose-which material solutions (therapy, work-life balance) cannot ultimately resolve. Sankirtana-yajna (BG 3.13) reconnects the soul to its source by transforming all activities into offerings, restoring constitutional relationship. Work becomes service, reconnecting individuals to transcendent meaning and addressing the existential root of anxiety. Krishna consciousness is foundational rather than supplementary, transforming meaningless disconnected activity into meaningful connected service.",
+      "feedback": "Correct: Modern stress stems from existential disconnection-the soul employed in self-centered projects lacking transcendent purpose-which material solutions (therapy, work-life balance) cannot ultimately resolve. Sankirtana-yajna (BG 3.13) reconnects the soul to its source by transforming all activities into offerings, restoring constitutional relationship. Work becomes service, reconnecting individuals to transcendent meaning and addressing the existential root of anxiety. Krsna consciousness is foundational rather than supplementary, transforming meaningless disconnected activity into meaningful connected service.",
       "verseLabel": "BG 3.13",
       "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
       "verdict": "Correct"

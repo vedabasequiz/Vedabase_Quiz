@@ -3,9 +3,9 @@
   "scripture": "bg",
   "chapter": 2,
   "audience": "adult",
-  "title": "Bhagavad Gita - Chapter 2 (Adult) | 25Q",
+  "title": "Bhagavad Gita - Chapter 2 (Adult) | 38Q",
   "difficulty": "medium-hard",
-  "publishedOn": "2026-01-28",
+  "publishedOn": "2026-01-29",
   "questions": [
     {
       "id": "bg2-q1",
@@ -380,6 +380,201 @@
       "feedback": "BG 2.72: if situated in that state at death, one can enter the kingdom of God.",
       "verseLabel": "BG 2.72",
       "verseUrl": "https://vedabase.io/en/library/bg/2/72/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q26-purport",
+      "prompt": "In the purport to BG 2.2, Srila Prabhupada explains the three realizations of Absolute Truth using the sun analogy. Which realization represents the highest?",
+      "choices": [
+        "Understanding the sunshine represents Brahman realization",
+        "Knowing the sun's surface represents Paramatma realization",
+        "Entering the sun planet represents Bhagavan realization",
+        "All three are equal according to impersonal philosophy"
+      ],
+      "correctIndex": 2,
+      "feedback": "The bhaktas who realize Bhagavan are topmost transcendentalists, like those who enter the sun planet.",
+      "verseLabel": "BG 2.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q27-purport",
+      "prompt": "In the purport to BG 2.2, what does Srila Prabhupada say characterizes non-Aryans?",
+      "choices": [
+        "They are noble warriors fighting for righteousness",
+        "They know liberation but prefer material life",
+        "They have no knowledge of liberation from bondage",
+        "They follow prescribed duties with determination"
+      ],
+      "correctIndex": 2,
+      "feedback": "Non-Aryans have no knowledge of liberation from material bondage, being captivated by external material features.",
+      "verseLabel": "BG 2.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q28-purport",
+      "prompt": "In the purport to BG 2.7, what false path does Srila Prabhupada warn against regarding family attachment?",
+      "choices": [
+        "Families naturally protect each other from death eternally",
+        "Family attachment is based on 'skin disease' mentality",
+        "Only humans can be affectionate to relatives",
+        "Society can definitely save one from death"
+      ],
+      "correctIndex": 1,
+      "feedback": "Family attachment is based on 'skin disease' - bodily conception. The krpana thinks family can protect from death.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q29-purport",
+      "prompt": "In the purport to BG 2.7, who does Srila Prabhupada describe as a miserly person (krpana)?",
+      "choices": [
+        "One who hoards wealth through legitimate means",
+        "One who solves life's problems as a human",
+        "One who quits without understanding self-realization",
+        "One who becomes detached from family life"
+      ],
+      "correctIndex": 2,
+      "feedback": "The krpana does not solve life's problems as a human and quits like cats and dogs without self-realization.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q30-purport",
+      "prompt": "In the purport to BG 2.7, what does Srila Prabhupada warn about mundane scholars who say one need not submit to Krsna as a person?",
+      "choices": [
+        "They have deep philosophical understanding worthy of praise",
+        "They are the greatest fools in understanding Gita",
+        "They have legitimately transcended bodily conception",
+        "They correctly perceive no difference between Krsna's forms"
+      ],
+      "correctIndex": 1,
+      "feedback": "Foolish scholars who say to submit to 'the unborn within Krsna' not Krsna the person are the greatest fools.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q31-purport",
+      "prompt": "In the purport to BG 2.13, what false theory does Srila Prabhupada reject regarding the spirit soul?",
+      "choices": [
+        "The soul undergoes six transformations like the body",
+        "The Mayavadi oneness theory that soul is cut into pieces",
+        "The soul takes birth in the womb",
+        "The soul deteriorates over time like a tree"
+      ],
+      "correctIndex": 1,
+      "feedback": "The Mayavadi theory of oneness cannot be entertained - cutting the soul would make the Supreme changeable.",
+      "verseLabel": "BG 2.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q32-purport",
+      "prompt": "In the purport to BG 2.13, why does Srila Prabhupada say the instructor-instructed relationship between Krsna and Arjuna is meaningful?",
+      "choices": [
+        "Both are on the same level of realization",
+        "Both are equally deluded by maya's influence",
+        "Krsna is superior, Arjuna is forgetful soul deluded by maya",
+        "Arjuna is the Supreme teaching the subordinate"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna is the Supreme Lord superior to Arjuna, who is a forgetful soul deluded by maya.",
+      "verseLabel": "BG 2.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q33-purport",
+      "prompt": "In the purport to BG 2.20, what does Srila Prabhupada explain about the symptom of the soul?",
+      "choices": [
+        "The soul's presence is detected by bodily warmth",
+        "Consciousness is the symptom of the soul's presence",
+        "The soul manifests as intellectual capacity in humans",
+        "Only advanced yogis can perceive the soul directly"
+      ],
+      "correctIndex": 1,
+      "feedback": "Consciousness is the symptom of the soul. Like sunlight indicates the sun, consciousness indicates the soul's presence.",
+      "verseLabel": "BG 2.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q34-purport",
+      "prompt": "In the purport to BG 2.46, what false path does Srila Prabhupada warn against regarding Vedic study?",
+      "choices": [
+        "Studying Vedas leads to material prosperity guaranteed",
+        "Attachment to rituals only without knowing their purpose",
+        "Chanting holy names is for sentimentalists not scholars",
+        "Self-realization requires abandoning all Vedic knowledge"
+      ],
+      "correctIndex": 1,
+      "feedback": "One must understand the purpose of Vedas (knowing Krsna), not just be attached to rituals and heavenly elevation.",
+      "verseLabel": "BG 2.46",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/46/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q35-purport",
+      "prompt": "In the purport to BG 2.59, what false path for sense control does Srila Prabhupada warn against?",
+      "choices": [
+        "Artificial repression by rules without higher taste fails",
+        "Sense objects are easily conquered through willpower alone",
+        "Restrictions are unnecessary for all spiritual seekers",
+        "Material enjoyment naturally stops without alternative engagement"
+      ],
+      "correctIndex": 0,
+      "feedback": "Artificial restriction is like restricting a diseased person's diet - taste remains. Higher taste for Krsna naturally stops material taste.",
+      "verseLabel": "BG 2.59",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/59/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q36-purport",
+      "prompt": "In the purport to BG 2.62, what does Srila Prabhupada explain about sense control for non-devotees?",
+      "choices": [
+        "Even Lord Siva and Brahma are subjected to senses",
+        "Artificial repression guarantees permanent success for everyone",
+        "Material desires are easily conquered through meditation alone",
+        "Sense objects have no power over determined yogis"
+      ],
+      "correctIndex": 0,
+      "feedback": "Even demigods like Lord Siva are subject to senses. Only Krsna consciousness offers escape from material desires.",
+      "verseLabel": "BG 2.62",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/62/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q37-purport",
+      "prompt": "In the purport to BG 2.7, what does Srila Prabhupada explain about approaching a spiritual master?",
+      "choices": [
+        "Material perplexities appear automatically like a forest fire",
+        "Self-sufficient study eliminates need for guidance from others",
+        "Perplexities are planned punishments for past misdeeds",
+        "Only elderly persons require spiritual master guidance"
+      ],
+      "correctIndex": 0,
+      "feedback": "Perplexities appear without our desire like a forest fire. Vedic wisdom advises approaching a bona fide spiritual master.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q38-purport",
+      "prompt": "In the purport to BG 2.46, what does Srila Prabhupada say about Lord Caitanya's approach to Vedanta?",
+      "choices": [
+        "Lord Caitanya rejected Vedanta as unnecessary speculation",
+        "Chanting holy names serves the purpose of Vedanta philosophy",
+        "Vedanta study requires rejecting devotional sentimentalism completely",
+        "Lord Caitanya criticized His spiritual master's instruction"
+      ],
+      "correctIndex": 1,
+      "feedback": "Lord Caitanya chanted the holy name as instructed. The highest Vedantist takes pleasure in chanting - the ultimate Vedic purpose.",
+      "verseLabel": "BG 2.46",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/46/",
       "verdict": "Correct"
     }
   ]

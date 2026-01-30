@@ -115,7 +115,7 @@ These ensure excellent user experience. Focus of quality revision process.
 - ✅ **Maintain scriptural tone** (not absurd or joke answers)
 - **Script check:** `validate-all-standards.py` → "Distractors: X% with minor issues"
 - **Target:** ≤10% distractors with issues
-- **Gold Standard Reference:** See [BG_DISTRACTOR_STYLE_GUIDE.md](BG_DISTRACTOR_STYLE_GUIDE.md) for comprehensive creation guidelines
+- **Gold Standard Reference:** See [BG_DISTRACTOR_STYLE_GUIDE.md](BG_DISTRACTOR_STYLE_GUIDE.md) (Adults) or [BG_DISTRACTOR_STYLE_GUIDE_TEENS.md](BG_DISTRACTOR_STYLE_GUIDE_TEENS.md) (Teens) for comprehensive creation guidelines
 - **How to fix:**
   - **Remove obvious language:** Replace with nuanced phrasing
   - **Expand short distractors:** Add scriptural context, qualifiers
@@ -160,9 +160,9 @@ These ensure excellent user experience. Focus of quality revision process.
 - **Script check:** Flag generic errors vs philosophical position errors
 - **Target:** 50%+ distractors referencing specific philosophical errors
 - **Status:** Tier 3 (excellence metric)
-- **Gold Standard Reference:** See [BG_DISTRACTOR_STYLE_GUIDE.md](BG_DISTRACTOR_STYLE_GUIDE.md) for:
-  - 6 approved distractor categories (partial truth, bodily identification, false renunciation, material calculation, moralism, misapplied scripture)
-  - 4 forbidden types (academic labels, silly options, absolutist strawmen, vague statements)
+- **Gold Standard Reference:** See [BG_DISTRACTOR_STYLE_GUIDE.md](BG_DISTRACTOR_STYLE_GUIDE.md) (Adults) or [BG_DISTRACTOR_STYLE_GUIDE_TEENS.md](BG_DISTRACTOR_STYLE_GUIDE_TEENS.md) (Teens) for:
+  - Approved distractor categories by audience (partial truth, bodily identification, false renunciation, emotion-driven thinking, peer logic, etc.)
+  - Forbidden types (academic labels, silly options, absolutist strawmen, vague statements, extreme claims)
   - Chapter-specific emphasis patterns (BG 1-18)
 - **Purpose:** Makes wrong answers instructive about common deviations
 - **How to enhance:**

@@ -241,6 +241,7 @@ Before approving a question, ask:
 
 ## Cross-References
 
+- **Teen Guide:** See [BG_DISTRACTOR_STYLE_GUIDE_TEENS.md](BG_DISTRACTOR_STYLE_GUIDE_TEENS.md)
 - **Validation:** See [BG_COMPREHENSIVE_VALIDATION_WORKFLOW.md](BG_COMPREHENSIVE_VALIDATION_WORKFLOW.md)
 - **Publishing Checklist:** See [VEDABASE_BG_PUBLISH_CHECKLIST.md](VEDABASE_BG_PUBLISH_CHECKLIST.md)
 - **Validation Script:** `scripts/validate-all-standards.py`

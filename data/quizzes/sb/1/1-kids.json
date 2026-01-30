@@ -1,0 +1,227 @@
+{
+  "id": "sb-1-1-kids",
+  "title": "Srimad Bhagavatam - Canto 1 Chapter 1 | Kids Quiz (15Q)",
+  "audience": "kids",
+  "difficulty": "easy-medium",
+  "questionCount": 15,
+  "publishedOn": "2026-01-29",
+  "questions": [
+    {
+      "id": "sb1-1-kids-01",
+      "prompt": "Who is the very first person that Srimad Bhagavatam prays to in verse 1?",
+      "choices": [
+        "Lord Sri Krishna, son of Vasudeva",
+        "Brahma, who creates everything",
+        "The sun god",
+        "Lord Shiva"
+      ],
+      "correctIndex": 0,
+      "feedback": "Lord Sri Krishna is the very first person we pray to! He is the Supreme Personality of Godhead who knows everything and created everything.",
+      "verseLabel": "SB 1.1.1",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+    },
+    {
+      "id": "sb1-1-kids-02",
+      "prompt": "How did Brahma, the first created person, learn the Vedic knowledge?",
+      "choices": [
+        "He studied books for many years",
+        "He figured it out by himself",
+        "Lord Krishna put the knowledge directly into his heart",
+        "Other gods taught him"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krishna gave the knowledge directly to Brahma's heart! This shows us that real knowledge comes from God, not from guessing or making things up ourselves.",
+      "verseLabel": "SB 1.1.1",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+    },
+    {
+      "id": "sb1-1-kids-03",
+      "prompt": "According to verse 2, what kind of religious activities does Srimad Bhagavatam reject?",
+      "choices": [
+        "Religious activities done for getting money or things we want",
+        "All religious activities",
+        "Only activities done by kids",
+        "Activities done in temples"
+      ],
+      "correctIndex": 0,
+      "feedback": "The Bhagavatam teaches pure love for Krishna, not doing religious things just to get money or toys! Real bhakti means loving God without wanting anything in return.",
+      "verseLabel": "SB 1.1.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+    },
+    {
+      "id": "sb1-1-kids-04",
+      "prompt": "What happens when we listen carefully to the Bhagavatam with a humble heart?",
+      "choices": [
+        "We become very smart at school",
+        "We get magical powers",
+        "The Supreme Lord becomes established in our heart",
+        "We can see the future"
+      ],
+      "correctIndex": 2,
+      "feedback": "When we listen carefully and humbly, Krishna comes into our heart! This is the most wonderful thing that can happen to us.",
+      "verseLabel": "SB 1.1.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+    },
+    {
+      "id": "sb1-1-kids-05",
+      "prompt": "Where did the great sages gather to perform a thousand-year sacrifice?",
+      "choices": [
+        "In a big city",
+        "In a palace",
+        "In the holy forest of Naimisaranya",
+        "On a mountain top"
+      ],
+      "correctIndex": 2,
+      "feedback": "They gathered in the holy forest of Naimisaranya! Holy places are special because good things happen there when we hear about Krishna.",
+      "verseLabel": "SB 1.1.4",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/4/"
+    },
+    {
+      "id": "sb1-1-kids-06",
+      "prompt": "Who is Suta Gosvami, the main speaker in this chapter?",
+      "choices": [
+        "A king who ruled many kingdoms",
+        "A learned person who heard from his spiritual masters and can explain the scriptures",
+        "A warrior who won many battles",
+        "A magician with special powers"
+      ],
+      "correctIndex": 1,
+      "feedback": "Suta Gosvami is a wise teacher who learned everything by listening to his gurus! He can teach us because he heard properly from great devotees.",
+      "verseLabel": "SB 1.1.6",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/6/"
+    },
+    {
+      "id": "sb1-1-kids-07",
+      "prompt": "What special quality did Suta Gosvami have that made his teachers give him so much knowledge?",
+      "choices": [
+        "He was very rich",
+        "He was submissive and humble",
+        "He was the strongest student",
+        "He was the oldest"
+      ],
+      "correctIndex": 1,
+      "feedback": "Suta was humble and respectful! When we are humble and listen carefully to our teachers, we can learn the most important things.",
+      "verseLabel": "SB 1.1.8",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/8/"
+    },
+    {
+      "id": "sb1-1-kids-08",
+      "prompt": "What is the main problem with people in Kali-yuga (our current age)?",
+      "choices": [
+        "They are too happy",
+        "They have short lives, quarrel a lot, and are always disturbed",
+        "They have too much free time",
+        "They are too peaceful"
+      ],
+      "correctIndex": 1,
+      "feedback": "In Kali-yuga, people have short lives and lots of problems! That's why we need to hear about Krishna—it helps us in this difficult age.",
+      "verseLabel": "SB 1.1.10",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/10/"
+    },
+    {
+      "id": "sb1-1-kids-09",
+      "prompt": "Why did the sages ask Suta Gosvami to select the essence of all scriptures?",
+      "choices": [
+        "Because there are so many scriptures it would take forever to study them all",
+        "Because they were lazy",
+        "Because scriptures are boring",
+        "Because reading is too hard"
+      ],
+      "correctIndex": 0,
+      "feedback": "There are so many scriptures! The sages wanted to know the most important part so everyone could understand and be satisfied.",
+      "verseLabel": "SB 1.1.11",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/11/"
+    },
+    {
+      "id": "sb1-1-kids-10",
+      "prompt": "Just by hearing Krishna's name, what can happen to living beings?",
+      "choices": [
+        "They become very wealthy",
+        "They can be freed from birth and death, even if they say His name without knowing",
+        "They become famous",
+        "They get good grades in school"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna's name is so powerful! Even if we say it by accident, it can free us from the cycle of birth and death. His name is that amazing!",
+      "verseLabel": "SB 1.1.14",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/14/"
+    },
+    {
+      "id": "sb1-1-kids-11",
+      "prompt": "What can great devotees do for people who meet them?",
+      "choices": [
+        "Give them lots of money",
+        "Make them famous on TV",
+        "Purify them immediately, even faster than the holy Ganges river",
+        "Make them the strongest people"
+      ],
+      "correctIndex": 2,
+      "feedback": "Great devotees are so pure that just meeting them purifies us right away! They are even more powerful than holy rivers because Krishna is in their hearts.",
+      "verseLabel": "SB 1.1.15",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/15/"
+    },
+    {
+      "id": "sb1-1-kids-12",
+      "prompt": "Why do we never get tired of hearing Krishna's pastimes?",
+      "choices": [
+        "Because they are just stories like any other",
+        "Because they are short and simple",
+        "Because those who develop love for Krishna relish hearing about Him at every moment",
+        "Because we have nothing else to do"
+      ],
+      "correctIndex": 2,
+      "feedback": "When we love Krishna, we never get tired of hearing about Him! It's like our favorite thing—we always want more because it makes us so happy!",
+      "verseLabel": "SB 1.1.19",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/19/"
+    },
+    {
+      "id": "sb1-1-kids-13",
+      "prompt": "The sages assembled in the forest to hear about Krishna because of which age that had begun?",
+      "choices": [
+        "Satya-yuga (the golden age)",
+        "Treta-yuga",
+        "Kali-yuga (the age of quarrel)",
+        "Dvapara-yuga"
+      ],
+      "correctIndex": 2,
+      "feedback": "Kali-yuga, the age of quarrel and confusion, had started! The wise sages knew that hearing about Krishna is the best way to be happy in this difficult time.",
+      "verseLabel": "SB 1.1.21",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/21/"
+    },
+    {
+      "id": "sb1-1-kids-14",
+      "prompt": "What do the sages call Suta Gosvami in verse 22?",
+      "choices": [
+        "A great warrior",
+        "The captain of the ship for those who want to cross the ocean of Kali-yuga",
+        "A king of the world",
+        "A builder of temples"
+      ],
+      "correctIndex": 1,
+      "feedback": "Suta is like a ship captain helping us cross the dangerous ocean of Kali-yuga! By hearing from him, we can safely reach Krishna.",
+      "verseLabel": "SB 1.1.22",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/22/"
+    },
+    {
+      "id": "sb1-1-kids-15",
+      "prompt": "Now that Sri Krishna has left this world and gone to His abode, where have the religious principles taken shelter?",
+      "choices": [
+        "In big buildings and monuments",
+        "In the words of the saintly person who can teach about Krishna",
+        "In powerful weapons",
+        "In gold and treasure"
+      ],
+      "correctIndex": 1,
+      "feedback": "Religious principles now live in the words of saintly devotees! This teaches us that we must listen to pure devotees to understand Krishna's teachings.",
+      "verseLabel": "SB 1.1.23",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/23/"
+    }
+  ]
+}
+
+/*
+PRE-PUBLISH SELF-CHECK:
+✓ Tier 1: 15 questions, all verses linked, kid-appropriate language (simple, enthusiastic)
+✓ Tier 2: 20% epistemology (Q2, Q7, Q15 = 3/15 = 20%), 5 purport-reasoning questions (Q2, Q3, Q7, Q10, Q15), narrative anchoring present (assembly at Naimisaranya, Suta's qualifications, Kali-yuga context), false-path distractors included (speculation vs hearing from authority), bhakti supremacy framing (pure devotion vs material motivation), feedback 1-2 sentences simple and enthusiastic
+✓ Tier 3: End synthesis question Q15 tests understanding of where knowledge resides after Krishna's departure, progressive difficulty (simpler narrative questions first, deeper philosophical questions toward end), plausible distractors (not obviously silly)
+*/

@@ -255,8 +255,10 @@ export default function QuizClient({ quiz }) {
           setTimeout(() => {
             playSound("celebration");
             speakHariBol();
-            // Show milestone message
-            (e) {
+          }, 100);
+        }
+      }
+    } catch (e) {
       // Silently fail if localStorage not available
     }
     

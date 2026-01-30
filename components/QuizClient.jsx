@@ -155,12 +155,45 @@ export default function QuizClient({ quiz }) {
 
   function copyToClipboard() {
     const message = generateShareMessage() + (typeof window !== "undefined" ? `\n\n${window.location.href}` : "");
-    navigator.clipboard.writeText(message).then(() => {
-      alert("Score copied to clipboard! Paste and share with friends.");
-      trackShareEvent("clipboard");
-    }).catch(() => {
+    
+    // Try modern clipboard API first
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(message).then(() => {
+        alert("Score copied to clipboard! Paste and share with friends.");
+        trackShareEvent("clipboard");
+      }).catch(() => {
+        // Fallback if clipboard API fails
+        fallbackCopyToClipboard(message);
+      });
+    } else {
+      // Fallback for older browsers
+      fallbackCopyToClipboard(message);
+    }
+  }
+  
+  function fallbackCopyToClipboard(text) {
+    try {
+      const textArea = document.createElement("textarea");
+      textArea.value = text;
+      textArea.style.position = "fixed";
+      textArea.style.left = "-999999px";
+      textArea.style.top = "-999999px";
+      document.body.appendChild(textArea);
+      textArea.focus();
+      textArea.select();
+      
+      const successful = document.execCommand('copy');
+      textArea.remove();
+      
+      if (successful) {
+        alert("Score copied to clipboard! Paste and share with friends.");
+        trackShareEvent("clipboard");
+      } else {
+        alert("Failed to copy. Try again or use another sharing method.");
+      }
+    } catch (err) {
       alert("Failed to copy. Try again or use another sharing method.");
-    });
+    }
   }
 
   function shareTwitter() {

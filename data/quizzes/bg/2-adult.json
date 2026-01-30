@@ -8,6 +8,36 @@
   "publishedOn": "2026-01-29",
   "questions": [
     {
+      "id": "bg2-q1",
+      "prompt": "In the purport to BG 2.1, what does Srila Prabhupada say about Arjuna's compassion?",
+      "choices": [
+        "Material compassion for the dress of a drowning man is senseless",
+        "Compassion should be directed toward helping family members survive battles",
+        "Any kind of compassion reflects true spiritual advancement regardless of object",
+        "Expressing tears demonstrates proper emotional connection to material relationships"
+      ],
+      "correctIndex": 0,
+      "feedback": "Prabhupada teaches that compassion for the eternal soul is self-realization, but compassion for the outward dress (gross material body) is senseless-like trying to save a drowning man by rescuing only his clothes. One who laments unnecessarily for the material body is called a sudra.",
+      "verseLabel": "BG 2.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q2",
+      "prompt": "In BG 2.2, what does Krishna say about Arjuna's impurities (kasmalam)?",
+      "choices": [
+        "They are befitting a warrior overwhelmed by family love",
+        "They lead not to higher planets but to infamy",
+        "They demonstrate proper respect for elders and superiors",
+        "They show Arjuna's advanced understanding of compassionate principles"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna criticizes Arjuna's lamentation as impurities not befitting an Aryan (one who knows the value of life). Prabhupada explains that such deviation from kshatriya duty does not help spiritual progress or bring fame-instead it leads to infamy.",
+      "verseLabel": "BG 2.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
+      "verdict": "Correct"
+    },
+    {
       "id": "bg2-q3",
       "prompt": "Why does Arjuna's respect for Bhisma and Drona create a moral dilemma in BG 2.4?",
       "choices": [
@@ -16,8 +46,8 @@
         "They are weaker than him but demand false respect",
         "They have betrayed their duty as warriors in this conflict"
       ],
-      "correctIndex": 1,
-      "feedback": "Arjuna's dilemma arises from duty to fight versus natural respect for superiors, illustrating tension between dharma and sentiment.",
+      "correctIndex": 0,
+      "feedback": "Arjuna's dilemma arises because Bhisma and Drona stand as opponents in battle yet remain worthy of worship as superiors and teachers-this creates the tension between duty to fight and natural respect, illustrating the conflict between dharma and sentiment.",
       "verseLabel": "BG 2.4",
       "verseUrl": "https://vedabase.io/en/library/bg/2/4/",
       "verdict": "Correct"
@@ -116,30 +146,15 @@
       "id": "bg2-q10",
       "prompt": "How does the distinction in BG 2.16 between the nonexistent and the eternal resolve Arjuna's grief?",
       "choices": [
-        "The Mayavadi view that both body and soul merge into Brahman eventually",
+        "Both body and soul eventually merge into one undifferentiated spiritual existence",
         "Since the body is temporary and soul eternal, death changes nothing real",
-        "The impersonalist belief that all distinctions are ultimately illusory",
-        "The agnostic position that nothing can be known with certainty"
+        "All individual distinctions between souls and bodies are ultimately false conceptions",
+        "Neither the soul nor the body can be known with any real certainty"
       ],
       "correctIndex": 1,
       "feedback": "Understanding the body's nonendurance versus the soul's eternality reveals death affects only the temporary, not the eternal self-eliminating basis for lamentation.",
       "verseLabel": "BG 2.16",
       "verseUrl": "https://vedabase.io/en/library/bg/2/16/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q11",
-      "prompt": "BG 2.17 describes the soul as what?",
-      "choices": [
-        "Perishable and weak like the material body it inhabits",
-        "That which pervades the entire body and is indestructible",
-        "Identical with the senses and mind working through the body",
-        "Bound by time and karma due to past actions"
-      ],
-      "correctIndex": 1,
-      "feedback": "BG 2.17 teaches the soul pervades the body and is indestructible.",
-      "verseLabel": "BG 2.17",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/17/",
       "verdict": "Correct"
     },
     {
@@ -161,10 +176,10 @@
       "id": "bg2-q13",
       "prompt": "How does the garment analogy in BG 2.22 refute the fear of death?",
       "choices": [
-        "The Buddhist view of complete annihilation at death",
+        "Death brings complete annihilation of existence and identity",
         "It shows the soul remains unchanged while bodies are exchanged",
-        "The Mayavadi theory that individual identity ceases at liberation",
-        "The materialist belief that consciousness ends with bodily death"
+        "Individual identity ceases when the soul merges into the supreme",
+        "Consciousness ceases when the body dies since both are interdependent"
       ],
       "correctIndex": 1,
       "feedback": "Just as changing clothes doesn't affect the person wearing them, the soul's essence remains unaffected by changing bodies-death is merely a change of garments.",
@@ -173,28 +188,13 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q14",
-      "prompt": "What does BG 2.23 teach about weapons and the soul?",
-      "choices": [
-        "Weapons can destroy the soul through violence and force",
-        "The soul cannot be cut to pieces by weapons",
-        "Fire alone can harm the soul through intense burning",
-        "Water can wash away the soul through gradual dissolution"
-      ],
-      "correctIndex": 1,
-      "feedback": "BG 2.23 affirms that no weapon or element can affect the soul.",
-      "verseLabel": "BG 2.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/23/",
-      "verdict": "Correct"
-    },
-    {
       "id": "bg2-q15",
       "prompt": "Why does BG 2.25 emphasize the soul as invisible, inconceivable and immutable?",
       "choices": [
-        "The empiricist view that only measurable phenomena are real",
+        "Only what can be measured and perceived exists in reality",
         "To show the soul transcends material perception and speculation",
-        "The Buddhist doctrine that soul is a temporary aggregation of elements",
-        "The materialist assumption that invisible means non-existent"
+        "The soul is merely a temporary combination of material elements",
+        "What cannot be seen or touched must not truly exist"
       ],
       "correctIndex": 1,
       "feedback": "These qualities establish the soul's transcendental nature beyond empirical observation or mental speculation, rendering grief for the body philosophically invalid.",
@@ -221,10 +221,10 @@
       "id": "bg2-q17-synthesis",
       "prompt": "How do the arguments about the soul's eternality (BG 2.12-25) and Arjuna's warrior duty (BG 2.31-32) work together to resolve his crisis?",
       "choices": [
-        "The utilitarian view that duties matter more than philosophical understanding",
+        "Performing prescribed duties matters more than understanding spiritual philosophy",
         "Eternal soul makes death illusory; kshatriya duty makes fighting righteous",
-        "The pacifist position that violence is never justified regardless of duty",
-        "The relativist claim that both fighting and fleeing are equally valid choices"
+        "Violence against others can never be justified under any circumstances",
+        "Either fighting or fleeing would be acceptable since all choices are relative"
       ],
       "correctIndex": 1,
       "feedback": "Krsna synthesizes metaphysics and ethics: understanding the soul's indestructibility removes fear of killing, while kshatriya duty provides righteous justification-together they eliminate Arjuna's philosophical and practical objections to fighting.",
@@ -236,10 +236,10 @@
       "id": "bg2-q20-synthesis",
       "prompt": "How does Prabhupada's teaching on tolerating dualities (BG 2.14-15) inform the instruction to perform duty with equanimity (BG 2.48)?",
       "choices": [
-        "The stoic error that suppressing emotions creates detachment",
+        "Forcefully suppressing all emotional reactions creates true spiritual detachment",
         "Recognizing impermanence of sense experience enables balanced action",
-        "The fatalist view that outcomes don't matter since predetermined",
-        "The hedonist misconception that experiencing pleasure aids spirituality"
+        "Work outcomes are predetermined by fate so they don't actually matter",
+        "Experiencing material pleasures helps one advance spiritually through gradual satisfaction"
       ],
       "correctIndex": 1,
       "feedback": "Understanding dualities (happiness-distress) as temporary winter-summer seasons removes their power to disturb consciousness, enabling yoga (equanimity) in action-one performs duty unmoved by transient reactions because their temporary nature is realized. Tolerance flows from metaphysical insight, not willpower.",
@@ -251,10 +251,10 @@
       "id": "bg2-q21-synthesis",
       "prompt": "How does realizing the soul's eternality (BG 2.20-25) practically manifest in the sthita-prajna's behavior (BG 2.54-72)?",
       "choices": [
-        "The intellectualist error that knowledge doesn't require behavioral change",
+        "Theoretical knowledge alone is sufficient without requiring any behavioral changes",
         "Soul-knowledge produces sense control, equanimity, and withdrawal from material desire",
-        "The antinomian view that realized souls can act without any constraints",
-        "The gradualist assumption that understanding precedes application by years"
+        "Once soul is realized, one can act freely without following any rules or principles",
+        "Understanding the philosophy must come many years before attempting to apply it practically"
       ],
       "correctIndex": 1,
       "feedback": "Knowing the soul as eternal, indestructible, and distinct from body naturally produces the steady wisdom's characteristics: if I'm not the body, bodily pleasures lose appeal (sense control), bodily changes don't disturb (equanimity), material goals lose meaning (desirelessness). The sthita-prajna's conduct flows from soul-realization, not imposed discipline.",
@@ -354,15 +354,15 @@
     },
     {
       "id": "bg2-q25-synthesis",
-      "prompt": "How does Prabhupada's purport (BG 2.20) that consciousness is the soul's symptom challenge modern neuroscience's claim that consciousness emerges from brain chemistry?",
+      "prompt": "How does Prabhupada's purport (BG 2.20) that consciousness is the soul's symptom challenge the claim that consciousness emerges from brain chemistry?",
       "choices": [
-        "The reductionist error that the symptom (consciousness) produces its source (soul)",
+        "It reverses cause and effect-the symptom (consciousness) cannot produce its source (soul)",
         "Both views are equally valid depending on one's perspective and beliefs",
-        "Modern science correctly explains consciousness through material causation",
-        "The dualist compromise that mind and brain interact but are separate"
+        "Brain chemistry adequately explains consciousness through material interactions alone",
+        "Mind and brain interact as two separate but equally material substances"
       ],
       "correctIndex": 0,
-      "feedback": "Just as sunlight indicates but doesn't create the sun, consciousness indicates but doesn't emerge from the brain-the symptom reveals the transcendent source, exposing materialism's category error of confusing effect with cause.",
+      "feedback": "Just as sunlight indicates but doesn't create the sun, consciousness indicates but doesn't emerge from the brain-the symptom reveals the transcendent source, exposing the category error of confusing effect with cause.",
       "verseLabel": "BG 2.20",
       "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
       "verdict": "Correct"
@@ -371,10 +371,10 @@
       "id": "bg2-q24-synthesis",
       "prompt": "How does Prabhupada's teaching that the body is like clothes (BG 2.22) integrate with Krishna's instruction to fight without attachment to results (BG 2.38, 2.47)?",
       "choices": [
-        "The dualist error that soul and action exist in separate compartments",
+        "Soul and bodily action operate in completely separate realms with no connection",
         "Soul-body distinction enables duty performance without existential investment",
-        "The escapist view that spiritual understanding justifies avoiding responsibilities",
-        "The mechanistic fallacy that detachment means emotional suppression"
+        "Understanding the soul's nature means one should avoid all material responsibilities",
+        "True detachment requires mechanically suppressing all natural emotions during action"
       ],
       "correctIndex": 1,
       "feedback": "If bodies are mere garments and the soul unchangeable, then bodily outcomes (victory-defeat, life-death) don't affect one's essential nature-this metaphysical understanding enables unattached action: perform kshatriya duty because it's appropriate for the garment (body) you wear, without confusion that results touch the wearer (soul). Detachment roots in correct identification.",

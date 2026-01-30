@@ -9,22 +9,22 @@
   "questions": [
     {
       "id": "bg5-q1",
-      "prompt": "Why does Arjuna ask again in BG 5.1 which path is superior, despite Krishna's previous explanations?",
+      "prompt": "Why does Arjuna ask again in BG 5.1 which path is superior, despite Krsna's previous explanations?",
       "choices": [
         "The dualistic error seeing renunciation and action contradictory",
-        "Krishna deliberately confuses Arjuna with contradictory spiritual teachings",
+        "Krsna deliberately confuses Arjuna with contradictory spiritual teachings",
         "The relativist claim that all paths are equally valid spiritually",
-        "Arjuna has forgotten everything Krishna taught in previous chapters"
+        "Arjuna has forgotten everything Krsna taught in previous chapters"
       ],
       "correctIndex": 0,
-      "feedback": "Arjuna asks tray shreyah (which is better)-sannyasa (renunciation) or karma-yoga (engaged work). The trap: either/or dichotomy forcing exclusive choice. Why this matters: The false path is treating spiritual paths as competing alternatives requiring rejection of one for the other-missing that for most practitioners karma-yoga provides practical approach while sannyasa requires advanced qualification. Real understanding: Question reveals lingering confusion despite Ch3-4 teaching-still seeing paths as contradictory not complementary. Krishna will clarify both lead to same goal but karma-yoga more accessible for most-not absolute superiority but practical superiority given human conditioning. Therefore don't force premature either/or spiritual decisions-understand various paths' relative applicability to current situation rather than seeking single universal answer.",
+      "feedback": "Correct: Arjuna asks tray shreyah (which is better)-sannyasa (renunciation) or karma-yoga (engaged work). Why this matters: Question reveals lingering confusion despite Ch3-4 teaching-still seeing paths as contradictory not complementary, treating spiritual paths as competing alternatives. Krsna will clarify both lead to same goal but karma-yoga more accessible for most-not absolute superiority but practical superiority given human conditioning. Understand various paths' relative applicability to current situation rather than forcing premature either/or spiritual decisions.",
       "verseLabel": "BG 5.1",
       "verseUrl": "https://vedabase.io/en/library/bg/5/1/",
       "verdict": "Correct"
     },
     {
       "id": "bg5-q2",
-      "prompt": "According to BG 5.2, which path does Krishna recommend as superior?",
+      "prompt": "According to BG 5.2, which path does Krsna recommend as superior?",
       "choices": [
         "Complete renunciation of all activities without exception",
         "Work in devotion is superior to formal renunciation",
@@ -32,7 +32,7 @@
         "Neither path leads to liberation from material bondage"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna declares both sannyasa and karma-yoga reach same goal but karma-yoga is durakaram (difficult to achieve) without work. The trap: inaction-path superiority assumption. Why this matters: The false path is romant romanticizing renunciation-thinking cessation automatically produces transcendence, missing that inactive renunciation without purification produces only frustration. Real understanding: Sannyasa without purified consciousness is durakaram (difficult/painful)-restless mind creates mental suffering. Karma-yoga purifies naturally through engaged service, making subsequent renunciation authentic rather than forced. Not opposing paths but sequential-karma-yoga prepares consciousness for genuine sannyasa. Therefore don't artificially attempt renunciation before internal preparation-engage in karma-yoga purifying consciousness, enabling natural renunciation when ready rather than forced premature withdrawal.",
+      "feedback": "Correct: Krsna declares both sannyasa and karma-yoga reach same goal but sannyasa without karma-yoga is durakaram (difficult to achieve). Why this matters: Sannyasa without purified consciousness produces restless mind and mental suffering-inactive renunciation without purification produces frustration. Karma-yoga purifies naturally through engaged service, making subsequent renunciation authentic rather than forced-paths are sequential not opposing. Engage in karma-yoga purifying consciousness, enabling natural renunciation when ready rather than forced premature withdrawal.",
       "verseLabel": "BG 5.2",
       "verseUrl": "https://vedabase.io/en/library/bg/5/2/",
       "verdict": "Correct"
@@ -42,12 +42,12 @@
       "prompt": "In the purport to BG 5.3, what does Srila Prabhupada explain about the renouncer's attitude?",
       "choices": [
         "True renunciation means hating all material objects and activities",
-        "Neither desires nor laments; everything for Krishna's pleasure",
+        "Neither desires nor laments; everything for Krsna's pleasure",
         "The renouncer must physically abandon all possessions immediately",
         "Renunciation requires intense austerity and constant suffering"
       ],
       "correctIndex": 1,
-      "feedback": "Karma-yogi neither hates (na dveshti) nor desires (na kankshati)-transcends dvandva (dualities) easily. The trap: emotional suppression equals transcendence. Why this matters: The false path is forced emotional neutrality-artificially suppressing like/dislike through willpower, producing brittle detachment requiring constant maintenance. Real understanding: Natural transcendence from karma-yoga engagement-consciousness absorbed in service naturally becomes disinterested in dualities' pull. Not fighting reactions but transcending through higher taste-Krishna connection provides satisfaction making dvandva-push-pull irrelevant. Sukham bandhad pramuchyate (easily freed from bondage)-ease indicates natural process not forced discipline. Therefore cultivate Krishna-centered activity generating natural dvandva-transcendence-engagement in service automatically reduces material reaction, achieving equanimity through occupations not suppression.",
+      "feedback": "Correct: Karma-yogi neither hates (na dveshti) nor desires (na kankshati)-transcends dvandva (dualities) easily through natural detachment. Consciousness absorbed in service naturally becomes disinterested in dualities' pull-not fighting reactions but transcending through higher taste in Krsna. Sukham bandhad pramuchyate (easily freed from bondage)-ease indicates natural process not forced discipline. Cultivate Krsna-centered activity-engagement in service automatically reduces material reaction, achieving equanimity through occupation not suppression.",
       "verseLabel": "BG 5.3",
       "verseUrl": "https://vedabase.io/en/library/bg/5/3/",
       "verdict": "Correct"
@@ -62,7 +62,7 @@
         "Physical labor itself creates bondage through material engagement"
       ],
       "correctIndex": 1,
-      "feedback": "Children distinguish (prithag vadanti) sankhya from yoga; wise see both reach same destination. The trap: sectarian path-superiority claims. Why this matters: The false path is treating different paths as inherently superior/inferior-producing sectarian conflict and discouraging practitioners on valid alternative paths. Real understanding: Panditas (wise) see ekam (oneness)-various paths reach identical goal when practiced properly. Distinction is implementation not destination-some prefer contemplative sankhya, others active karma-yoga, both valid. Balavah na panditah (children not wise)-immature create false conflicts where wise see unity. Therefore transcend immature sectarianism-recognize multiple valid paths while following one's own, avoiding superiority claims producing division among sincere spiritual practitioners pursuing same ultimate goal through different means.",
+      "feedback": "Correct: Sannyasa without yoga (devotional action) is duhkham (difficult/miserable)-negative renunciation without purification creates suffering. Yoga-yukta munir (sage engaged in devotional service) reaches Brahman achirena (quickly)-positive cultivation through engaged service prevents backslide. Mere cessation produces restless mind pulling back toward material-work purifies consciousness enabling authentic renunciation. Pair renunciation with cultivation-reduce material while increasing spiritual engagement, preventing the suffering-vacuum of premature withdrawal.",
       "verseLabel": "BG 5.6",
       "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
       "verdict": "Correct"
@@ -77,7 +77,7 @@
         "They are easily disturbed by external circumstances and events"
       ],
       "correctIndex": 1,
-      "feedback": "Sannyasinas (renunciant's) position reached by karma-yogins (engaged workers)-same goal different routes. The trap: result-determinism from method. Why this matters: The false path is thinking method determines result absolutely-assuming only renunciants reach liberation, workers remain bound-missing consciousness-quality trumps external lifestyle. Real understanding: Yat (what) sannyasaih (by renunciates) prapyate (is reached), tat (that) yogaih (by workers) prapyate (is reached)-identical destination. One transcends through withdrawal, other through engaged service-both valid when consciousness properly oriented to Krishna. Method matters less than motivation-detached work equals attached renunciation in spiritual ineffectiveness, attached work equals detached renunciation in binding power. Therefore focus on consciousness-quality during practice not external form-properly motivated work equals properly motivated renunciation in liberating power.",
+      "feedback": "Correct: Yoga-yukta (engaged in yoga), visuddhatma (purified self), vijitatma (conquered self), jitendriyah (controlled senses)-uncontaminated though acting. Why this matters: Sarva-bhuta-atma-bhuta (all beings as one's own self)-transcendentalist sees self equally in all beings, achieving natural detachment from dualities. Such person sarvatra sama-buddhaya (equipoised everywhere)-joy/sorrow don't disturb one established in self-realization. Consciousness-purity trumps external circumstances-properly situated consciousness remains unaffected by material fluctuations. Cultivate self-purification through yoga-results in natural equanimity and freedom from material contamination.",
       "verseLabel": "BG 5.7",
       "verseUrl": "https://vedabase.io/en/library/bg/5/7/",
       "verdict": "Correct"
@@ -92,7 +92,7 @@
         "Transcendentalists simply have stronger willpower to resist temptation"
       ],
       "correctIndex": 1,
-      "feedback": "Sannyasa without yoga (devotional action) is duhkham (miserable)-negative renunciation doesn't satisfy. The trap: negation suffices for spirituality. Why this matters: The false path is cessation-focused practice-renouncing material without cultivating spiritual, producing vacuum not fulfillment. Real understanding: Mere renunciation (sannyasa without yoga) creates duhkham (suffering)-empty consciousness abhors vacuum, pulls back toward material. Yoga-yukta munir (sage engaged in devotional service) reaches Brahman quickly-positive cultivation prevents backslide. This demonstrates positive-negative balance necessity-can't sustain long-term purely negative practice. Therefore pair renunciation with cultivation-reduce material engagement while increasing spiritual engagement, preventing suffering-vacuum that defeats renunciation by pulling consciousness back to material for occupational relief.",
+      "feedback": "Correct: Tattva-vit (knower of truth) thinks 'naiva kinchit karomi' (I do nothing at all) while seeing/hearing/touching/smelling/eating/walking/sleeping. Understanding indriyani indriyartheshu vartante (senses move among sense objects)-material nature through sense-instruments performs actions, self as witness not agent. Sensualist falsely claims doership becoming bound; transcendentalist recognizes prakrti acts while purusha observes. Realize constitutional position-neither false agent claiming doership nor mechanically denying activity, but authentic witness understanding material nature executes under Supreme direction.",
       "verseLabel": "BG 5.8",
       "verseUrl": "https://vedabase.io/en/library/bg/5/8/",
       "verdict": "Correct"
@@ -107,7 +107,7 @@
         "They remain bound by the reactions of their devotional work"
       ],
       "correctIndex": 1,
-      "feedback": "Yoga-yukta (engaged in devotional service), vishuddhatma (purified self), vijitatma (controlled self), sarva-bhuta-atma-bhuta (realizing all beings as self)-untainted though acting. The trap: action inevitably contaminates. Why this matters: The false path is assuming activity necessarily produces material attachment-requiring withdrawal for purity, missing that consciousness-quality determines contamination not behavior. Real understanding: Properly oriented person (yoga-yukta, purified consciousness, controlled senses) performs work without taint-karma doesn't bind one seeing all beings' self-nature. Not action but attached action contaminates-detached action purifies. This liberates from action-paralysis fear-can engage fully without anxiety when consciousness properly situated. Therefore purify consciousness through devotional engagement-enables fearless action knowing that right consciousness prevents karmic entanglement regardless of activity-intensity.",
+      "feedback": "Correct: Yoga-yukta (engaged in devotional service), vishuddhatma (purified self), vijitatma (controlled self), sarva-bhuta-atma-bhuta (realizing all beings as self)-untainted though acting. Properly oriented person performs work without taint-karma doesn't bind one seeing all beings' self-nature. Not action but attached action contaminates-detached action purifies. Purify consciousness through devotional engagement-enables fearless action knowing that right consciousness prevents karmic entanglement regardless of activity-intensity.",
       "verseLabel": "BG 5.9",
       "verseUrl": "https://vedabase.io/en/library/bg/5/9/",
       "verdict": "Correct"
@@ -122,7 +122,7 @@
         "The lotus represents material entanglement and attachment"
       ],
       "correctIndex": 1,
-      "feedback": "Transcendentally situated (tattva-vit) thinks 'na eva kinchit karomi' (I do nothing at all) even while actively seeing/hearing/walking/sleeping. The trap: delusion of inactivity. Why this matters: The false path is either literal interpretation (actually doing nothing) or false-ego claim (doing everything but declaring non-doership)-missing transcendental non-agency realization. Real understanding: Tattva-vit (knower of truth) understands indriyani (senses) indriyartheshu (among sense objects) vartante iti (thus move)-material nature through sense-instruments performs actions, self as witness not agent. Not false humility ('I did nothing' while claiming credit internally) but ontological accuracy-recognizing prakrti performs while purusha observes. Therefore realize constitutional position-neither false agent claiming doership nor false actor pretending non-agency, but authentic witness recognizing material nature executes actions under Supreme direction while self observes transcendentally.",
+      "feedback": "Correct: Transcendentally situated (tattva-vit) thinks 'na eva kinchit karomi' (I do nothing at all) even while actively seeing/hearing/walking/sleeping. Tattva-vit (knower of truth) understands indriyani (senses) indriyartheshu (among sense objects) vartante iti (thus move)-material nature through sense-instruments performs actions, self as witness not agent. Not false humility but ontological accuracy-recognizing prakrti performs while purusha observes. Realize constitutional position as authentic witness recognizing material nature executes actions under Supreme direction while self observes transcendentally.",
       "verseLabel": "BG 5.10",
       "verseUrl": "https://vedabase.io/en/library/bg/5/10/",
       "verdict": "Correct"
@@ -137,22 +137,22 @@
         "By performing rituals for rewards to gradually become purified"
       ],
       "correctIndex": 1,
-      "feedback": "Brahmani adhaya (fixing in Brahman) karmani (actions), sangam (attachment) tyaktva (abandoning)-lotus leaf not water-touched. The trap: world-avoidance spirituality. Why this matters: The false path is physical withdrawal assuming contact produces contamination-requiring isolation for purity, missing consciousness determines taint not proximity. Real understanding: Padma-patram iva ambhasa (like lotus leaf on water)-remain in material world without material contamination through Brahman-consciousness. Not rejecting world but engaging detachedly-lotus grows in water, used by water for support, yet water doesn't stick. Similarly engage in material duties without material attachment. This enables householder-spirituality-needn't abandon responsibilities for liberation when consciousness properly situated. Therefore cultivate Brahman-consciousness amid worldly engagement-transforms duty-performance from binding to non-binding through consciousness-shift maintaining external involvement.",
+      "feedback": "Correct: Brahmani adhaya (fixing in Brahman) karmani (actions), sangam (attachment) tyaktva (abandoning)-lotus leaf not water-touched. Padma-patram iva ambhasa (like lotus leaf on water)-remain in material world without material contamination through Brahman-consciousness. Lotus grows in water, used by water for support, yet water doesn't stick-similarly engage in material duties without material attachment. Cultivate Brahman-consciousness amid worldly engagement-transforms duty-performance from binding to non-binding through consciousness-shift maintaining external involvement.",
       "verseLabel": "BG 5.11",
       "verseUrl": "https://vedabase.io/en/library/bg/5/11/",
       "verdict": "Correct"
     },
     {
       "id": "bg5-q10",
-      "prompt": "How does offering work's results to Krishna (BG 5.12) free one from karmic reactions?",
+      "prompt": "How does offering work's results to Krsna (BG 5.12) free one from karmic reactions?",
       "choices": [
         "The magical thinking that ritual offering nullifies material consequences",
-        "Offering transfers ownership; what's Krishna's doesn't bind the offerer",
+        "Offering transfers ownership; what's Krsna's doesn't bind the offerer",
         "The legalistic view that correct procedure satisfies cosmic requirements",
-        "Krishna takes responsibility for devotees' actions mechanically"
+        "Krsna takes responsibility for devotees' actions mechanically"
       ],
       "correctIndex": 1,
-      "feedback": "Performs duty as offering to Brahman, abandoning attachment-na lipyate (unattached) like lotus. The trap: contamination-inevitability from contact. Why this matters: The false path is contagion-model of material association-assuming any worldly contact produces taint requiring physical separation, missing consciousness creates separation more effectively than distance. Real understanding: Repeats lotus metaphor emphasizing Brahman-offering transforms ordinary activity-performing duty brahmani adhaya (fixing in Brahman), sangam tyaktva (abandoning attachment) prevents papena (by sin) contamination. Not activity but attached activity contaminates-detached engagement remains pure. Therefore sanctify duties through Brahman-consciousness-offering to Krishna while performing converts potentially binding activity into liberating sacrifice, demonstrating consciousness-quality trumps action-type for determining spiritual effect.",
+      "feedback": "Correct: Performs duty as offering to Brahman, abandoning attachment-na lipyate (unattached) like lotus. Repeats lotus metaphor emphasizing Brahman-offering transforms ordinary activity-performing duty brahmani adhaya (fixing in Brahman), sangam tyaktva (abandoning attachment) prevents papena (by sin) contamination. Not activity but attached activity contaminates-detached engagement remains pure. Sanctify duties through Brahman-consciousness-offering to Krsna while performing converts potentially binding activity into liberating sacrifice.",
       "verseLabel": "BG 5.12",
       "verseUrl": "https://vedabase.io/en/library/bg/5/12/",
       "verdict": "Correct"
@@ -167,14 +167,14 @@
         "The material world itself is described as a nine-gated city"
       ],
       "correctIndex": 1,
-      "feedback": "Karma-yogins perform kayena (with body), manasa (with mind), buddhya (with intelligence), indriyaih (with senses)-all for atma-shuddhaye (self-purification) abandoning attachment. The trap: partial engagement sufficiency. Why this matters: The false path is mechanical external service-performing physical actions without mental/intellectual engagement, producing robotic practice lacking consciousness-transformation. Real understanding: Total engagement required-kayena (physically), manasa (mentally), buddhya (intellectually), indriyaih (through all senses)-comprehensive absorption in service for atma-shuddhaye (purifying self). Not just doing right things externally but thinking/feeling/understanding rightly internally. Sangam tyaktva (abandoning attachment)-surrender of proprietorship not just bodily labor. Therefore engage completely in devotional service-body/mind/intelligence/senses all absorbed in Krishna-consciousness, producing thorough purification more effective than partial mechanical compliance.",
+      "feedback": "Correct: Karma-yogins perform kayena (with body), manasa (with mind), buddhya (with intelligence), indriyaih (with senses)-all for atma-shuddhaye (self-purification) abandoning attachment. Total engagement required-comprehensive absorption in service for atma-shuddhaye (purifying self), not just doing right things externally but thinking/feeling/understanding rightly internally. Sangam tyaktva (abandoning attachment)-surrender of proprietorship not just bodily labor. Engage completely in devotional service-body/mind/intelligence/senses all absorbed in Krsna-consciousness, producing thorough purification.",
       "verseLabel": "BG 5.13",
       "verseUrl": "https://vedabase.io/en/library/bg/5/13/",
       "verdict": "Correct"
     },
     {
       "id": "bg5-q12",
-      "prompt": "According to BG 5.14, what does Krishna say does not create activities or their fruits?",
+      "prompt": "According to BG 5.14, what does Krsna say does not create activities or their fruits?",
       "choices": [
         "The wealthy who possess abundant material opulence and resources",
         "The embodied soul; all is enacted by modes of nature",
@@ -182,7 +182,7 @@
         "The famous who are celebrated throughout society everywhere"
       ],
       "correctIndex": 1,
-      "feedback": "Yukta (engaged one) abandoning karma-phala (work-fruits) obtains shaswat (eternal) shanti (peace); ayukta (unengaged) attached to desires becomes bound by kama (lust). The trap: result-seeking produces success. Why this matters: The false path is outcome-orientation-performing spiritual practice for specific attainments, remaining result-attached though religiously, missing peace comes from surrender not achievement. Real understanding: Yukta giving up fruits obtains naishthiki shanti (eternal peace)-not peace from getting desired results but peace from transcending desire for results. Ayukta pursuing kama-driven results remains bound regardless of success-achieving desires doesn't liberate but chains through attachment. Therefore cultivate result-indifference-perform duties as offering without expectation, finding peace in surrender itself not in attainments produced, inverting material achievement-orientation even within spiritual practice.",
+      "feedback": "Correct: Yukta (engaged one) abandoning karma-phala (work-fruits) obtains shaswat (eternal) shanti (peace); ayukta (unengaged) attached to desires becomes bound by kama (lust). Yukta giving up fruits obtains naishthiki shanti (eternal peace)-not peace from getting desired results but peace from transcending desire for results. Ayukta pursuing kama-driven results remains bound regardless of success-achieving desires chains through attachment. Cultivate result-indifference-perform duties as offering without expectation, finding peace in surrender itself not in attainments produced.",
       "verseLabel": "BG 5.14",
       "verseUrl": "https://vedabase.io/en/library/bg/5/14/",
       "verdict": "Correct"
@@ -197,7 +197,7 @@
         "Peace requires isolation from all external contact entirely"
       ],
       "correctIndex": 1,
-      "feedback": "Sarvakarmani (all actions) manasa (mentally) sannyasya (renouncing)-dehi (embodied being) sukham (happily) vashi (controlled) resides in nine-gated city neither doing nor causing. The trap: physical renunciation necessity. Why this matters: The false path is external withdrawal requirement-thinking liberation requires abandoning all action-engagement, missing mental renunciation while externally engaged achieves same result. Real understanding: Manasa sannyasya (mentally renouncing)-internal detachment not external cessation. Dehi (embodied soul) happily self-controlled nava-dvare pure (in nine-gated city-body) neither karman kurvan (doing actions) nor karayan (causing actions)-transcendentally situated though appearing active. Enables grhastha (householder) liberation-full external engagement with internal freedom. Therefore practice mental sannyasa-renounce proprietorship/agency/enjoyment claims while maintaining duty-performance, achieving renunciation's fruit without renunciation's form.",
+      "feedback": "Correct: Vibhu (all-pervading Lord) nadatte kasyachit papam (doesn't accept anyone's sin), na chaiva sukritam (nor piety)-God beyond moral ledger-keeping. Ajnanena (by ignorance) avritam (covered) jnanam (knowledge)-beings deluded by own ignorance not divine punishment, suffering self-generated consequences. Prabhu doesn't reward/punish but witnesses souls experiencing karma through material nature's impersonal mechanism. Liberation comes from removing ignorance-covering not earning divine favor-understanding God's transcendental position frees from false theological determinism blaming Supreme for individual karma.",
       "verseLabel": "BG 5.15",
       "verseUrl": "https://vedabase.io/en/library/bg/5/15/",
       "verdict": "Correct"
@@ -212,7 +212,7 @@
         "Accumulating facts about spiritual topics gradually removes ignorance"
       ],
       "correctIndex": 1,
-      "feedback": "Na kartrittvam (not agency), na karmani (not actions), na karma-phala-samyogam (not action-fruit-connection)-prabhu (Lord) creates for world; svabhavas (nature) pravartate (acts). The trap: divine responsibility-displacement. Why this matters: The false path is blaming God for one's situation-treating karma as divine imposition rather than self-generated consequence, avoiding responsibility through theological determinism. Real understanding: Prabhu doesn't create kartritvam (agency sense) or karma-phala-yoga (action-result connection) for people-individuals generate these through false ego claiming 'I do, I enjoy results.' Svabhavas tu (nature however) pravartate (acts)-material nature executes while individual claims credit/blame. God neither forces nor prevents-provides facility while individual chooses engagement. Therefore accept responsibility-karma is self-generated through false ego not God-imposed, liberation possible through correcting false claims not demanding divine intervention.",
+      "feedback": "Correct: Jnanena (by knowledge) tu tat ajnanam (that ignorance) yesham (whose) nashitam (destroyed)-tat jnanam (that knowledge) reveals paramam (supreme) like aditya-vat (like sun). Why this matters: Knowledge doesn't create new understanding but removes covering (ajnanena avritam) obscuring natural vision-like sun doesn't create light but dispels clouds revealing already-present illumination. Revelation not construction-soul's inherent knowing covered by material conditioning, spiritual practice uncovers enabling natural transcendental vision. Practice negative epistemology-remove false concepts rather than accumulate information, purification reveals inherent spiritual knowledge naturally present when material contamination removed.",
       "verseLabel": "BG 5.16",
       "verseUrl": "https://vedabase.io/en/library/bg/5/16/",
       "verdict": "Correct"
@@ -227,7 +227,7 @@
         "The elitist view that renunciation is inherently superior to work"
       ],
       "correctIndex": 1,
-      "feedback": "Vibhu (all-pervading Lord) receives neither papam (sin) nor punyam (piety); jnana (knowledge) covered by ajnana (ignorance)-beings thus deluded. The trap: God judges/rewards/punishes. Why this matters: The false path is anthropomorphic theism-projecting human moral accounting onto Supreme, thinking He tracks sins/merits dispensing rewards/punishments, missing He's beyond material morality-platform. Real understanding: Vibhu (omnipresent) doesn't receive anyone's papa/punya-not keeping moral ledger distributing justice. Individuals suffer/enjoy own karma through material nature's impersonal functioning. Ajnanena (by ignorance) avritam (covered) jnanam (knowledge)-beings deluded by own ignorance not divine punishment. Therefore transcend moral-accounting religiosity-God doesn't reward/punish but witnesses souls experiencing self-generated consequences through nature's mechanism, liberation comes from knowledge-recovery not from earning divine favor through merit-accumulation.",
+      "feedback": "Correct: Vibhu (all-pervading Lord) receives neither papam (sin) nor punyam (piety); jnana (knowledge) covered by ajnana (ignorance)-beings thus deluded. Vibhu (omnipresent) doesn't receive anyone's papa/punya-not keeping moral ledger distributing justice. Individuals suffer/enjoy own karma through material nature's impersonal functioning. Ajnanena (by ignorance) avritam (covered) jnanam (knowledge)-beings deluded by own ignorance not divine punishment. God doesn't reward/punish but witnesses souls experiencing self-generated consequences through nature's mechanism.",
       "verseLabel": "BG 5.4-19",
       "verseUrl": "https://vedabase.io/en/library/bg/5/4/",
       "verdict": "Correct"
@@ -242,14 +242,14 @@
         "The quietist misconception that knowledge of modes justifies inaction"
       ],
       "correctIndex": 1,
-      "feedback": "When jnana (knowledge) destroys ajnana (ignorance), tat jnana (that knowledge) reveals paramam (supreme) like aditya (sun). The trap: intellectual accumulation equals enlightenment. Why this matters: The false path is information-collecting-assuming more data produces realization, missing that removing ignorance-covering reveals pre-existing knowledge. Real understanding: Knowledge doesn't create new understanding but removes covering (ajnanena avritam) obscuring natural vision-like sun doesn't create light but removes clouds revealing already-present sunshine. Revelation not creation-soul's inherent knowing covered by material conditioning, spiritual practice removes covering enabling natural vision. Therefore practice negative epistemology-remove false concepts obscuring truth rather than accumulating information building truth, purification reveals inherent spiritual vision naturally present when material contamination eliminated.",
+      "feedback": "Correct: When jnana (knowledge) destroys ajnana (ignorance), tat jnana (that knowledge) reveals paramam (supreme) like aditya (sun). Knowledge doesn't create new understanding but removes covering (ajnanena avritam) obscuring natural vision-like sun doesn't create light but removes clouds revealing already-present sunshine. Revelation not creation-soul's inherent knowing covered by material conditioning, spiritual practice removes covering enabling natural vision. Practice negative epistemology-remove false concepts obscuring truth rather than accumulating information, purification reveals inherent spiritual vision.",
       "verseLabel": "BG 5.7-15",
       "verseUrl": "https://vedabase.io/en/library/bg/5/14/",
       "verdict": "Correct"
     },
     {
       "id": "bg5-q17",
-      "prompt": "Why does Prabhupada (BG 5.6 purport) say Mayavadi sannyasis' Brahman speculation becomes tedious while Krishna consciousness remains fresh?",
+      "prompt": "Why does Prabhupada (BG 5.6 purport) say Mayavadi sannyasis' Brahman speculation becomes tedious while Krsna consciousness remains fresh?",
       "choices": [
         "The impersonal void lacks relational dynamics to sustain interest",
         "Both eventually become tedious; all spiritual practice is difficult",
@@ -257,7 +257,7 @@
         "The sentimentalist error that emotion matters more than truth"
       ],
       "correctIndex": 0,
-      "feedback": "Tad-buddhi (intelligence fixed in That), tad-atma (self absorbed in That), tad-nishtha (established in That), tat-parayana (ultimate goal being That)-go without return. The trap: divided spiritual attention. Why this matters: The false path is compartmentalized practice-being spiritual in temple, material in marketplace-missing total absorption requirement for liberation. Real understanding: Four-fold absorption-buddhi (intelligence thinking about Krishna), atma (identity as Krishna's), nishtha (constant establishment in Krishna), parayana (ultimate goal being Krishna). Comprehensive totality-not partial Krishna-orientation but total life-reorganization around Supreme. Apunar-avritti (no return)-such complete absorption prevents rebirth because material interest fully displaced. Therefore cultivate total absorption-not segmented spirituality (religious occasions only) but comprehensive life-reorientation where Krishna becomes center of intelligence/identity/stability/goals, producing thoroughgoing transformation preventing material backslide.",
+      "feedback": "Correct: Tad-buddhi (intelligence fixed in That), tad-atma (self absorbed in That), tad-nishtha (established in That), tat-parayana (ultimate goal being That)-go without return. Four-fold absorption-buddhi (intelligence thinking about Krsna), atma (identity as Krsna's), nishtha (constant establishment in Krsna), parayana (ultimate goal being Krsna), not partial Krsna-orientation but total life-reorganization. Apunar-avritti (no return)-such complete absorption prevents rebirth because material interest fully displaced. Cultivate total absorption-comprehensive life-reorientation where Krsna becomes center of intelligence/identity/stability/goals, producing thoroughgoing transformation preventing material backslide.",
       "verseLabel": "BG 5.6",
       "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
       "verdict": "Correct"
@@ -272,22 +272,22 @@
         "The stoic fallacy that suppressing desire equals contentment"
       ],
       "correctIndex": 1,
-      "feedback": "Panditah (wise) sama-darshina (equipoised vision) toward brahmana endowed with knowledge/humility, cow, elephant, dog, chandala-sees self in all. The trap: social equality misconstrued as material equality. Why this matters: The false path is either rejecting all distinctions (radical egalitarianism) or maintaining oppressive distinctions (casteism)-missing transcendental vision honors soul-equality while recognizing bodily diversity's practical reality. Real understanding: Sama-darshina sees atma (self) equally in brahmana and chandala, cow and elephant-spiritual vision transcending bodily varieties. Doesn't mean ignoring functional differences-brahmana receives respect for knowledge, chandala performs appropriate service, but spiritual vision sees equal soul beyond unequal bodies. Therefore develop sama-drishti-recognize soul's equal value regardless of bodily designation, preventing both arrogant superiority and false material equality-claims, maintaining functional social distinctions while transcending them spiritually.",
+      "feedback": "Correct: Panditah (wise) sama-darshina (equipoised vision) toward brahmana endowed with knowledge/humility, cow, elephant, dog, chandala-sees self in all. Sama-darshina sees atma (self) equally in brahmana and chandala, cow and elephant-spiritual vision transcending bodily varieties. Doesn't mean ignoring functional differences-brahmana receives respect for knowledge, chandala performs appropriate service, but spiritual vision sees equal soul beyond unequal bodies. Develop sama-drishti-recognize soul's equal value regardless of bodily designation, maintaining functional social distinctions while transcending them spiritually.",
       "verseLabel": "BG 5.5-24",
       "verseUrl": "https://vedabase.io/en/library/bg/5/5/",
       "verdict": "Correct"
     },
     {
       "id": "bg5-q19",
-      "prompt": "How does the teaching that the embodied soul is not the doer (BG 5.8-9, 5.14) relate to offering work's fruits to Krishna (BG 5.10, 5.12)?",
+      "prompt": "How does the teaching that the embodied soul is not the doer (BG 5.8-9, 5.14) relate to offering work's fruits to Krsna (BG 5.10, 5.12)?",
       "choices": [
         "The quietist error that non-doership justifies complete inaction",
-        "Recognizing modes as agents enables offering Krishna what's actually His",
+        "Recognizing modes as agents enables offering Krsna what's actually His",
         "The determinist misconception that no one is responsible for anything",
         "The antinomian view that realized souls act without consequences"
       ],
       "correctIndex": 1,
-      "feedback": "Same-sighted (samena) conquer birth-death cycle here; Brahman flawless (nirdosham) and sama (equal)-established in Brahman. The trap: after-death liberation only. Why this matters: The false path is postponing liberation to post-mortem realm-thinking freedom comes only after death, missing that present Brahman-consciousness liberates now. Real understanding: Ihaiva (here itself) jitah sarga (conquered birth-death)-present realization conquers material conditioning currently not eventually. Brahman nirdosham (flawless) and samam (equal)-present Brahman-realization now, not future attainment later. Liberation isn't post-mortem reward but present state-consciousness shift from material to spiritual accomplished now. Therefore don't postpone liberation-cultivate present Brahman-consciousness achieving freedom from birth-death cycle's psychological grip immediately, transformation occurring now through consciousness-shift not awaiting future death for freedom.",
+      "feedback": "Correct: Same-sighted (samena) conquer birth-death cycle here; Brahman flawless (nirdosham) and sama (equal)-established in Brahman. Ihaiva (here itself) jitah sarga (conquered birth-death)-present realization conquers material conditioning currently not eventually. Brahman nirdosham (flawless) and samam (equal)-present Brahman-realization now, not future attainment later. Liberation isn't post-mortem reward but present state-cultivate present Brahman-consciousness achieving freedom from birth-death cycle's psychological grip immediately.",
       "verseLabel": "BG 5.8-14",
       "verseUrl": "https://vedabase.io/en/library/bg/5/8/",
       "verdict": "Correct"
@@ -302,14 +302,14 @@
         "Independent material prosperity brings lasting peace and happiness"
       ],
       "correctIndex": 1,
-      "feedback": "Neither rejoicing upon pleasant (priyam) nor disturbed by unpleasant (apriyam)-sthira-buddhir (steady intelligence), asammudhah (unbewildered), brahma-vid (knower of Brahman) sthitah (situated) in Brahman. The trap: emotional suppression demonstrates realization. Why this matters: The false path is forced neutrality-mechanically flattening all responses through willpower, producing artificial equanimity brittle under stress. Real understanding: Natural equanimity from Brahman-realization-priyam/apriyam don't disturb sthira-buddhi (steady intelligence) not from suppression but from Brahman-absorption providing satisfaction transcending material dualities' push-pull. Asammudhah (unbewildered)-clarity about what matters makes material fluctuations irrelevant. Therefore seek natural not forced equanimity-Brahman-connection generates satisfaction making dualities non-threatening naturally, achieving steady-consciousness through spiritual absorption not through emotional suppression requiring constant maintenance.",
+      "feedback": "Correct: Neither rejoicing upon pleasant (priyam) nor disturbed by unpleasant (apriyam)-sthira-buddhir (steady intelligence), asammudhah (unbewildered), brahma-vid (knower of Brahman) sthitah (situated) in Brahman. Why this matters: Natural equanimity from Brahman-realization-priyam/apriyam don't disturb sthira-buddhi (steady intelligence) not from suppression but from Brahman-absorption providing satisfaction transcending material dualities' push-pull. Asammudhah (unbewildered)-clarity about what matters makes material fluctuations irrelevant. Brahman-connection generates satisfaction making dualities non-threatening naturally, achieving steady-consciousness through spiritual absorption not through emotional suppression.",
       "verseLabel": "BG 5.29",
       "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
       "verdict": "Correct"
     },
     {
       "id": "bg5-q21",
-      "prompt": "How does Prabhupada's peace formula (BG 5.29 purport)-Krishna as proprietor, beneficiary, friend-address global conflicts over resources, nationalism, and competing interests?",
+      "prompt": "How does Prabhupada's peace formula (BG 5.29 purport)-Krsna as proprietor, beneficiary, friend-address global conflicts over resources, nationalism, and competing interests?",
       "choices": [
         "Both recognize false proprietorship causes conflict and anxiety",
         "Recognizing true Owner/Enjoyer dissolves false proprietorship conflicts",
@@ -317,7 +317,7 @@
         "The pluralist hope that respecting all beliefs creates harmony"
       ],
       "correctIndex": 1,
-      "feedback": "Bahya-sparseshu (in external contacts) asaktam (unattached)-finds sukham (happiness) atmani (in self); brahma-yoga-yukta-atma (self engaged in Brahman-yoga)-obtains akshayam (inexhaustible) sukham (happiness). The trap: external stimulation provides satisfaction. Why this matters: The false path is pursuing happiness through sense-contact multiplication-assuming more/better external experiences produce fulfillment, generating perpetual dissatisfaction requiring escalating stimulation. Real understanding: Asaktam external contacts-finds happiness atmani (internally) not bahya-sparseshu (in external touches). Brahma-yoga-yukta (engaged in Brahman-yoga)-obtains akshayam (inexhaustible) happiness not ksayam (perishable) happiness from material contact. Inverts hedonism-satisfaction from within makes external contacts irrelevant for happiness. Therefore cultivate internal spiritual connection-brahma-yoga generates inexhaustible happiness independent of external circumstances, freeing from perpetual external-stimulus-seeking producing anxiety and incompleteness endemic to materially-oriented life.",
+      "feedback": "Correct: Bahya-sparseshu (in external contacts) asaktam (unattached)-finds sukham (happiness) atmani (in self); brahma-yoga-yukta-atma (self engaged in Brahman-yoga)-obtains akshayam (inexhaustible) sukham (happiness). Asaktam external contacts-finds happiness atmani (internally) not bahya-sparseshu (in external touches). Brahma-yoga-yukta (engaged in Brahman-yoga)-obtains akshayam (inexhaustible) happiness not ksayam (perishable) happiness from material contact. Cultivate internal spiritual connection-brahma-yoga generates inexhaustible happiness independent of external circumstances, freeing from perpetual external-stimulus-seeking.",
       "verseLabel": "BG 5.29",
       "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
       "verdict": "Correct"
@@ -332,7 +332,7 @@
         "Material distinctions define spiritual advancement and realization actually"
       ],
       "correctIndex": 1,
-      "feedback": "Sense-contact pleasures (bhoga) are duhkha-yonaya (womb of misery); have adi-anta (beginning-end)-wise don't rejoice in them. The trap: pleasure pursued produces happiness. Why this matters: The false path is hedonistic happiness-pursuit-maximizing pleasure-experiences expecting fulfillment, missing that sense-pleasure inherently produces duhkha (misery) not sukha (happiness). Real understanding: Ye hi samsparshaja (those born of sense-contact) bhogah (pleasures) duhkha-yonayah (wombs of misery)-pleasure itself contains pain's seed. Adi-anta-vantah (having beginning-end)-temporality guarantees dissatisfaction through anticipation-anxiety and loss-grief. Buddhiman (intelligent) therefore na ramate (doesn't rejoice) in such pleasures-not masochism but discrimination recognizing temporary pleasures' hidden cost. Therefore transcend hedonic treadmill-sense-pleasure inherently unsatisfying due to temporality, seek permanent satisfaction through transcendental engagement rather than chasing intrinsically frustrating material pleasures escalating in intensity.",
+      "feedback": "Correct: Sense-contact pleasures (bhoga) are duhkha-yonaya (womb of misery); have adi-anta (beginning-end)-wise don't rejoice in them. Ye hi samsparshaja (those born of sense-contact) bhogah (pleasures) duhkha-yonayah (wombs of misery)-pleasure itself contains pain's seed. Adi-anta-vantah (having beginning-end)-temporality guarantees dissatisfaction through anticipation-anxiety and loss-grief. Buddhiman (intelligent) na ramate (doesn't rejoice) in such pleasures-discrimination recognizing temporary pleasures' hidden cost. Sense-pleasure inherently unsatisfying due to temporality, seek permanent satisfaction through transcendental engagement.",
       "verseLabel": "BG 5.18",
       "verseUrl": "https://vedabase.io/en/library/bg/5/18/",
       "verdict": "Correct"
@@ -347,7 +347,7 @@
         "Soul's quantity increases with spiritual advancement and practice"
       ],
       "correctIndex": 1,
-      "feedback": "Who can resist kama-krodha (lust-anger) vegam (impulse) before deha-vimokshana (body-liberation)-yukta (engaged), sukhi (happy) narah (person). The trap: after-death-only liberation. Why this matters: The false path is postponing victory over lust/anger to death-assuming current life remains battleground with freedom only posthumously, missing present victory possibility. Real understanding: Prak sharira-vimokshanat (before body-liberation)-during current embodiment, sodhum (tolerate) kama-krodha vegam (lust-anger impulse)-achieve victory now not later. Sa yuktah (he is engaged) sa sukhi (he is happy) narah (person)-present attainment not future hope. Therefore don't postpone self-mastery-can conquer material impulses currently through spiritual practice, liberation from kama-krodha's tyranny achievable now producing present happiness rather than deferred to speculative after-death state.",
+      "feedback": "Correct: Who can resist kama-krodha (lust-anger) vegam (impulse) before deha-vimokshana (body-liberation)-yukta (engaged), sukhi (happy) narah (person). Prak sharira-vimokshanat (before body-liberation)-during current embodiment, sodhum (tolerate) kama-krodha vegam (lust-anger impulse)-achieve victory now not later. Sa yuktah (he is engaged) sa sukhi (he is happy) narah (person)-present attainment not future hope. Can conquer material impulses currently through spiritual practice, liberation from kama-krodha's tyranny achievable now producing present happiness.",
       "verseLabel": "BG 5.18",
       "verseUrl": "https://vedabase.io/en/library/bg/5/18/",
       "verdict": "Correct"
@@ -362,7 +362,7 @@
         "Simple renunciation is superior to devotional service activities"
       ],
       "correctIndex": 1,
-      "feedback": "Antah-sukha (inner joy), antar-arama (inner satisfaction), antar-jyoti (inner illumination)-such yogi attains brahma-nirvanam (Brahman-liberation). The trap: external achievement demonstrates spiritual success. Why this matters: The false path is external-result spirituality-measuring advancement through material accomplishments or public recognition, missing internal realization defines genuine success. Real understanding: Three-fold interiority-sukha (joy) antah (within), arama (satisfaction) antah (within), jyoti (light) antah (within). Not external validation but internal realization-happiness/satisfaction/illumination sourced internally not externally. Such yogi brahma-nirvanam (Brahman-liberation)-achieves freedom through internal transformation not external attainment. Therefore cultivate internal measures-spiritual advancement gauged by inner peace/satisfaction/clarity, not external accomplishments/recognition, inverting material success-metrics even within spiritual practice.",
+      "feedback": "Correct: Antah-sukha (inner joy), antar-arama (inner satisfaction), antar-jyoti (inner illumination)-such yogi attains brahma-nirvanam (Brahman-liberation). Three-fold interiority-sukha (joy) antah (within), arama (satisfaction) antah (within), jyoti (light) antah (within), not external validation but internal realization. Happiness/satisfaction/illumination sourced internally not externally-such yogi achieves brahma-nirvanam (Brahman-liberation) through internal transformation. Cultivate internal measures-spiritual advancement gauged by inner peace/satisfaction/clarity, not external accomplishments/recognition.",
       "verseLabel": "BG 5.6",
       "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
       "verdict": "Correct"
@@ -377,7 +377,7 @@
         "Peace comes through controlling others and their actions"
       ],
       "correctIndex": 1,
-      "feedback": "Rishis (sages) kshin-kalmashah (destroyed sins), chinna-dvaidha (cut dualities), yata-atmanah (self-controlled), sarva-bhuta-hite-ratah (engaged in all beings' welfare)-obtain brahma-nirvanam (Brahman-liberation). The trap: self-focused spirituality. Why this matters: The false path is privatized practice-pursuing personal liberation without concern for others' welfare, missing genuine realization produces compassionate welfare-work. Real understanding: Final qualification sarva-bhuta-hite-ratah (engaged in welfare of all beings)-genuine spiritual advancement produces universal compassion, not selfish isolation. After kshin-kalmasha (sin-destruction), chinna-dvaidha (duality-transcendence), yata-atmanah (self-control)-naturally works for collective welfare. Liberation includes compassion-personal freedom incomplete without welfare-orientation toward all beings. Therefore authentic spiritual progress manifests outwardly-not just internal purification but external welfare-engagement, demonstrating liberation through compassionate service rather than isolated perfection.",
+      "feedback": "Correct: Rishis (sages) kshin-kalmashah (destroyed sins), chinna-dvaidha (cut dualities), yata-atmanah (self-controlled), sarva-bhuta-hite-ratah (engaged in all beings' welfare)-obtain brahma-nirvanam (Brahman-liberation). Final qualification sarva-bhuta-hite-ratah (engaged in welfare of all beings)-genuine spiritual advancement produces universal compassion, not selfish isolation. After kshin-kalmasha (sin-destruction), chinna-dvaidha (duality-transcendence), yata-atmanah (self-control)-naturally works for collective welfare. Authentic spiritual progress manifests outwardly-not just internal purification but external welfare-engagement, demonstrating liberation through compassionate service.",
       "verseLabel": "BG 5.29",
       "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
       "verdict": "Correct"

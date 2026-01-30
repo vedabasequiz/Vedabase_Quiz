@@ -248,138 +248,138 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q17",
-      "prompt": "In BG 5.17, what is the qualification for experiencing Krishna?",
+      "id": "bg5-q26-purport",
+      "prompt": "In the purport to BG 5.6, what false path does Srila Prabhupada warn about regarding Mayavadi sannyasis?",
       "choices": [
-        "Being born in a high family",
-        "Purity, control of senses, dedication, knowledge of self",
-        "Wealth alone and worldly philosophical speculation",
-        "Physical strength and worldly philosophical speculation"
+        "Their devotional service naturally leads to liberation",
+        "Dry speculation becomes tedious and they fall down",
+        "Their Brahman realization equals bhakti automatically",
+        "They engage in transcendental loving service"
       ],
       "correctIndex": 1,
-      "feedback": "These qualifications purify the consciousness for divine perception.",
-      "verseLabel": "BG 5.17",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/17/",
+      "feedback": "Mayavadi sannyasis' studies become tedious, they tire of Brahman speculation, sometimes fall down to material philanthropy.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q18",
-      "prompt": "What does BG 5.18 teach about vision and equanimity?",
+      "id": "bg5-q27-purport",
+      "prompt": "In the purport to BG 5.6, what does Srila Prabhupada say about Mayavadi sannyasis who study Bhagavatam?",
       "choices": [
-        "The learned see all beings as one",
-        "The truly learned see God equally in all beings and are not attached",
-        "This is impossible through independent material processes",
-        "primarily saints can do this"
+        "They relish transcendental service naturally",
+        "Dry speculations and impersonal interpretations are useless",
+        "Their artificial means help understand devotion",
+        "They have proper understanding of Bhagavatam"
       ],
       "correctIndex": 1,
-      "feedback": "The wise perceive the same eternal soul in all creatures.",
+      "feedback": "When Mayavadis take shelter of Bhagavatam without proper understanding, dry speculations and impersonal interpretations are useless.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q28-purport",
+      "prompt": "In the purport to BG 5.29, what false approach does Srila Prabhupada identify as the cause of suffering?",
+      "choices": [
+        "Surrendering to Krsna as supreme proprietor",
+        "Understanding Krsna is beneficiary of sacrifices",
+        "Desiring to lord it over maya",
+        "Accepting oneself as eternal servant"
+      ],
+      "correctIndex": 2,
+      "feedback": "The pure soul comes into contact with maya due to the desire to lord it over maya, which causes many sufferings.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q29-purport",
+      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada say about living entities trying to be lords?",
+      "choices": [
+        "They are actually dominated by material energy",
+        "They successfully control material nature",
+        "Their independence from Krsna is real",
+        "They can become lords through effort"
+      ],
+      "correctIndex": 0,
+      "feedback": "Under illusion's spell, entities try to be lords of all they survey, but are actually dominated by Krsna's material energy.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q30-purport",
+      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada explain is the greatest peace formula?",
+      "choices": [
+        "Understanding oneself as supreme controller",
+        "Lord Krsna is beneficiary of all human activities",
+        "Becoming one with the impersonal Brahman",
+        "Independent material prosperity brings peace"
+      ],
+      "correctIndex": 1,
+      "feedback": "The greatest peace formula: Krsna is beneficiary, proprietor of all planets, greater than all demigods.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q31-purport",
+      "prompt": "In the purport to BG 5.18, what does Srila Prabhupada explain about equal vision?",
+      "choices": [
+        "Bodies of brahmana and outcaste are equal",
+        "Differences of body are meaningless to learned transcendentalist",
+        "Species and castes have equal spiritual value",
+        "Material distinctions define spiritual advancement"
+      ],
+      "correctIndex": 1,
+      "feedback": "Body differences are meaningless from viewpoint of learned transcendentalist due to relationship with Paramatma in everyone's heart.",
       "verseLabel": "BG 5.18",
       "verseUrl": "https://vedabase.io/en/library/bg/5/18/",
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q19",
-      "prompt": "According to BG 5.19, what is the ideal state of a yogi?",
+      "id": "bg5-q32-purport",
+      "prompt": "In the purport to BG 5.18, what false conception does Srila Prabhupada clarify?",
       "choices": [
-        "Constant mental agitation through independent material processes",
-        "Mind fixed on Krishna, free from lust",
-        "Confusion and doubt through independent material processes",
-        "Endless desires and worldly philosophical speculation"
+        "Individual soul and Supersoul are equal in quantity",
+        "Similarity in quality doesn't make them equal in quantity",
+        "Parammatma is only in brahmanical bodies",
+        "Soul's quantity increases with spiritual advancement"
       ],
       "correctIndex": 1,
-      "feedback": "Such a soul attains the highest peace and spiritual position.",
-      "verseLabel": "BG 5.19",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/19/",
+      "feedback": "Soul and Supersoul similar in quality (conscious, eternal, blissful) but not equal in quantity - soul in one body, Paramatma in all.",
+      "verseLabel": "BG 5.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/18/",
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q20",
-      "prompt": "In BG 5.20, what happens when one attains brahma-nirvana?",
+      "id": "bg5-q33-purport",
+      "prompt": "In the purport to BG 5.6, what does Srila Prabhupada say about those engaged in Krsna conscious activities?",
       "choices": [
-        "Extinction of existence through independent material processes",
-        "The jiva is freed from every material conditioning",
-        "Remaining in the material world",
-        "Becoming impersonal and worldly philosophical speculation"
+        "They must speculate about Brahman first",
+        "Better situated than sannyasis in simple speculation",
+        "They need Brahman speculation for advancement",
+        "Simple renunciation is superior to devotion"
       ],
       "correctIndex": 1,
-      "feedback": "Liberation is reunion with the source and attainment of eternal existence.",
-      "verseLabel": "BG 5.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/20/",
+      "feedback": "Those engaged in Krsna consciousness are better situated than sannyasis engaged in simple Brahman speculation.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
       "verdict": "Correct"
     },
     {
-      "id": "bg5-q21",
-      "prompt": "What does BG 5.21 teach about sensory control?",
+      "id": "bg5-q34-purport",
+      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada say about achieving peace?",
       "choices": [
-        "Suppression is the goal through independent material processes",
-        "The wise internally renounce sensory pleasure and are not disturbed",
-        "Senses should be indulged through independent material processes",
-        "Control is impossible through independent material processes"
+        "Individual effort alone brings lasting peace",
+        "Not possible without understanding Krsna's position",
+        "Material adjustment leads to collective peace",
+        "Peace comes through controlling others"
       ],
       "correctIndex": 1,
-      "feedback": "The transcendentalist masters senses without forceful suppression.",
-      "verseLabel": "BG 5.21",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/21/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg5-q22",
-      "prompt": "According to BG 5.22, what external stimulus cannot disturb a realized soul?",
-      "choices": [
-        "Pain alone and worldly philosophical speculation",
-        "Heat, cold, pleasure, pain, praise, or blame",
-        "Success alone and worldly philosophical speculation",
-        "primarily intense suffering through independent material processes"
-      ],
-      "correctIndex": 1,
-      "feedback": "The liberated soul remains unmoved by the dualities of the world.",
-      "verseLabel": "BG 5.22",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/22/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg5-q23",
-      "prompt": "In BG 5.23, what is the meaning of the phrase 'before leaving the body'?",
-      "choices": [
-        "Death and worldly philosophical speculation",
-        "Before the external world can disturb one in meditation",
-        "Immediately and worldly philosophical speculation",
-        "Gradually over time through independent material processes"
-      ],
-      "correctIndex": 1,
-      "feedback": "One should achieve this peace and detachment while still living.",
-      "verseLabel": "BG 5.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/23/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg5-q24",
-      "prompt": "What does BG 5.24 teach about the path to Brahman?",
-      "choices": [
-        "It is very difficult through independent material processes",
-        "The process of yoga and meditation; controlling mind and senses",
-        "It is impossible through independent material processes",
-        "It requires years of study"
-      ],
-      "correctIndex": 1,
-      "feedback": "The path requires practice and dedication but is within reach of all.",
-      "verseLabel": "BG 5.24",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/24/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg5-q25",
-      "prompt": "According to BG 5.25 (conclusion of Chapter 5), what can the yogi attain?",
-      "choices": [
-        "Knowledge of physical phenomena and external forms",
-        "Freedom from every misery; eternal happiness in Krishna",
-        "More karma and worldly philosophical speculation",
-        "Knowledge of physical phenomena and external forms"
-      ],
-      "correctIndex": 1,
-      "feedback": "The ultimate goal is attainment of eternal bliss in the kingdom of God.",
-      "verseLabel": "BG 5.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/25/",
+      "feedback": "Unless one understands bare facts (Krsna master, souls subordinate), not possible to achieve peace individually or collectively.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
       "verdict": "Correct"
     }
   ]

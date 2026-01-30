@@ -248,138 +248,138 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q17",
-      "prompt": "According to BG 4.19, what kind of knowledge is superior?",
+      "id": "bg4-q26-purport",
+      "prompt": "In the purport to BG 4.2, what does Srila Prabhupada warn about regarding Gita commentaries?",
       "choices": [
-        "Empirical knowledge primarily through independent material processes",
-        "Knowledge of every work is action",
-        "Philosophical speculation and worldly philosophical speculation",
-        "Accumulation of information through independent material processes"
+        "All translations of Gita are equally valid spiritually",
+        "Demons make good business but don't accept Krsna",
+        "Any scholarly interpretation helps spiritual progress",
+        "Personal opinions enhance understanding of scripture"
       ],
       "correctIndex": 1,
-      "feedback": "Realizing all action in the phenomenal world through Krishna's energy is supreme knowledge.",
-      "verseLabel": "BG 4.19",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/19/",
+      "feedback": "The demonic spirit doesn't believe in God but enjoys His property, making business on Krsna's words without accepting Him.",
+      "verseLabel": "BG 4.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q18",
-      "prompt": "In BG 4.20, what qualifies one as wise?",
+      "id": "bg4-q27-purport",
+      "prompt": "In the purport to BG 4.2, what does Srila Prabhupada explain about the disciplic succession?",
       "choices": [
-        "One who is consistently studying",
-        "One who understands that neither body nor senses are performing action",
-        "One who is very intelligent in worldly matters",
-        "One with great wealth through independent material processes"
+        "Disciplic succession is optional for understanding Gita",
+        "5000 years ago disciplic succession was already broken",
+        "Anyone can become spiritual master without succession",
+        "Mundane scholars preserve disciplic succession properly"
       ],
       "correctIndex": 1,
-      "feedback": "The wise understand the witness consciousness beyond bodily action.",
-      "verseLabel": "BG 4.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/20/",
+      "feedback": "The Lord detected 5000 years ago that the succession was broken and the Gita's purpose appeared lost.",
+      "verseLabel": "BG 4.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q19",
-      "prompt": "BG 4.22 states that what kind of gift is superior?",
+      "id": "bg4-q28-purport",
+      "prompt": "In the purport to BG 4.10, what false paths does Srila Prabhupada identify?",
       "choices": [
-        "Expensive gifts and worldly philosophical speculation",
-        "One that is given at the right time to the right person with the right attitude",
-        "Large quantities of gifts through independent material processes",
-        "Gifts that bring fame through independent material processes"
+        "Devotional service, knowledge, and detachment paths",
+        "Attachment to matter, fear of personality, and void conception",
+        "Surrender, service, and hearing from spiritual master",
+        "Faith, determination, and sense control approaches"
       ],
       "correctIndex": 1,
-      "feedback": "The best gift is given in the proper spirit and at the appropriate time.",
-      "verseLabel": "BG 4.22",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/22/",
+      "feedback": "Three false stages: material attachment, fear of spiritual personality, and void conception from frustration.",
+      "verseLabel": "BG 4.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q20",
-      "prompt": "According to BG 4.23, what is Brahman?",
+      "id": "bg4-q29-purport",
+      "prompt": "In the purport to BG 4.10, what does Srila Prabhupada explain about materialistic people and spiritual personality?",
       "choices": [
-        "A person or demiGod through independent material processes",
-        "The ultimate reality; every action is performed by Him",
-        "primarily found in scripture through independent material processes",
-        "An impersonal force through independent material processes"
+        "Materialists easily accept transcendental personality concept",
+        "Retaining personality after liberation frightens them",
+        "Bodily concept helps understand spiritual personality",
+        "Material conception makes spiritual personality attractive"
       ],
       "correctIndex": 1,
-      "feedback": "The Absolute Truth (Brahman) is the substratum of all activities.",
-      "verseLabel": "BG 4.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/23/",
+      "feedback": "Too materially absorbed, the conception of retaining personality after liberation frightens them.",
+      "verseLabel": "BG 4.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q21",
-      "prompt": "In BG 4.24, what is the proper understanding of sacrifice?",
+      "id": "bg4-q30-purport",
+      "prompt": "In the purport to BG 4.10, what does Srila Prabhupada say about the comparison of living entities to bubbles?",
       "choices": [
-        "Killing animals and worldly philosophical speculation",
-        "every offering and action performed as service to the Absolute",
-        "Money primarily and worldly philosophical speculation",
-        "Ritualistic ceremony alone through independent material processes"
+        "Bubble merging shows perfection of spiritual existence",
+        "Merging is fearful stage devoid of perfect knowledge",
+        "Ocean bubble analogy proves oneness with Absolute",
+        "Individual existence ends at liberation naturally"
       ],
       "correctIndex": 1,
-      "feedback": "All work and offerings done for Krishna are acts of spiritual sacrifice.",
-      "verseLabel": "BG 4.24",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/24/",
+      "feedback": "Comparing entities to bubbles merging is a fearful stage of life, devoid of perfect knowledge of spiritual existence.",
+      "verseLabel": "BG 4.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q22",
-      "prompt": "According to BG 4.28, what are the different types of sacrifices?",
+      "id": "bg4-q31-purport",
+      "prompt": "In the purport to BG 4.34, what false approach does Srila Prabhupada warn against?",
       "choices": [
-        "primarily one kind exists through independent material processes",
-        "Some sacrifice possessions, senses, life breath, study, austerity, and yoga",
-        "every sacrifices are identical through independent material processes",
-        "Sacrifice is optional through independent material processes"
+        "Approaching bona fide spiritual master in succession",
+        "Spiritual realization by manufacturing own process",
+        "Following disciplic succession from the Lord Himself",
+        "Receiving knowledge from self-realized souls"
       ],
       "correctIndex": 1,
-      "feedback": "There are many paths of sacrifice suited to different natures.",
-      "verseLabel": "BG 4.28",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/28/",
+      "feedback": "No one can be spiritually realized by manufacturing their own process, as foolish pretenders do.",
+      "verseLabel": "BG 4.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q23",
-      "prompt": "In BG 4.29, what is the greatest sacrifice?",
+      "id": "bg4-q32-purport",
+      "prompt": "In the purport to BG 4.34, what does Srila Prabhupada explain about approaching the spiritual master?",
       "choices": [
-        "Offering material wealth through independent material processes",
-        "The breath of life itself",
-        "Self-realization through knowledge",
-        "Performing elaborate rituals through independent material processes"
+        "Approach with intellectual pride and debate",
+        "Accept in full surrender and serve like menial servant",
+        "Maintain false prestige while taking instruction",
+        "Study independently before approaching teacher"
+      ],
+      "correctIndex": 1,
+      "feedback": "Spiritual master should be accepted in full surrender and served like a menial servant, without false prestige.",
+      "verseLabel": "BG 4.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg4-q33-purport",
+      "prompt": "In the purport to BG 4.34, what does Srila Prabhupada say both blind following and absurd inquiries have in common?",
+      "choices": [
+        "Both are recommended approaches to knowledge",
+        "Both lead to spiritual understanding eventually",
+        "Both are condemned in this verse",
+        "Both demonstrate proper guru-disciple relationship"
       ],
       "correctIndex": 2,
-      "feedback": "Knowledge of self (atma-jnana yajna) is the greatest sacrifice. BG 4.29 states that this sacrifice of knowledge is superior to material offerings or bodily austerities. Through transcendental knowledge, one attains the Supreme.",
-      "verseLabel": "BG 4.29",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/29/",
+      "feedback": "In this verse, both blind following and absurd inquiries are condemned.",
+      "verseLabel": "BG 4.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q24",
-      "prompt": "BG 4.31 concludes that those who taste the nectar of spiritual knowledge and share it are what?",
+      "id": "bg4-q34-purport",
+      "prompt": "In the purport to BG 4.34, what is the secret of advancement in spiritual life?",
       "choices": [
-        "Selfish and worldly philosophical speculation",
-        "Bound by material laws through independent material processes",
-        "Freed and happy",
-        "Unable to help others through independent material processes"
-      ],
-      "correctIndex": 2,
-      "feedback": "Those established in knowledge attain the supreme goal.",
-      "verseLabel": "BG 4.31",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/31/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg4-q25",
-      "prompt": "What is the main teaching of BG 4.35 about knowledge?",
-      "choices": [
-        "It cannot be attained through independent material processes",
-        "Once you know this transcendental knowledge, no confusion remains",
-        "It is impossible to understand",
-        "primarily brahmins can attain it"
+        "Accumulating theoretical knowledge from books alone",
+        "Satisfaction of self-realized spiritual master",
+        "Independent study and personal interpretation",
+        "Intellectual debates and philosophical arguments"
       ],
       "correctIndex": 1,
-      "feedback": "Transcendental knowledge is the key that unlocks all doors to liberation.",
-      "verseLabel": "BG 4.35",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/35/",
+      "feedback": "Satisfaction of the self-realized spiritual master is the secret of advancement in spiritual life.",
+      "verseLabel": "BG 4.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"
     }
   ]

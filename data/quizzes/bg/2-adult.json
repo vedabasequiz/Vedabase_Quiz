@@ -248,138 +248,138 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q17",
-      "prompt": "What special duty is emphasized in BG 2.31 for a kshatriya?",
+      "id": "bg2-q26-purport",
+      "prompt": "In the purport to BG 2.2, Srila Prabhupada explains the three realizations of Absolute Truth using the sun analogy. Which realization represents the highest?",
       "choices": [
-        "To avoid every combat through independent material processes",
-        "That there is no better engagement than fighting on religious principles",
-        "To become a priest through independent material processes",
-        "To renounce family ties through independent material processes"
-      ],
-      "correctIndex": 1,
-      "feedback": "BG 2.31 instructs a kshatriya to fight on religious principles when duty demands it.",
-      "verseLabel": "BG 2.31",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/31/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q18",
-      "prompt": "What consequence does BG 2.37 present if Arjuna refuses to fight?",
-      "choices": [
-        "He will gain immediate liberation",
-        "He will incur sins for neglecting his duties and lose reputation",
-        "He will be hailed as a pacifist hero",
-        "He will be rewarded by the elders"
-      ],
-      "correctIndex": 1,
-      "feedback": "BG 2.37 warns neglecting duty leads to sin and loss of reputation.",
-      "verseLabel": "BG 2.37",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/37/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q19",
-      "prompt": "BG 2.38 advises to fight how?",
-      "choices": [
-        "For material gain and fame",
-        "For the sake of fighting, without considering results",
-        "Out of hatred and anger",
-        "primarily if victory is certain"
-      ],
-      "correctIndex": 1,
-      "feedback": "BG 2.38: fight without attachment to gain or loss; such action incurs no sin.",
-      "verseLabel": "BG 2.38",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/38/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q20",
-      "prompt": "What is the key formula in BG 2.47 about action?",
-      "choices": [
-        "You are entitled to both action and its fruits",
-        "You have right to perform your duty but not to the fruits of action",
-        "not perform any duty through independent material processes",
-        "primarily fruits matter, not action"
-      ],
-      "correctIndex": 1,
-      "feedback": "BG 2.47: you have right to perform duty but not to the fruits of action.",
-      "verseLabel": "BG 2.47",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/47/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q21",
-      "prompt": "How does BG 2.48 define yoga?",
-      "choices": [
-        "Attachment to success through independent material processes",
-        "Performing duty wounded by desire",
-        "Performing duty equipoised, abandoning attachment to success or failure",
-        "Complete withdrawal from action through independent material processes"
+        "Understanding the sunshine represents Brahman realization",
+        "Knowing the sun's surface represents Paramatma realization",
+        "Entering the sun planet represents Bhagavan realization",
+        "All three are equal according to impersonal philosophy"
       ],
       "correctIndex": 2,
-      "feedback": "BG 2.48 defines yoga as equanimity in performing duty without attachment to results.",
-      "verseLabel": "BG 2.48",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/48/",
+      "feedback": "The bhaktas who realize Bhagavan are topmost transcendentalists, like those who enter the sun planet.",
+      "verseLabel": "BG 2.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q22",
-      "prompt": "What benefit is described in BG 2.50 for one engaged in devotional service?",
+      "id": "bg2-q27-purport",
+      "prompt": "In the purport to BG 2.2, what does Srila Prabhupada say characterizes non-Aryans?",
       "choices": [
-        "He accumulates more reactions through independent material processes",
-        "He rids himself of both good and bad reactions even in this life",
-        "He becomes isolated from society",
-        "He becomes worldly-wise primarily through independent material processes"
+        "They are noble warriors fighting for righteousness",
+        "They know liberation but prefer material life",
+        "They have no knowledge of liberation from bondage",
+        "They follow prescribed duties with determination"
       ],
-      "correctIndex": 1,
-      "feedback": "BG 2.50: devotional service frees one from both good and bad reactions even in this life.",
-      "verseLabel": "BG 2.50",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/50/",
+      "correctIndex": 2,
+      "feedback": "Non-Aryans have no knowledge of liberation from material bondage, being captivated by external material features.",
+      "verseLabel": "BG 2.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q23",
-      "prompt": "BG 2.55 describes the symptom of pure transcendental consciousness as what?",
+      "id": "bg2-q28-purport",
+      "prompt": "In the purport to BG 2.7, what false path does Srila Prabhupada warn against regarding family attachment?",
       "choices": [
-        "Desire for sense gratification through independent material processes",
-        "Mind purified and finding satisfaction in the self alone",
-        "Restless pursuit of power through independent material processes",
-        "Attachment to ritual through independent material processes"
+        "Families naturally protect each other from death eternally",
+        "Family attachment is based on 'skin disease' mentality",
+        "Only humans can be affectionate to relatives",
+        "Society can definitely save one from death"
       ],
       "correctIndex": 1,
-      "feedback": "BG 2.55: pure consciousness finds satisfaction in the self after giving up desire for sense gratification.",
-      "verseLabel": "BG 2.55",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/55/",
+      "feedback": "Family attachment is based on 'skin disease' - bodily conception. The krpana thinks family can protect from death.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q24",
-      "prompt": "According to BG 2.56, who is called a sage of steady mind?",
+      "id": "bg2-q29-purport",
+      "prompt": "In the purport to BG 2.7, who does Srila Prabhupada describe as a miserly person (krpana)?",
       "choices": [
-        "One disturbed by emotions through independent material processes",
-        "One not disturbed in mind amidst miseries and free from attachment, fear and anger",
-        "One who seeks primarily pleasure",
-        "One who is consistently angry"
+        "One who hoards wealth through legitimate means",
+        "One who solves life's problems as a human",
+        "One who quits without understanding self-realization",
+        "One who becomes detached from family life"
       ],
-      "correctIndex": 1,
-      "feedback": "BG 2.56: one not disturbed amid miseries and free from attachment, fear and anger is a sage of steady mind.",
-      "verseLabel": "BG 2.56",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/56/",
+      "correctIndex": 2,
+      "feedback": "The krpana does not solve life's problems as a human and quits like cats and dogs without self-realization.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q25",
-      "prompt": "What is the concluding promise in BG 2.72 for one who attains the described state?",
+      "id": "bg2-q30-purport",
+      "prompt": "In the purport to BG 2.7, what does Srila Prabhupada warn about mundane scholars who say one need not submit to Krsna as a person?",
       "choices": [
-        "He will be bewildered at death",
-        "He can enter into the kingdom of God",
-        "He will become famous on earth",
-        "He will be bound to sense enjoyment"
+        "They have deep philosophical understanding worthy of praise",
+        "They are the greatest fools in understanding Gita",
+        "They have legitimately transcended bodily conception",
+        "They correctly perceive no difference between Krsna's forms"
       ],
       "correctIndex": 1,
-      "feedback": "BG 2.72: if situated in that state at death, one can enter the kingdom of God.",
-      "verseLabel": "BG 2.72",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/72/",
+      "feedback": "Foolish scholars who say to submit to 'the unborn within Krsna' not Krsna the person are the greatest fools.",
+      "verseLabel": "BG 2.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q31-purport",
+      "prompt": "In the purport to BG 2.13, what false theory does Srila Prabhupada reject regarding the spirit soul?",
+      "choices": [
+        "The soul undergoes six transformations like the body",
+        "The Mayavadi oneness theory that soul is cut into pieces",
+        "The soul takes birth in the womb",
+        "The soul deteriorates over time like a tree"
+      ],
+      "correctIndex": 1,
+      "feedback": "The Mayavadi theory of oneness cannot be entertained - cutting the soul would make the Supreme changeable.",
+      "verseLabel": "BG 2.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q32-purport",
+      "prompt": "In the purport to BG 2.13, why does Srila Prabhupada say the instructor-instructed relationship between Krsna and Arjuna is meaningful?",
+      "choices": [
+        "Both are on the same level of realization",
+        "Both are equally deluded by maya's influence",
+        "Krsna is superior, Arjuna is forgetful soul deluded by maya",
+        "Arjuna is the Supreme teaching the subordinate"
+      ],
+      "correctIndex": 2,
+      "feedback": "Krsna is the Supreme Lord superior to Arjuna, who is a forgetful soul deluded by maya.",
+      "verseLabel": "BG 2.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q33-purport",
+      "prompt": "In the purport to BG 2.20, what does Srila Prabhupada explain about the symptom of the soul?",
+      "choices": [
+        "The soul's presence is detected by bodily warmth",
+        "Consciousness is the symptom of the soul's presence",
+        "The soul manifests as intellectual capacity in humans",
+        "Only advanced yogis can perceive the soul directly"
+      ],
+      "correctIndex": 1,
+      "feedback": "Consciousness is the symptom of the soul. Like sunlight indicates the sun, consciousness indicates the soul's presence.",
+      "verseLabel": "BG 2.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q34-purport",
+      "prompt": "In the purport to BG 2.46, what false path does Srila Prabhupada warn against regarding Vedic study?",
+      "choices": [
+        "Studying Vedas leads to material prosperity guaranteed",
+        "Attachment to rituals only without knowing their purpose",
+        "Chanting holy names is for sentimentalists not scholars",
+        "Self-realization requires abandoning all Vedic knowledge"
+      ],
+      "correctIndex": 1,
+      "feedback": "One must understand the purpose of Vedas (knowing Krsna), not just be attached to rituals and heavenly elevation.",
+      "verseLabel": "BG 2.46",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/46/",
       "verdict": "Correct"
     }
   ]

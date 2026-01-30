@@ -85,20 +85,11 @@ class QuizValidator:
         expected_counts = {'adult': 25, 'teens': 20, 'kids': 15}
         actual_count = len(self.data.get('questions', []))
         
-        # For BG Chapter 1, we enhanced to 33, so special case
-        scripture = self.data.get('scripture', '')
-        chapter = self.data.get('chapter', 0)
-        if scripture == 'bg' and chapter == 1 and audience == 'adult':
-            if actual_count == 33:
-                self.passes.append(f"Question count: {actual_count} (enhanced)")
-            else:
-                self.warnings.append(f"Question count: {actual_count}, expected 33 (enhanced)")
+        expected = expected_counts.get(audience, 25)
+        if actual_count == expected:
+            self.passes.append(f"Question count: {actual_count} (correct for {audience})")
         else:
-            expected = expected_counts.get(audience, 25)
-            if actual_count == expected:
-                self.passes.append(f"Question count: {actual_count} (correct for {audience})")
-            else:
-                self.errors.append(f"Question count: {actual_count}, expected {expected} for {audience}")
+            self.errors.append(f"Question count: {actual_count}, expected {expected} for {audience}")
         
         # Question structure
         required_q = ['id', 'prompt', 'choices', 'correctIndex', 'feedback', 'verseLabel', 'verseUrl', 'verdict']

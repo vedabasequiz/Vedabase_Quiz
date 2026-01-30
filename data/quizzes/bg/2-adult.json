@@ -83,6 +83,36 @@
       "verdict": "Correct"
     },
     {
+      "id": "bg2-q6",
+      "prompt": "In BG 2.12, what does Krishna establish about individual existence?",
+      "choices": [
+        "There was a time when we did not exist",
+        "Never was there a time when I did not exist",
+        "Individuality is temporary illusion that will end after liberation",
+        "All beings merge into one existence in the future"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna declares 'Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.' Prabhupada emphasizes this refutes Mayavadi theory-individuality existed in the past and will continue eternally in the future without interruption.",
+      "verseLabel": "BG 2.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q7",
+      "prompt": "How does BG 2.13 illustrate the soul's continuity through bodily changes?",
+      "choices": [
+        "Like a river flowing continuously through different landscapes",
+        "As the embodied soul passes from boyhood to youth to old age",
+        "Like seasons changing from spring to summer to winter",
+        "As consciousness expands from childhood ignorance to mature wisdom"
+      ],
+      "correctIndex": 1,
+      "feedback": "The embodied soul continuously passes in this body from boyhood to youth to old age, and similarly passes into another body at death. A sober person is not bewildered by such a change. The soul persists unchanged while the body transforms.",
+      "verseLabel": "BG 2.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
+      "verdict": "Correct"
+    },
+    {
       "id": "bg2-q8",
       "prompt": "Why does BG 2.14 compare happiness and distress to summer and winter?",
       "choices": [
@@ -128,7 +158,22 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q13",
+      "id": "bg2-q11",
+      "prompt": "What does BG 2.20 teach about the soul's nature?",
+      "choices": [
+        "The soul has birth and death like the body",
+        "For the soul there is neither birth nor death ever",
+        "The soul is born once and then lives eternally",
+        "Birth and death apply only to consciousness not to soul"
+      ],
+      "correctIndex": 1,
+      "feedback": "For the soul there is neither birth nor death at any time. He is unborn, eternal, ever-existing and primeval. He is not slain when the body is slain. Prabhupada explains consciousness is the symptom of the soul's presence-like sunlight indicates the sun.",
+      "verseLabel": "BG 2.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q12",
       "prompt": "How does the garment analogy in BG 2.22 refute the fear of death?",
       "choices": [
         "Death brings complete annihilation of existence and identity",
@@ -143,7 +188,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q15",
+      "id": "bg2-q13",
       "prompt": "Why does BG 2.25 emphasize the soul as invisible, inconceivable and immutable?",
       "choices": [
         "Only what can be measured and perceived exists in reality",
@@ -158,7 +203,22 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q47",
+      "id": "bg2-q14",
+      "prompt": "In BG 2.30, why need one not grieve for any living being?",
+      "choices": [
+        "Because grieving shows devotion and humility toward those who leave",
+        "Because he who dwells in the body can not be slain",
+        "Because the soul will be reborn anyway, so grief is unnecessary",
+        "Because suffering is only imagination, so grief is pointless"
+      ],
+      "correctIndex": 1,
+      "feedback": "BG 2.30 states the indwelling self cannot be slain, so grief is unnecessary. The soul's indestructibility-not rebirth logic or mental gymnastics-removes the basis for lamentation.",
+      "verseLabel": "BG 2.30",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/30/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q15",
       "prompt": "According to BG 2.47, what is the proper relationship between work and its results?",
       "choices": [
         "One has right to fruits if work is done properly",
@@ -174,36 +234,36 @@
     },
     {
       "id": "bg2-q16",
-      "prompt": "In BG 2.30, why need one not grieve for any living being?",
-      "choices": [
-        "Because grieving shows devotion and humility toward those who leave",
-        "Because he who dwells in the body can not be slain",
-        "Because the soul will be reborn anyway, so grief is unnecessary",
-        "Because suffering is only imagination, so grief is pointless"
-      ],
-      "correctIndex": 1,
-      "feedback": "BG 2.30 states the indwelling self cannot be slain, so grief is unnecessary. The soul's indestructibility-not rebirth logic or mental gymnastics-removes the basis for lamentation.",
-      "verseLabel": "BG 2.30",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/30/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q49",
       "prompt": "In BG 2.49, how does Krishna characterize work done for fruitive results compared to buddhi-yoga?",
       "choices": [
-        "Both are equally valid paths depending on one's qualification",
+        "Fruitive work can be offered to Krishna later for purification",
         "Abominable activities should be kept far distant by devotional service",
-        "Fruitive work is a necessary preliminary stage before devotional service",
-        "Results-oriented work gradually purifies one for higher consciousness"
+        "Planning one's work intelligently demonstrates buddhi-yoga in practice",
+        "Desiring fruits from work is natural and spiritually neutral"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna calls fruitive work 'avaram karma' (abominable activity) to be kept 'durena' (far distant) through buddhi-yoga (devotional service). Those who want to enjoy fruits of work are called misers (krpanah). Only work in Krishna consciousness is the right course-all else continually binds one to birth and death.",
+      "feedback": "Krishna calls fruitive work 'avaram karma' (abominable activity) to be kept 'durena' (far distant) through buddhi-yoga (devotional service). Those who want to enjoy fruits of work are called misers. Only work in Krishna consciousness is the right course.",
       "verseLabel": "BG 2.49",
       "verseUrl": "https://vedabase.io/en/library/bg/2/49/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q17-synthesis",
+      "id": "bg2-q17",
+      "prompt": "According to BG 2.55, what characterizes one in pure transcendental consciousness (sthita-prajna)?",
+      "choices": [
+        "One who moderates all sense desires through strict disciplined regulation",
+        "One who gives up all sense desires, satisfied in the self alone",
+        "One who fulfills all desires systematically to achieve final detachment",
+        "One who analyzes desires philosophically before acting on them selectively"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna defines the sthita-prajna as one who gives up all varieties of desire for sense gratification arising from mental concoction, and whose mind, thus purified, finds satisfaction in the self alone. Prabhupada explains that if one engages in Krishna consciousness, sense desires subside automatically without extraneous effort.",
+      "verseLabel": "BG 2.55",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/55/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q18",
       "prompt": "How do the arguments about the soul's eternality (BG 2.12-25) and Arjuna's warrior duty (BG 2.31-32) work together to resolve his crisis?",
       "choices": [
         "Performing prescribed duties matters more than understanding spiritual philosophy",
@@ -218,22 +278,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q55",
-      "prompt": "According to BG 2.55, what characterizes one in pure transcendental consciousness (sthita-prajna)?",
-      "choices": [
-        "One who moderates all sense desires through strict disciplined regulation",
-        "One who gives up all sense desires, satisfied in the self alone",
-        "One who fulfills all desires systematically to achieve final detachment",
-        "One who analyzes desires philosophically before acting on them selectively"
-      ],
-      "correctIndex": 1,
-      "feedback": "Krishna defines the sthita-prajna as one who gives up all varieties of desire for sense gratification arising from mental concoction, and whose mind, thus purified, finds satisfaction in the self alone. Prabhupada explains that if one engages in Krishna consciousness, sense desires subside automatically without extraneous effort-the highly developed soul remains satisfied as the eternal servitor of the Lord.",
-      "verseLabel": "BG 2.55",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/55/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q20-synthesis",
+      "id": "bg2-q19",
       "prompt": "How does Prabhupada's teaching on tolerating dualities (BG 2.14-15) inform the instruction to perform duty with equanimity (BG 2.48)?",
       "choices": [
         "Forcefully suppressing all emotional reactions creates true spiritual detachment",
@@ -248,22 +293,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q21-synthesis",
-      "prompt": "How does realizing the soul's eternality (BG 2.20-25) practically manifest in the sthita-prajna's behavior (BG 2.54-72)?",
-      "choices": [
-        "Theoretical knowledge alone is sufficient without requiring any behavioral changes",
-        "Soul-knowledge produces sense control, equanimity, and withdrawal from material desire",
-        "Once soul is realized, one can act freely without rules",
-        "Understanding philosophy must come years before attempting practical application"
-      ],
-      "correctIndex": 1,
-      "feedback": "Knowing the soul as eternal, indestructible, and distinct from body naturally produces the steady wisdom's characteristics: if I'm not the body, bodily pleasures lose appeal (sense control), bodily changes don't disturb (equanimity), material goals lose meaning (desirelessness). The sthita-prajna's conduct flows from soul-realization, not imposed discipline.",
-      "verseLabel": "BG 2.20-72",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q28-purport",
+      "id": "bg2-q20",
       "prompt": "In the purport to BG 2.7, what false path does Srila Prabhupada warn against regarding family attachment?",
       "choices": [
         "Families naturally protect each other from death eternally",
@@ -278,7 +308,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q29-purport",
+      "id": "bg2-q21",
       "prompt": "In the purport to BG 2.7, who does Srila Prabhupada describe as a miserly person (krpana)?",
       "choices": [
         "One who hoards wealth through legitimate means and proper work",
@@ -293,7 +323,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q30-purport",
+      "id": "bg2-q22",
       "prompt": "In the purport to BG 2.7, what does Srila Prabhupada warn about mundane scholars who say one need not submit to Krsna as a person?",
       "choices": [
         "They understand surrender but prefer a more private, internal path",
@@ -308,7 +338,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q31-purport",
+      "id": "bg2-q23",
       "prompt": "In the purport to BG 2.13, what false theory does Srila Prabhupada reject regarding the spirit soul?",
       "choices": [
         "The soul undergoes six transformations like the material body",
@@ -323,7 +353,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q32-purport",
+      "id": "bg2-q24",
       "prompt": "In the purport to BG 2.13, why does Srila Prabhupada say the instructor-instructed relationship between Krsna and Arjuna is meaningful?",
       "choices": [
         "Both are on the same level of realization and spiritual understanding",
@@ -338,37 +368,7 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q33-purport",
-      "prompt": "In the purport to BG 2.20, what does Srila Prabhupada explain about the symptom of the soul?",
-      "choices": [
-        "The soul's presence is detected by bodily warmth and physical signs",
-        "Consciousness is the symptom of the soul's presence within the body",
-        "The soul manifests as intellectual capacity in human beings primarily",
-        "Only advanced yogis can perceive the soul directly through meditation"
-      ],
-      "correctIndex": 1,
-      "feedback": "Consciousness is the symptom of the soul. Like sunlight indicates the sun, consciousness indicates the soul's presence.",
-      "verseLabel": "BG 2.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q25-synthesis",
-      "prompt": "How does Prabhupada's purport (BG 2.20) that consciousness is the soul's symptom challenge the claim that consciousness emerges from brain chemistry?",
-      "choices": [
-        "It reverses cause and effect regarding consciousness and the soul",
-        "Both views are equally valid depending on one's perspective and beliefs",
-        "Brain chemistry adequately explains consciousness through material interactions alone",
-        "Mind and brain interact as two separate but equally material substances"
-      ],
-      "correctIndex": 0,
-      "feedback": "Just as sunlight indicates but doesn't create the sun, consciousness indicates but doesn't emerge from the brain-the symptom reveals the transcendent source, exposing the category error of confusing effect with cause.",
-      "verseLabel": "BG 2.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q24-synthesis",
+      "id": "bg2-q25",
       "prompt": "How does Prabhupada's teaching that the body is like clothes (BG 2.22) integrate with Krishna's instruction to fight without attachment to results (BG 2.38, 2.47)?",
       "choices": [
         "Soul and bodily action operate in completely separate realms with no connection",

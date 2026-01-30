@@ -12,12 +12,12 @@
       "prompt": "In BG 6.1, what distinguishes a true sannyasi from one who merely abstains from activities?",
       "choices": [
         "Complete withdrawal from all duties and social responsibilities",
-        "Performing prescribed duties without attachment to results",
+        "Performing prescribed duties without attachment to fruits",
         "Abandoning family life regardless of spiritual advancement",
         "Accepting formal vows and wearing traditional renunciate dress"
       ],
       "correctIndex": 1,
-      "feedback": "Anashritah karma-phalam (unattached to work-fruits) karyam karma karoti (performs required work)-such person is sannyasi and yogi, not one who abandons agni (fire) and kriya (activities). The trap: external renunciation defines spiritual status. Why this matters: The false path is equating renunciation with inactivity-thinking abandoning duties makes one sannyasi, missing consciousness-quality determines status not behavior. Real understanding: True sannyasi/yogi performs full duties without fruit-attachment-internal detachment not external withdrawal. Fire-ceremony cessation doesn't make sannyasi; desireless work-performance does. Therefore cultivate internal renunciation while maintaining external engagement-transformation of consciousness not lifestyle defines authentic spiritual standing.",
+      "feedback": "Anashritah karma-phalam (unattached to work-fruits) karyam karma karoti (performs prescribed work)-such person is sannyasi and yogi, not one abandoning agni (fire ceremonies) and kriya (activities). Why this matters: External renunciation doesn't define spiritual status-consciousness quality determines standing. True sannyasi/yogi performs duties without fruit-attachment-internal detachment enables external engagement. Cultivate consciousness transformation not lifestyle withdrawal-desireless work-performance makes authentic renunciate not ceremony-cessation.",
       "verseLabel": "BG 6.1",
       "verseUrl": "https://vedabase.io/en/library/bg/6/1/",
       "verdict": "Correct"
@@ -27,12 +27,12 @@
       "prompt": "In the purport to BG 6.1, what false path does Srila Prabhupada warn against regarding renunciation?",
       "choices": [
         "Abandoning work before purifying consciousness through selfless service",
-        "Remaining in household life instead of taking formal sannyasa",
-        "Performing duties while maintaining family relationships and obligations",
+        "Remaining in household life instead of taking formal sannyasa vows",
+        "Performing duties while maintaining family relationships and material obligations",
         "Accepting guidance from spiritual teachers rather than acting independently"
       ],
       "correctIndex": 0,
-      "feedback": "What they call sannyasa (renunciation) know as yoga-na hyasannyasta-sankalpah yogi bhavati (one doesn't become yogi without renouncing sankalpas/desires). The trap: yoga and sannyasa are different paths. Why this matters: The false path is treating yoga-sannyasa as distinct alternatives-missing both require identical internal state: desire-renunciation. Real understanding: Yoga IS sannyasa when properly understood-both mean desire-transcendence enabling Krishna-consciousness. External differences (active vs withdrawn) less significant than internal similarity (desireless). This unifies seemingly divergent paths through consciousness-quality. Therefore don't artificially separate yoga-sannyasa-both achieve same internal state (desire-transcendence) through different external expressions, demonstrating consciousness-primacy over lifestyle-form.",
+      "feedback": "What they call sannyasa (renunciation) know as yoga-na hyasannyasta-sankalpah yogi bhavati (one doesn't become yogi without renouncing sankalpas/desires). Why this matters: Yoga IS sannyasa when properly understood-both require identical internal state of desire-transcendence enabling Krsna-consciousness. External differences (active vs withdrawn) less significant than internal similarity-both achieve desireless consciousness through different expressions. Don't artificially separate yoga-sannyasa-consciousness unifies seemingly divergent paths.",
       "verseLabel": "BG 6.1",
       "verseUrl": "https://vedabase.io/en/library/bg/6/1/",
       "verdict": "Correct"
@@ -42,12 +42,12 @@
       "prompt": "According to BG 6.2, what is the relationship between yoga and renunciation?",
       "choices": [
         "Yoga practice and renunciation are completely separate paths",
-        "Renunciation of desire is itself the yoga Krishna describes",
+        "Renunciation of desire is itself the yoga Krsna describes",
         "Physical yoga postures lead automatically to mental renunciation",
         "Only after renunciation can one begin practicing yoga"
       ],
       "correctIndex": 1,
-      "feedback": "For muni (sage) desiring yoga-aroha (ascending), karma is karanam (means); for one yoga-arudha (ascended), shamah (tranquility) is karanam (means). The trap: single method for all stages. Why this matters: The false path is universal prescription-applying same practice regardless of advancement-level, missing graduated approach necessity. Real understanding: Yogaruruksu (beginner ascending) needs karma-yoga (engaged action) for purification; yogarudha (advanced ascended) needs shama (tranquility) for deepening. Different stages require different approaches-beginners purify through action, advanced stabilize through stillness. This validates developmental spirituality-meet practitioners where they are. Therefore apply stage-appropriate practice-karma-yoga for purification-phase, dhyana-yoga for realization-phase, recognizing spiritual path's progressive nature requiring different methods at different stages.",
+      "feedback": "For muni (sage) desiring yoga-aroha (ascending), karma is karanam (means); for one yoga-arudha (ascended), shamah (tranquility) is karanam. Yogaruruksu (beginner ascending) needs karma-yoga (engaged action) for purification; yogarudha (advanced ascended) needs shama (tranquility) for deepening. Different stages require different approaches-beginners purify through action, advanced stabilize through stillness. Apply stage-appropriate practice-karma-yoga for purification-phase, dhyana-yoga for realization-phase, recognizing spiritual path's progressive developmental nature.",
       "verseLabel": "BG 6.2",
       "verseUrl": "https://vedabase.io/en/library/bg/6/2/",
       "verdict": "Correct"
@@ -56,13 +56,13 @@
       "id": "bg6-q4",
       "prompt": "In BG 6.3, what distinguishes the beginning practitioner from the advanced yogi?",
       "choices": [
-        "The beginner uses work without attachment as the means; the advanced has attained cessation",
+        "The beginner uses work without attachment; the advanced attains cessation",
         "The beginner meditates occasionally during spare time; the advanced meditates constantly",
         "The beginner needs a qualified teacher for guidance; the advanced practices independently",
         "The beginner focuses on ethical behavior; the advanced transcends all moral codes"
       ],
       "correctIndex": 0,
-      "feedback": "When neither sarva-sankalpah (all desires) nor karmashu (in actions) attached-yogarudha (ascended in yoga) is declared. The trap: achievement through effort-cessation. Why this matters: The false path is thinking non-attachment means non-engagement-missing that desire-transcendence enables full action without binding attachment. Real understanding: Yogarudha simultaneously transcends desires AND actions' binding power-not by avoiding but by performing without attachment. Sankalpah (mental formations) and karmashu (activities) both transcended through consciousness-shift not behavior-modification. Therefore aim for engaged transcendence-active participation without volitional investment, achieving freedom through consciousness-quality not activity-quantity reduction.",
+      "feedback": "When neither sarva-sankalpah (all desires) nor karmashu (in actions) attached-yogarudha (ascended in yoga) is declared. Yogarudha simultaneously transcends desires AND actions' binding power-not by avoiding but by performing without attachment. Sankalpah (mental formations) and karmashu (activities) both transcended through consciousness-shift not behavior-modification. Aim for engaged transcendence-active participation without volitional investment, achieving freedom through consciousness-quality not activity-quantity reduction.",
       "verseLabel": "BG 6.3",
       "verseUrl": "https://vedabase.io/en/library/bg/6/3/",
       "verdict": "Correct"
@@ -77,7 +77,7 @@
         "When one achieves supernatural powers through yogic practice"
       ],
       "correctIndex": 1,
-      "feedback": "Uddharet atmana atmanam (one should elevate self by self)-atma (self) is both mitra (friend) and vairee (enemy) depending on self-mastery. The trap: external savior dependency. Why this matters: The false path is seeking external rescue-guru/God/circumstances to elevate while remaining passive, missing self-effort necessity. Real understanding: Self must elevate self through disciplined practice-no external agent can substitute for personal striving. Atma becomes friend (when controlled) or enemy (when uncontrolled)-same entity different relationship based on self-governance. This establishes personal responsibility-liberation requires active self-work not passive waiting for external salvation. Therefore engage in vigorous self-improvement-guru guides but individual must do work, God facilitates but won't override free will, taking personal responsibility for spiritual advancement.",
+      "feedback": "Uddharet atmana atmanam (one should elevate self by self)-atma (self) is both mitra (friend) and vairee (enemy) depending on self-mastery. Self must elevate self through disciplined practice-no external agent can substitute for personal striving. Atma becomes friend when controlled or enemy when uncontrolled-same entity, different relationship based on self-governance. Engage vigorous self-improvement-guru guides but individual must do work, God facilitates but won't override free will, establishing personal responsibility for spiritual advancement.",
       "verseLabel": "BG 6.4",
       "verseUrl": "https://vedabase.io/en/library/bg/6/4/",
       "verdict": "Correct"
@@ -92,7 +92,7 @@
         "As friend when educated through scripture study; as enemy when remaining ignorant"
       ],
       "correctIndex": 1,
-      "feedback": "Self conquered for one who conquered self becomes mitra (friend); for unconquered, self acts as shatru-vat (like enemy) in enmity. The trap: self-acceptance without self-mastery. Why this matters: The false path is unconditional self-embrace-'love yourself as you are' without self-improvement, missing that uncontrolled self creates suffering. Real understanding: Conquered self (controlled through discipline) becomes ally enabling spiritual progress; unconquered self (following every impulse) sabotages spiritual goals like enemy. Not external enemy but internal lack of self-governance. Therefore practice self-control-not self-rejection but self-governance, converting inner chaos into inner ally through disciplined spiritual practice.",
+      "feedback": "Self conquered for one who conquered self becomes mitra (friend); for unconquered, self acts as shatru-vat (like enemy) in enmity. Conquered self controlled through discipline becomes ally enabling spiritual progress; unconquered self following every impulse sabotages spiritual goals like enemy. Not external enemy but internal lack of self-governance creates suffering. Practice self-control-not self-rejection but self-governance, converting inner chaos into inner ally through disciplined spiritual practice.",
       "verseLabel": "BG 6.5",
       "verseUrl": "https://vedabase.io/en/library/bg/6/5/",
       "verdict": "Correct"
@@ -107,7 +107,7 @@
         "The mind functions identically for all people regardless of training or purification"
       ],
       "correctIndex": 1,
-      "feedback": "Jitatmanah prashantasya (for self-conquered peaceful one)-same-sighted in sheeta-ushna (cold-heat), sukha-duhkha (pleasure-pain), mana-apamana (honor-dishonor). The trap: stoic emotional flattening. Why this matters: The false path is forced neutrality-suppressing all reactions mechanically, producing brittle equanimity requiring constant vigilance. Real understanding: Natural equanimity from self-conquest-jitatmanah (self-mastered) achieves prashantatva (peace) enabling sama-drishti (equal vision) toward all dualities. Not suppression but transcendence-dualities don't disturb because consciousness anchored beyond their reach. Therefore cultivate self-mastery producing natural peace-enables spontaneous equanimity without forced neutralization, achieving steadiness through spiritual grounding not psychological effort.",
+      "feedback": "Jitatmanah prashantasya (for self-conquered peaceful one)-same-sighted in sheeta-ushna (cold-heat), sukha-duhkha (pleasure-pain), mana-apamana (honor-dishonor). Natural equanimity from self-conquest-jitatmanah (self-mastered) achieves prashantatva (peace) enabling sama-drishti (equal vision) toward all dualities. Not suppression but transcendence-dualities don't disturb because consciousness anchored beyond their reach. Cultivate self-mastery producing natural peace-enables spontaneous equanimity without forced neutralization.",
       "verseLabel": "BG 6.5",
       "verseUrl": "https://vedabase.io/en/library/bg/6/5/",
       "verdict": "Correct"
@@ -116,13 +116,13 @@
       "id": "bg6-q8",
       "prompt": "According to BG 6.6, what characterizes one who has conquered the mind versus one who has not?",
       "choices": [
-        "The conquered mind brings steady self-realization; the unconquered brings struggle",
+        "The conquered mind brings steady self-realization; the unconquered brings struggle and confusion",
         "The conquered mind produces supernatural abilities; the unconquered produces weakness",
         "The conquered mind requires no further practice; the unconquered needs constant effort",
         "The conquered mind becomes emotionless; the unconquered remains emotionally reactive"
       ],
       "correctIndex": 0,
-      "feedback": "Jnana-vijnana-trptatma (satisfied by knowledge-realization)-sees sama (equally) loshta-ashma-kanchana (clod-stone-gold). The trap: material value-nihilism. Why this matters: The false path is denying practical distinctions-treating gold and dirt as literally equivalent, missing transcendental vision that sees equal spiritual value beneath functional differences. Real understanding: Yuktatma (established yogi) sees sama not by ignoring differences but by transcending material value-hierarchy-clod/stone/gold differ functionally but equal spiritually as Krishna's energy. Not material leveling but spiritual transcendence. Therefore develop sama-drishti-recognize material varieties' practical utility while transcending attachment-hierarchy, seeing all as Krishna's energy regardless of material value-gradations.",
+      "feedback": "Jnana-vijnana-trptatma (satisfied by knowledge-realization)-sees sama (equally) loshta-ashma-kanchana (clod-stone-gold). Yuktatma (established yogi) sees sama not by ignoring differences but by transcending material value-hierarchy-clod/stone/gold differ functionally but equal spiritually as Krsna's energy. Not material leveling but spiritual transcendence beneath functional differences. Develop sama-drishti-recognize material varieties' practical utility while transcending attachment-hierarchy, seeing all as Krsna's energy regardless of material value-gradations.",
       "verseLabel": "BG 6.6",
       "verseUrl": "https://vedabase.io/en/library/bg/6/6/",
       "verdict": "Correct"
@@ -137,7 +137,7 @@
         "Success and failure, victory and defeat, gain and loss"
       ],
       "correctIndex": 1,
-      "feedback": "Suhrn-mitra-ari-udasina-madhyastha-dveshya-bandhu-sadhu-api-ca-papesu-sama-buddhih (equal-minded toward friend-enemy-neutral-mediator-hateful-relative-virtuous-sinful)-vishishyate (is distinguished). The trap: relationship-nihilism or naive universalism. Why this matters: The false path is either eliminating all distinctions (everyone equally significant) or maintaining distinctions that produce attachment-aversion, missing transcendental vision maintaining functional roles while transcending emotional reactions. Real understanding: Nine categories of relationships-friend/enemy/neutral/mediator/hateful/relative/virtuous/sinful-all met with sama-buddhi (equal intelligence) by yogi. Not ignoring differences but transcending reactive consciousness-honors functional distinctions (helping sadhu differs from managing papa) without internal turbulence. Therefore practice transcendent pragmatism-maintain appropriate responses to different persons while cultivating equal-minded consciousness underneath varied behaviors.",
+      "feedback": "Suhrn-mitra-ari-udasina-madhyastha-dveshya-bandhu-sadhu-api-ca-papesu-sama-buddhih (equal-minded toward friend-enemy-neutral-mediator-hateful-relative-virtuous-sinful)-vishishyate (is distinguished). Nine categories of relationships all met with sama-buddhi (equal intelligence) by yogi. Not ignoring differences but transcending reactive consciousness-honors functional distinctions without internal turbulence. Practice transcendent pragmatism-maintain appropriate responses while cultivating equal-minded consciousness underneath varied behaviors.",
       "verseLabel": "BG 6.7",
       "verseUrl": "https://vedabase.io/en/library/bg/6/7/",
       "verdict": "Correct"
@@ -146,13 +146,13 @@
       "id": "bg6-q10",
       "prompt": "In the purport to BG 6.8, why does Srila Prabhupada warn against merely theoretical knowledge?",
       "choices": [
-        "Because theoretical knowledge alone without realization is insufficient for liberation",
+        "Because theoretical knowledge without realization is insufficient",
         "Because reading books distracts from practical meditation and yogic exercises",
-        "Because understanding philosophy leads to pride and spiritual arrogance",
+        "Because understanding philosophy leads to pride and spiritual arrogance without humility",
         "Because knowledge must be completely abandoned for pure devotional feeling"
       ],
       "correctIndex": 0,
-      "feedback": "Yogi constantly (satatam) should yunjita (engage) citta (consciousness) staying viviktadeshena (in solitary place), yatatma (self-controlled), nirasir (without desires), aparigraha (non-possessive). The trap: occasional practice sufficiency. Why this matters: The false path is part-time spirituality-meditating occasionally while remaining materially absorbed generally, missing consistent practice-requirement. Real understanding: Satatam (constantly) yunjita (should engage)-continuous practice not sporadic attempts. Ekaki (solitary) yatatma (self-controlled) nirasir (without desires) aparigraha (non-possessive)-comprehensive lifestyle supporting continuous practice. Not segmented spirituality (spiritual during meditation, material otherwise) but integrated consciousness. Therefore cultivate continuous practice-not just formal sessions but persistent consciousness-orientation toward Supreme throughout all activities, maintaining spiritual focus as life's constant backdrop.",
+      "feedback": "Yogi constantly (satatam) should yunjita (engage) citta (consciousness) staying viviktadeshena (in solitary place), yatatma (self-controlled), nirasir (without desires), aparigraha (non-possessive). Why this matters: Satatam (constantly) yunjita-continuous practice not sporadic attempts, comprehensive lifestyle supporting integrated consciousness. Not segmented spirituality but persistent consciousness-orientation toward Supreme. Cultivate continuous practice maintaining spiritual focus as constant backdrop throughout activities.",
       "verseLabel": "BG 6.8",
       "verseUrl": "https://vedabase.io/en/library/bg/6/8/",
       "verdict": "Correct"
@@ -167,7 +167,7 @@
         "Recognizing one's own superiority while remaining humble externally toward others"
       ],
       "correctIndex": 1,
-      "feedback": "Shucau deshe (in clean place) establishing firm asana (seat)-neither ati-ucchritam (too high) nor ati-nicham (too low). The trap: location/equipment irrelevance or obsession. Why this matters: The false path is either neglecting practical conditions (practicing anywhere in any position) or obsessing over perfect setup (endless preparation without practice)-missing balanced attention to supportive conditions. Real understanding: Practical prerequisites-clean location, stable seat, moderate height-support meditation without guaranteeing it. Too much attention produces distraction through perfectionism; too little produces distraction through discomfort. Therefore establish reasonable practice-conditions-adequate cleanliness/stability/comfort enabling focus without obsessive environment-engineering, balancing external support with internal priority.",
+      "feedback": "Shucau deshe (in clean place) establishing firm asana (seat)-neither ati-ucchritam (too high) nor ati-nicham (too low). Practical prerequisites-clean location, stable seat, moderate height-support meditation without guaranteeing it. Too much attention produces distraction through perfectionism; too little produces distraction through discomfort. Establish reasonable practice-conditions-adequate cleanliness/stability/comfort enabling focus without obsessive environment-engineering, balancing external support with internal priority.",
       "verseLabel": "BG 6.9",
       "verseUrl": "https://vedabase.io/en/library/bg/6/9/",
       "verdict": "Correct"
@@ -176,13 +176,13 @@
       "id": "bg6-q12",
       "prompt": "In the purport to BG 6.10, what false conception of yoga does Srila Prabhupada correct?",
       "choices": [
-        "That yoga requires expensive equipment and specialized training facilities for practice",
+        "That yoga requires expensive equipment and specialized training facilities for effective practice",
         "That yoga can be practiced successfully in crowded cities with full social engagements",
-        "That yoga practice is only for those born in brahminical families and traditions",
-        "That yoga produces immediate results without sustained practice over extended time"
+        "That yoga practice is only for those born in brahminical families and spiritual traditions",
+        "That yoga produces immediate results without sustained practice over extended time periods"
       ],
       "correctIndex": 1,
-      "feedback": "Tatraikagram manah kritva (making mind one-pointed there)-controlling citta (consciousness) and indriyas (senses), practice yoga for atma-vishuddhaye (self-purification). The trap: meditation as relaxation technique. Why this matters: The false path is treating meditation as stress-relief-seeking pleasant feelings without transformation, missing purification-purpose. Real understanding: Ekagrata (one-pointedness) with controlled consciousness-senses for atma-vishuddhaye (self-purification)-meditation as spiritual discipline not therapeutic technique. Aim is consciousness-transformation (purifying false ego) not temporary stress-reduction. Therefore approach meditation as purification-practice-tolerating discomfort of confronting conditioned mind, seeking permanent transformation not temporary relief from material pressure.",
+      "feedback": "Tatraikagram manah kritva (making mind one-pointed there)-controlling citta (consciousness) and indriyas (senses), practice yoga for atma-vishuddhaye (self-purification). Ekagrata (one-pointedness) with controlled consciousness-senses for atma-vishuddhaye-meditation as spiritual discipline not therapeutic technique. Aim is consciousness-transformation purifying false ego, not temporary stress-reduction. Approach meditation as purification-practice-tolerating discomfort of confronting conditioned mind, seeking permanent transformation not temporary relief from material pressure.",
       "verseLabel": "BG 6.10",
       "verseUrl": "https://vedabase.io/en/library/bg/6/10/",
       "verdict": "Correct"
@@ -197,7 +197,7 @@
         "An elevated platform visible to others to inspire collective practice"
       ],
       "correctIndex": 1,
-      "feedback": "Samam kaya-shiro-grivam (body-head-neck evenly aligned) holding acalam (motionless)-practicing brahmacharya (celibacy) with citta (consciousness) on ekam (one) Krishna. The trap: physical posture suffices for meditation. Why this matters: The false path is postural perfection-assuming correct body-alignment produces meditation, missing consciousness-focus primacy. Real understanding: Physical alignment (samam upright posture, acalam stillness) supports but doesn't substitute for mental focus-citta fixed ekam (on one) Krishna. Brahmacharya (celibacy/sense-control) prevents distraction. Posture facilitates but consciousness determines meditation. Therefore maintain proper posture while prioritizing consciousness-discipline-body's stillness supports mind's one-pointedness but can't replace it, physical foundation enabling mental focus.",
+      "feedback": "Samam kaya-shiro-grivam (body-head-neck evenly aligned) holding acalam (motionless)-practicing brahmacharya (celibacy) with citta (consciousness) on ekam (one) Krsna. Physical alignment (samam upright posture, acalam stillness) supports but doesn't substitute for mental focus-citta fixed ekam on Krsna. Brahmacharya (celibacy/sense-control) prevents distraction. Maintain proper posture while prioritizing consciousness-discipline-body's stillness supports mind's one-pointedness but can't replace it, physical foundation enabling mental focus.",
       "verseLabel": "BG 6.11-12",
       "verseUrl": "https://vedabase.io/en/library/bg/6/11/",
       "verdict": "Correct"
@@ -212,7 +212,7 @@
         "Walking meditation while maintaining continuous awareness of each single step taken forward"
       ],
       "correctIndex": 1,
-      "feedback": "Prashanta-atma (peaceful self) vigata-bhih (without fear) brahmachari-vrate sthitah (established in celibacy-vow)-controlling manas (mind), yukta (engaged) asita (should sit) mat-parah (Me as supreme goal). The trap: technique-fetishism divorced from devotion. Why this matters: The false path is mechanical meditation-perfecting technique without devotional consciousness, missing that Krishna as mat-parah (supreme goal) transforms practice from material to transcendental. Real understanding: Prerequisites-prashanta (peace), vigata-bhih (fearlessness), brahmacharya (celibacy), controlled mind-enable mat-parah (Me as supreme) meditation. Techniques serve devotional goal-meditation isn't impersonal mental training but Krishna-connection practice. Therefore infuse technique with devotion-don't separate meditation-mechanics from Krishna-focus, recognizing spiritual practice requires both proper method and devotional consciousness directing method toward Supreme Person.",
+      "feedback": "Prashanta-atma (peaceful self) vigata-bhih (without fear) brahmachari-vrate sthitah (established in celibacy-vow)-controlling manas (mind), yukta (engaged) asita (should sit) mat-parah (Me as supreme goal). Prerequisites-prashanta (peace), vigata-bhih (fearlessness), brahmacharya (celibacy), controlled mind-enable mat-parah meditation. Techniques serve devotional goal-meditation isn't impersonal training but Krsna-connection. Infuse technique with devotion, recognizing practice requires proper method and devotional consciousness.",
       "verseLabel": "BG 6.13-14",
       "verseUrl": "https://vedabase.io/en/library/bg/6/13/",
       "verdict": "Correct"
@@ -221,13 +221,13 @@
       "id": "bg6-q15",
       "prompt": "In the purport to BG 6.15, what false conception of yogic perfection does Srila Prabhupada address?",
       "choices": [
-        "That yogic perfection means developing eight mystic powers and siddhis for material benefit and gain",
-        "That perfection requires complete abandonment of all activity and all relationships with others",
+        "That yogic perfection means developing eight mystic powers and siddhis for material benefit",
+        "That perfection requires complete abandonment of all activity and all relationships with others permanently",
         "That yogic trance state alone without devotion guarantees spiritual liberation from material bondage",
-        "That perfection comes through physical exercises rather than consciousness purification and transformation"
+        "That perfection comes through physical exercises rather than consciousness purification"
       ],
       "correctIndex": 0,
-      "feedback": "Yunjann evam (thus engaging) atmanam (self) yogi niyata-manah (controlled mind) shantim (peace) nirvana-paramam (supreme liberation) mat-samstha (abiding in Me) attains. The trap: liberation as cessation. Why this matters: The false path is negative nirvana-understanding liberation as extinction/nothingness, missing positive reality of mat-samstha (abiding in Krishna). Real understanding: Shanti (peace) and nirvana-parama (supreme liberation) defined as mat-samstha (abiding in Me)-not impersonal void but personal relationship with Supreme. Liberation isn't cessation but connection-ending material existence for transcendental existence with Krishna. Therefore seek positive liberation-not nothingness but Krishna-relationship, redefining freedom from absence-of-bondage to presence-of-devotion, transforming liberation from negative to positive concept.",
+      "feedback": "Yunjann evam (thus engaging) atmanam (self) yogi niyata-manah (controlled mind) shantim (peace) nirvana-paramam (supreme liberation) mat-samstha (abiding in Me) attains. Why this matters: Shanti and nirvana-parama defined as mat-samstha (abiding in Krsna)-not impersonal void but personal relationship with Supreme. Liberation isn't cessation but connection-ending material existence for transcendental existence. Seek positive liberation-Krsna-relationship, redefining freedom from absence-of-bondage to presence-of-devotion.",
       "verseLabel": "BG 6.15",
       "verseUrl": "https://vedabase.io/en/library/bg/6/15/",
       "verdict": "Correct"
@@ -237,12 +237,12 @@
       "prompt": "In BG 6.16, what extremes prevent yoga practice from being successful?",
       "choices": [
         "Too much study or complete ignorance of scripture and teachings",
-        "Excessive or insufficient eating, sleeping, working, and taking recreation",
+        "Excessive or insufficient eating, sleeping, and recreation",
         "Too much solitude or constant social engagement with others",
         "Extreme asceticism or complete material indulgence in sense pleasure"
       ],
       "correctIndex": 1,
-      "feedback": "Na ati-ashnatas (not overeating) nor ati-svapnasya (oversleeping) yoga bhavati (becomes), nor ekantam (complete) anashnatah (fasting) nor jagratah (waking). The trap: extremism as spiritual authenticity. Why this matters: The false path is thinking austerity-intensity demonstrates spiritual seriousness-overfasting/undersleeping to prove dedication, missing balance requirement. Real understanding: Yoga requires yukta (balance) not ati (excess)-eating/sleeping/activity/rest all moderated. Neither over-indulgence (ati-ashnatas) nor over-restriction (ekantam anashnatas) supports practice. Extreme austerity appears impressive but undermines sustainability. Therefore practice moderate lifestyle-sufficient eating/sleeping enabling practice without excess/deficiency, recognizing spiritual life requires practical sustainability through balanced habits not impressive extremism producing burnout.",
+      "feedback": "Na ati-ashnatas (not overeating) nor ati-svapnasya (oversleeping) yoga bhavati (becomes), nor ekantam (complete) anashnatah (fasting) nor jagratah (waking). Yoga requires yukta (balance) not ati (excess)-eating/sleeping/activity/rest all moderated. Neither over-indulgence (ati-ashnatas) nor over-restriction (ekantam anashnatas) supports practice. Practice moderate lifestyle-sufficient eating/sleeping enabling practice without excess/deficiency, recognizing spiritual life requires practical sustainability through balanced habits not impressive extremism producing burnout.",
       "verseLabel": "BG 6.16",
       "verseUrl": "https://vedabase.io/en/library/bg/6/16/",
       "verdict": "Correct"
@@ -257,7 +257,7 @@
         "That regulated habits are less important than intensity of meditation"
       ],
       "correctIndex": 1,
-      "feedback": "Yuktahara-viharasya (balanced eating-recreation) yukta-ceshtasya (balanced activity) karma-su yukta-svapna-avabodhasya (balanced sleep-waking)-yoga becomes duhkha-ha (destroyer of suffering). The trap: spirituality requires lifestyle-deprivation. Why this matters: The false path is total material rejection-thinking spiritual advancement requires eliminating normal human needs, missing balance-principle enabling sustainable practice. Real understanding: Yukta (balanced) in all domains-eating/recreation/work/sleep-enables yoga destroying duhkha (suffering). Not ascetic deprivation but intelligent moderation-enjoying material necessities without excess. Sustainability through balance. Therefore maintain yukta-ahara-vihara-regulate material life intelligently supporting spiritual practice, avoiding both indulgent excess and ascetic deprivation, achieving sustainable spiritual lifestyle through moderation.",
+      "feedback": "Yuktahara-viharasya (balanced eating-recreation) yukta-ceshtasya (balanced activity) karma-su yukta-svapna-avabodhasya (balanced sleep-waking)-yoga becomes duhkha-ha (destroyer of suffering). Yukta (balanced) in all domains-eating/recreation/work/sleep-enables yoga destroying duhkha. Not ascetic deprivation but intelligent moderation-enjoying necessities without excess. Maintain yukta-ahara-vihara-regulate material life intelligently supporting spiritual practice, avoiding both indulgent excess and ascetic deprivation.",
       "verseLabel": "BG 6.16",
       "verseUrl": "https://vedabase.io/en/library/bg/6/16/",
       "verdict": "Correct"
@@ -272,7 +272,7 @@
         "Ability to remain absorbed in trance indefinitely"
       ],
       "correctIndex": 1,
-      "feedback": "When citta (consciousness) niruddham (controlled) sthitah (remains) atmani (in self) eva nispriha (without desires) from sarva-kamat (all material desires)-then yuktah (established) iti ucyate (is said). The trap: temporary meditation-success equals realization. Why this matters: The false path is mistaking meditative states for liberation-achieving temporary concentration and declaring victory, missing permanent transformation requirement. Real understanding: Yukta (established yogi) maintains consciousness sthita (steady) atmani (in self) nispriha (desireless) toward all kamat (desires)-not temporary concentration but stable realization. Occasional meditation-success differs from established transcendence. Therefore aim for stability-not impressive temporary states but consistent consciousness-quality persisting beyond formal practice, measuring progress by baseline consciousness-level not peak meditation-experiences.",
+      "feedback": "When citta (consciousness) niruddham (controlled) sthitah (remains) atmani (in self) eva nispriha (without desires) from sarva-kamat (all material desires)-then yuktah (established) iti ucyate (is said). Yukta (established yogi) maintains consciousness sthita (steady) atmani nispriha (desireless) toward all kamat-not temporary concentration but stable realization. Occasional meditation-success differs from established transcendence. Aim for stability-consistent consciousness-quality persisting beyond formal practice.",
       "verseLabel": "BG 6.17",
       "verseUrl": "https://vedabase.io/en/library/bg/6/17/",
       "verdict": "Correct"
@@ -287,7 +287,7 @@
         "That modern people lack the genetic capacity for traditional meditation"
       ],
       "correctIndex": 1,
-      "feedback": "Yatha dipo nivata-sthah (as lamp in windless place) na ingate (doesn't flicker)-yoga-yukta (engaged yogi) whose citta (consciousness) controlled practicing atma-yoga (self-meditation). The trap: restless practice equals sincere effort. Why this matters: The false path is accepting meditation-turbulence as normal-mind wandering constantly yet continuing mechanically, missing that steadiness indicates actual progress. Real understanding: Controlled consciousness like lamp in windless place-steady unflickering focus. Metaphor indicates stability-quality not intensity-quantity. Restless struggling differs from steady focus-former indicates insufficient preparation, latter indicates ripening practice. Therefore cultivate steadiness-patient consistent practice developing natural stability, not frantic effort producing temporary concentration followed by collapse, measuring meditation-quality by steadiness not intensity.",
+      "feedback": "Yatha dipo nivata-sthah (as lamp in windless place) na ingate (doesn't flicker)-yoga-yukta (engaged yogi) whose citta (consciousness) controlled practicing atma-yoga (self-meditation). Controlled consciousness like lamp in windless place-steady unflickering focus indicating stability-quality not intensity-quantity. Restless struggling differs from steady focus-former indicates insufficient preparation, latter indicates ripening practice. Cultivate steadiness-patient consistent practice developing natural stability, measuring meditation-quality by steadiness not intensity.",
       "verseLabel": "BG 6.18-19",
       "verseUrl": "https://vedabase.io/en/library/bg/6/18/",
       "verdict": "Correct"
@@ -296,13 +296,13 @@
       "id": "bg6-q20",
       "prompt": "According to BG 6.20-21, how does the perfected yogi experience happiness?",
       "choices": [
-        "Through continued but purified engagement with material sense objects",
+        "Through continued but purified engagement with material sense objects and experiences",
         "In transcendental bliss beyond the senses, perceived through purified intelligence",
         "By remembering past material enjoyments from a detached perspective",
         "Through complete unconsciousness and absence of all perception"
       ],
       "correctIndex": 1,
-      "feedback": "Where citta niruddham (consciousness controlled) yoga-sevatah (through yoga-practice)-where atmanam atmana pashyan (seeing self through self) atmani (in self) tushyati (is satisfied). The trap: external validation defines spiritual success. Why this matters: The false path is measuring advancement through others' recognition-seeking approval/status/reputation, missing self-validation from direct self-realization. Real understanding: Atmana pashyan atmanam (seeing self through self)-self validating through self-perception not external feedback. Atmani tushyati (satisfied in self)-fulfillment from inner realization not outer recognition. This internalization removes spiritual politics. Therefore cultivate self-validation-measure advancement through direct self-perception of consciousness-quality, not through external markers (titles/positions/followers), achieving independence from social validation even within spiritual community.",
+      "feedback": "Where citta niruddham (consciousness controlled) yoga-sevatah (through yoga-practice)-where atmanam atmana pashyan (seeing self through self) atmani (in self) tushyati (is satisfied). Why this matters: Atmana pashyan atmanam-self validating through self-perception not external feedback, achieving fulfillment from inner realization. This removes spiritual politics. Cultivate self-validation-measure advancement through direct self-perception, not external markers (titles/positions/followers), achieving independence from social validation.",
       "verseLabel": "BG 6.20-21",
       "verseUrl": "https://vedabase.io/en/library/bg/6/20/",
       "verdict": "Correct"
@@ -317,7 +317,7 @@
         "Thinking happiness comes through suppression of all desires"
       ],
       "correctIndex": 1,
-      "feedback": "Sukham atantikam (unlimited happiness) that buddhi-grahyam (intelligence grasps) atindriyam (beyond senses)-established knowing this na chalati (doesn't deviate) from tattvatah (from truth). The trap: sense-based happiness pursuit within spirituality. Why this matters: The false path is seeking pleasant sensory experiences through spiritual practice-sublime feelings/visions/experiences-remaining on indriya (sense) platform though religiously. Real understanding: Atindriyas sukham (transcendental happiness) buddhi-grahyam (grasped by purified intelligence)-beyond sense-perception. Atantikam (unlimited/permanent) versus indriya-sukham (sense-based pleasure) which is anta-vantam (limited/temporary). Established in this tattvatah (truth) na chalati (doesn't waver). Therefore transcend spiritual hedonism-seeking permanent transcendental realization not temporary sublime experiences, elevating spiritual aspiration beyond subtle sense-gratification to actual transcendence.",
+      "feedback": "Sukham atantikam (unlimited happiness) that buddhi-grahyam (intelligence grasps) atindriyam (beyond senses)-established knowing this na chalati (doesn't deviate) from tattvatah (from truth). Atindriyas sukham (transcendental happiness) buddhi-grahyam (grasped by purified intelligence) beyond sense-perception. Atantikam (unlimited/permanent) versus indriya-sukham (sense-based pleasure) which is anta-vantam (limited/temporary). Transcend spiritual hedonism-seeking permanent transcendental realization not temporary sublime experiences.",
       "verseLabel": "BG 6.20-23",
       "verseUrl": "https://vedabase.io/en/library/bg/6/20/",
       "verdict": "Correct"
@@ -327,12 +327,12 @@
       "prompt": "According to BG 6.24, what must accompany yoga practice for it to succeed?",
       "choices": [
         "Natural talent and favorable birth in a spiritually advanced family",
-        "Uncompromising determination and complete mental renunciation of desires born of speculation",
+        "Uncompromising determination and complete mental renunciation of desires",
         "Supernatural faith and belief in miraculous divine intervention without effort",
         "Advanced intellectual understanding of all yogic philosophy and techniques"
       ],
       "correctIndex": 1,
-      "feedback": "Gaining which na aparam (no other) gain considers punyasam (greater)-established in which na duhkhena guruna api (not by heavy sorrow) vicalyate (is shaken). The trap: conditional spiritual commitment. Why this matters: The false path is commitment contingent on favorable circumstances-practicing when convenient, abandoning when difficult-missing unwavering establishment requirement. Real understanding: Having gained Krishna-connection considers it param labham (supreme gain)-nothing superior exists. Therefore na vicalyate (unshaken) guruna duhkhena api (even by heavy sorrow)-commitment persists through adversity. This unconditional dedication distinguishes authentic from superficial spirituality. Therefore develop unwavering commitment-establish Krishna-connection as non-negotiable life-priority maintained through favorable/unfavorable circumstances equally, testing spiritual maturity through adversity-persistence not prosperity-enthusiasm.",
+      "feedback": "Gaining which na aparam (no other) gain considers punyasam (greater)-established in which na duhkhena guruna api (not by heavy sorrow) vicalyate (is shaken). Having gained Krsna-connection considers it param labham (supreme gain)-nothing superior exists. Na vicalyate (unshaken) guruna duhkhena api-commitment persists through adversity. Develop unwavering commitment-establish Krsna-connection as non-negotiable life-priority maintained through favorable/unfavorable circumstances equally, testing spiritual maturity through adversity-persistence not prosperity-enthusiasm.",
       "verseLabel": "BG 6.24",
       "verseUrl": "https://vedabase.io/en/library/bg/6/24/",
       "verdict": "Correct"
@@ -347,7 +347,7 @@
         "That the mind remains perpetually uncontrollable in the material world"
       ],
       "correctIndex": 1,
-      "feedback": "Duhkha-samyoga-viyogam (severing sorrow-connection) yoga-samjnita (called yoga)-practice with nishcayena (determination) yoga without sannyasa vishada (abandoning sad-heartedness). The trap: spiritual passivity or emotionalism. Why this matters: The false path is either mechanical practice without conviction or emotion-driven inconsistency-both missing nishcayena (determined/decisive) requirement. Real understanding: Yoga defined as duhkha-samyoga-viyoga (disconnecting from suffering)-requires nishcayena (firm determination) without vishada (sad-heartedness/depression). Not grim determination but joyful resolve-enthusiasm without emotionalism. Therefore cultivate determined consistency-neither passive compliance nor emotional fluctuation, maintaining steady committed practice through clear conviction producing sustainable spiritual momentum.",
+      "feedback": "Duhkha-samyoga-viyogam (severing sorrow-connection) yoga-samjnita (called yoga)-practice with nishcayena (determination) yoga without sannyasa vishada (abandoning sad-heartedness). Yoga defined as duhkha-samyoga-viyoga-requires nishcayena (firm determination) without vishada (sad-heartedness/depression). Not grim determination but joyful resolve-enthusiasm without emotionalism. Cultivate determined consistency-neither passive compliance nor emotional fluctuation, maintaining steady committed practice through clear conviction.",
       "verseLabel": "BG 6.25",
       "verseUrl": "https://vedabase.io/en/library/bg/6/25/",
       "verdict": "Correct"
@@ -362,7 +362,7 @@
         "Analyze carefully why the mind wandered to prevent all future occurrences"
       ],
       "correctIndex": 1,
-      "feedback": "Sankalpa-prabhavan kaman (desires born from sankalpa-mental formations) tyaktva sarvan (abandoning all) asheshatah (completely)-restraining indriya-gramam (sense-group) manasa (by mind) from sarvatah (all sides). The trap: suppression without transformation. Why this matters: The false path is external control while desires persist-restraining behavior without addressing root sankalpa (mental formations), producing forced compliance not genuine transcendence. Real understanding: Address sankalpa-prabhavan (desire-source)-mental formations generating desires-not just controlling expressions. Tyaktva sarvan asheshtah (abandon completely without remainder)-thorough not superficial. Manasa (through mind) control indriya-gramam (sense-group)-mind-level work enabling sense-level control. Therefore work at root-level-transform sankalpa (mental formations) generating desires, not just restrain indriyas (senses) expressing desires, achieving genuine transformation not forced suppression.",
+      "feedback": "Sankalpa-prabhavan kaman (desires born from sankalpa-mental formations) tyaktva sarvan (abandoning all) asheshatah (completely)-restraining indriya-gramam (sense-group) manasa (by mind) from sarvatah (all sides). Address sankalpa-prabhavan (desire-source)-mental formations generating desires-not just controlling expressions. Tyaktva sarvan asheshtah-thorough not superficial. Manasa control indriya-gramam-mind-level work enabling sense-level control. Work at root-level-transform sankalpa generating desires, not just restrain indriyas expressing desires.",
       "verseLabel": "BG 6.26",
       "verseUrl": "https://vedabase.io/en/library/bg/6/26/",
       "verdict": "Correct"
@@ -377,7 +377,7 @@
         "Understanding the ultimate illusion of all individual existence in matter"
       ],
       "correctIndex": 1,
-      "feedback": "Shanai-shanai (gradually) uparamet (should cease) buddhi-dhrita-grihtaya (by intelligence held firmly)-fixing manas (mind) on atman (self) na kinchit api cintayet (should think nothing else). The trap: instant enlightenment expectation. Why this matters: The false path is expecting immediate transformation-demanding instant liberation producing frustration when progress is gradual, missing patience requirement. Real understanding: Shanai-shanai (gradually/slowly) approach-reasonable expectations preventing discouragement. Buddhi-dhrita (firmly grasped intelligence) guiding process-patient intelligent progression. Uparamet (cessation of material engagement) happens progressively not instantly. Therefore accept gradual development-measure progress over months/years not days/weeks, maintaining patient consistent practice without frustration from immediate-result expectations, trusting process over time.",
+      "feedback": "Shanai-shanai (gradually) uparamet (should cease) buddhi-dhrita-grihtaya (by intelligence held firmly)-fixing manas (mind) on atman (self) na kinchit api cintayet (should think nothing else). Shanai-shanai (gradually/slowly) approach-reasonable expectations preventing discouragement. Buddhi-dhrita (firmly grasped intelligence) guiding process through patient intelligent progression. Accept gradual development-measure progress over months/years not days/weeks, maintaining patient consistent practice without frustration from immediate-result expectations, trusting process over time.",
       "verseLabel": "BG 6.30-32",
       "verseUrl": "https://vedabase.io/en/library/bg/6/30/",
       "verdict": "Correct"

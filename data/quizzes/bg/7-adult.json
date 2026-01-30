@@ -264,17 +264,17 @@
     },
     {
       "id": "bg7-q18",
-      "prompt": "In BG 7.18-19, who are truly wise according to Krishna?",
+      "prompt": "According to BG 7.17, who is most dear to Krishna among devotees?",
       "choices": [
         "The learned scholars who understand through speculative material processes",
-        "After many births, wise know me as everything that is",
+        "The wise serving Him with single-pointed devotion",
         "Material scholars are wisest who study through speculative processes",
         "No one is truly wise who relies on speculative material processes"
       ],
       "correctIndex": 1,
       "feedback": "All four devotee-types (arta/artharthi/jijnasu/jnani) are udara (noble), but jnani is atmaiva (My very self)-most dear. The trap: equal-value relativism among devotees. Why this matters: The false path is treating all devotional motivations equally-missing progressive hierarchy from material distress-relief through enlightenment-seeking to pure love. Real understanding: All four types noble-distressed, materially desirous, curious, wise-but jnani in pure love is atmaiva Me iti (My very self). Qualitative progression-begin with material motives, gradually purify to unmotivated devotion. Jnani prioritized not from favoritism but from love-quality. Therefore aim for jnana-bhakti-appreciate all devotional beginning-points while aspiring toward unmotivated pure love, recognizing spiritual path's developmental nature from mixed to pure motivation.",
-      "verseLabel": "BG 7.18",
-      "verseUrl": "https://vedabase.io/en/library/bg/7/18/",
+      "verseLabel": "BG 7.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/7/17/",
       "verdict": "Correct"
     },
     {
@@ -294,17 +294,17 @@
     },
     {
       "id": "bg7-q20",
-      "prompt": "According to BG 7.21, what happens when Krishna grants desires to other deities' worshippers?",
+      "prompt": "According to BG 7.20, why do people worship demigods?",
       "choices": [
         "Krishna denies them completely through speculative material processes only",
-        "I grant desires, but they eventually return to material world",
+        "Their knowledge stolen by desires, they worship other deities",
         "They achieve complete liberation through speculative material processes entirely",
         "They prosper forever eternally through speculative material processes constantly"
       ],
       "correctIndex": 1,
       "feedback": "Kamais tais taih (by various desires) hrita-jnanah (stolen knowledge)-worship anya-devatah (other gods) adopting various practices by svabhava (own nature). The trap: polytheistic tolerance. Why this matters: The false path is religious relativism-'all paths equally valid'-missing that desire-driven demigod-worship indicates hrita-jnana (stolen knowledge) not spiritual advancement. Real understanding: Those whose jnana (knowledge) hrita (stolen) by various kamais (desires) worship other deities-not respecting diversity but diagnosing distortion. Desire-motivation reveals knowledge-absence despite religious forms. Therefore discriminate motivation-devotion to Krishna versus demigods differs in consciousness-quality not just ritual-forms, kamya-karma (desire-motivated worship) indicating spiritual immaturity regardless of deity worshiped.",
-      "verseLabel": "BG 7.21",
-      "verseUrl": "https://vedabase.io/en/library/bg/7/21/",
+      "verseLabel": "BG 7.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/7/20/",
       "verdict": "Correct"
     },
     {
@@ -339,32 +339,32 @@
     },
     {
       "id": "bg7-q23",
-      "prompt": "According to BG 7.25, why do foolish people mistake Krishna for a mortal?",
+      "prompt": "According to BG 7.23, what is the result of worshiping demigods?",
       "choices": [
         "It is obvious Krishna is mortal being",
-        "They cannot understand my transcendental divine nature",
+        "Limited fruit - they reach demigod worlds, but Krishna's devotees reach Him",
         "Everyone knows Krishna's nature through material processes",
         "This does not happen through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Antavat tu phalam (limited fruit) tesham (of them)-worship demigods leads to their worlds, but My devotees come to Me. The trap: result-equivalence among religions. Why this matters: The false path is outcome-agnosticism-assuming all worship yields same destination, missing that deity determines destination-quality. Real understanding: Demigod-worshipers reach deva-lokas (temporary heavenly planets) with antavat phalam (limited results)-returns to material cycle. Krishna's devotees reach Him-permanent liberation. Therefore recognize destination-difference-not all worship equally efficacious, deity-choice determines outcome-quality, Krishna-worship alone transcending material rebirth-cycle while demigod-worship yielding temporary elevation within material existence.",
-      "verseLabel": "BG 7.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/7/25/",
+      "verseLabel": "BG 7.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/7/23/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q24",
-      "prompt": "How does the progression from distressed/desiring devotees (BG 7.16) to wise devotees (7.17-19) illustrate the purification of motivation in spiritual life?",
+      "prompt": "According to BG 7.24, what mistake do foolish people make about Krishna?",
       "choices": [
         "All devotees must start with pure love; those with material desires are disqualified completely",
-        "Material motivation gradually purifies through devotional contact until one recognizes Krishna as everything",
+        "They think the unmanifest has become manifest, not understanding His supreme imperishable nature",
         "The four types of devotees remain forever separate with no possibility of advancement",
         "Only philosophical study without devotional practice can transform material into spiritual understanding"
       ],
       "correctIndex": 1,
       "feedback": "Avyaktam (unmanifest) vyaktim (manifest) apanna manyante (think attained)-mudha (foolish) don't know param (supreme) avyayam (imperishable) bhava (nature). The trap: avatara as ordinary incarnation. Why this matters: The false path is reducing Krishna's appearance to material birth-soul entering body, subject to birth-death like ordinary beings, missing transcendental nature. Real understanding: Mudhah (foolish) think avyaktam (unmanifest/impersonal) vyaktim apannam (has become manifest/personal)-that formless becomes formed through material manifestation. Don't understand param avyayam bhavam (supreme imperishable nature)-Krishna eternally possesses transcendental form not acquired through material birth. Therefore recognize Krishna's eternal form-not that formless becomes formed but that transcendental form appears/disappears in material vision, preserving divinity against Mayavada reduction.",
-      "verseLabel": "BG 7.16-19",
-      "verseUrl": "https://vedabase.io/en/library/bg/7/16/",
+      "verseLabel": "BG 7.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/7/24/",
       "verdict": "Correct"
     },
     {

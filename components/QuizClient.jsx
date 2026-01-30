@@ -354,7 +354,7 @@ export default function QuizClient({ quiz }) {
     <div style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       <h1 
         style={{ 
-          fontSize: 16, 
+          fontSize: 24, 
           marginBottom: 6,
           lineHeight: 1.4,
           wordBreak: "break-word"
@@ -373,7 +373,7 @@ export default function QuizClient({ quiz }) {
         }
         @media (max-width: 600px) {
           .quiz-title {
-            font-size: 15px !important;
+            font-size: 20px !important;
           }
         }
       `}</style>

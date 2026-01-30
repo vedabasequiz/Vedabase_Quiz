@@ -11,28 +11,28 @@
       "id": "bg15-q1",
       "prompt": "In BG 15.1, what does Krishna compare to a tree?",
       "choices": [
-        "A forest and worldly philosophical speculation",
-        "The material world; with roots above and branches below",
-        "A flower and worldly philosophical speculation",
-        "A mountain and worldly philosophical speculation"
+        "A forest represents worldly philosophical speculation",
+        "Material world with roots above branches below",
+        "A flower represents worldly philosophical speculation",
+        "Mountain clearly represents worldly philosophical speculation"
       ],
       "correctIndex": 1,
-      "feedback": "The cosmos is structured like an inverted tree rooted in Krishna.",
+      "feedback": "The banyan tree with roots upward and branches downward represents the material world rooted in the spiritual reality. The trap: thinking material existence is the foundation of reality. Why this matters: Understanding the inverted tree metaphor prevents the materialistic error of thinking this world is self-sufficient. Real wisdom recognizes material manifestation depends on spiritual source, not vice versa.",
       "verseLabel": "BG 15.1",
       "verseUrl": "https://vedabase.io/en/library/bg/15/1/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q2",
-      "prompt": "According to BG 15.2, what are the characteristics of this cosmic tree?",
+      "prompt": "In the purport to BG 15.2, what false understanding does Srila Prabhupada warn against regarding the cosmic tree?",
       "choices": [
-        "It is simple through independent material processes",
-        "Its roots are above",
-        "No roots exist through independent material processes",
-        "It is flat through independent material processes"
+        "That material existence operates autonomously without dependence on spiritual reality above",
+        "That understanding the banyan tree's structure requires complex philosophical speculation alone",
+        "That the roots above indicate inverted biology rather than metaphysical dependency",
+        "That the cosmic tree metaphor is merely poetic imagery without practical application"
       ],
-      "correctIndex": 1,
-      "feedback": "The Vedas describe the cosmic tree's structure and significance.",
+      "correctIndex": 0,
+      "feedback": "Srila Prabhupada explains that the cosmic tree's roots extend upward into spiritual reality, revealing material existence depends entirely on transcendental source. The trap: thinking the material world is self-sustaining and independent. Why this matters: The false path is materialism posing as realism. Real understanding recognizes that visible material branches draw sustenance from invisible spiritual roots-Krishna as ultimate foundation.",
       "verseLabel": "BG 15.2",
       "verseUrl": "https://vedabase.io/en/library/bg/15/2/",
       "verdict": "Correct"
@@ -41,28 +41,28 @@
       "id": "bg15-q3",
       "prompt": "In BG 15.3, what prevents one from seeing the cosmic tree truly?",
       "choices": [
-        "Ignorance alone and worldly philosophical speculation",
+        "Ignorance alone and worldly philosophical speculation entirely",
         "Neither its beginning, middle, nor end is perceived",
         "It is visible easily through independent material processes",
         "No obstacles exist through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "Material conditioning obscures the true nature of cosmic reality.",
+      "feedback": "The form of the banyan tree cannot be understood in this world-neither its beginning, middle, nor end. The trap: thinking sensory perception alone reveals reality's structure. Why this matters: Material consciousness limits vision to branches (effects) while missing roots (cause). Real understanding requires transcendental perspective to see how temporary manifestation connects to eternal source.",
       "verseLabel": "BG 15.3",
       "verseUrl": "https://vedabase.io/en/library/bg/15/3/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q4",
-      "prompt": "What does BG 15.4 teach about the path to the cosmic tree?",
+      "prompt": "In the purport to BG 15.4, what false path does Srila Prabhupada address about material attachment?",
       "choices": [
-        "Combat it and worldly philosophical speculation",
-        "One must seek the source with strong conviction",
-        "Ignore it and worldly philosophical speculation",
-        "Worship it and worldly philosophical speculation"
+        "That material attachment is natural and detachment creates psychological harm definitely",
+        "Must cut down tree with detachment weapon seeking source Krishna",
+        "That attachment to material relationships demonstrates evolved emotional intelligence naturally",
+        "That gradual moderation of desires is sufficient without complete renunciation"
       ],
       "correctIndex": 1,
-      "feedback": "Detachment and knowledge are the axe to sever material attachment.",
+      "feedback": "Srila Prabhupada explains that material attachment must be severed with the weapon of detachment, then one must seek that place from which, having gone, one never returns. The trap: romanticizing material bonds as spiritually meaningful. Why this matters: The false path treats attachment as healthy when it actually binds consciousness to temporary manifestation. Real liberation requires cutting entanglement decisively through devotion.",
       "verseLabel": "BG 15.4",
       "verseUrl": "https://vedabase.io/en/library/bg/15/4/",
       "verdict": "Correct"
@@ -71,43 +71,43 @@
       "id": "bg15-q5",
       "prompt": "According to BG 15.5, what characterizes those free from delusion?",
       "choices": [
-        "Knowledge of physical phenomena and external forms",
-        "Freed from pride, delusion, attachment desire",
-        "Desires grow and worldly philosophical speculation",
-        "Confusion increases and worldly philosophical speculation"
+        "Knowledge of physical phenomena and external material forms",
+        "Freed from pride delusion attachment strong desire",
+        "Desires grow continuously and worldly philosophical speculation increases",
+        "Confusion increases steadily and worldly philosophical speculation"
       ],
       "correctIndex": 1,
-      "feedback": "Freedom from illusion leads to the ultimate destination.",
+      "feedback": "Those free from false pride, illusion, and attachment (nirmana-moha jita-sanga-dosha) reach the eternal abode. The trap: thinking pride in accomplishment or attachment to relationships is natural. Why this matters: The false path justifies false ego and material bonds. Real qualification for spiritual realm requires freedom from identification with temporary designations and absorption in eternal Krishna consciousness.",
       "verseLabel": "BG 15.5",
       "verseUrl": "https://vedabase.io/en/library/bg/15/5/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q6",
-      "prompt": "In BG 15.6, what is the nature of the eternal abode?",
+      "prompt": "In the purport to BG 15.6, what false conception does Srila Prabhupada address about spiritual illumination?",
       "choices": [
-        "Material and temporary through independent material processes",
-        "The place where I dwell",
-        "Changing constantly and worldly philosophical speculation",
-        "Destructible and worldly philosophical speculation"
+        "That the spiritual world is self-luminous requiring no external light source",
+        "That Krishna abode is illuminated by His effulgence not sun moon",
+        "That spiritual realm needs artificial lighting like material universe",
+        "That enlightenment means intellectual understanding without devotional realization of Krishna"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna's realm is eternal and permanent, beyond material change.",
+      "feedback": "Srila Prabhupada explains that in Krishna's abode, there is no need for sun, moon, fire, or electricity-it is self-luminous. The trap: thinking spiritual realm requires external illumination like material world. Why this matters: The false path projects material limitations onto spiritual reality. Real understanding recognizes the spiritual world as self-effulgent through Krishna's own radiance, not dependent on created light.",
       "verseLabel": "BG 15.6",
       "verseUrl": "https://vedabase.io/en/library/bg/15/6/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q7",
-      "prompt": "What does BG 15.7 teach about the living beings in the material world?",
+      "prompt": "In the purport to BG 15.7, what false understanding does Srila Prabhupada warn against regarding the soul's nature?",
       "choices": [
-        "They are permanent through independent material processes",
-        "They are fragments of me",
-        "They are independent through independent material processes",
-        "They are matter primarily through independent material processes"
+        "That individual souls are completely independent entities requiring no God",
+        "That living beings are eternal fragmental parts Krishna struggling senses",
+        "That soul gradually evolves into God through spiritual advancement lifetimes",
+        "That consciousness emerges from material combinations rather than individual soul"
       ],
       "correctIndex": 1,
-      "feedback": "All jivas (souls) are integral parts of Krishna's supreme existence.",
+      "feedback": "Srila Prabhupada explains that living entities are eternal fragmental parts (sanatana amsa) of Krishna, not independent or equal to Him. The trap: thinking souls are autonomous or will merge into God. Why this matters: The false path is impersonalism or autonomy fantasies. Real understanding recognizes eternal individual identity as Krishna's parts, dependent yet distinct, struggling in matter but belonging to spirit.",
       "verseLabel": "BG 15.7",
       "verseUrl": "https://vedabase.io/en/library/bg/15/7/",
       "verdict": "Correct"
@@ -116,13 +116,13 @@
       "id": "bg15-q8",
       "prompt": "According to BG 15.8, what are the senses controlled by?",
       "choices": [
-        "minimal controls them through independent material processes",
+        "minimal controls them through independent material processes only",
         "The living being is controlled by mind",
-        "Senses are master through independent material processes",
-        "Mind is independent through independent material processes"
+        "Senses are master controlling through independent material processes",
+        "Mind is independent operating through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "The hierarchy of control flows from consciousness to mind to senses.",
+      "feedback": "The living entity accepts and gives up bodies, carrying conceptions from one body to another like air carrying aromas. The trap: thinking the self is the body or that death means cessation. Why this matters: The false path is materialism denying soul's continuity. Real understanding recognizes the subtle body (mind, intelligence, ego) as vehicle carrying consciousness through transmigration, controlled by the eternal soul under karma's law.",
       "verseLabel": "BG 15.8",
       "verseUrl": "https://vedabase.io/en/library/bg/15/8/",
       "verdict": "Correct"
@@ -131,43 +131,43 @@
       "id": "bg15-q9",
       "prompt": "In BG 15.9, what happens to the living being at death?",
       "choices": [
-        "minimal happens and worldly philosophical speculation",
+        "minimal happens entirely and worldly philosophical speculation only",
         "The living being departs with mind and senses",
-        "primarily body changes through independent material processes",
-        "Consciousness remains static through independent material processes"
+        "primarily body changes through independent material processes only",
+        "Consciousness remains static through independent material processes entirely"
       ],
       "correctIndex": 1,
-      "feedback": "The soul carries impressions and consciousness to its next birth.",
+      "feedback": "The living entity departs with mind and senses, carrying subtle impressions (ear, eye, tongue, nose, touch, and mind) to the next body. The trap: thinking death is final or that personality is destroyed. Why this matters: The false path is annihilationism. Real understanding recognizes transmigration as continuity of consciousness, with subtle body preserving identity and desires across births until liberation through Krishna consciousness.",
       "verseLabel": "BG 15.9",
       "verseUrl": "https://vedabase.io/en/library/bg/15/9/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q10",
-      "prompt": "What does BG 15.10 teach about what the embodied soul obtains?",
+      "prompt": "In the purport to BG 15.10, what false understanding does Srila Prabhupada address about rebirth?",
       "choices": [
-        "minimal obtains and worldly philosophical speculation",
-        "Obtains a body suitable to his consciousness",
-        "Body is permanent through independent material processes",
-        "Actions do not affect through independent material processes"
+        "That birth circumstances are random chance unrelated to consciousness",
+        "One obtains body according to mode of nature at death time",
+        "That genetic inheritance alone determines physical and mental characteristics",
+        "That social conditions rather than consciousness determine birth destination entirely"
       ],
       "correctIndex": 1,
-      "feedback": "The quality of one's consciousness determines one's next birth.",
+      "feedback": "Srila Prabhupada explains that consciousness at death determines next birth-those in goodness go higher, passion stay middle, ignorance go lower. The trap: thinking birth is accident or merely genetics. Why this matters: The false path is materialism denying karmic causation. Real understanding recognizes modal consciousness shapes rebirth, making present thought-quality literally life-determining.",
       "verseLabel": "BG 15.10",
       "verseUrl": "https://vedabase.io/en/library/bg/15/10/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q11",
-      "prompt": "According to BG 15.11-12, how can one perceive the Almighty?",
+      "prompt": "According to BG 15.11-12, how does one perceive the Supreme?",
       "choices": [
-        "It is impossible through independent material processes",
-        "Yogis who discipline mind and senses can perceive the Lord within",
-        "Everyone perceives and worldly philosophical speculation",
-        "No effort is needed through independent material processes"
+        "It is completely impossible through any independent material processes whatsoever",
+        "Yogis who discipline mind senses can perceive Lord within",
+        "Everyone perceives Him automatically without any effort whatsoever naturally",
+        "No effort needed perception comes spontaneously naturally always"
       ],
       "correctIndex": 1,
-      "feedback": "Disciplined practice enables direct perception of the Divine.",
+      "feedback": "The endeavoring transcendentalists (yatanto yoginah) who are cleansed see the Supersoul within, but those without spiritual discipline cannot. The trap: thinking spiritual perception requires no qualification. Why this matters: The false path is expecting automatic enlightenment. Real perception requires purification through yoga practice-mind control and sense discipline enable direct experience of Krishna within.",
       "verseLabel": "BG 15.11",
       "verseUrl": "https://vedabase.io/en/library/bg/15/11/",
       "verdict": "Correct"
@@ -176,28 +176,28 @@
       "id": "bg15-q12",
       "prompt": "In BG 15.13, what does Krishna declare about His nature?",
       "choices": [
-        "I am limited through independent material processes",
+        "I am limited entirely through independent material processes",
         "I support every with one portion of myself",
-        "I am distant through independent material processes",
+        "I am distant entirely through independent material processes",
         "I depend on others through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna sustains the entire cosmos with a minute fraction of His potency.",
+      "feedback": "Krishna enters the earth supporting all beings, and entering the moon He nourishes all plants with His energy. The trap: thinking nature operates independently without conscious controller. Why this matters: The false path is naturalism divorcing effects from cause. Real understanding recognizes Krishna as immanent sustainer-gravity, photosynthesis, digestion all operate through His direct potency, not blind mechanism.",
       "verseLabel": "BG 15.13",
       "verseUrl": "https://vedabase.io/en/library/bg/15/13/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q13",
-      "prompt": "What does BG 15.14 teach about the source of energy and light?",
+      "prompt": "In the purport to BG 15.14, what false conception does Srila Prabhupada address about digestive fire?",
       "choices": [
-        "Matter is independent through independent material processes",
-        "I am the source of every light",
-        "No source exists through independent material processes",
-        "Light is self-created through independent material processes"
+        "That digestion is purely mechanical chemical process requiring no conscious controller",
+        "That Krishna as Vaisvanara fire digests all kinds of foods",
+        "That stomach operates autonomously through evolved biological mechanisms alone definitely",
+        "That diet alone determines health without any transcendental factor involved"
       ],
       "correctIndex": 1,
-      "feedback": "All energy in the universe flows from Krishna's supreme potency.",
+      "feedback": "Srila Prabhupada explains Krishna as Vaisvanara (digestive fire) enables digestion of all foods through His presence. The trap: reducing bodily functions to chemistry alone. Why this matters: The false path is mechanistic biology ignoring conscious source. Real understanding recognizes even mundane digestion operates through Krishna's immanent potency-nothing functions independent of supreme controller.",
       "verseLabel": "BG 15.14",
       "verseUrl": "https://vedabase.io/en/library/bg/15/14/",
       "verdict": "Correct"
@@ -206,28 +206,28 @@
       "id": "bg15-q14",
       "prompt": "According to BG 15.15, what is Krishna's role in the body and soul?",
       "choices": [
-        "He is absent through independent material processes",
-        "I am seated in everyone's heart",
-        "He is distant through independent material processes",
+        "He is absent entirely through independent material processes",
+        "I am seated actively in everyones heart within",
+        "He is distant entirely separated through independent material processes",
         "He does not interfere through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna directs consciousness and controls memory in all beings.",
+      "feedback": "Krishna sits in everyone's heart as Paramatma (Supersoul), directing remembrance, knowledge, and forgetfulness. The trap: thinking consciousness is generated by brain or operates independently. Why this matters: The false path is reductive materialism. Real understanding recognizes thoughts, memories, intelligence all flow from indwelling Supersoul-cognition itself depends on Krishna's sanction as witness and controller within.",
       "verseLabel": "BG 15.15",
       "verseUrl": "https://vedabase.io/en/library/bg/15/15/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q15",
-      "prompt": "In BG 15.16, what are the two aspects of existence Krishna describes?",
+      "prompt": "In the purport to BG 15.16, what false philosophy does Srila Prabhupada warn against?",
       "choices": [
-        "primarily one exists through independent material processes",
-        "The perishable (matter) and the imperishable (soul); both exist",
-        "The soul is mortal through independent material processes",
-        "Matter is eternal through independent material processes"
+        "That matter and spirit are equally important and balanced",
+        "That perishable and imperishable have distinct natures not confused",
+        "That material and spiritual realities are equivalent manifestations of same substance",
+        "That dualism is outdated and enlightenment means transcending all distinctions"
       ],
       "correctIndex": 1,
-      "feedback": "Existence comprises both temporary material and eternal spiritual aspects.",
+      "feedback": "Srila Prabhupada explains kshara (perishable material body) and akshara (imperishable soul) are fundamentally different-bodies decay, souls remain eternal. The trap: conflating temporary and permanent through fuzzy non-dualism. Why this matters: The false path is monism erasing real distinctions. Authentic understanding maintains clear ontological separation while recognizing Krishna as source of both-matter changes, spirit doesn't.",
       "verseLabel": "BG 15.16",
       "verseUrl": "https://vedabase.io/en/library/bg/15/16/",
       "verdict": "Correct"
@@ -236,13 +236,13 @@
       "id": "bg15-q16",
       "prompt": "What does BG 15.17 teach about the Supreme Person?",
       "choices": [
-        "He is mortal through independent material processes",
+        "He is mortal entirely through independent material processes",
         "Beyond the perishable and imperishable supreme; known as Paramatma",
-        "He is material through independent material processes",
-        "He is temporary through independent material processes"
+        "He is material entirely through independent material processes",
+        "He is temporary entirely through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna is the ultimate source beyond all dualities and conditions.",
+      "feedback": "There is a purushottama beyond both kshara (perishable) and akshara (imperishable)-the Supreme Person who enters and sustains all worlds. The trap: stopping at soul realization without recognizing the Supreme Soul. Why this matters: The false path is impersonalism thinking Brahman is ultimate. Real completion recognizes Bhagavan as source of both matter and spirit-Purushottama Krishna transcends all categories.",
       "verseLabel": "BG 15.17",
       "verseUrl": "https://vedabase.io/en/library/bg/15/17/",
       "verdict": "Correct"
@@ -251,28 +251,28 @@
       "id": "bg15-q17",
       "prompt": "According to BG 15.18, who is the greatest and most worshipable?",
       "choices": [
-        "The strong and worldly philosophical speculation",
-        "One who knows me as the Supreme Self is my devotee and worships rightly",
-        "The powerful and worldly philosophical speculation",
-        "The wealthy and worldly philosophical speculation"
+        "The strong representing worldly philosophical speculation entirely",
+        "One knowing me as Supreme Self is devotee",
+        "The powerful representing worldly philosophical speculation entirely",
+        "The wealthy representing worldly philosophical speculation entirely"
       ],
       "correctIndex": 1,
-      "feedback": "Perfect knowledge of Krishna leads to the highest form of worship.",
+      "feedback": "One who knows Krishna as Purushottama (Supreme Person) is a knower of all and engages in His devotion with all his being. The trap: compartmentalizing devotion as one activity among many. Why this matters: The false path treats bhakti as supplementary. Real realization of Krishna's supremacy transforms entire existence into worship-complete knowledge produces complete engagement.",
       "verseLabel": "BG 15.18",
       "verseUrl": "https://vedabase.io/en/library/bg/15/18/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q18",
-      "prompt": "In BG 15.19, what is the conclusion about understanding Krishna fully?",
+      "prompt": "In the purport to BG 15.19, what false path does Srila Prabhupada warn against?",
       "choices": [
-        "Knowledge is unnecessary through independent material processes",
-        "One who knows me in truth",
-        "Understanding fails and worldly philosophical speculation",
-        "Knowledge brings confusion through independent material processes"
+        "That partial spiritual understanding is sufficient without complete surrender to Krishna",
+        "That one who knows Krishna as Supreme Person beyond fallible and infallible is all-knowing",
+        "That intellectual knowledge of philosophy equals realized devotion and practical engagement",
+        "That understanding impersonal Brahman is the final goal without recognizing personal Bhagavan"
       ],
       "correctIndex": 1,
-      "feedback": "Complete knowledge of Krishna grants eternal entrance to His divine realm.",
+      "feedback": "Srila Prabhupada explains that knowing Krishna as Purushottama (beyond kshara and akshara) makes one sarva-vid (knower of all) and bhajati mam (worships with all being). The trap: stopping at partial truths-impersonal Brahman or localized Paramatma. Why this matters: The false path is incomplete realization. Perfect knowledge recognizes Krishna's supremacy, producing undivided devotion not theoretical understanding.",
       "verseLabel": "BG 15.19",
       "verseUrl": "https://vedabase.io/en/library/bg/15/19/",
       "verdict": "Correct"
@@ -281,13 +281,13 @@
       "id": "bg15-q19",
       "prompt": "What is the main teaching of Chapter 15?",
       "choices": [
-        "Matter is supreme through independent material processes",
+        "Matter is supreme entirely through independent material processes",
         "Krishna is the source of every; understanding this liberates one",
         "The universe is eternal through independent material processes",
-        "minimal is real through independent material processes"
+        "minimal is real through independent material processes entirely"
       ],
       "correctIndex": 1,
-      "feedback": "Chapter 15 reveals Krishna as the supreme source and sustainer.",
+      "feedback": "This is the most confidential knowledge-Krishna as source of all, understanding which liberates and produces devotion. The trap: treating spiritual knowledge as information rather than transformative realization. Why this matters: The false path is academic spirituality. Real comprehension of Krishna's position produces bhakti naturally-knowing Him as origin necessitates serving Him as goal.",
       "verseLabel": "BG 15.20",
       "verseUrl": "https://vedabase.io/en/library/bg/15/20/",
       "verdict": "Correct"
@@ -296,13 +296,13 @@
       "id": "bg15-q20",
       "prompt": "In BG 15, what is the significance of the cosmic tree?",
       "choices": [
-        "It is just nature through independent material processes",
-        "It represents the material universe and the path to transcend it",
-        "It is permanent through independent material processes",
+        "Just nature operating through independent material processes entirely",
+        "It represents material universe and path to transcend it",
+        "It is permanent eternally through independent material processes",
         "It has no meaning through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "The tree symbolizes the structure of material creation.",
+      "feedback": "The cosmic banyan tree represents material creation-roots above (spiritual source), branches below (material manifestation), entanglement through attachment. The trap: fascination with manifestation while ignoring foundation. Why this matters: The false path is materialistic wonder at effects. Real wisdom cuts attachment to branches through knowledge of roots-severing material identification to reach transcendental source.",
       "verseLabel": "BG 15.21",
       "verseUrl": "https://vedabase.io/en/library/bg/15/21/",
       "verdict": "Correct"
@@ -311,28 +311,28 @@
       "id": "bg15-q21",
       "prompt": "According to Chapter 15, how does one escape the material world?",
       "choices": [
-        "By studying and worldly philosophical speculation",
+        "By studying alone and worldly philosophical speculation entirely",
         "By understanding Krishna's supremacy and surrendering to Him",
-        "By ignoring it through independent material processes",
-        "It is impossible through independent material processes"
+        "By ignoring everything through independent material processes entirely",
+        "It is impossible entirely through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "True knowledge of Krishna enables escape from material bondage.",
+      "feedback": "Liberation requires understanding Krishna's supremacy and surrendering to Him-knowledge plus devotion, theory plus practice. The trap: thinking intellectual comprehension alone liberates. Why this matters: The false path is jnana without bhakti. Real transcendence demands both recognizing Krishna's position and engaging in His service-understanding produces but doesn't substitute for devotional surrender.",
       "verseLabel": "BG 15.22",
       "verseUrl": "https://vedabase.io/en/library/bg/15/22/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q22",
-      "prompt": "What does the cosmic tree represent in practical terms?",
+      "prompt": "In the purport to BG 15 conclusion, what false approach does Srila Prabhupada warn against?",
       "choices": [
-        "Just a metaphor through independent material processes",
-        "The cycle of birth, death, and rebirth driven by karma",
-        "minimal important and worldly philosophical speculation",
-        "An actual tree through independent material processes"
+        "That improving material conditions can solve fundamental problem of birth death",
+        "That banyan tree material existence cut with detachment devotion",
+        "That gradual material progress eventually leads to spiritual realization automatically happening",
+        "That reforming material society eliminates suffering without transcendental solution entirely"
       ],
       "correctIndex": 1,
-      "feedback": "The tree symbolizes the material condition and cycle of reincarnation.",
+      "feedback": "Srila Prabhupada emphasizes that material entanglement (the tree) requires spiritual solution-detachment from illusion through knowledge and devotion to Krishna. The trap: seeking material answers to spiritual problems. Why this matters: The false path is utopianism thinking better material arrangement solves existence. Real solution transcends material adjustment-cutting tree of illusion through devotional knowledge.",
       "verseLabel": "BG 15.23",
       "verseUrl": "https://vedabase.io/en/library/bg/15/23/",
       "verdict": "Correct"
@@ -341,45 +341,45 @@
       "id": "bg15-q23",
       "prompt": "In BG 15, what is promised to those who understand these truths?",
       "choices": [
-        "minimal special and worldly philosophical speculation",
+        "minimal special and worldly philosophical speculation entirely now",
         "They achieve eternal peace and return to Krishna's abode",
-        "Confusion increases and worldly philosophical speculation",
-        "They suffer more through independent material processes"
+        "Confusion increases steadily and worldly philosophical speculation entirely",
+        "They suffer more continuously through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "Understanding leads to permanent liberation and divine association.",
+      "feedback": "Those who understand this supreme science achieve freedom from delusion and return to Krishna's eternal abode. The trap: studying scripture for information rather than transformation. Why this matters: The false path is theoretical knowledge. Real study produces liberation-understanding Chapter 15 means recognizing Krishna's supremacy, severing material attachment, achieving divine destination through devotional application.",
       "verseLabel": "BG 15.24",
       "verseUrl": "https://vedabase.io/en/library/bg/15/24/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q24",
-      "prompt": "What is the ultimate conclusion of Chapter 15?",
+      "prompt": "How does Chapter 15's teaching that Krishna supports all beings with one fraction of Himself (15.13) relate to the instruction to sever material attachment (15.3-4)?",
       "choices": [
-        "Matter wins and worldly philosophical speculation",
-        "Krishna is eternal",
-        "minimal matters and worldly philosophical speculation",
-        "every are equal through independent material processes"
+        "If Krishna sustains everything then material engagement spiritualized requires no detachment",
+        "Recognizing Krishna as source enables detachment from temporary manifestation to reach eternal foundation",
+        "They are contradictory if Krishna is in matter then attachment unavoidable",
+        "Material sustenance proves matter importance deserving our full absorption entirely"
       ],
       "correctIndex": 1,
-      "feedback": "The final teaching points to exclusive devotion to the Supreme.",
-      "verseLabel": "BG 15.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/15/25/",
+      "feedback": "Krishna's immanence (present in matter) doesn't justify material absorption but enables transcendence-knowing He sustains all with a fraction reveals matter's subordinate status. The insight: His presence in creation points beyond creation to Him. The trap: using immanence to justify attachment. Real understanding sees Krishna's partial investment in matter as reason to seek His full reality beyond material manifestation through detachment and devotion.",
+      "verseLabel": "BG 15.13-15.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/15/13/",
       "verdict": "Correct"
     },
     {
       "id": "bg15-q25",
-      "prompt": "What is the ultimate conclusion of Chapter 15?",
+      "prompt": "How do Chapter 15's teachings about the inverted tree (15.1-4), eternal soul fragments (15.7), and Supreme Person beyond all (15.17-18) work together to guide spiritual practice?",
       "choices": [
-        "Matter wins and worldly philosophical speculation",
-        "Krishna is eternal",
-        "minimal matters and worldly philosophical speculation",
-        "every are equal through independent material processes"
+        "The tree metaphor suggests nature worship; soul fragments indicate pantheism; Supreme Person is abstract principle",
+        "Understanding material world as tree enables detachment; recognizing souls as parts reveals relationship knowing Purushottama produces devotion",
+        "They present contradictory philosophies requiring personal choice between impersonal tree, individual souls, or personal God",
+        "Tree represents material science; soul fragments justify individualism; Supreme Person symbolizes collective human consciousness"
       ],
       "correctIndex": 1,
-      "feedback": "The final teaching points to exclusive devotion to the Supreme.",
-      "verseLabel": "BG 15.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/15/25/",
+      "feedback": "Chapter 15 integrates: (1) Cosmology-material world as inverted tree rooted in spirit, requiring detachment through knowledge of dependency; (2) Ontology-souls as eternal Krishna fragments, establishing relationship not independence; (3) Theology-Purushottama transcending matter and spirit, worthy of complete devotion. The synthesis: knowing world's structure (tree) frees from illusion; understanding soul's nature (fragment) reveals constitutional position; recognizing Krishna's supremacy (Purushottama) produces total engagement. The trap: treating these as separate topics. Real realization integrates: detachment from temporary (tree), identity as dependent part (fragment), devotion to transcendent whole (Supreme Person). Liberation requires all three-cosmological knowledge, ontological understanding, theological devotion converging in Krishna consciousness.",
+      "verseLabel": "BG 15 Summary",
+      "verseUrl": "https://vedabase.io/en/library/bg/15/",
       "verdict": "Correct"
     }
   ]

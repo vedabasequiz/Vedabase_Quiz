@@ -11,28 +11,28 @@
       "id": "bg14-q1",
       "prompt": "In BG 14.1, what does Arjuna ask Krishna?",
       "choices": [
-        "About war tactics through independent material processes",
+        "About war tactics through independent material processes primarily today",
         "Teach me about the three modes of nature and their effects",
-        "About diplomacy and worldly philosophical speculation",
-        "About governance and worldly philosophical speculation"
+        "About diplomacy and worldly philosophical speculation primarily here today",
+        "About governance and worldly philosophical speculation primarily here today"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna seeks to understand the three gunas and their influence.",
+      "feedback": "Arjuna requests understanding of the three modes of material nature (sattva, rajas, tamas) and how they affect living beings. Why this matters: This sets up the chapter's central teaching about how material conditioning operates. Without understanding the modes, one cannot diagnose one's own consciousness or navigate toward transcendence. The modes determine perception, behavior, and destiny.",
       "verseLabel": "BG 14.1",
       "verseUrl": "https://vedabase.io/en/library/bg/14/1/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q2",
-      "prompt": "According to BG 14.3, what is the great womb from which all beings are born?",
+      "prompt": "In his BG 14.3-4 purport, what false path does Prabhupada warn against regarding creation?",
       "choices": [
-        "The earth and worldly philosophical speculation",
-        "My womb is the great Brahman beings are conceived in it",
-        "The sky and worldly philosophical speculation",
-        "The ocean and worldly philosophical speculation"
+        "That material nature creates life independently without Krishna's seed-giving role",
+        "That Krishna impregnates material nature with souls, making Him the father of all",
+        "That souls create their own bodies through mental projection and willpower",
+        "That creation happens randomly without any intelligent direction or oversight"
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna is the source of all existence through His transcendental nature.",
+      "correctIndex": 0,
+      "feedback": "Material nature cannot create independently - Krishna provides the souls. Why this matters: Prabhupada demolishes the materialist doctrine that life emerges from matter alone. Nature is the womb, but Krishna supplies the living entities as spiritual seeds. Without the father's contribution, the womb remains barren. This prevents both atheistic evolution (matter generates consciousness) and impersonal pantheism (nature itself is God). Krishna's active role as seed-giver establishes Him as the conscious person behind creation, not an abstract force.",
       "verseLabel": "BG 14.3",
       "verseUrl": "https://vedabase.io/en/library/bg/14/3/",
       "verdict": "Correct"
@@ -47,22 +47,22 @@
         "Creation is random through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna and His material energy combine to manifest all existence.",
+      "feedback": "Krishna explains He is the seed-giving father of all living beings through material nature. Why this matters: This verse establishes Krishna's universal fatherhood. All life forms - humans, animals, plants, demigods - originate from Krishna placing souls into material nature's womb. This prevents species-based discrimination while maintaining the reality of different bodies. All beings are Krishna's children in different material forms.",
       "verseLabel": "BG 14.4",
       "verseUrl": "https://vedabase.io/en/library/bg/14/4/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q4",
-      "prompt": "What does BG 14.5 teach about the three modes?",
+      "prompt": "In his BG 14.5 purport, what does Prabhupada explain about how the modes bind the eternal soul?",
       "choices": [
-        "They do not exist through independent material processes",
-        "Sattva (goodness), rajas (passion) tamas (ignorance) bind the eternal soul",
-        "primarily one exists through independent material processes",
-        "They are temporary through independent material processes"
+        "That modes are just psychological states that don't actually bind the eternal soul",
+        "That modes condition the soul's consciousness, creating material identification and karma",
+        "That the soul remains completely unaffected by modes in all circumstances",
+        "That binding is an illusion since the soul never actually exists materially"
       ],
       "correctIndex": 1,
-      "feedback": "The three qualities are the basic constituents of material nature.",
+      "feedback": "Modes are material energies that condition the eternal soul through false identification. Why this matters: Prabhupada prevents the false path of thinking modes are mere mental states easily overcome by willpower. The gunas are real energies that bind consciousness to matter by creating false identification with the body. The soul is eternally free, but when it identifies with material designations under modal influence, it becomes conditioned and acts according to those modes. This creates karma and perpetuates bondage. Transcendence requires more than positive thinking - it requires devotional purification that breaks modal conditioning.",
       "verseLabel": "BG 14.5",
       "verseUrl": "https://vedabase.io/en/library/bg/14/5/",
       "verdict": "Correct"
@@ -77,52 +77,52 @@
         "Brings pain and worldly philosophical speculation"
       ],
       "correctIndex": 1,
-      "feedback": "Sattva is the purest mode and leads toward spiritual elevation.",
+      "feedback": "Sattva is characterized by purity, luminosity, and freedom from sinfulness. Why this matters: Sattva represents the highest material quality, producing happiness, knowledge, and peaceful consciousness. It illuminates understanding and creates good character. However, as the purport explains, even sattva binds through attachment to happiness and knowledge. Understanding sattva's characteristics helps one cultivate it while recognizing it must ultimately be transcended through bhakti.",
       "verseLabel": "BG 14.6",
       "verseUrl": "https://vedabase.io/en/library/bg/14/6/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q6",
-      "prompt": "In BG 14.7, what is the nature of rajas (passion)?",
+      "prompt": "In his BG 14.6 purport, what false path does Prabhupada warn against regarding sattva-guna?",
       "choices": [
-        "It is peaceful through independent material processes",
-        "The embodiment of desire and attachment; causes action and craving",
-        "It brings knowledge through independent material processes",
-        "It is stagnant through independent material processes"
+        "That sattva-guna alone liberates without devotional transcendence being necessary now",
+        "That sattva, though purer, still binds through attachment to happiness and knowledge",
+        "That goodness is identical to spiritual realization and needs no further elevation",
+        "That cultivating sattva automatically produces Krishna consciousness without devotional service"
       ],
-      "correctIndex": 1,
-      "feedback": "Passion creates restlessness and desire-driven action.",
-      "verseLabel": "BG 14.7",
-      "verseUrl": "https://vedabase.io/en/library/bg/14/7/",
+      "correctIndex": 0,
+      "feedback": "Even sattva-guna binds the soul, though more subtly than lower modes. Why this matters: Prabhupada exposes the trap of spiritual materialism - thinking moral goodness equals liberation. Sattva is the highest material quality, producing happiness and knowledge, but it still keeps one in material existence through subtle attachments. The sattvic person becomes attached to being good, knowledgeable, and happy - these are still material designations. Many religionists stop at sattva, mistaking its peace for transcendence. But Krishna clearly states sattva binds through happiness and knowledge. Only bhakti transcends all modes.",
+      "verseLabel": "BG 14.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/14/6/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q7",
-      "prompt": "What does BG 14.8 teach about tamas (ignorance)?",
+      "prompt": "In his BG 14.7 purport, what does Prabhupada explain about rajas-guna's nature?",
       "choices": [
-        "It is enlightening through independent material processes",
-        "Darkness, delusion, and laziness; binds the living being through illusion",
-        "It brings joy through independent material processes",
-        "It is spiritually advanced through independent material processes"
+        "That passionate hard work for success represents spiritual advancement and divine service",
+        "That rajas binds through unlimited desires and attachment to fruitive results",
+        "That ambition and drive are inherently spiritual when directed toward good causes",
+        "That material passion can be spiritualized without changing its desire-based nature"
       ],
       "correctIndex": 1,
-      "feedback": "Ignorance is the most degrading mode, creating delusion and inertia.",
-      "verseLabel": "BG 14.8",
-      "verseUrl": "https://vedabase.io/en/library/bg/14/8/",
+      "feedback": "Rajas creates insatiable desires and binds through attachment to results. Why this matters: Prabhupada demolishes modern productivity culture as spiritual practice. Rajas produces the driven achiever, the ambitious worker, the passionate activist - but all remain bound through desire for results. Many think channeling passion toward 'good' goals spiritualizes it, but desire for results, even good results, keeps one in rajas. The rajasic person never rests because desires multiply endlessly. This exposes the false path of karma-kanda and mere social work as liberation. Rajas must be transcended, not baptized.",
+      "verseLabel": "BG 14.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/14/7/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q8",
       "prompt": "According to BG 14.10, what happens when sattva predominates?",
       "choices": [
-        "One remains bound through independent material processes",
+        "One remains bound through independent material processes primarily",
         "The symptoms of purity appear; wisdom and good qualities manifest",
-        "Confusion increases and worldly philosophical speculation",
-        "Bondage strengthens and worldly philosophical speculation"
+        "Confusion increases and worldly philosophical speculation primarily here",
+        "Bondage strengthens and worldly philosophical speculation primarily here"
       ],
       "correctIndex": 1,
-      "feedback": "Goodness illuminates consciousness and leads toward liberation.",
+      "feedback": "When sattva predominates, purity and wisdom manifest. Why this matters: Sattva's predominance creates clarity, knowledge, and happiness. The symptoms become visible in behavior, thought patterns, and consciousness. Understanding these symptoms helps one recognize and cultivate sattva as a stepping stone toward transcendence. But remember - even sattva binds through attachment to happiness and knowledge.",
       "verseLabel": "BG 14.10",
       "verseUrl": "https://vedabase.io/en/library/bg/14/10/",
       "verdict": "Correct"
@@ -133,41 +133,41 @@
       "choices": [
         "Peace and knowledge through independent material processes",
         "Fruitive activity, restlessness, craving, and endless desire",
-        "Lethargy and worldly philosophical speculation",
+        "Lethargy and worldly philosophical speculation here",
         "Wisdom emerges and worldly philosophical speculation"
       ],
       "correctIndex": 1,
-      "feedback": "Passion drives one toward endless pursuit of temporary goals.",
+      "feedback": "When rajas predominates, fruitive activity, restlessness, and insatiable desire manifest. Why this matters: Rajas produces the symptoms of material ambition - constant activity, craving for results, restlessness without peace. The rajasic person cannot rest, always wanting more. Recognizing these symptoms helps one understand one's own conditioning and the need to transcend passion through devotional service.",
       "verseLabel": "BG 14.11",
       "verseUrl": "https://vedabase.io/en/library/bg/14/11/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q10",
-      "prompt": "What does BG 14.12 teach about tamas predominance?",
+      "prompt": "In his BG 14.13 purport, what false path does Prabhupada warn against regarding tamas?",
       "choices": [
-        "Wisdom appears and worldly philosophical speculation",
-        "Darkness, delusion, negligence, and madness; one becomes bound",
-        "Joy increases and worldly philosophical speculation",
-        "Knowledge grows and worldly philosophical speculation"
+        "That laziness and inactivity represent spiritual detachment from material pursuits",
+        "That tamas produces darkness, negligence, and madness - must be elevated, not embraced",
+        "That sleeping long hours indicates deep meditation and advanced spiritual practice",
+        "That tamasic withdrawal from responsibilities demonstrates renunciation and spiritual maturity"
       ],
-      "correctIndex": 1,
-      "feedback": "Ignorance creates a state of confusion and spiritual darkness.",
-      "verseLabel": "BG 14.12",
-      "verseUrl": "https://vedabase.io/en/library/bg/14/12/",
+      "correctIndex": 0,
+      "feedback": "Tamas is degradation, not spirituality - it must be transcended. Why this matters: Prabhupada prevents the false path of mistaking tamasic qualities for spiritual advancement. Some rationalize laziness as 'non-attachment' or excessive sleep as 'meditation.' But tamas is the lowest mode, producing delusion, madness, and negligence. True spiritual life requires sattva's clarity and rajas's energy directed devotionally. Tamasic people cannot distinguish reality from illusion. Romanticizing tamas as spirituality keeps one in darkness. One must rise from tamas to rajas to sattva, then transcend to suddha-sattva through bhakti.",
+      "verseLabel": "BG 14.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/14/13/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q11",
       "prompt": "According to BG 14.13, what happens when one transcends the modes?",
       "choices": [
-        "One remains bound through independent material processes",
+        "One remains bound through independent material processes primarily",
         "One goes beyond birth, death, old age, and is liberated",
-        "One suffers more through independent material processes",
-        "One stagnates and worldly philosophical speculation"
+        "One suffers more through independent material processes primarily",
+        "One stagnates and worldly philosophical speculation primarily here"
       ],
       "correctIndex": 1,
-      "feedback": "Transcending the gunas is the gateway to permanent liberation.",
+      "feedback": "One who transcends the three modes goes beyond birth, death, old age, and attains liberation. Why this matters: This verse promises the ultimate result - transcending modes means transcending material existence itself. Birth, death, and aging apply only to those under modal conditioning. The transcendent person achieves immortality not by living forever in the body but by realizing identity beyond the body. This is the goal of all spiritual practice.",
       "verseLabel": "BG 14.13",
       "verseUrl": "https://vedabase.io/en/library/bg/14/13/",
       "verdict": "Correct"
@@ -176,58 +176,58 @@
       "id": "bg14-q12",
       "prompt": "In BG 14.14, what is the sign of one who has transcended the modes?",
       "choices": [
-        "Desire for pleasure through independent material processes",
-        "One sees the same consciousness in every",
-        "Attached to results through independent material processes",
-        "Easily disturbed and worldly philosophical speculation"
+        "Desire for pleasure through independent material processes primarily",
+        "One sees the same consciousness in every being here",
+        "Attached to results through independent material processes primarily here now",
+        "Easily disturbed and worldly philosophical speculation primarily here"
       ],
       "correctIndex": 1,
-      "feedback": "Equipoise toward all circumstances indicates transcendence of the gunas.",
+      "feedback": "The transcendent person sees the same consciousness in all beings, remaining equipoised. Why this matters: This describes the behavioral symptoms of transcendence - equal vision toward all, unaffected by material dualities. The transcendent person doesn't react differently to pleasure and pain, honor and dishonor. This isn't forced stoicism but natural result of consciousness beyond modes. The test of transcendence is behavioral stability, not mere philosophical understanding.",
       "verseLabel": "BG 14.14",
       "verseUrl": "https://vedabase.io/en/library/bg/14/14/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q13",
-      "prompt": "What does BG 14.15 teach about the path to transcendence?",
+      "prompt": "In his BG 14.14-15 purport, what does Prabhupada explain about how modes determine one's next birth?",
       "choices": [
-        "Worship demigods and worldly philosophical speculation",
-        "Those who surrender to me transcend the modes and attain my nature",
-        "Follow the gunas through independent material processes",
-        "Practice worldly life through independent material processes"
+        "That all souls transmigrate to the same destination regardless of modal conditioning",
+        "That dying in sattva leads higher planets, rajas human birth, tamas lower species",
+        "That modes don't affect rebirth since the soul transcends material designations automatically",
+        "That devotion alone matters for rebirth without any modal considerations or consequences"
       ],
       "correctIndex": 1,
-      "feedback": "Surrender to Krishna is the only means to transcend material nature.",
-      "verseLabel": "BG 14.15",
-      "verseUrl": "https://vedabase.io/en/library/bg/14/15/",
+      "feedback": "One's dominant mode at death determines the next body. Why this matters: Prabhupada establishes the science of transmigration. This isn't mere belief but precise law - die in sattva, go to higher planets; die in rajas, return as human; die in tamas, go to animal/plant bodies. This demolishes the false path of thinking consciousness doesn't matter or that everyone goes to the same place. Your modal conditioning shapes your next existence. This motivates serious spiritual practice - you're literally creating your next life moment by moment through modal association. Only transcending modes through bhakti guarantees no return.",
+      "verseLabel": "BG 14.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/14/14/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q14",
       "prompt": "According to BG 14.16, what is promised to those who transcend the modes?",
       "choices": [
-        "Knowledge of physical phenomena and external forms",
+        "Knowledge of physical phenomena and external forms primarily",
         "Freed from birth, death, decay, and sorrow; enjoy eternal bliss",
-        "Continued suffering and worldly philosophical speculation",
-        "Knowledge of physical phenomena and external forms"
+        "Continued suffering and worldly philosophical speculation primarily",
+        "Knowledge of physical phenomena and external forms primarily"
       ],
       "correctIndex": 1,
-      "feedback": "Transcendence grants permanent escape from the cycle of material misery.",
+      "feedback": "Those who transcend the modes are freed from birth, death, decay, and sorrow, enjoying eternal bliss. Why this matters: Krishna promises complete liberation from all material suffering. This isn't gradual reduction of pain but total freedom - no more birth, no more death, no more decay. Instead, eternal bliss. This promise motivates the difficult work of transcendence. The goal isn't merely better material life but complete escape from material conditioning.",
       "verseLabel": "BG 14.16",
       "verseUrl": "https://vedabase.io/en/library/bg/14/16/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q15",
-      "prompt": "In BG 14.17, what distinguishes sattva from rajas and tamas?",
+      "prompt": "In his BG 14.17-18 purport, what critical distinction does Prabhupada make about sattva?",
       "choices": [
-        "every are equal through independent material processes",
-        "Sattva leads toward liberation",
-        "No difference and worldly philosophical speculation",
-        "Tamas is best through independent material processes"
+        "That sattva-guna represents final liberation and needs no further transcendence",
+        "That sattva leads toward liberation but is still material, requiring transcendence through bhakti",
+        "That once in sattva, one automatically achieves Krishna consciousness without devotional practice",
+        "That sattva and pure goodness (suddha-sattva) are identical states without difference"
       ],
       "correctIndex": 1,
-      "feedback": "Each mode leads to different spiritual destinations.",
+      "feedback": "Sattva leads toward liberation but must itself be transcended. Why this matters: Prabhupada prevents stopping at the platform of goodness. Many religionists cultivate sattva - moral character, peacefulness, knowledge - and think they've achieved the goal. But sattva is still a material mode. It leads 'toward' liberation by elevating consciousness, but it's not liberation itself. Sattva binds through attachment to happiness and knowledge. One must go beyond sattva to suddha-sattva (pure transcendence) through devotional service. This exposes false satisfaction with being a 'good person' without bhakti.",
       "verseLabel": "BG 14.17",
       "verseUrl": "https://vedabase.io/en/library/bg/14/17/",
       "verdict": "Correct"
@@ -242,7 +242,7 @@
         "every are equal through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "One's mode determines the nature of one's next birth and destination.",
+      "feedback": "Those in sattva go to pure planets, rajas leads to human birth, tamas to lower species. Why this matters: This verse establishes the hierarchical structure of transmigration based on modes. One's destination after death isn't random but determined by modal conditioning. Sattva elevates to higher planets, rajas keeps one in human society, tamas degrades to animal and plant life. This provides the cosmological map of how consciousness determines destiny across species and planets.",
       "verseLabel": "BG 14.18",
       "verseUrl": "https://vedabase.io/en/library/bg/14/18/",
       "verdict": "Correct"
@@ -257,37 +257,37 @@
         "Escape is impossible through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "Steady faith in Krishna's supremacy transcends all material conditioning.",
+      "feedback": "The transcendent person is not bewildered by modes nor attached to them. Why this matters: This describes the consciousness of one beyond modal influence - they recognize modes operating but don't identify with them. Not bewildered means understanding their nature; not attached means not controlled by them. This is the practical state of transcendence - awareness without entanglement. The modes continue operating in the material body, but consciousness remains free.",
       "verseLabel": "BG 14.19",
       "verseUrl": "https://vedabase.io/en/library/bg/14/19/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q18",
-      "prompt": "In BG 14.20, what characterizes those who have transcended the modes?",
+      "prompt": "In his BG 14.22-25 purport, what does Prabhupada explain about how transcendent persons act?",
       "choices": [
-        "Inferior to those in modes",
-        "They transcend material nature",
-        "More bound and worldly philosophical speculation",
-        "Weaker and worldly philosophical speculation"
+        "That transcendence means complete inaction and withdrawal from all material engagements",
+        "That transcendent persons act without attachment to modal influence while performing duty",
+        "That after transcendence, one must abandon all activities and remain silent",
+        "That transcendent consciousness prohibits engagement in practical responsibilities or work"
       ],
       "correctIndex": 1,
-      "feedback": "Those transcendent to the gunas achieve the highest spiritual position.",
-      "verseLabel": "BG 14.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/14/20/",
+      "feedback": "Transcendence means acting without modal attachment, not cessation of action. Why this matters: Prabhupada demolishes the false path of quietism - thinking spirituality means stopping all activity. The transcendent person doesn't become inactive but performs duty without being controlled by modes. They act in the world but aren't bound by results or modal conditioning. This is Krishna consciousness in practice - full engagement without material attachment. The goal is not to stop acting but to act transcendentally through devotional consciousness. Escape from action is impossible and unnatural.",
+      "verseLabel": "BG 14.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/14/22/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q19",
       "prompt": "What is the practical application of understanding the gunas?",
       "choices": [
-        "Ignore them and worldly philosophical speculation",
+        "Ignore them worldly philosophical speculation here now",
         "Recognize them to transcend them and attain Krishna",
         "Embrace every equally through independent material processes",
         "They are unimportant through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "Understanding the gunas is essential for spiritual progress.",
+      "feedback": "Understanding the gunas is essential for recognizing and transcending them. Why this matters: One cannot transcend what one doesn't understand. The practical application of this chapter is self-diagnosis - What mode currently conditions me? This awareness enables conscious spiritual practice. Ignoring the modes doesn't transcend them; understanding them provides the foundation for devotional elevation. This knowledge is not theoretical but immediately practical for spiritual advancement.",
       "verseLabel": "BG 14.21",
       "verseUrl": "https://vedabase.io/en/library/bg/14/21/",
       "verdict": "Correct"
@@ -296,13 +296,13 @@
       "id": "bg14-q20",
       "prompt": "According to Chapter 14, how does one escape the cycle?",
       "choices": [
-        "By fighting and worldly philosophical speculation",
+        "By fighting and worldly philosophical speculation primarily",
         "Through knowledge of the gunas and surrender to Krishna",
-        "Through ignorance and worldly philosophical speculation",
+        "Through ignorance and worldly philosophical speculation primarily",
         "By denying them through independent material processes"
       ],
       "correctIndex": 1,
-      "feedback": "Knowledge and devotion together enable transcendence of material nature.",
+      "feedback": "Escape from material conditioning requires both knowledge of the modes and surrender to Krishna. Why this matters: This integrates the two essential elements - understanding (knowledge) and practice (devotion). Knowledge without surrender remains theoretical; surrender without knowledge lacks philosophical foundation. Together they provide complete liberation. One must understand how material nature operates while simultaneously engaging in devotional service. This prevents both dry intellectualism and sentimental anti-intellectualism.",
       "verseLabel": "BG 14.22",
       "verseUrl": "https://vedabase.io/en/library/bg/14/22/",
       "verdict": "Correct"
@@ -311,75 +311,75 @@
       "id": "bg14-q21",
       "prompt": "In BG 14, what is the relationship between the gunas and rebirth?",
       "choices": [
-        "No relationship and worldly philosophical speculation",
+        "No relationship and worldly philosophical speculation primarily here now",
         "One's dominant guna determines the nature and quality of next birth",
-        "primarily actions matter through independent material processes",
-        "Mind is irrelevant through independent material processes"
+        "Primarily actions matter through independent material processes clearly here now",
+        "Mind is irrelevant through independent material processes primarily here today"
       ],
       "correctIndex": 1,
-      "feedback": "The modes shape both present and future destinies.",
+      "feedback": "One's dominant mode at death determines the quality and nature of the next birth. Why this matters: This establishes the precise mechanism of transmigration. Your consciousness at death - whether sattvic, rajasic, or tamasic - creates the next body. This isn't arbitrary but lawful. The modes you cultivate throughout life shape your consciousness at death, determining your next destination. This motivates serious cultivation of sattva and ultimate transcendence. You're creating your future existence moment by moment.",
       "verseLabel": "BG 14.23",
       "verseUrl": "https://vedabase.io/en/library/bg/14/23/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q22",
-      "prompt": "What does transcending the gunas mean practically?",
+      "prompt": "In his BG 14.25 purport, what false path does Prabhupada warn against regarding transcendence?",
       "choices": [
-        "Abandoning work and worldly philosophical speculation",
-        "Performing duty without attachment; seeing every equally",
-        "Becoming inactive and worldly philosophical speculation",
-        "Denying nature and worldly philosophical speculation"
+        "That one can claim transcendence while exhibiting modal symptoms and material attachment",
+        "That transcendence requires constant devotional service with actual freedom from modal influence",
+        "That theoretical understanding of modes equals practical transcendence without actual transformation",
+        "That speaking about transcendence philosophically demonstrates its actual achievement today"
       ],
-      "correctIndex": 1,
-      "feedback": "Transcendence is behavioral equanimity, not rejection of life.",
-      "verseLabel": "BG 14.24",
-      "verseUrl": "https://vedabase.io/en/library/bg/14/24/",
+      "correctIndex": 0,
+      "feedback": "Real transcendence shows in behavior, not claims or philosophy alone. Why this matters: Prabhupada exposes spiritual pretense - claiming transcendence while still controlled by modes. Many can discuss the gunas intellectually but remain bound by desire (rajas), laziness (tamas), or subtle pride (sattva). The test is behavioral: Does one remain equipoised? Unattached to results? Free from lust, greed, anger? Genuine transcendence manifests in consciousness and action, not merely words. This prevents cheap claims of realization without the substance. Talk is easy; transformation is the proof.",
+      "verseLabel": "BG 14.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/14/25/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q23",
-      "prompt": "In Chapter 14, what is Krishna's ultimate promise?",
+      "prompt": "According to Chapter 14, what is the relationship between the modes and karma?",
       "choices": [
-        "Follow rules strictly through independent material processes",
-        "Transcend the gunas; attain my nature; eternal peace awaits",
-        "Remain bound and worldly philosophical speculation",
-        "Suffer forever and worldly philosophical speculation"
+        "Modes have no connection to karmic reactions or bondage",
+        "Actions performed under modal influence create karma; transcendence ends karmic bondage",
+        "Karma operates independently of modal conditioning in all cases",
+        "Understanding modes intellectually eliminates karmic reactions automatically here now"
       ],
       "correctIndex": 1,
-      "feedback": "The highest attainment is becoming one with Krishna's nature.",
+      "feedback": "Modal conditioning drives actions that create karma and perpetuate bondage. Why this matters: The chapter establishes how modes create the mechanism of karma. When consciousness is conditioned by sattva, rajas, or tamas, actions arise from that conditioning and produce corresponding reactions. Transcendence means acting without modal motivation, thus without karmic consequence. This explains why devotional service liberates - it transcends modes and thus transcends karma. Understanding this connection is crucial for breaking the cycle.",
       "verseLabel": "BG 14.25",
       "verseUrl": "https://vedabase.io/en/library/bg/14/25/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q24",
-      "prompt": "In Chapter 14, what is Krishna's ultimate promise?",
+      "prompt": "What methodology does Chapter 14 prescribe for transcending material nature?",
       "choices": [
-        "Follow rules strictly through independent material processes",
-        "Transcend the gunas; attain my nature; eternal peace awaits",
-        "Remain bound and worldly philosophical speculation",
-        "Suffer forever and worldly philosophical speculation"
+        "Intellectual study and philosophical analysis of the modes primarily",
+        "Unwavering devotional service to Krishna transcends all modal conditioning",
+        "Gradual cultivation of sattva until it automatically becomes transcendence",
+        "Forceful suppression of rajasic and tamasic tendencies through willpower"
       ],
       "correctIndex": 1,
-      "feedback": "The highest attainment is becoming one with Krishna's nature.",
-      "verseLabel": "BG 14.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/14/25/",
+      "feedback": "Chapter 14 prescribes devotional service as the transcendent methodology. Why this matters: Krishna explicitly states that unwavering devotional service to Him transcends the modes. This isn't philosophical speculation or moral cultivation but active engagement in bhakti. One cannot transcend modes by fighting them mentally or by perfecting one mode. Only devotion to the personal Krishna provides the power to go beyond material nature entirely. This establishes bhakti as the supreme path, not merely one option among many.",
+      "verseLabel": "BG 14.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/14/26/",
       "verdict": "Correct"
     },
     {
       "id": "bg14-q25",
-      "prompt": "In Chapter 14, what is Krishna's ultimate promise?",
+      "prompt": "How does Chapter 14 synthesize understanding modes with achieving transcendence?",
       "choices": [
-        "Follow rules strictly through independent material processes",
-        "Transcend the gunas; attain my nature; eternal peace awaits",
-        "Remain bound and worldly philosophical speculation",
-        "Suffer forever and worldly philosophical speculation"
+        "Understanding modes intellectually is sufficient without needing devotional transcendence",
+        "Knowing modes enables diagnosis of conditioning; devotional service provides transcendence",
+        "Modes are merely theoretical concepts with no relevance to spiritual life",
+        "One should embrace one's natural mode rather than seeking transcendence"
       ],
       "correctIndex": 1,
-      "feedback": "The highest attainment is becoming one with Krishna's nature.",
-      "verseLabel": "BG 14.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/14/25/",
+      "feedback": "Chapter 14 integrates modal understanding with devotional transcendence. Why this matters: Prabhupada presents a complete system - knowledge plus practice. Understanding the modes provides diagnostic knowledge: What conditions me? How do I transmigrate? But knowledge alone doesn't liberate. Devotional service to Krishna provides the power to transcend modal conditioning. The chapter demolishes two false paths: dry knowledge without bhakti, and sentimental bhakti without knowledge of how material nature operates. One must understand the disease (modal conditioning) and apply the cure (Krishna consciousness). Theory without practice is sterile; practice without theory is blind.",
+      "verseLabel": "BG 14.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/14/26/",
       "verdict": "Correct"
     }
   ]

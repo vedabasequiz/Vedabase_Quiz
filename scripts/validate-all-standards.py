@@ -82,7 +82,7 @@ class QuizValidator:
         
         # Question count validation
         audience = self.data.get('audience', '')
-        expected_counts = {'adult': 25, 'teens': 20, 'kids': 15}
+        expected_counts = {'adult': 25, 'teens': 15, 'kids': 10}
         actual_count = len(self.data.get('questions', []))
         
         expected = expected_counts.get(audience, 25)

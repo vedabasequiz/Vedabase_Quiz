@@ -3,7 +3,7 @@
   "scripture": "bg",
   "chapter": 2,
   "audience": "kids",
-  "title": "Bhagavad Gita - Chapter 2 (Kids) | 15Q",
+  "title": "Bhagavad Gita - Chapter 2 (Kids) | 10Q",
   "difficulty": "easy",
   "publishedOn": "2026-01-29",
   "questions": [
@@ -38,21 +38,6 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q2-kids",
-      "prompt": "What does Krsna tell Arjuna to do in BG 2.3?",
-      "choices": [
-        "Run away from the battle as fast as he possibly can",
-        "Cry and feel sad about the whole situation right now",
-        "Stop being weak and stand up to face what needs to be done",
-        "Sit and do nothing at all during the entire battle ahead"
-      ],
-      "correctIndex": 2,
-      "feedback": "Krsna tells Arjuna to give up being sad and weak, and to stand up and be strong.",
-      "verseLabel": "BG 2.3",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/3/",
-      "verdict": "Correct"
-    },
-    {
       "id": "bg2-q3-kids",
       "prompt": "What does Arjuna do in BG 2.7?",
       "choices": [
@@ -80,21 +65,6 @@
       "feedback": "A foolish person wastes their life without understanding who they really are (the soul). Humans should learn about the soul and God, not just eat, sleep, and die like animals do.",
       "verseLabel": "BG 2.7 Purport",
       "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q4-kids",
-      "prompt": "Are the things we see and experience permanent, or do they always change?",
-      "choices": [
-        "They are always exactly the same and nothing ever changes in life",
-        "They change like seasons - sometimes happy, sometimes sad, and that is normal",
-        "They never change at all no matter what happens to us",
-        "Only bad things change but good things stay forever and never change"
-      ],
-      "correctIndex": 1,
-      "feedback": "Just like seasons come and go, our feelings and experiences change all the time. This is natural and happens to everyone.",
-      "verseLabel": "BG 2.14",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/14/",
       "verdict": "Correct"
     },
     {
@@ -128,21 +98,6 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q6-kids",
-      "prompt": "Who is ready to do great things in life?",
-      "choices": [
-        "Only people who never feel sad emotions in their life",
-        "Only people who never feel happy about anything at all",
-        "People who stay calm even when things are happy or sad",
-        "People who run away from all problems they face today"
-      ],
-      "correctIndex": 2,
-      "feedback": "A person who can stay calm and not get too upset whether things are good or bad is strong and ready for great things.",
-      "verseLabel": "BG 2.15",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/15/",
-      "verdict": "Correct"
-    },
-    {
       "id": "bg2-q7-kids",
       "prompt": "In BG 2.20, what does Krsna teach about the soul?",
       "choices": [
@@ -170,36 +125,6 @@
       "feedback": "Consciousness (being aware) is the sign of the soul. Just like sunshine shows the sun is there, your awareness and feelings show your soul is present in your body.",
       "verseLabel": "BG 2.20 Purport",
       "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q8-kids",
-      "prompt": "In BG 2.22, Krsna compares changing bodies to what?",
-      "choices": [
-        "Eating food every day when we are hungry",
-        "Climbing a tree to reach the top branches",
-        "Changing into new clothes and taking off old ones",
-        "Playing a game with our friends and family"
-      ],
-      "correctIndex": 2,
-      "feedback": "Just as we take off old clothes and put on new ones, the soul takes on a new body when the old one ends.",
-      "verseLabel": "BG 2.22",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/22/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q9-kids",
-      "prompt": "In BG 2.23, can weapons like swords or fire hurt the soul?",
-      "choices": [
-        "Yes, weapons can destroy the soul completely and forever",
-        "No, the soul cannot be cut or burned by anything",
-        "Only very powerful weapons can harm the soul badly",
-        "Fire can burn the soul but not swords or arrows"
-      ],
-      "correctIndex": 1,
-      "feedback": "The soul is so special that no weapon can cut it, no fire can burn it, and no water can wet it. The soul is indestructible!",
-      "verseLabel": "BG 2.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/23/",
       "verdict": "Correct"
     },
     {

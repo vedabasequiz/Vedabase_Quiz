@@ -234,16 +234,16 @@
     },
     {
       "id": "bg1-q16",
-      "prompt": "In BG 1.29, what physical symptom does Arjuna mention first as his composure breaks?",
+      "prompt": "How does Arjuna's physical response in BG 1.29-30 (trembling, hair standing on end, bow slipping) relate to his philosophical arguments in BG 1.32-45 about not wanting to kill relatives?",
       "choices": [
-        "His throat becomes parched and dry",
-        "His entire body begins trembling",
-        "His mind achieves unwavering steadiness",
-        "His weapons slip from his hands"
+        "The physical symptoms are unrelated to his reasoning",
+        "Bodily distress from attachment precedes and shapes his reasoning",
+        "His philosophy causes physical symptoms as an afterthought",
+        "Both arise independently from separate mental processes"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna describes his body trembling, showing that inner confusion has overwhelmed physical stability. This represents complete loss of control.",
-      "verseLabel": "BG 1.29",
+      "feedback": "Arjuna's physical collapse (trembling, hair standing, Gandiva slipping) manifests first in verses 1.29-30, revealing that material attachment to relatives' bodies has already overwhelmed his consciousness. His subsequent philosophical arguments in verses 1.32-45 about family duty and social order are rationalizations constructed after emotional attachment has clouded his judgment. This demonstrates how bodily identification produces both physiological symptoms and distorted reasoning that appears logical but lacks transcendental foundation. Why this matters: We often believe our philosophical positions arise from pure reason, but Prabhupada shows that material attachment first destabilizes consciousness at the bodily level, then constructs intellectual justifications. True spiritual discrimination requires transcending both physical agitation and its rationalized philosophy.",
+      "verseLabel": "BG 1.29-30, 1.32-45",
       "verseUrl": "https://vedabase.io/en/library/bg/1/29/",
       "verdict": "Correct"
     },
@@ -324,17 +324,17 @@
     },
     {
       "id": "bg1-q22",
-      "prompt": "In BG 1.36, what does Arjuna fear will overcome him if he kills the sons of Dhritarastra?",
+      "prompt": "How do Arjuna's physical symptoms (BG 1.29-31), his perception of inauspicious omens (BG 1.30), and his philosophical arguments about family duty (BG 1.36-39) all reflect a common underlying spiritual problem?",
       "choices": [
-        "Deep ignorance and spiritual darkness",
-        "Terrible sin and its karmic reactions",
-        "Devastating famine throughout the kingdom",
-        "Harsh public criticism and social disgrace"
+        "They are three separate issues requiring different solutions",
+        "All stem from material affection and bodily identification",
+        "They represent progressive stages of spiritual advancement",
+        "Only the philosophical arguments reveal genuine confusion"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna says sin will overcome them if they slay such aggressors, and he questions how happiness could come from killing kinsmen. This is his material analysis, lacking transcendental knowledge.",
-      "verseLabel": "BG 1.36",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/36/",
+      "feedback": "Srila Prabhupada reveals in the purport to BG 1.30 that Arjuna is bewildered by illusion on account of material affection. This single root cause--bodily identification and attachment to relatives' bodies--manifests in three interconnected ways: physically (trembling, weakness), perceptually (seeing inauspicious omens where none exist objectively), and intellectually (constructing seemingly logical arguments about social duty that actually rationalize attachment). The purport to BG 1.32-35 further exposes that Arjuna's renunciation of kingdom is not genuine detachment but bodily attachment disguised as philosophy. Why this matters: Material consciousness creates a comprehensive delusion affecting body, perception, and intellect simultaneously. We cannot solve spiritual problems through physical remedies, positive thinking, or better logic alone--only transcendental knowledge that addresses the root of bodily identification can restore clarity at all three levels.",
+      "verseLabel": "BG 1.29-31, 1.36-39",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/29/",
       "verdict": "Correct"
     },
     {
@@ -354,17 +354,17 @@
     },
     {
       "id": "bg1-q25",
-      "prompt": "In BG 1.39, what does Arjuna say happens when a dynasty is destroyed?",
+      "prompt": "How does Dhritarashtra's physical and spiritual blindness (BG 1.1 purport) connect to Arjuna's inability to see his duty despite having physical vision (BG 1.30-46)?",
       "choices": [
-        "The family's material wealth increases significantly",
-        "Eternal family traditions vanish and irreligion develops",
-        "The kingdom experiences unprecedented lasting peace",
-        "Everyone spontaneously becomes detached and renounced"
+        "There is no connection; one concerns vision and the other duty",
+        "Both demonstrate that material affection blinds spiritual perception",
+        "Only Dhritarashtra's blindness has spiritual significance",
+        "Physical blindness always produces spiritual confusion"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna warns that destruction of the dynasty destroys family tradition, and the rest of the family becomes involved in irreligion. He understands social consequences but cannot see spiritual reality.",
-      "verseLabel": "BG 1.39",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/39/",
+      "feedback": "Srila Prabhupada explains in BG 1.1 purport that Dhritarashtra is blind both physically and spiritually due to attachment to his sons, preventing clear moral vision. Similarly, though Arjuna has physical sight, he reports in BG 1.30 that his vision is clouded and he cannot stand--symptoms Prabhupada attributes to bewilderment from material affection. Both men can hear Vedic knowledge (Dhritarashtra from Sanjaya, Arjuna from Krsna), but material attachment creates a form of blindness that transcends physical capacity. Dhritarashtra cannot see the justice of the Pandavas' cause; Arjuna cannot see his dharmic duty. Why this matters: Spiritual blindness from bodily attachment affects even those with physical sight and intelligence. The false path is assuming that sensory capacity or intellectual ability alone can reveal transcendental truth. Only when material affection is transcended can either physical sight or hearing of Vedic knowledge restore spiritual vision.",
+      "verseLabel": "BG 1.1, 1.30-46",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
       "verdict": "Correct"
     },
     {

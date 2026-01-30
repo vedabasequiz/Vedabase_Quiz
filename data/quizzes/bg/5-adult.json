@@ -129,15 +129,15 @@
     },
     {
       "id": "bg5-q9",
-      "prompt": "In BG 5.11, who is a true renunciate according to Krishna?",
+      "prompt": "According to BG 5.11, how do yogis act to achieve self-purification?",
       "choices": [
-        "One who abandons home and seeks isolation from society",
-        "One who has conquered the senses and mind",
-        "One who refuses all work and remains completely inactive",
-        "One who lives in poverty accepting no possessions"
+        "By abandoning all action and remaining completely inactive",
+        "By acting with body, mind, intelligence, and senses without attachment",
+        "By acting only for sense gratification since senses are neutral",
+        "By performing rituals for rewards to gradually become purified"
       ],
       "correctIndex": 1,
-      "feedback": "True renunciation is mastery over mind and senses, not external appearance.",
+      "feedback": "Yogis perform action with the body, mind, intelligence, and even the senses, giving up attachment (sangam tyaktva) for the sake of purification of the soul (atma-suddhaye). This isn't escapism through inaction but engaged detachment-working without claiming proprietorship or seeking personal enjoyment. The activity itself doesn't bind when false identification with doership is abandoned. Purification comes through correct consciousness during action, not cessation of action.",
       "verseLabel": "BG 5.11",
       "verseUrl": "https://vedabase.io/en/library/bg/5/11/",
       "verdict": "Correct"
@@ -343,7 +343,7 @@
       "choices": [
         "Individual soul and Supersoul are equal in quantity always",
         "Similarity in quality doesn't make them equal in quantity",
-        "Parammatma is only in brahmanical bodies of qualified souls",
+        "Paramatma is only in brahmanical bodies of qualified souls",
         "Soul's quantity increases with spiritual advancement and practice"
       ],
       "correctIndex": 1,

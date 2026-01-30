@@ -5,16 +5,16 @@
   "audience": "adult",
   "title": "Bhagavad Gita - Chapter 7 (Adult) | 25Q",
   "difficulty": "medium-hard",
-  "publishedOn": "2026-01-28",
+  "publishedOn": "2026-01-30",
   "questions": [
     {
       "id": "bg7-q1",
-      "prompt": "In BG 7.1, what does Krishna ask Arjuna to do?",
+      "prompt": "In BG 7.1, what principle does Krishna ask Arjuna to do?",
       "choices": [
-        "Leave the battlefield through independent material processes",
-        "Hear about knowledge; entirely surrender to Krishna",
-        "Study scriptures alone through independent material processes",
-        "Perform rituals and worldly philosophical speculation"
+        "Leave battlefield through independent material engagement processes",
+        "Hear about knowledge and entirely surrender to Krishna",
+        "Study scriptures alone through independent material speculation",
+        "Perform rituals through worldly philosophical speculation only"
       ],
       "correctIndex": 1,
       "feedback": "Krishna reveals the knowledge of self and His divine nature.",
@@ -24,30 +24,30 @@
     },
     {
       "id": "bg7-q2",
-      "prompt": "According to BG 7.2, what is the promise to one who understands this knowledge?",
+      "prompt": "In the purport to BG 7.2, what false path does Srila Prabhupada warn against regarding spiritual knowledge?",
       "choices": [
-        "Knowledge of physical phenomena and external forms",
-        "Complete knowledge; minimal remains to be known",
-        "Confusion and worldly philosophical speculation",
-        "More questions and worldly philosophical speculation"
+        "Pursuing intellectual understanding without practical realization through devotional service",
+        "Reading too many books instead of focusing on single scripture study alone",
+        "Seeking knowledge from spiritual teachers rather than discovering independently",
+        "Studying philosophy before establishing firm foundation in ritual worship"
       ],
-      "correctIndex": 1,
-      "feedback": "Full understanding eliminates all doubt and leads to completeness.",
+      "correctIndex": 0,
+      "feedback": "Srila Prabhupada explains that theoretical knowledge alone is insufficient. One must combine jnana (knowledge) with vijnana (realized understanding) through practice. The trap is accumulating information without transformation. Why this matters: Modern seekers confuse intellectual grasp with actual realization. The false path is studying endlessly without applying knowledge in devotional practice.",
       "verseLabel": "BG 7.2",
       "verseUrl": "https://vedabase.io/en/library/bg/7/2/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q3",
-      "prompt": "In BG 7.3, what is the rarity of those who can understand Krishna's nature?",
+      "prompt": "In the purport to BG 7.3, what distinction does Srila Prabhupada make between jnana and vijnana?",
       "choices": [
-        "every can understand through independent material processes",
-        "Among thousands of humans, few endeavor for perfection",
-        "It is common knowledge through independent material processes",
-        "every sages know this through independent material processes"
+        "Jnana is theoretical knowledge; vijnana is realized practical understanding",
+        "Jnana comes from books; vijnana comes from direct guru instruction",
+        "Jnana is intellectual understanding; vijnana is emotional devotional feeling",
+        "Jnana means material knowledge; vijnana means transcendental scriptural study"
       ],
-      "correctIndex": 1,
-      "feedback": "Self-realization is the rarest achievement among living beings.",
+      "correctIndex": 0,
+      "feedback": "Srila Prabhupada explains that jnana means theoretical knowledge of the spirit soul's nature. Vijnana means practical realization of spiritual truth through devotional practice. The trap: collecting information without transformation. Why this matters: The false path is academic study without applying Krishna consciousness in life. Real spiritual advancement requires both theoretical understanding and practical realization.",
       "verseLabel": "BG 7.3",
       "verseUrl": "https://vedabase.io/en/library/bg/7/3/",
       "verdict": "Correct"
@@ -56,10 +56,10 @@
       "id": "bg7-q4",
       "prompt": "What does BG 7.4 teach about Krishna's energies?",
       "choices": [
-        "He has no power through independent material processes",
-        "My energy is divided into eight aspects beings manifest through these",
-        "every is one through independent material processes",
-        "primarily one energy exists through independent material processes"
+        "Krishna has no power through speculative material processes",
+        "My energy divides into eight aspects manifesting all beings",
+        "Everything is one through speculative material processes only",
+        "Only one primary energy exists through material speculation"
       ],
       "correctIndex": 1,
       "feedback": "The Lord manifests the material and spiritual worlds through His energies.",
@@ -69,15 +69,15 @@
     },
     {
       "id": "bg7-q5",
-      "prompt": "According to BG 7.5, what is the relationship between matter and the living entity?",
+      "prompt": "In the purport to BG 7.5, what false conception does Srila Prabhupada warn against about the living entity?",
       "choices": [
-        "They are unrelated through independent material processes",
-        "The material energy is inferior",
-        "Matter is superior through independent material processes",
-        "Both are equal through independent material processes"
+        "That living entities are simply combinations of material elements only",
+        "That souls gradually evolve from matter through biological processes over time",
+        "That consciousness emerges from complex chemical reactions in the brain",
+        "That individual souls will eventually merge into one impersonal existence"
       ],
-      "correctIndex": 1,
-      "feedback": "The spiritual nature of the soul is higher than the material world.",
+      "correctIndex": 0,
+      "feedback": "Srila Prabhupada warns against the materialistic view that life comes from matter. The living entity is superior energy, not a product of inferior material combinations. The trap: thinking consciousness is material byproduct. Why this matters: The false path is reducing spiritual to material. Real understanding recognizes the soul as eternally distinct from matter.",
       "verseLabel": "BG 7.5",
       "verseUrl": "https://vedabase.io/en/library/bg/7/5/",
       "verdict": "Correct"
@@ -86,10 +86,10 @@
       "id": "bg7-q6",
       "prompt": "In BG 7.6, what is the origin of all beings?",
       "choices": [
-        "They are eternal through independent material processes",
-        "I am the source of every",
+        "All beings are eternal through independent material processes",
+        "I am the source of everything that exists",
         "Matter created itself through independent material processes",
-        "They are created randomly through independent material processes"
+        "Beings created randomly through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna is the ultimate source and sustainer of all existence.",
@@ -99,27 +99,27 @@
     },
     {
       "id": "bg7-q7",
-      "prompt": "What does BG 7.7 teach about relationships and attachments?",
+      "prompt": "In the purport to BG 7.7, what psychological trap does Srila Prabhupada identify about perceiving the Absolute?",
       "choices": [
-        "There are no relationships through independent material processes",
-        "I am the taste in water light in the sun",
-        "minimal is connected through independent material processes",
-        "Relationships are illusions through independent material processes"
+        "Thinking the Absolute must be impersonal because personal form suggests material limitation",
+        "Believing that God's form must conform to our material imagination and expectations",
+        "Assuming the Absolute can be fully understood through logical reasoning and philosophy",
+        "Concluding that all paths lead to same destination regardless of actual understanding"
       ],
-      "correctIndex": 1,
-      "feedback": "The Divine is the essence behind all manifestations of life and nature.",
+      "correctIndex": 0,
+      "feedback": "Srila Prabhupada warns against the impersonalist error - thinking that personality implies material limitation. This is the mayavadi trap: projecting material defects onto the spiritual realm. Why this matters: The false path is rejecting Krishna's personal form while claiming to be advanced. Real knowledge accepts the Absolute Truth as simultaneously personal and unlimited.",
       "verseLabel": "BG 7.7",
       "verseUrl": "https://vedabase.io/en/library/bg/7/7/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q8",
-      "prompt": "According to BG 7.8, what does Krishna identify as His living energy?",
+      "prompt": "According to BG 7.8, what principle does Krishna identify as His living energy?",
       "choices": [
-        "Matter alone and worldly philosophical speculation",
-        "The sound vibration OM; I am the spiritual energy",
-        "Time and worldly philosophical speculation",
-        "Space and worldly philosophical speculation"
+        "Matter alone through worldly material speculation",
+        "The sound vibration OM representing spiritual energy",
+        "Time alone through worldly material speculation",
+        "Space alone through worldly material speculation"
       ],
       "correctIndex": 1,
       "feedback": "The sacred sound OM represents Krishna's transcendental potency.",
@@ -131,10 +131,10 @@
       "id": "bg7-q9",
       "prompt": "In BG 7.9, what are examples of Krishna being the original of all?",
       "choices": [
-        "He is primarily in the temple",
-        "I am the fragrance in water heat in fire the life in every",
-        "Examples cannot be given through independent material processes",
-        "minimal comes from Krishna through independent material processes"
+        "Krishna is primarily only in temple worship",
+        "I am fragrance in water, heat in fire, life in all beings",
+        "Examples cannot be given through speculative material processes",
+        "Only minimal comes from Krishna through material speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna is perceptible through His intimate presence in all creation.",
@@ -146,10 +146,10 @@
       "id": "bg7-q10",
       "prompt": "What does BG 7.10 teach about Krishna's powers?",
       "choices": [
-        "He has no power through independent material processes",
-        "The force of my energy is the essence of every things rests on my potency",
-        "Power is temporary through independent material processes",
-        "primarily one thing has power"
+        "Krishna has no power through speculative material processes",
+        "Force of energy is essence, everything rests on my potency",
+        "Power is only temporary through speculative material processes",
+        "Only one primary thing has power in material existence"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's energy is the fundamental basis of all material and spiritual existence.",
@@ -161,10 +161,10 @@
       "id": "bg7-q11",
       "prompt": "According to BG 7.11, what types of people approach Krishna?",
       "choices": [
-        "primarily the pious through independent material processes",
-        "The righteous seek me, while the wicked seek material gains",
+        "Only the pious approach through speculative material processes",
+        "Righteous seek me, while wicked seek only material gains",
         "No one seeks Krishna through independent material processes",
-        "every equally and worldly philosophical speculation"
+        "Everyone equally seeks Krishna through worldly speculation"
       ],
       "correctIndex": 1,
       "feedback": "Different motivations determine how one approaches the Divine.",
@@ -176,10 +176,10 @@
       "id": "bg7-q12",
       "prompt": "In BG 7.12, what kinds of worship does Krishna recognize?",
       "choices": [
-        "primarily one way through independent material processes",
+        "Only one way through independent material processes",
         "The wise worship me in my various forms",
         "Worship is pointless through independent material processes",
-        "every worship is equal through independent material processes"
+        "Every worship equally through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna accepts devotion in whatever form it is offered sincerely.",
@@ -192,8 +192,8 @@
       "prompt": "What does BG 7.13 teach about those attached to material desires?",
       "choices": [
         "They progress spiritually through independent material processes",
-        "They worship the demigods",
-        "every gain equally through independent material processes",
+        "They worship demigods seeking temporary material rewards",
+        "Everyone gains equally through independent material processes",
         "Material desire is good through independent material processes"
       ],
       "correctIndex": 1,
@@ -204,15 +204,15 @@
     },
     {
       "id": "bg7-q14",
-      "prompt": "According to BG 7.14, who can attain Krishna consciousness?",
+      "prompt": "In the purport to BG 7.14, why does Srila Prabhupada warn that maya is insurmountable by material effort?",
       "choices": [
-        "primarily the wise through independent material processes",
-        "Those who surrender unto me with full faith",
-        "every equally and worldly philosophical speculation",
-        "No one can through independent material processes"
+        "Because maya actively prevents all spiritual progress through constant material engagement",
+        "Because only surrender to Krishna provides the power to overcome maya's illusion",
+        "Because maya requires many lifetimes of gradual purification before transcendence",
+        "Because maya is ultimately more powerful than God's grace and divine mercy"
       ],
       "correctIndex": 1,
-      "feedback": "Perfect surrender requires unwavering faith and devotion.",
+      "feedback": "Srila Prabhupada explains that maya is daivi (divine) and cannot be overcome by personal effort. Only by surrendering to Krishna does one cross over. The psychological trap is thinking self-improvement alone can achieve liberation. Why this matters: The false path is attempting spiritual advancement through willpower without devotion. Real transcendence requires grace through surrender.",
       "verseLabel": "BG 7.14",
       "verseUrl": "https://vedabase.io/en/library/bg/7/14/",
       "verdict": "Correct"
@@ -221,9 +221,9 @@
       "id": "bg7-q15",
       "prompt": "In BG 7.15, what types of fools are mentioned?",
       "choices": [
-        "primarily the ignorant through independent material processes",
-        "Those who know not my transcendental nature",
-        "every people are wise through independent material processes",
+        "Only the ignorant through independent material processes",
+        "Those who know not my transcendental divine nature",
+        "All people are wise through independent material processes",
         "Knowledge brings problems through independent material processes"
       ],
       "correctIndex": 1,
@@ -234,15 +234,15 @@
     },
     {
       "id": "bg7-q16",
-      "prompt": "What does BG 7.16 teach about approaching Krishna?",
+      "prompt": "In the purport to BG 7.16, what warning does Srila Prabhupada give about approaching God with material desires?",
       "choices": [
-        "It is impossible through independent material processes",
-        "Four types of fortunate people approach me: the distressed curious seeker of wealth the wise",
-        "No one approaches Krishna through independent material processes",
-        "every equally approach through independent material processes"
+        "That any approach to God, even with desires, is completely worthless and condemned",
+        "That distressed and desiring devotees are pious but must eventually seek pure love",
+        "That only those approaching without any motivation whatsoever can be accepted",
+        "That material desires automatically disqualify one from any spiritual progress completely"
       ],
       "correctIndex": 1,
-      "feedback": "Different circumstances can lead to sincere seeking of the Divine.",
+      "feedback": "Srila Prabhupada explains that approaching Krishna even with material desires is pious, but the highest platform is seeking Krishna without expectation. The trap is either rejecting conditional devotees or remaining stuck in material motivation. Why this matters: The false path is thinking impure motivation prevents spiritual life. Real progress allows gradual purification from material desires to pure love.",
       "verseLabel": "BG 7.16",
       "verseUrl": "https://vedabase.io/en/library/bg/7/16/",
       "verdict": "Correct"
@@ -251,10 +251,10 @@
       "id": "bg7-q17",
       "prompt": "According to BG 7.17, among those who approach Krishna, who is dearest to Him?",
       "choices": [
-        "The distressed and worldly philosophical speculation",
-        "The wise who serve me with single-pointed devotion",
-        "The wealthy and worldly philosophical speculation",
-        "The powerful and worldly philosophical speculation"
+        "The distressed through worldly philosophical speculation",
+        "The wise serving me with single-pointed devotion",
+        "The wealthy through worldly philosophical speculation",
+        "The powerful through worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The sincere devotee devoted to Krishna alone is most beloved.",
@@ -266,10 +266,10 @@
       "id": "bg7-q18",
       "prompt": "In BG 7.18-19, who are truly wise according to Krishna?",
       "choices": [
-        "The learned scholars through independent material processes",
-        "At the end of many births wise know me as every that is",
-        "Scholars are wisest through independent material processes",
-        "No one is wise through independent material processes"
+        "The learned scholars through speculative material processes",
+        "After many births, wise know me as everything that is",
+        "Material scholars are wisest through speculative processes",
+        "No one is truly wise through speculative material processes"
       ],
       "correctIndex": 1,
       "feedback": "True wisdom culminates in surrender to the Supreme.",
@@ -279,27 +279,27 @@
     },
     {
       "id": "bg7-q19",
-      "prompt": "What does BG 7.20 teach about those whose minds are distracted?",
+      "prompt": "In the purport to BG 7.19, what false conception does Srila Prabhupada address about spiritual advancement?",
       "choices": [
-        "They succeed and worldly philosophical speculation",
-        "Those attracted to other demigods lose focus on me and cannot obtain lasting peace",
-        "every achieve equally through independent material processes",
-        "Distraction is good through independent material processes"
+        "That anyone can achieve full realization quickly through weekend meditation retreats",
+        "That after many births of seeking, the wise person recognizes Krishna as everything",
+        "That spiritual knowledge develops automatically without sustained practice or study",
+        "That material advancement and wealth indicate spiritual progress and divine favor"
       ],
       "correctIndex": 1,
-      "feedback": "Divided attention prevents full attainment of the highest goal.",
-      "verseLabel": "BG 7.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/7/20/",
+      "feedback": "Srila Prabhupada explains that after many births of philosophical search, one who truly knows surrenders to Krishna, recognizing Vasudeva as all. The psychological insight: intellectual seeking eventually must culminate in devotional surrender. Why this matters: The false path is perpetual philosophical speculation without conclusion. Real wisdom recognizes Krishna as the ultimate goal after exhausting material alternatives.",
+      "verseLabel": "BG 7.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/7/19/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q20",
       "prompt": "According to BG 7.21, what happens when Krishna grants desires to other deities' worshippers?",
       "choices": [
-        "He denies them through independent material processes",
-        "I grant them their desires, but they eventually return to this world",
-        "They achieve liberation through independent material processes",
-        "They prosper consistently through independent material processes"
+        "Krishna denies them through speculative material processes",
+        "I grant desires, but they eventually return to material world",
+        "They achieve liberation through speculative material processes",
+        "They prosper forever through speculative material processes"
       ],
       "correctIndex": 1,
       "feedback": "Material desires may be fulfilled but lead only to temporary satisfaction.",
@@ -309,27 +309,27 @@
     },
     {
       "id": "bg7-q21",
-      "prompt": "In BG 7.23, what awaits those who worship other deities with temporary material goals?",
+      "prompt": "In the purport to BG 7.20-23, what psychological trap does Srila Prabhupada identify about demigod worship?",
       "choices": [
-        "Unlimited progress and worldly philosophical speculation",
-        "They achieve temporary results and eventually return to the cycle of birth and death",
-        "Eternal liberation and worldly philosophical speculation",
-        "Permanent satisfaction and worldly philosophical speculation"
+        "That demigods are completely imaginary and worshiping them produces no results",
+        "That worship of demigods brings temporary rewards but distracts from ultimate goal",
+        "That demigod worship is equally valuable as Krishna worship for spiritual liberation",
+        "That demigods are more accessible than Krishna and therefore better for beginners"
       ],
       "correctIndex": 1,
-      "feedback": "Limited worship brings limited and temporary results.",
-      "verseLabel": "BG 7.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/7/23/",
+      "feedback": "Srila Prabhupada warns that those of small intelligence worship demigods for temporary material benefits, missing the supreme goal. The trap is being satisfied with lesser attainments. Why this matters: The false path is seeking material solutions from demigods while neglecting Krishna. Real intelligence directs worship to the Supreme Source who can grant both material and spiritual perfection.",
+      "verseLabel": "BG 7.20-23",
+      "verseUrl": "https://vedabase.io/en/library/bg/7/20/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q22",
       "prompt": "What does BG 7.24 teach about how Krishna appears to different worshippers?",
       "choices": [
-        "He appears the same to every",
-        "I appear according to the faith and consciousness of the worshipper",
-        "He not appears through independent material processes",
-        "primarily one form exists through independent material processes"
+        "Krishna appears the same to everyone always",
+        "I appear according to faith and consciousness of worshipper",
+        "Krishna does not appear through speculative material processes",
+        "Only one form exists through speculative material processes"
       ],
       "correctIndex": 1,
       "feedback": "One's own consciousness shapes what one perceives of the Divine.",
@@ -341,10 +341,10 @@
       "id": "bg7-q23",
       "prompt": "According to BG 7.25, why do foolish people mistake Krishna for a mortal?",
       "choices": [
-        "It is obvious Krishna is mortal",
-        "They cannot understand my transcendental nature",
-        "every know Krishna's nature through independent material processes",
-        "This not happens through independent material processes"
+        "It is obvious Krishna is mortal being",
+        "They cannot understand my transcendental divine nature",
+        "Everyone knows Krishna's nature through material processes",
+        "This does not happen through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Ignorance of Krishna's divine nature is the cause of this delusion.",
@@ -354,32 +354,32 @@
     },
     {
       "id": "bg7-q24",
-      "prompt": "In BG 7.26, what does Krishna know?",
+      "prompt": "In the purport to BG 7.24, what false understanding do the less intelligent have about Krishna?",
       "choices": [
-        "The past primarily through independent material processes",
-        "every that is, was will be",
-        "minimal of the future through independent material processes",
-        "primarily this world through independent material processes"
+        "They think Krishna's form is imaginary and His teachings are mythological stories",
+        "They think Krishna is born through karma and later attains realization gradually",
+        "They think the unmanifest Brahman has assumed a personal form through material illusion",
+        "They think Krishna's pastimes are symbolic representations of philosophical principles only"
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna's omniscience encompasses all of past, present, and future.",
-      "verseLabel": "BG 7.26",
-      "verseUrl": "https://vedabase.io/en/library/bg/7/26/",
+      "correctIndex": 2,
+      "feedback": "Srila Prabhupada explains that foolish people think the unmanifest Brahman has assumed a form, not understanding Krishna's transcendental nature. This is the impersonalist error: thinking the personal is lower than the impersonal. Why this matters: The false path is considering Krishna's form as material manifestation. Real knowledge accepts that Krishna is eternally personal and supreme.",
+      "verseLabel": "BG 7.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/7/24/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q25",
-      "prompt": "What is the main message of Chapter 7?",
+      "prompt": "In the purport to BG 7.25, why does Srila Prabhupada explain that Krishna is not manifest to everyone?",
       "choices": [
-        "Ignore Krishna and worldly philosophical speculation",
-        "I am the source of every",
-        "Material life is best through independent material processes",
-        "Worship many gods equally through independent material processes"
+        "Because Krishna randomly chooses favorites and conceals Himself from all others arbitrarily",
+        "Because Krishna is covered by yoga-maya and foolish people cannot understand Him properly",
+        "Because Krishna lacks the power to reveal Himself to materialistic people lacking devotion",
+        "Because people must achieve specific realization levels through effort before seeing Krishna"
       ],
       "correctIndex": 1,
-      "feedback": "Complete knowledge culminates in whole-hearted surrender to the Supreme.",
-      "verseLabel": "BG 7.27",
-      "verseUrl": "https://vedabase.io/en/library/bg/7/27/",
+      "feedback": "Srila Prabhupada explains that Krishna is covered by His internal yoga-maya potency. Foolish people who do not surrender cannot understand Him. The psychological insight: Krishna reveals Himself to devotees but remains hidden from those who reject Him. Why this matters: The false path is thinking Krishna is bound to reveal Himself to our speculation. Real understanding comes through devotional surrender, not intellectual prowess.",
+      "verseLabel": "BG 7.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/7/25/",
       "verdict": "Correct"
     }
   ]

@@ -17,7 +17,7 @@
         "Expressing compassion for family members shows proper understanding of relationships"
       ],
       "correctIndex": 0,
-      "feedback": "Correct: Srila Prabhupada explains that compassion for the eternal soul is self-realization, while compassion for the gross material body is senseless-like saving a drowning man by rescuing only his clothes. Arjuna's compassion targets the wrong object (relatives' bodies), producing confusion rather than clarity. Why this matters: Material sentimentality masquerades as transcendental mercy when we focus on the body's temporary distress while neglecting the soul's eternal welfare. Genuine mercy addresses the soul's bondage to the birth-death cycle, not bodily comfort. Discriminate between material emotion (attachment-based) and spiritual compassion (knowledge-based).",
+      "feedback": "Correct: Srila Prabhupada explains that compassion for the eternal soul is self-realization, while compassion for the gross material body is senseless-like saving a drowning man by rescuing only his clothes. Arjuna's compassion targets the wrong object (relatives' bodies), producing confusion rather than clarity. Why this matters: Material sentimentality masquerades as transcendental mercy when we focus on the body's temporary distress while neglecting the soul's eternal welfare.",
       "verseLabel": "BG 2.1",
       "verseUrl": "https://vedabase.io/en/library/bg/2/1/",
       "verdict": "Correct"
@@ -77,7 +77,7 @@
         "That expressing compassion through lamentation indicates evolved consciousness and empathy"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Srila Prabhupada explains that lamentation for material bodies-living or dead-indicates ignorance of the soul's eternal nature (pandita sama-darshina). The wise neither lament the living nor the dead because they recognize the soul beyond bodily modifications. Why this matters: Mistaking material compassion for self-realization means grieving bodily changes while ignoring the soul's continuity. Material sentiment (attachment to bodies) differs categorically from spiritual wisdom (vision of soul). Test wisdom not by emotional depth but by transcendental discrimination.",
+      "feedback": "Correct: Srila Prabhupada explains that lamentation for material bodies-living or dead-indicates ignorance of the soul's eternal nature (pandita sama-darshina). The wise neither lament the living nor the dead because they recognize the soul beyond bodily modifications. Material sentiment (attachment to bodies) differs categorically from spiritual wisdom (vision of soul).",
       "verseLabel": "BG 2.11",
       "verseUrl": "https://vedabase.io/en/library/bg/2/11/",
       "verdict": "Correct"
@@ -92,7 +92,7 @@
         "All beings merge into one existence in the future"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Krishna declares 'na tv evaham jatu nasam'-never was there a time when I did not exist, nor you, nor these kings; nor shall any cease to be. The verse explicitly establishes eternal individuality: past, present, and future all include distinct persons. This refutes both Buddhist momentariness (we didn't exist before) and Mayavada merging (won't exist distinctly after). Personal eternal relationship with Krishna is sanatana-dharma's foundation-not achieving undifferentiated oneness but perfecting loving service to the eternally distinct Lord.",
+      "feedback": "Correct: Krishna declares 'na tv evaham jatu nasam'-never was there a time when I did not exist, nor you, nor these kings; nor shall any cease to be. Why this matters: The verse explicitly establishes eternal individuality (aham, tvam, ime) refuting both Buddhist momentariness and Mayavada merging. Personal eternal relationship with Krishna is sanatana-dharma's foundation-not achieving undifferentiated oneness but perfecting loving service to the eternally distinct Lord.",
       "verseLabel": "BG 2.12",
       "verseUrl": "https://vedabase.io/en/library/bg/2/12/",
       "verdict": "Correct"
@@ -144,17 +144,17 @@
     },
     {
       "id": "bg2-q10",
-      "prompt": "How does the distinction in BG 2.16 between the nonexistent and the eternal resolve Arjuna's grief?",
+      "prompt": "In BG 2.31, what does Krishna say a kshatriya should consider regarding a righteous fight?",
       "choices": [
-        "Both body and soul eventually merge into one undifferentiated spiritual existence",
-        "Since the body is temporary and soul eternal, death changes nothing real",
-        "All individual distinctions between souls and bodies are ultimately false conceptions",
-        "Neither the soul nor the body can be known with any real certainty"
+        "It is better to avoid all warfare for spiritual advancement",
+        "Nothing is higher for a kshatriya than a righteous fight",
+        "Fighting relatives is always spiritually contaminating",
+        "One should postpone battle until achieving complete detachment"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: The verse distinguishes asat (nonexistent body) from sat (existent soul)-asat na vidyate bhava (nonexistent has no endurance), sat na vidyate abhava (existent has no cessation). Why this matters: Treating body and soul as equally real but different misses the categorical distinction between temporary and eternal. The body participates in nonexistence throughout, being perpetually changing; the soul participates in eternality throughout. This resolves Arjuna's grief by exposing a category error: lamenting change in what's inherently changeable while ignoring the unchanging observer.",
-      "verseLabel": "BG 2.16",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/16/",
+      "feedback": "Correct: Krishna declares that for a kshatriya, nothing is higher than dharmyad yuddhad (righteous war)-this isn't concession but affirmation of varna-dharma's validity. Fighting in accordance with prescribed duty isn't spiritually neutral but positively righteous when performed without material attachment. This establishes that renouncing one's dharma isn't spiritual advancement but dereliction disguised as transcendence.",
+      "verseLabel": "BG 2.31",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/31/",
       "verdict": "Correct"
     },
     {
@@ -227,7 +227,7 @@
         "One should work only when results are guaranteed to be favorable"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: The verse establishes adhikara (right) to karmani (prescribed work) but not to phaleshu (fruits)-a revolutionary principle separating action from result. Why this matters: Results-driven action means performing duty contingent on guaranteed outcomes, producing anxiety and attachment. Right to action exists unconditionally; right to results doesn't exist at all-results belong to Krishna's arrangement, not our control. This frees us from dual bondage: attachment to performing (when success is expected) and attachment to not-performing (when failure is feared). Perform duty as offering regardless of result, transforming work from selfish transaction to selfless service.",
+      "feedback": "Correct: The verse establishes adhikara (right) to karmani (prescribed work) but not to phaleshu (fruits)-a revolutionary principle separating action from result. Why this matters: Results-driven action means performing duty contingent on guaranteed outcomes, producing anxiety and attachment. Right to action exists unconditionally; right to results doesn't exist at all-results belong to Krishna's arrangement. Perform duty as offering regardless of result, transforming work from selfish transaction to selfless service.",
       "verseLabel": "BG 2.47",
       "verseUrl": "https://vedabase.io/en/library/bg/2/47/",
       "verdict": "Correct"
@@ -272,7 +272,7 @@
         "Either fighting or fleeing would be acceptable since all choices are relative"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Krishna synthesizes metaphysics (2.12-25 soul eternality) with ethics (2.31-32 kshatriya duty)-a two-pronged resolution of Arjuna's crisis. The soul's indestructibility removes the philosophical objection (can't truly kill anyone), while kshatriya-dharma provides positive justification (righteous war for righteous warrior). Together they eliminate paralysis: Arjuna no longer fears action's consequences (metaphysical security) while having clear direction to act (ethical imperative). Spiritual discrimination requires an integrated approach-transcendental philosophy grounding material duty, producing fearless righteous action.",
+      "feedback": "Correct: Krishna synthesizes metaphysics (2.12-25 soul eternality) with ethics (2.31-32 kshatriya duty)-a two-pronged resolution. The soul's indestructibility removes philosophical objection (can't truly kill anyone); kshatriya-dharma provides positive justification (righteous war for righteous warrior). Together they eliminate paralysis: metaphysical security plus ethical imperative produce fearless righteous action.",
       "verseLabel": "BG 2.12-32",
       "verseUrl": "https://vedabase.io/en/library/bg/2/12/",
       "verdict": "Correct"
@@ -302,7 +302,7 @@
         "Society can definitely save one from death through collective effort"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Srila Prabhupada calls family attachment 'skin disease'-superficial bodily identification. The krpana (miser) thinks family can protect from death. Why this matters: Sentimentalized domesticity treats family relationships as spiritually ultimate, providing existential security and permanent satisfaction, but family affection based on shared 'skin' represents material consciousness masquerading as love. Family cannot protect from death because death is the body's destiny, not the soul's problem. Maintain family responsibilities while recognizing only Krishna provides actual protection-family as service-field, not security-source.",
+      "feedback": "Correct: Srila Prabhupada calls family attachment 'skin disease'-superficial bodily identification where the krpana (miser) thinks family can protect from death. Why this matters: Sentimentalized domesticity treats family relationships as spiritually ultimate, providing existential security, but family affection based on shared 'skin' represents material consciousness masquerading as love. Family cannot protect from death because death is the body's destiny, not the soul's problem. Maintain family responsibilities while recognizing only Krishna provides actual protection-family as service-field, not security-source.",
       "verseLabel": "BG 2.7",
       "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
       "verdict": "Correct"
@@ -317,24 +317,24 @@
         "One who becomes detached from family life and material affairs"
       ],
       "correctIndex": 2,
-      "feedback": "Correct: The krpana (miser) quits life without solving the human form's purpose-like cats and dogs dying without self-realization. Why this matters: Wasting human opportunity means living for eating, sleeping, mating, and defending like animals, failing to address atma-jnana (self-knowledge) unique to the human platform. Human life's value lies in the potential for self-realization-squandering this through material pursuit alone constitutes ultimate miserliness. Cats and dogs cannot inquire about transcendence; humans who don't are voluntarily reducing themselves to animal consciousness. Prioritize atma-tattva inquiry-temporary comfort is available in any species, spiritual liberation only in human form.",
+      "feedback": "Correct: The krpana (miser) quits life without solving the human form's purpose-like cats and dogs dying without self-realization. Human life's value lies in potential for self-realization; squandering this through material pursuit alone constitutes ultimate miserliness. Cats and dogs cannot inquire about transcendence; humans who don't are voluntarily reducing themselves to animal consciousness.",
       "verseLabel": "BG 2.7",
       "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
       "verdict": "Correct"
     },
     {
       "id": "bg2-q22",
-      "prompt": "According to BG 2.17, what is the indestructible principle that pervades the entire body?",
+      "prompt": "In BG 2.33, what consequence does Krishna warn if Arjuna refuses to fight?",
       "choices": [
-        "The spirit soul (atma), which cannot be destroyed",
-        "The body's vital air (prana) circulating through organs and limbs",
-        "The blood flowing from the heart to all body parts",
-        "The mind and intelligence expanding through the nervous system"
+        "He will achieve renunciation through peaceful non-violence",
+        "He will incur sin and lose his reputation as a warrior",
+        "He will be honored for choosing compassion over duty",
+        "He will demonstrate spiritual advancement by avoiding killing"
       ],
-      "correctIndex": 0,
-      "feedback": "Correct: The verse identifies the avinashi (imperishable) principle pervading the body-the soul, whose presence is known through the symptom of consciousness. The soul transcends all biological functions: prana circulates because the soul is present, not vice versa. Consciousness indicates the soul like temperature indicates fire-a symptomatic effect proving an immaterial cause. Where consciousness exists, the soul is present; where no consciousness, the soul has departed.",
-      "verseLabel": "BG 2.17",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/17/",
+      "correctIndex": 1,
+      "feedback": "Correct: Krishna warns that refusing this dharmic duty will result in papa (sin) and akirtim (loss of reputation)-not spiritual credit but moral failure. Abandoning prescribed duty isn't transcendence but transgression, regardless of how compassionate the rationalization sounds. This establishes that duty-neglect carries karmic consequences even when motivated by apparently noble sentiment.",
+      "verseLabel": "BG 2.33",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/33/",
       "verdict": "Correct"
     },
     {
@@ -347,24 +347,24 @@
         "Because the soul's eternal nature prevents any philosophical speculation"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: Srila Prabhupada refutes the Mayavada 'cutting' theory-if souls were cut from the Supreme, He would become changeable, contradicting His immutability. Fragmental portions (vibhinnamshas) exist eternally as individuals-not produced by division but constitutionally distinct. The Supreme remains unchanged while souls remain eternal-both immutable but in different categories (infinite vs infinitesimal). Acintya-bhedabheda (inconceivable oneness-difference) resolves what emanation cannot: simultaneous relationship and distinction without compromising either party's nature.",
+      "feedback": "Correct: Srila Prabhupada refutes the Mayavada 'cutting' theory-if souls were cut from the Supreme, He would become changeable, contradicting His immutability. Fragmental portions (vibhinnamshas) exist eternally as individuals-not produced by division but constitutionally distinct. Acintya-bhedabheda (inconceivable oneness-difference) resolves what emanation cannot: simultaneous relationship and distinction without compromising either party's nature.",
       "verseLabel": "BG 2.13",
       "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
       "verdict": "Correct"
     },
     {
       "id": "bg2-q24",
-      "prompt": "In the purport to BG 2.13, why does Srila Prabhupada say the instructor-instructed relationship between Krsna and Arjuna is meaningful?",
+      "prompt": "In BG 2.38, how does Krishna instruct Arjuna to regard happiness/distress, gain/loss, victory/defeat?",
       "choices": [
-        "Both are on the same level of realization and spiritual understanding",
-        "Both are equally deluded by maya's influence and material energy",
-        "Krsna is superior, Arjuna is forgetful soul deluded by maya",
-        "Arjuna is the Supreme teaching the subordinate Krsna divine knowledge"
+        "Strive intensely for victory while avoiding defeat at all costs",
+        "Treat them as equal and fight, incurring no sin",
+        "Abandon fighting to avoid attachment to outcomes",
+        "Focus only on happiness and victory as proper motivation"
       ],
-      "correctIndex": 2,
-      "feedback": "Correct: The Krishna-Arjuna instructor-instructed relationship is meaningful because Krishna is Supreme while Arjuna is bhramita (forgetful soul deluded by maya). The relationship isn't expert teaching novice (quantitative difference) but Supreme instructing conditioned (qualitative difference). Krishna's superiority is constitutional, not circumstantial-never deluded, eternally conscious; Arjuna's inferiority is present condition, not permanent nature-forgetful but recoverable. This establishes the teaching's possibility: the Supreme can enlighten the conditioned through knowledge-transmission.",
-      "verseLabel": "BG 2.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
+      "correctIndex": 1,
+      "feedback": "Correct: Krishna commands sama-kritva (treating as equal) happiness/distress, gain/loss, victory/defeat, then fight-you won't incur sin. This synthesizes soul-eternality teaching (2.12-25) with dutiful action, producing equipoise-based karma-yoga. Equanimity isn't passive detachment but the foundation for righteous engagement without material bondage.",
+      "verseLabel": "BG 2.38",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/38/",
       "verdict": "Correct"
     },
     {
@@ -377,7 +377,7 @@
         "True detachment requires mechanically suppressing all natural emotions during action"
       ],
       "correctIndex": 1,
-      "feedback": "Correct: The teaching integrates the body-as-clothes metaphor (2.22) with detached duty-performance (2.38, 2.47)-philosophical foundation enabling practical application. Soul-body distinction enables duty performance without existential investment: if bodies are mere garments, bodily outcomes (victory/defeat) don't affect the essential self. Perform kshatriya duty appropriate for the current body without confusion that results touch the soul. Metaphysical knowledge serves a practical purpose-transforming action from self-interested grasping to self-aware offering.",
+      "feedback": "Correct: The teaching integrates the body-as-clothes metaphor (2.22) with detached duty-performance (2.38, 2.47)-philosophical foundation enabling practical application. Soul-body distinction enables duty without existential investment: if bodies are mere garments, bodily outcomes don't affect the essential self. Metaphysical knowledge transforms action from self-interested grasping to self-aware offering.",
       "verseLabel": "BG 2.22-47",
       "verseUrl": "https://vedabase.io/en/library/bg/2/22/",
       "verdict": "Correct"

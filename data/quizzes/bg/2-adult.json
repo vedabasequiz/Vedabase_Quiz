@@ -28,7 +28,7 @@
       "choices": [
         "Yield to sorrow and accept defeat",
         "Give up petty weakness of heart and arise",
-        "Renounce the world immediately",
+        "Renounce the world immediately through independent material processes",
         "Compose a hymn of praise"
       ],
       "correctIndex": 1,
@@ -44,7 +44,7 @@
         "They will easily be defeated",
         "They are worthy of his worship and respect",
         "They are untrained in battle",
-        "They have no followers"
+        "They have no followers through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna hesitates because Bhisma and Drona are his superiors and worthy of worship.",
@@ -58,8 +58,8 @@
       "choices": [
         "He declares independence from Krsna",
         "He surrenders and asks for instruction",
-        "He insults Krsna",
-        "He attacks Krsna verbally"
+        "He insults Krsna through independent material processes",
+        "He attacks Krsna verbally through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna takes shelter of Krsna as his teacher and asks for instruction.",
@@ -71,10 +71,10 @@
       "id": "bg2-q5",
       "prompt": "According to BG 2.11, how do the wise view mourning?",
       "choices": [
-        "They lament only for the living",
+        "They lament primarily for the living",
         "They lament both the living and the dead",
         "They lament neither for the living nor for the dead",
-        "They always express visible grief"
+        "They consistently express visible grief"
       ],
       "correctIndex": 2,
       "feedback": "Those who are wise lament neither for the living nor for the dead.",
@@ -86,8 +86,8 @@
       "id": "bg2-q6",
       "prompt": "According to BG 2.12, what is the eternal nature of existence?",
       "choices": [
-        "There was a time none of us existed",
-        "Never was there a time when I did not exist, nor you",
+        "There was a time no of us existed",
+        "not was there a time when I did not exist, nor you",
         "All beings are created and destroyed daily",
         "The body is the eternal self"
       ],
@@ -101,8 +101,8 @@
       "id": "bg2-q7",
       "prompt": "BG 2.13 compares changes of the body to what analogy?",
       "choices": [
-        "Seasons changing",
-        "Wearing new garments",
+        "Seasons changing and worldly philosophical speculation",
+        "Wearing new garments through independent material processes",
         "A person passing from boyhood to youth to old age",
         "A river flowing to the sea"
       ],
@@ -116,7 +116,7 @@
       "id": "bg2-q8",
       "prompt": "What does BG 2.14 say about happiness and distress?",
       "choices": [
-        "They are permanent states",
+        "They are permanent states through independent material processes",
         "They are like summer and winter and should be tolerated",
         "They are illusions to be ignored entirely",
         "They are signals of divine favor"
@@ -133,7 +133,7 @@
       "choices": [
         "One disturbed by happiness and distress",
         "One steady and not disturbed by happiness or distress",
-        "One who accumulates wealth",
+        "One who accumulates wealth through independent material processes",
         "One who renounces without understanding"
       ],
       "correctIndex": 1,
@@ -149,7 +149,7 @@
         "The material body is eternal and the soul temporary",
         "Of the nonexistent the body has no endurance and of the eternal the soul has no change",
         "Both body and soul are equally perishable",
-        "Nothing can be known for certain"
+        "minimal can be known for certain"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.16 distinguishes the nonendurance of the body from the changeless soul.",
@@ -161,10 +161,10 @@
       "id": "bg2-q11",
       "prompt": "BG 2.17 describes the soul as what?",
       "choices": [
-        "Perishable and weak",
+        "Perishable and weak through independent material processes",
         "That which pervades the entire body and is indestructible",
-        "Identical with the senses",
-        "Bound by time"
+        "Identical with the senses through independent material processes",
+        "Bound by time through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.17 teaches the soul pervades the body and is indestructible.",
@@ -177,9 +177,9 @@
       "prompt": "What key assertion is made in BG 2.20 about the soul?",
       "choices": [
         "The soul has birth and death like the body",
-        "For the soul there is neither birth nor death; he is unborn and eternal",
+        "For the soul there is neither birth nor death",
         "The soul is a temporary spark",
-        "Death ends all existence"
+        "Death ends every existence through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.20 states the soul is unborn, eternal, and not slain when the body is slain.",
@@ -191,10 +191,10 @@
       "id": "bg2-q13",
       "prompt": "Which simile is used in BG 2.22 to explain the soul's transition?",
       "choices": [
-        "A tree shedding leaves",
+        "A tree shedding leaves through independent material processes",
         "Putting on new garments and giving up old ones",
         "A river evaporating into mist",
-        "A mountain eroding"
+        "A mountain eroding through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.22 compares the soul's change of body to changing garments.",
@@ -207,7 +207,7 @@
       "prompt": "What does BG 2.23 teach about weapons and the soul?",
       "choices": [
         "Weapons can destroy the soul",
-        "The soul can never be cut to pieces by any weapon",
+        "The soul can not be cut to pieces by any weapon",
         "Fire alone can harm the soul",
         "Water can wash away the soul"
       ],
@@ -221,10 +221,10 @@
       "id": "bg2-q15",
       "prompt": "BG 2.25 calls the soul which of the following?",
       "choices": [
-        "Visible and changeable",
+        "Visible and changeable through independent material processes",
         "Invisible, inconceivable and immutable",
-        "A local entity",
-        "A collection of elements"
+        "A local entity through independent material processes",
+        "A collection of elements through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.25: the soul is invisible, inconceivable and immutable; do not grieve for the body.",
@@ -236,10 +236,10 @@
       "id": "bg2-q16",
       "prompt": "In BG 2.30, why need one not grieve for any living being?",
       "choices": [
-        "Because the body is the only reality",
-        "Because he who dwells in the body can never be slain",
-        "Because grief is always rewarded",
-        "Because life is trivial"
+        "Because the body is the primarily reality",
+        "Because he who dwells in the body can not be slain",
+        "Because grief is consistently rewarded",
+        "Because life is trivial through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.30 states the indwelling self cannot be slain, so grief is unnecessary.",
@@ -251,10 +251,10 @@
       "id": "bg2-q17",
       "prompt": "What special duty is emphasized in BG 2.31 for a kshatriya?",
       "choices": [
-        "To avoid all combat",
+        "To avoid every combat through independent material processes",
         "That there is no better engagement than fighting on religious principles",
-        "To become a priest",
-        "To renounce family ties"
+        "To become a priest through independent material processes",
+        "To renounce family ties through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.31 instructs a kshatriya to fight on religious principles when duty demands it.",
@@ -284,7 +284,7 @@
         "For material gain and fame",
         "For the sake of fighting, without considering results",
         "Out of hatred and anger",
-        "Only if victory is certain"
+        "primarily if victory is certain"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.38: fight without attachment to gain or loss; such action incurs no sin.",
@@ -298,8 +298,8 @@
       "choices": [
         "You are entitled to both action and its fruits",
         "You have right to perform your duty but not to the fruits of action",
-        "Never perform any duty",
-        "Only fruits matter, not action"
+        "not perform any duty through independent material processes",
+        "primarily fruits matter, not action"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.47: you have right to perform duty but not to the fruits of action.",
@@ -311,10 +311,10 @@
       "id": "bg2-q21",
       "prompt": "How does BG 2.48 define yoga?",
       "choices": [
-        "Attachment to success",
+        "Attachment to success through independent material processes",
         "Performing duty wounded by desire",
         "Performing duty equipoised, abandoning attachment to success or failure",
-        "Complete withdrawal from action"
+        "Complete withdrawal from action through independent material processes"
       ],
       "correctIndex": 2,
       "feedback": "BG 2.48 defines yoga as equanimity in performing duty without attachment to results.",
@@ -326,10 +326,10 @@
       "id": "bg2-q22",
       "prompt": "What benefit is described in BG 2.50 for one engaged in devotional service?",
       "choices": [
-        "He accumulates more reactions",
+        "He accumulates more reactions through independent material processes",
         "He rids himself of both good and bad reactions even in this life",
         "He becomes isolated from society",
-        "He becomes worldly-wise only"
+        "He becomes worldly-wise primarily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.50: devotional service frees one from both good and bad reactions even in this life.",
@@ -341,10 +341,10 @@
       "id": "bg2-q23",
       "prompt": "BG 2.55 describes the symptom of pure transcendental consciousness as what?",
       "choices": [
-        "Desire for sense gratification",
+        "Desire for sense gratification through independent material processes",
         "Mind purified and finding satisfaction in the self alone",
-        "Restless pursuit of power",
-        "Attachment to ritual"
+        "Restless pursuit of power through independent material processes",
+        "Attachment to ritual through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.55: pure consciousness finds satisfaction in the self after giving up desire for sense gratification.",
@@ -356,10 +356,10 @@
       "id": "bg2-q24",
       "prompt": "According to BG 2.56, who is called a sage of steady mind?",
       "choices": [
-        "One disturbed by emotions",
+        "One disturbed by emotions through independent material processes",
         "One not disturbed in mind amidst miseries and free from attachment, fear and anger",
-        "One who seeks only pleasure",
-        "One who is always angry"
+        "One who seeks primarily pleasure",
+        "One who is consistently angry"
       ],
       "correctIndex": 1,
       "feedback": "BG 2.56: one not disturbed amid miseries and free from attachment, fear and anger is a sage of steady mind.",

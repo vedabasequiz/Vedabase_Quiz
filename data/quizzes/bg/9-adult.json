@@ -11,10 +11,10 @@
       "id": "bg9-q1",
       "prompt": "In BG 9.1, what does Krishna describe as the most confidential knowledge?",
       "choices": [
-        "Rules of conduct",
-        "The most secret knowledge; free from all doubts; this science is eternal",
-        "Ritual procedures",
-        "Material science"
+        "Rules of conduct through independent material processes",
+        "The most secret knowledge",
+        "Ritual procedures and worldly philosophical speculation",
+        "Material science and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "This knowledge is the most profound and transformative of all teachings.",
@@ -26,10 +26,10 @@
       "id": "bg9-q2",
       "prompt": "According to BG 9.2, what are the benefits of this knowledge?",
       "choices": [
-        "Temporary relief",
-        "Free from all sin; sustains virtue; one attains eternal peace",
-        "Brings suffering",
-        "Creates more doubt"
+        "Knowledge of physical phenomena and external forms",
+        "Free from every sin; sustains virtue; one attains eternal peace",
+        "Brings suffering and worldly philosophical speculation",
+        "Creates more doubt through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "This knowledge purifies completely and grants eternal liberation.",
@@ -41,10 +41,10 @@
       "id": "bg9-q3",
       "prompt": "In BG 9.3, what happens to those who do not practice this yoga?",
       "choices": [
-        "They are blessed",
-        "They continue in the cycle of birth and death; they remain fallen",
-        "They attain peace",
-        "They progress spiritually"
+        "They are blessed through independent material processes",
+        "They continue in the cycle of birth and death",
+        "They attain peace through independent material processes",
+        "They progress spiritually through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Ignoring this path perpetuates material bondage and suffering.",
@@ -56,10 +56,10 @@
       "id": "bg9-q4",
       "prompt": "What does BG 9.4 teach about Krishna's form?",
       "choices": [
-        "He has no form",
-        "Though I am unborn, eternal, all-pervading, I appear in bodily form",
-        "He is only in scripture",
-        "He is invisible always"
+        "He has no form through independent material processes",
+        "Though I am unborn, eternal, every-pervading, I appear in bodily form",
+        "He is primarily in scripture",
+        "He is invisible consistently through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's manifestation in a body is beyond material laws.",
@@ -71,10 +71,10 @@
       "id": "bg9-q5",
       "prompt": "According to BG 9.5, how does everything depend on Krishna?",
       "choices": [
-        "Nothing depends on Him",
+        "minimal depends on Him through independent material processes",
         "All beings rest on me as pearls on a thread",
-        "Beings are independent",
-        "I depend on them"
+        "Beings are independent through independent material processes",
+        "I depend on them through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna sustains all creation like a thread holds pearls together.",
@@ -86,9 +86,9 @@
       "id": "bg9-q6",
       "prompt": "In BG 9.6, what cosmic elements rest upon Krishna?",
       "choices": [
-        "Nothing rests on Him",
-        "All elements, air, sky, planets, stars rest within me",
-        "They are self-supporting",
+        "minimal rests on Him through independent material processes",
+        "every elements, air, sky, planets, stars rest within me",
+        "They are self-supporting through independent material processes",
         "I am dependent on them"
       ],
       "correctIndex": 1,
@@ -101,9 +101,9 @@
       "id": "bg9-q7",
       "prompt": "What does BG 9.7 teach about creation and the Supreme?",
       "choices": [
-        "All is permanent",
-        "All things are created from me; all returns to me; I am the beginning and end",
-        "Nothing begins or ends",
+        "every is permanent through independent material processes",
+        "every things are created from me",
+        "minimal begins or ends through independent material processes",
         "I am dependent on them"
       ],
       "correctIndex": 1,
@@ -116,10 +116,10 @@
       "id": "bg9-q8",
       "prompt": "According to BG 9.8, what is the attitude of those bewildered by illusion?",
       "choices": [
-        "They see clearly",
+        "They see clearly through independent material processes",
         "They do not recognize my supreme nature and think I am mortal",
         "They see Krishna's true nature",
-        "They know my glory"
+        "They know my glory through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Ignorance of Krishna's transcendental nature is the root of delusion.",
@@ -132,8 +132,8 @@
       "prompt": "In BG 9.9, what is the relationship between those attached to material nature and Krishna?",
       "choices": [
         "I am controlled by them",
-        "Their intelligence is diverted; I am not visible to foolish persons",
-        "They easily see me",
+        "Their intelligence is diverted not visible to foolish persons",
+        "They easily see me through independent material processes",
         "I am within their reach"
       ],
       "correctIndex": 1,
@@ -146,10 +146,10 @@
       "id": "bg9-q10",
       "prompt": "What does BG 9.10 teach about the responsibility of maintaining creation?",
       "choices": [
-        "I have no role",
-        "I maintain all creation; out of compassion, I support all beings",
-        "Others maintain it",
-        "No one maintains it"
+        "I have no role through independent material processes",
+        "I maintain all creation",
+        "Others maintain it through independent material processes",
+        "No one maintains it through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's loving care sustains the entire cosmos moment by moment.",
@@ -161,10 +161,10 @@
       "id": "bg9-q11",
       "prompt": "According to BG 9.11, what do those who only have faith in material nature achieve?",
       "choices": [
-        "Lasting peace",
-        "Only temporary fruits; they miss the eternal blessing",
-        "Liberation",
-        "Permanent happiness"
+        "Lasting peace and worldly philosophical speculation",
+        "primarily temporary fruits; they miss the eternal blessing",
+        "Liberation and worldly philosophical speculation",
+        "Permanent happiness and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Limited faith produces limited and temporary results.",
@@ -176,10 +176,10 @@
       "id": "bg9-q12",
       "prompt": "In BG 9.12, what is the consequence of great effort in material pursuits?",
       "choices": [
-        "Success always",
+        "Success consistently and worldly philosophical speculation",
         "Labor and fruit are wasted on those who lack true purpose",
-        "Great rewards",
-        "Lasting joy"
+        "Great rewards and worldly philosophical speculation",
+        "Lasting joy and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Work without spiritual direction ultimately yields no lasting benefit.",
@@ -191,10 +191,10 @@
       "id": "bg9-q13",
       "prompt": "What does BG 9.13 teach about those who are not attached to worldly success?",
       "choices": [
-        "They are failures",
+        "They are failures through independent material processes",
         "They are freed from bondage; they reach me without difficulty",
-        "They are inferior",
-        "They lack ambition"
+        "They are inferior through independent material processes",
+        "They lack ambition through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Detachment from results liberates one and brings direct perception of the Divine.",
@@ -206,10 +206,10 @@
       "id": "bg9-q14",
       "prompt": "According to BG 9.14, what are the qualities of a devoted soul?",
       "choices": [
-        "Weakness and doubt",
-        "Always engaged in remembrance; devoted mind; surrendered intelligence",
-        "Lack of focus",
-        "Worldly attachment"
+        "Weakness and doubt through independent material processes",
+        "consistently engaged in remembrance; devoted mind; surrendered intelligence",
+        "Lack of focus through independent material processes",
+        "Knowledge of physical phenomena and external forms"
       ],
       "correctIndex": 1,
       "feedback": "The true devotee is constantly absorbed in Krishna consciousness.",
@@ -221,10 +221,10 @@
       "id": "bg9-q15",
       "prompt": "In BG 9.15, what do some do to attain Krishna?",
       "choices": [
-        "Very few know",
-        "Others engage in the knowledge of non-duality; they know all beings as one",
-        "Most succeed easily",
-        "This is common"
+        "Very few know through independent material processes",
+        "Others engage in the knowledge of non-duality",
+        "Most succeed easily through independent material processes",
+        "This is common through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Some approach Krishna through non-dual knowledge of unity.",
@@ -236,10 +236,10 @@
       "id": "bg9-q16",
       "prompt": "What does BG 9.16 teach about those who perform sacrifices and rituals?",
       "choices": [
-        "They are wasting time",
+        "They are wasting time through independent material processes",
         "Those who offer sacrifices come to me; they receive benefits",
-        "Rituals are worthless",
-        "Fruits come slowly"
+        "Rituals are worthless through independent material processes",
+        "Fruits come slowly through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Proper ritual, when offered with faith, brings divine grace.",
@@ -251,10 +251,10 @@
       "id": "bg9-q17",
       "prompt": "According to BG 9.17, what is Krishna's role in rituals and results?",
       "choices": [
-        "I am not involved",
-        "I am the recipient and the enjoyer of all sacrifices",
-        "Rituals are self-sufficient",
-        "Results come from elsewhere"
+        "I am not involved through independent material processes",
+        "I am the recipient and the enjoyer of every sacrifices",
+        "Rituals are self-sufficient through independent material processes",
+        "Results come from elsewhere through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna is the ultimate beneficiary and giver of all fruits.",
@@ -266,10 +266,10 @@
       "id": "bg9-q18",
       "prompt": "In BG 9.18, what happens to those who worship Krishna?",
       "choices": [
-        "They remain bound",
+        "They remain bound through independent material processes",
         "They reach me through devotion; they become mine",
-        "They suffer always",
-        "They gain nothing"
+        "They suffer consistently through independent material processes",
+        "They gain minimal through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Those devoted to Krishna are assured of eternal relationship with Him.",
@@ -281,10 +281,10 @@
       "id": "bg9-q19",
       "prompt": "What does BG 9.19 teach about the path of different devotees?",
       "choices": [
-        "All paths differ",
+        "every paths differ through independent material processes",
         "Those performing duties for me reach me through many varied paths",
-        "Only one way exists",
-        "No paths exist"
+        "primarily one way exists through independent material processes",
+        "No paths exist through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna accepts devotion expressed through many different means.",
@@ -296,10 +296,10 @@
       "id": "bg9-q20",
       "prompt": "According to BG 9.20, what is promised to those who follow scriptural laws?",
       "choices": [
-        "Worldly success only",
-        "They go to the celestial planets and enjoy; then they return",
-        "Permanent liberation",
-        "Eternal happiness only"
+        "Knowledge of physical phenomena and external forms",
+        "They go to the celestial planets and enjoy",
+        "Permanent liberation and worldly philosophical speculation",
+        "Eternal happiness primarily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Ritual and merit lead to heavenly pleasures, but these are temporary.",
@@ -311,10 +311,10 @@
       "id": "bg9-q21",
       "prompt": "In BG 9.21, what is the duration of stay in the celestial realms?",
       "choices": [
-        "Permanent",
-        "They stay for as long as their merit lasts, then return",
-        "Forever",
-        "Only momentarily"
+        "Permanent and worldly philosophical speculation",
+        "They stay for as long as their merit lastsn return",
+        "Forever and worldly philosophical speculation",
+        "primarily momentarily and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Even heavenly rewards are temporary and eventually lead back to material struggle.",
@@ -326,10 +326,10 @@
       "id": "bg9-q22",
       "prompt": "What does BG 9.22 teach about those who remember Krishna constantly?",
       "choices": [
-        "They struggle more",
+        "They struggle more through independent material processes",
         "I supply their needs and preserve their possessions",
-        "I ignore them",
-        "They become poor"
+        "I ignore them through independent material processes",
+        "They become poor through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna personally cares for those devoted to remembering Him.",
@@ -341,10 +341,10 @@
       "id": "bg9-q23",
       "prompt": "According to BG 9.23, what is promised to those who worship other deities with exclusive faith?",
       "choices": [
-        "They are blessed",
+        "They are blessed through independent material processes",
         "Their faith becomes firm, but they obtain temporary benefits and must return to material struggle",
-        "They reach Krishna",
-        "They escape material life"
+        "They reach Krishna through independent material processes",
+        "They escape material life through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Even exclusive worship of lesser deities leads only to temporary satisfaction.",
@@ -356,10 +356,10 @@
       "id": "bg9-q24",
       "prompt": "In BG 9.24, what kind of worship yields eternal results?",
       "choices": [
-        "Ritual alone",
-        "Worship performed for me, with faith, offering all to me",
-        "Any worship",
-        "External worship only"
+        "Ritual alone and worldly philosophical speculation",
+        "Worship performed for me, with faith, offering every to me",
+        "Any worship and worldly philosophical speculation",
+        "External worship primarily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Exclusive devotion to Krishna, offered with pure intention, grants eternal benefit.",
@@ -371,10 +371,10 @@
       "id": "bg9-q25",
       "prompt": "What is the main message of Chapter 9's conclusion?",
       "choices": [
-        "Material success is supreme",
-        "Know me truly; surrender to me; become my dear friend and devotee",
-        "Avoid all devotion",
-        "Rituals are best"
+        "Material success is supreme through independent material processes",
+        "Know me truly",
+        "Avoid every devotion through independent material processes",
+        "Rituals are best through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Perfect knowledge culminates in exclusive devotion and intimate relationship with Krishna.",

@@ -11,10 +11,10 @@
       "id": "bg5-q1",
       "prompt": "In BG 5.1, what does Arjuna ask about renunciation versus the path of action?",
       "choices": [
-        "Which is older?",
+        "Which is older? through independent material processes",
         "Which path is superior: renunciation or work in devotion?",
-        "Which brings faster results?",
-        "Which requires less effort?"
+        "Which brings faster results? through independent material processes",
+        "Which requires less effort? through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna seeks to understand both paths and their relationship.",
@@ -26,10 +26,10 @@
       "id": "bg5-q2",
       "prompt": "According to BG 5.2, what is the true nature of renunciation?",
       "choices": [
-        "Abandoning all work",
-        "Abandoning the desire for fruits of action; performing duty is renunciation",
-        "Leaving home and family",
-        "Sitting idle"
+        "Abandoning every work through independent material processes",
+        "Abandoning the desire for fruits of action",
+        "Leaving home and family through independent material processes",
+        "Sitting idle and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "True renunciation is not giving up work but performing it without attachment.",
@@ -41,10 +41,10 @@
       "id": "bg5-q3",
       "prompt": "In BG 5.3, what is the main difference between the sannyasi and the yogi?",
       "choices": [
-        "Sannyasi is superior",
-        "Both reach the same goal; the yogi works, sannyasi studies only",
-        "There is no connection",
-        "They follow different religions"
+        "Sannyasi is superior through independent material processes",
+        "Both reach the same goal",
+        "There is no connection through independent material processes",
+        "They follow different religions through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Both paths lead to the same destination of self-realization.",
@@ -56,10 +56,10 @@
       "id": "bg5-q4",
       "prompt": "What does BG 5.4 teach about the qualities needed for renunciation?",
       "choices": [
-        "Strength alone",
+        "Strength alone and worldly philosophical speculation",
         "Solitude and forbearance",
         "Renunciation is not for ordinary persons",
-        "It requires superhuman abilities"
+        "It requires superhuman abilities through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The renounced order is meant for those purified by works.",
@@ -71,10 +71,10 @@
       "id": "bg5-q5",
       "prompt": "According to BG 5.5, what is the real consequence of true renunciation?",
       "choices": [
-        "You become poor",
+        "You become poor through independent material processes",
         "You attain Brahman and are freed from sorrow",
-        "You lose respect",
-        "You become weak"
+        "You lose respect through independent material processes",
+        "You become weak through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The renunciated soul is peaceful, self-satisfied, and free from suffering.",
@@ -86,10 +86,10 @@
       "id": "bg5-q6",
       "prompt": "In BG 5.6, what keeps one bound to the world?",
       "choices": [
-        "Knowledge",
+        "Knowledge and worldly philosophical speculation",
         "Work without yoga; one cannot be freed by mere renunciation",
-        "Study",
-        "Austerity"
+        "Study and worldly philosophical speculation",
+        "Austerity and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Without the proper yoga (union with God), one cannot be freed.",
@@ -101,10 +101,10 @@
       "id": "bg5-q7",
       "prompt": "According to BG 5.7, what characterizes the transcendental person?",
       "choices": [
-        "They are always angry",
+        "They are consistently angry through independent material processes",
         "They are unaffected by joy or sorrow, are self-controlled",
-        "They enjoy pleasures heavily",
-        "They are easily disturbed"
+        "They enjoy pleasures heavily through independent material processes",
+        "They are easily disturbed through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The transcendentalist remains balanced in success and failure.",
@@ -116,10 +116,10 @@
       "id": "bg5-q8",
       "prompt": "In BG 5.8, how does the transcendentalist use the senses?",
       "choices": [
-        "They suppress all senses",
+        "They suppress every senses through independent material processes",
         "They withdraw from sense objects and use senses properly",
-        "They indulge freely",
-        "They become insensitive"
+        "They indulge freely through independent material processes",
+        "They become insensitive through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The wise engage senses for their proper purpose without attachment.",
@@ -131,10 +131,10 @@
       "id": "bg5-q9",
       "prompt": "What does BG 5.9 teach about one who engages in devotional service?",
       "choices": [
-        "They accumulate more karma",
+        "They accumulate more karma through independent material processes",
         "They are quickly freed from karma and attain peace",
-        "They suffer more",
-        "They remain bound"
+        "They suffer more through independent material processes",
+        "They remain bound through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Devotional service swiftly purifies the soul and removes all impurities.",
@@ -146,10 +146,10 @@
       "id": "bg5-q10",
       "prompt": "According to BG 5.10, how does one attain freedom from material bondage?",
       "choices": [
-        "Through intellectual study alone",
+        "Through intellectual study alone through independent material processes",
         "By dedicating body and mind to Krishna, with detachment from results",
-        "By wealth and power",
-        "Through suffering"
+        "By wealth and power through independent material processes",
+        "Through suffering and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Full surrender and devotion are the quickest paths to liberation.",
@@ -161,9 +161,9 @@
       "id": "bg5-q11",
       "prompt": "In BG 5.11, who is a true renunciate according to Krishna?",
       "choices": [
-        "One who leaves home",
-        "One who has conquered the senses and mind; who serves all equally",
-        "One who never works",
+        "One who leaves home through independent material processes",
+        "One who has conquered the senses and mind",
+        "One who not works through independent material processes",
         "One who lives in poverty"
       ],
       "correctIndex": 1,
@@ -176,10 +176,10 @@
       "id": "bg5-q12",
       "prompt": "What does BG 5.12 teach about the fruits of work?",
       "choices": [
-        "They should be hoarded",
-        "The wise perform work and offer all results to Krishna",
-        "Results are unimportant",
-        "Work produces only suffering"
+        "They should be hoarded through independent material processes",
+        "The wise perform work and offer every results to Krishna",
+        "Results are unimportant through independent material processes",
+        "Work produces primarily suffering through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "By offering results to God, one is freed from karmic reactions.",
@@ -191,10 +191,10 @@
       "id": "bg5-q13",
       "prompt": "According to BG 5.13, what can the body truly do?",
       "choices": [
-        "Create new desires",
-        "Only act in response to the modes of material nature",
-        "Achieve permanent results",
-        "Always remain pure"
+        "Create new desires through independent material processes",
+        "primarily act in response to the modes of material nature",
+        "Achieve permanent results through independent material processes",
+        "consistently remain pure through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The material body can only interact with material nature.",
@@ -206,10 +206,10 @@
       "id": "bg5-q14",
       "prompt": "In BG 5.14, who is truly liberated according to Krishna?",
       "choices": [
-        "The wealthy",
+        "The wealthy and worldly philosophical speculation",
         "One who has transcended ego and false identification with the body",
-        "The powerful",
-        "The famous"
+        "The powerful and worldly philosophical speculation",
+        "The famous and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Liberation comes from renouncing the false ego and bodily identification.",
@@ -221,10 +221,10 @@
       "id": "bg5-q15",
       "prompt": "What does BG 5.15 teach about attaining peace?",
       "choices": [
-        "Peace comes from gratification",
+        "Peace comes from gratification through independent material processes",
         "Peace comes through self-knowledge and surrender to Krishna",
-        "Peace is impossible",
-        "Peace requires isolation"
+        "Peace is impossible through independent material processes",
+        "Peace requires isolation through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "True peace comes from knowing the eternal nature of the soul.",
@@ -236,10 +236,10 @@
       "id": "bg5-q16",
       "prompt": "According to BG 5.16, what is the result of attaining knowledge?",
       "choices": [
-        "Temporary relief",
-        "All doubts are dispelled and one is liberated",
-        "Confusion increases",
-        "Knowledge brings more questions"
+        "Knowledge of physical phenomena and external forms",
+        "every doubts are dispelled and one is liberated",
+        "Confusion increases and worldly philosophical speculation",
+        "Knowledge brings more questions through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "True knowledge destroys all doubts and grants liberation.",
@@ -253,8 +253,8 @@
       "choices": [
         "Being born in a high family",
         "Purity, control of senses, dedication, knowledge of self",
-        "Wealth alone",
-        "Physical strength"
+        "Wealth alone and worldly philosophical speculation",
+        "Physical strength and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "These qualifications purify the consciousness for divine perception.",
@@ -267,9 +267,9 @@
       "prompt": "What does BG 5.18 teach about vision and equanimity?",
       "choices": [
         "The learned see all beings as one",
-        "The truly learned see God equally in all beings and are never attached",
-        "This is impossible",
-        "Only saints can do this"
+        "The truly learned see God equally in all beings and are not attached",
+        "This is impossible through independent material processes",
+        "primarily saints can do this"
       ],
       "correctIndex": 1,
       "feedback": "The wise perceive the same eternal soul in all creatures.",
@@ -281,10 +281,10 @@
       "id": "bg5-q19",
       "prompt": "According to BG 5.19, what is the ideal state of a yogi?",
       "choices": [
-        "Constant mental agitation",
-        "Mind fixed on Krishna, free from lust; sees all beings equally",
-        "Confusion and doubt",
-        "Endless desires"
+        "Constant mental agitation through independent material processes",
+        "Mind fixed on Krishna, free from lust",
+        "Confusion and doubt through independent material processes",
+        "Endless desires and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Such a soul attains the highest peace and spiritual position.",
@@ -296,10 +296,10 @@
       "id": "bg5-q20",
       "prompt": "In BG 5.20, what happens when one attains brahma-nirvana?",
       "choices": [
-        "Extinction of existence",
-        "The jiva is freed from all material conditioning; returns to Krishna",
+        "Extinction of existence through independent material processes",
+        "The jiva is freed from every material conditioning",
         "Remaining in the material world",
-        "Becoming impersonal"
+        "Becoming impersonal and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Liberation is reunion with the source and attainment of eternal existence.",
@@ -311,10 +311,10 @@
       "id": "bg5-q21",
       "prompt": "What does BG 5.21 teach about sensory control?",
       "choices": [
-        "Suppression is the goal",
+        "Suppression is the goal through independent material processes",
         "The wise internally renounce sensory pleasure and are not disturbed",
-        "Senses should be indulged",
-        "Control is impossible"
+        "Senses should be indulged through independent material processes",
+        "Control is impossible through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The transcendentalist masters senses without forceful suppression.",
@@ -326,10 +326,10 @@
       "id": "bg5-q22",
       "prompt": "According to BG 5.22, what external stimulus cannot disturb a realized soul?",
       "choices": [
-        "Pain alone",
+        "Pain alone and worldly philosophical speculation",
         "Heat, cold, pleasure, pain, praise, or blame",
-        "Success alone",
-        "Only intense suffering"
+        "Success alone and worldly philosophical speculation",
+        "primarily intense suffering through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The liberated soul remains unmoved by the dualities of the world.",
@@ -341,10 +341,10 @@
       "id": "bg5-q23",
       "prompt": "In BG 5.23, what is the meaning of the phrase 'before leaving the body'?",
       "choices": [
-        "Death",
+        "Death and worldly philosophical speculation",
         "Before the external world can disturb one in meditation",
-        "Immediately",
-        "Gradually over time"
+        "Immediately and worldly philosophical speculation",
+        "Gradually over time through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "One should achieve this peace and detachment while still living.",
@@ -356,9 +356,9 @@
       "id": "bg5-q24",
       "prompt": "What does BG 5.24 teach about the path to Brahman?",
       "choices": [
-        "It is very difficult",
+        "It is very difficult through independent material processes",
         "The process of yoga and meditation; controlling mind and senses",
-        "It is impossible",
+        "It is impossible through independent material processes",
         "It requires years of study"
       ],
       "correctIndex": 1,
@@ -371,10 +371,10 @@
       "id": "bg5-q25",
       "prompt": "According to BG 5.25 (conclusion of Chapter 5), what can the yogi attain?",
       "choices": [
-        "Temporary peace only",
-        "Freedom from all misery; eternal happiness in Krishna",
-        "More karma",
-        "Worldly success"
+        "Knowledge of physical phenomena and external forms",
+        "Freedom from every misery; eternal happiness in Krishna",
+        "More karma and worldly philosophical speculation",
+        "Knowledge of physical phenomena and external forms"
       ],
       "correctIndex": 1,
       "feedback": "The ultimate goal is attainment of eternal bliss in the kingdom of God.",

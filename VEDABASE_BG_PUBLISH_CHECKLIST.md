@@ -89,7 +89,7 @@ Based on common misunderstandings (not silly or irrelevant)
 ☐ No trick questions
 
 ☐ No “all of the above / none of the above”
-
+**Reference:** See [BG_DISTRACTOR_STYLE_GUIDE.md](BG_DISTRACTOR_STYLE_GUIDE.md) for gold standard distractor creation guidelines
 7. Translation vs Purport Balance
 
 ☐ Overall mix respects locked ratio:
@@ -233,6 +233,12 @@ Misplaced emphasis
 Common devotional misunderstandings
 
 ☐ Distractors do not accidentally become correct under loose reading
+
+**Gold Standard:** See [BG_DISTRACTOR_STYLE_GUIDE.md](BG_DISTRACTOR_STYLE_GUIDE.md) for:
+- 6 approved distractor categories (partial truth, bodily identification, false renunciation, etc.)
+- Forbidden types (academic labels, silly options, absolutist strawmen, vague statements)
+- Structural rules and difficulty calibration
+- Chapter-specific philosophical emphasis (BG 1-18)
 
 13. Feedback Depth (Adults)
 

@@ -28,6 +28,36 @@ Quiz JSON files are in:
 Each quiz page is served at:
 - `/quiz/<slug>/`
 
+## ✅ Quiz Quality Standards
+
+**Before committing any quiz changes, run comprehensive validation:**
+
+```bash
+python3 scripts/validate-all-standards.py data/quizzes/bg/[file].json
+```
+
+**To validate all BG quizzes:**
+
+```bash
+python3 scripts/validate-all-standards.py data/quizzes/bg/*.json
+```
+
+**Automated pre-commit hook** is installed at `.git/hooks/pre-commit` and will automatically validate quiz files on every commit.
+
+### Documentation
+
+- **[COMPREHENSIVE_VALIDATION_WORKFLOW.md](COMPREHENSIVE_VALIDATION_WORKFLOW.md)** - Complete validation checklist and workflow (START HERE)
+- **[VEDABASE_BG_PUBLISH_CHECKLIST.md](VEDABASE_BG_PUBLISH_CHECKLIST.md)** - 3-tier governance standards (Tier 1/2/3)
+- **[QUIZ_QUALITY_STANDARDS.md](QUIZ_QUALITY_STANDARDS.md)** - MCQ design guidelines (length balance, plausible distractors)
+- **[BG_QUIZ_REVISION_TEMPLATE.md](BG_QUIZ_REVISION_TEMPLATE.md)** - Step-by-step revision process with fix strategies
+- **[FAMILY_TESTING_GUIDE.md](FAMILY_TESTING_GUIDE.md)** - User testing protocol (3 tests)
+
+### Validation Scripts
+
+1. **`validate-all-standards.py`** - Comprehensive check (Tier 1/2/3 + quality)
+2. **`validate-quiz-quality.py`** - Detailed per-question quality analysis
+3. **`fix-unicode-bg.py`** - Automated Unicode → ASCII conversion
+
 - Deployment trigger
 
 

@@ -147,7 +147,7 @@
       "prompt": "According to BG 6.10, what should the yogi do constantly?",
       "choices": [
         "Practice physical postures and breathing exercises throughout the day",
-        "Engage consciousness while secluded, self-controlled, desireless, non-possessive",
+        "Fix the mind in meditation while secluded, self-controlled, desireless, non-possessive",
         "Study scripture and attend philosophical discussions with devotees",
         "Perform elaborate fire sacrifices and Vedic rituals regularly"
       ],
@@ -219,14 +219,14 @@
     },
     {
       "id": "bg6-q15",
-      "prompt": "In the purport to BG 6.15, what false conception of yogic perfection does Srila Prabhupada address?",
+      "prompt": "In the purport to BG 6.15, how does Srila Prabhupada explain the true nature of yogic perfection (shanti/nirvana-parama)?",
       "choices": [
-        "That yogic perfection means developing eight mystic powers and siddhis for material benefit",
-        "That perfection requires complete abandonment of all activity and all relationships with others permanently",
-        "That yogic trance state alone without devotion guarantees spiritual liberation from material bondage",
-        "That perfection comes through physical exercises rather than consciousness purification"
+        "As cessation of all consciousness in an impersonal void state",
+        "As mat-samstha (abiding in Krsna), not cessation but connection",
+        "As complete abandonment of all activity and relationships",
+        "As developing mystic powers and supernatural abilities"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Yunjann evam (thus engaging) atmanam (self) yogi niyata-manah (controlled mind) shantim (peace) nirvana-paramam (supreme liberation) mat-samstha (abiding in Me) attains. Why this matters: Shanti and nirvana-parama defined as mat-samstha (abiding in Krsna)-not impersonal void but personal relationship with Supreme. Liberation isn't cessation but connection-ending material existence for transcendental existence. Seek positive liberation-Krsna-relationship, redefining freedom from absence-of-bondage to presence-of-devotion.",
       "verseLabel": "BG 6.15",
       "verseUrl": "https://vedabase.io/en/library/bg/6/15/",
@@ -279,17 +279,17 @@
     },
     {
       "id": "bg6-q19",
-      "prompt": "In the purport to BG 6.18-19, what does Srila Prabhupada warn about artificial meditation?",
+      "prompt": "In the purport to BG 6.19, what analogy does Srila Prabhupada use to illustrate the steadiness of a controlled mind?",
       "choices": [
-        "That meditation without proper diet cannot succeed",
-        "That forcing mind into silence without engagement creates frustration",
-        "That meditation needs sacred locations with guidance",
-        "That modern people lack capacity for meditation"
+        "Like a mountain unmoved by strong winds and storms",
+        "Like a lamp in a windless place that doesn't flicker",
+        "Like a deep ocean undisturbed by surface waves",
+        "Like a tree with deep roots unshaken by tempests"
       ],
       "correctIndex": 1,
       "feedback": "Yatha dipo nivata-sthah (as lamp in windless place) na ingate (doesn't flicker)-yoga-yukta (engaged yogi) whose citta (consciousness) controlled practicing atma-yoga (self-meditation). Controlled consciousness like lamp in windless place-steady unflickering focus indicating stability-quality not intensity-quantity. Restless struggling differs from steady focus-former indicates insufficient preparation, latter indicates ripening practice. Cultivate steadiness-patient consistent practice developing natural stability, measuring meditation-quality by steadiness not intensity.",
-      "verseLabel": "BG 6.18-19",
-      "verseUrl": "https://vedabase.io/en/library/bg/6/18/",
+      "verseLabel": "BG 6.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/6/19/",
       "verdict": "Correct"
     },
     {
@@ -302,7 +302,7 @@
         "Through complete unconsciousness and absence of all perception"
       ],
       "correctIndex": 1,
-      "feedback": "Where citta niruddham (consciousness controlled) yoga-sevatah (through yoga-practice)-where atmanam atmana pashyan (seeing self through self) atmani (in self) tushyati (is satisfied). Why this matters: Atmana pashyan atmanam-self validating through self-perception not external feedback, achieving fulfillment from inner realization. This removes spiritual politics. Cultivate self-validation-measure advancement through direct self-perception, not external markers (titles/positions/followers), achieving independence from social validation.",
+      "feedback": "Where citta niruddham (consciousness controlled) yoga-sevatah (through yoga-practice)-where atmanam atmana pashyan (seeing self through self) atmani (in self) tushyati (is satisfied). This happiness is atindriyam (beyond senses) and buddhi-grahyam (grasped by purified intelligence)-transcendental bliss perceived through spiritual realization not sensory experience. Why this matters: Atmana pashyan atmanam-self validating through self-perception not external feedback, achieving fulfillment from inner realization. Cultivate self-validation-measure advancement through direct self-perception, not external markers (titles/positions/followers), achieving independence from social validation.",
       "verseLabel": "BG 6.20-21",
       "verseUrl": "https://vedabase.io/en/library/bg/6/20/",
       "verdict": "Correct"

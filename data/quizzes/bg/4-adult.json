@@ -117,7 +117,7 @@
       "prompt": "Why does BG 4.13 organize society by qualities and work rather than birth alone?",
       "choices": [
         "The egalitarian misconception that all divisions are oppressive constructs",
-        "Natural abilities determine suitable service; proper arrangement",
+        "Natural abilities determine suitable service; arrangement prevents exploitation",
         "The hereditary corruption that birth determines occupation mechanically",
         "The meritocratic illusion that individual choice alone should determine role"
       ],
@@ -162,9 +162,9 @@
       "prompt": "Why are even the wise bewildered about action and inaction according to BG 4.16?",
       "choices": [
         "The phenomenal complexity surpasses human intellectual capacity entirely",
-        "Consciousness (intention) determines bondage; the same act can bind or liberate",
+        "Because action appears as inaction and inaction appears action",
         "The relativist view that no objective distinction exists between them",
-        "Insufficient study prevents understanding this obvious philosophical matter"
+        "Because material existence obscures spiritual reality causing confusion"
       ],
       "correctIndex": 1,
       "feedback": "Externally identical work can be karma (binding) or akarma (liberating) depending on consciousness; the mystery lies in intention and consciousness, not mechanical performance, bewildering those focused on externals.",
@@ -191,10 +191,10 @@
       "id": "bg4-q13",
       "prompt": "How does BG 4.20-21's principle of detachment from results free one from karmic reactions?",
       "choices": [
-        "The stoic suppression of natural desires through willpower alone",
+        "Detachment allows full action without generating karmic bondage",
         "Desire for fruits binds; renouncing claim to results leaves one satisfied and unbound",
         "The antinomian error that realized souls can act without consequences",
-        "The fatalist resignation that outcomes don't matter since predetermined"
+        "They are contradictory creating tension between duty and liberation"
       ],
       "correctIndex": 1,
       "feedback": "Attachment to fruits entangles consciousness in results, creating karmic bonds; detachment means not claiming results as 'mine,' while dedicating work to Krishna. Same action performed, different consciousness liberates.",
@@ -267,8 +267,8 @@
       "prompt": "How does Prabhupada's warning (BG 4.2 purport) about demons making business on Krishna's words apply to modern Gita commentaries that reject Krishna's personality?",
       "choices": [
         "The academic pretense of objective scholarship while denying the subject",
-        "All interpretations validly contribute to understanding truth equally",
-        "Rejecting personal God shows advanced philosophical sophistication",
+        "Both show misappropriation of spiritual authority enables exploitation",
+        "They are unrelated historical observations without common theme",
         "The pluralist view that multiple contradictory readings enrich scripture"
       ],
       "correctIndex": 0,
@@ -357,9 +357,9 @@
       "prompt": "How does Prabhupada's instruction (BG 4.34 purport) to approach a guru with surrender, inquiry, and service balance submission with intelligence?",
       "choices": [
         "The fundamentalist error of blind acceptance without understanding",
-        "Humble service enables receptivity; sincere questions demonstrate seriousness",
+        "Both require humble submission rejecting pride in intelligence",
         "The skeptic's pride demanding proof before commitment or surrender",
-        "The relativist claim that no one has authority to teach absolute truth"
+        "They are contradictory suggesting both surrender and independence"
       ],
       "correctIndex": 1,
       "feedback": "True discipleship avoids both extremes: not blind belief (which lacks understanding) nor prideful interrogation (which lacks humility). Rather, service opens the heart while intelligent inquiry deepens comprehension, uniting devotion and discrimination.",

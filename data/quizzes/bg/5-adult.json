@@ -11,8 +11,8 @@
       "id": "bg5-q1",
       "prompt": "Why does Arjuna ask again in BG 5.1 which path is superior, despite Krishna's previous explanations?",
       "choices": [
-        "The dualistic error of seeing renunciation and action as contradictory",
-        "Krishna deliberately confuses Arjuna with contradictory teachings",
+        "The dualistic error seeing renunciation and action contradictory",
+        "Krishna deliberately confuses Arjuna with contradictory spiritual teachings",
         "The relativist claim that all paths are equally valid spiritually",
         "Arjuna has forgotten everything Krishna taught in previous chapters"
       ],
@@ -221,9 +221,9 @@
       "id": "bg5-q15",
       "prompt": "How does the teaching that karma-yoga and sannyasa reach the same goal (BG 5.4-5) relate to the yogi's equal vision (BG 5.18-19)?",
       "choices": [
-        "The relativist error that all paths are equally valid regardless of consciousness",
+        "Both paths reach same goal revealing surface difference only",
         "Both paths cultivate detachment enabling perception of soul in all beings",
-        "The dualist misconception that action and knowledge exist separately",
+        "They are incompatible requiring choice between action or renunciation",
         "The elitist view that renunciation is inherently superior to work"
       ],
       "correctIndex": 1,
@@ -311,9 +311,9 @@
       "id": "bg5-q21",
       "prompt": "How does Prabhupada's peace formula (BG 5.29 purport)-Krishna as proprietor, beneficiary, friend-address global conflicts over resources, nationalism, and competing interests?",
       "choices": [
-        "The utopian error that religion alone solves political problems",
+        "Both recognize false proprietorship causes conflict and anxiety",
         "Recognizing true Owner/Enjoyer dissolves false proprietorship conflicts",
-        "The secular view that separating religion from politics brings peace",
+        "They are unrelated political and spiritual observations",
         "The pluralist hope that respecting all beliefs creates harmony"
       ],
       "correctIndex": 1,

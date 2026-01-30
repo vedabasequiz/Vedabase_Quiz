@@ -69,15 +69,15 @@
     },
     {
       "id": "bg2-q5",
-      "prompt": "According to BG 2.11, how do the wise view mourning?",
+      "prompt": "In the purport to BG 2.11, what false path does Srila Prabhupada warn against regarding lamentation?",
       "choices": [
-        "They lament primarily for the living in this world",
-        "They lament both the living and the dead equally",
-        "They lament neither for the living nor for the dead",
-        "They consistently express visible grief over material losses"
+        "That emotional expression for material loss demonstrates spiritual sensitivity and advancement",
+        "That the wise lament neither the living nor dead recognizing soul eternality",
+        "That grieving for the soul's temporary bondage shows proper spiritual understanding",
+        "That expressing compassion through lamentation indicates evolved consciousness and empathy"
       ],
-      "correctIndex": 2,
-      "feedback": "Those who are wise lament neither for the living nor for the dead.",
+      "correctIndex": 1,
+      "feedback": "Srila Prabhupada explains that lamentation for material bodies-whether living or dead-indicates ignorance of the soul's eternal nature. The trap: thinking emotional attachment to bodies demonstrates spiritual sensitivity. Why this matters: The false path is mistaking material compassion for self-realization. Real wisdom recognizes the soul beyond bodily changes, neither lamenting material loss nor celebrating material gain.",
       "verseLabel": "BG 2.11",
       "verseUrl": "https://vedabase.io/en/library/bg/2/11/",
       "verdict": "Correct"
@@ -101,8 +101,8 @@
       "id": "bg2-q7",
       "prompt": "How does BG 2.13 illustrate the soul's continuity through bodily changes?",
       "choices": [
-        "Like a river flowing continuously through different landscapes",
-        "As the embodied soul passes from boyhood to youth to old age",
+        "Like a river flowing continuously through different changing landscapes",
+        "As embodied soul passes from boyhood to youth to age",
         "Like seasons changing from spring to summer to winter",
         "As consciousness expands from childhood ignorance to mature wisdom"
       ],
@@ -117,8 +117,8 @@
       "prompt": "Why does BG 2.14 compare happiness and distress to summer and winter?",
       "choices": [
         "To show they are unavoidable and must be accepted as destiny",
-        "To emphasize their temporary nature arising from sense contact",
-        "To prove material pleasure brings spiritual advancement naturally",
+        "Temporary sensations come and go like seasons; endure them",
+        "Happiness and distress alternate predictably like seasonal weather cycles",
         "To demonstrate that both states are equally valuable for spiritual growth"
       ],
       "correctIndex": 1,
@@ -266,9 +266,9 @@
       "id": "bg2-q18",
       "prompt": "How do the arguments about the soul's eternality (BG 2.12-25) and Arjuna's warrior duty (BG 2.31-32) work together to resolve his crisis?",
       "choices": [
-        "Performing prescribed duties matters more than understanding spiritual philosophy",
+        "Both reveal duty transcends personal comfort; act despite difficulty",
         "Eternal soul makes death illusory; kshatriya duty makes fighting righteous",
-        "Violence against others can never be justified under any circumstances whatsoever",
+        "They contradict each other revealing inconsistency in teaching",
         "Either fighting or fleeing would be acceptable since all choices are relative"
       ],
       "correctIndex": 1,

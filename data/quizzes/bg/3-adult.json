@@ -177,7 +177,7 @@
       "prompt": "BG 3.17 states that one whose greatest pleasure is within is called what?",
       "choices": [
         "A hermit living alone away from society",
-        "A sthita-prajna or self-realized person satisfied within",
+        "A self-realized person (atma-rama) satisfied within",
         "A wealthy person enjoying unlimited possessions",
         "An ascetic performing extreme penances continuously"
       ],
@@ -219,15 +219,15 @@
     },
     {
       "id": "bg3-q15",
-      "prompt": "According to BG 3.20, who among great souls is considered fully satisfied?",
+      "prompt": "According to BG 3.20, how did King Janaka and others attain perfection?",
       "choices": [
-        "The wealthy who possess material opulence beyond measure",
-        "One who acts without expectation of reward, in Krishna consciousness",
-        "The most intelligent who excel in academic pursuits",
-        "The strongest who dominate others through physical power"
+        "By renouncing all duties and withdrawing from society",
+        "By performing prescribed duties without attachment to results",
+        "Through accumulation of vast knowledge and scholarship",
+        "By gaining political power and influencing masses"
       ],
       "correctIndex": 1,
-      "feedback": "Such a person has no desire and is content with whatever comes naturally.",
+      "feedback": "Janaka and other kings attained perfection by performing their prescribed duties for the welfare of people (loka-sangraha), not for personal gain-demonstrating action without attachment as the path to liberation.",
       "verseLabel": "BG 3.20",
       "verseUrl": "https://vedabase.io/en/library/bg/3/20/",
       "verdict": "Correct"

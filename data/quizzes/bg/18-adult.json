@@ -11,10 +11,10 @@
       "id": "bg18-q1",
       "prompt": "In BG 18.1, what does Arjuna ask at the beginning of the final chapter?",
       "choices": [
-        "About victory",
+        "About victory and worldly philosophical speculation",
         "To clearly explain sannyasa (renunciation) and tyaga (relinquishment)",
-        "War tactics",
-        "Political strategy"
+        "War tactics and worldly philosophical speculation",
+        "Political strategy and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna seeks final clarity on the path of renunciation versus action.",
@@ -26,10 +26,10 @@
       "id": "bg18-q2",
       "prompt": "According to BG 18.2, what is the definition of renunciation given?",
       "choices": [
-        "Abandoning work",
+        "Abandoning work and worldly philosophical speculation",
         "Relinquishing the desire for fruits; not the action itself",
-        "Doing nothing",
-        "Avoiding all duties"
+        "Doing minimal and worldly philosophical speculation",
+        "Avoiding every duties through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "True renunciation is freedom from selfish motive, not cessation of action.",
@@ -41,10 +41,10 @@
       "id": "bg18-q3",
       "prompt": "In BG 18.3, what do some wise men teach?",
       "choices": [
-        "All actions are evil",
-        "All action is tainted by desire; one should abandon it",
-        "Action is always good",
-        "Never work"
+        "every actions are evil through independent material processes",
+        "every action is tainted by desire; one should abandon it",
+        "Action is consistently good through independent material processes",
+        "not work and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Some philosophers advocate complete withdrawal from all activity.",
@@ -56,10 +56,10 @@
       "id": "bg18-q4",
       "prompt": "What does BG 18.4-5 teach about the reality of renunciation?",
       "choices": [
-        "Renunciation is worthless",
+        "Renunciation is worthless through independent material processes",
         "One cannot abandon action; even maintaining body requires action",
-        "Work is optional",
-        "No one works"
+        "Work is optional through independent material processes",
+        "No one works through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Action is inherent in maintaining the body and consciousness.",
@@ -71,10 +71,10 @@
       "id": "bg18-q5",
       "prompt": "According to BG 18.6, what is the superior path?",
       "choices": [
-        "Pretend renunciation",
+        "Pretend renunciation and worldly philosophical speculation",
         "Work without desire for fruit; offer it to the Lord",
-        "Inaction",
-        "Selfish action"
+        "Inaction and worldly philosophical speculation",
+        "Selfish action and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Selfless work offered to Krishna is superior to renouncing work.",
@@ -86,10 +86,10 @@
       "id": "bg18-q6",
       "prompt": "In BG 18.7, what characterizes true renunciation?",
       "choices": [
-        "Hatred of work",
+        "Hatred of work through independent material processes",
         "Disliking work but performing duty without attachment; unaffected by results",
-        "Avoiding action",
-        "Desiring fruits"
+        "Avoiding action and worldly philosophical speculation",
+        "Desiring fruits and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The renunciate acts dutifully without selfish attachment.",
@@ -101,10 +101,10 @@
       "id": "bg18-q7",
       "prompt": "What does BG 18.8 teach about those who abandon action?",
       "choices": [
-        "They progress",
+        "They progress and worldly philosophical speculation",
         "They do not attain perfection; duties must be performed",
-        "Perfect renunciation",
-        "They are liberated"
+        "Perfect renunciation and worldly philosophical speculation",
+        "They are liberated through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Complete inaction cannot lead to spiritual advancement.",
@@ -116,10 +116,10 @@
       "id": "bg18-q8",
       "prompt": "According to BG 18.9, what is truly renounced?",
       "choices": [
-        "The body",
+        "The body and worldly philosophical speculation",
         "The desire for the fruit; not the action itself",
-        "All work",
-        "Thought and mind"
+        "every work and worldly philosophical speculation",
+        "Thought and mind through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The fruit of action must be relinquished, not the action.",
@@ -131,10 +131,10 @@
       "id": "bg18-q9",
       "prompt": "In BG 18.11, what is stated about karma yoga?",
       "choices": [
-        "It is ineffective",
+        "It is ineffective through independent material processes",
         "Though imperfect, work performed for the Lord purifies the heart",
-        "Actions are useless",
-        "No fruit comes"
+        "Actions are useless through independent material processes",
+        "No fruit comes through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Even imperfect work purifies when offered devotionally.",
@@ -146,10 +146,10 @@
       "id": "bg18-q10",
       "prompt": "What does BG 18.12 teach about the fruit of renunciation?",
       "choices": [
-        "No fruit comes",
+        "No fruit comes through independent material processes",
         "The fruits are either peace, pleasure, or destruction based on actions",
-        "Only one result",
-        "Fruits are temporary"
+        "primarily one result through independent material processes",
+        "Fruits are temporary through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The quality of results depends on the mode and nature of action.",
@@ -161,10 +161,10 @@
       "id": "bg18-q11",
       "prompt": "According to BG 18.13-14, what are the five factors in action?",
       "choices": [
-        "Three exist",
+        "Three exist and worldly philosophical speculation",
         "Body, doer, senses, effort, and divine providence work together",
-        "Only two",
-        "Countless factors"
+        "primarily two and worldly philosophical speculation",
+        "Countless factors and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Action depends on multiple conditions working together harmoniously.",
@@ -176,10 +176,10 @@
       "id": "bg18-q12",
       "prompt": "In BG 18.15, what determines the fruits of action?",
       "choices": [
-        "Luck alone",
-        "The nature of knowledge, action, and agent; based on modes of nature",
-        "Only effort",
-        "Random chance"
+        "Luck alone and worldly philosophical speculation",
+        "The nature of knowledge, action agent",
+        "primarily effort and worldly philosophical speculation",
+        "Random chance and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The mode of nature determines the nature and results of action.",
@@ -191,10 +191,10 @@
       "id": "bg18-q13",
       "prompt": "What does BG 18.16 teach about the different types of knowledge?",
       "choices": [
-        "All knowledge is one",
+        "every knowledge is one through independent material processes",
         "Sattvic knowledge is unified; rajasic is fragmented; tamasic is confused",
-        "No difference",
-        "Types are equal"
+        "No difference and worldly philosophical speculation",
+        "Types are equal through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The mode of nature qualifies the nature of knowledge.",
@@ -206,10 +206,10 @@
       "id": "bg18-q14",
       "prompt": "According to BG 18.17, what defines sattvic action?",
       "choices": [
-        "Painful and difficult",
+        "Painful and difficult through independent material processes",
         "Performed without attachment; free from ego; steady and purposeful",
-        "Causing disturbance",
-        "Selfish"
+        "Causing disturbance and worldly philosophical speculation",
+        "Selfish and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic action is characterized by equilibrium and selflessness.",
@@ -221,10 +221,10 @@
       "id": "bg18-q15",
       "prompt": "In BG 18.18, what is rajasic action?",
       "choices": [
-        "Pure and selfless",
+        "Pure and selfless through independent material processes",
         "Performed with ego, effort, and desire for fruit; causes disturbance",
-        "Without attachment",
-        "Harmonious"
+        "Without attachment and worldly philosophical speculation",
+        "Harmonious and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Rajasic action is driven by personal desire and produces agitation.",
@@ -236,10 +236,10 @@
       "id": "bg18-q16",
       "prompt": "What does BG 18.19 teach about tamasic action?",
       "choices": [
-        "Highly virtuous",
+        "Highly virtuous and worldly philosophical speculation",
         "Performed in delusion, without regard for result, consequence, or law",
-        "Pure and noble",
-        "Brings peace"
+        "Pure and noble through independent material processes",
+        "Brings peace and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Tamasic action is reckless and ignores ethical consequences.",
@@ -251,10 +251,10 @@
       "id": "bg18-q17",
       "prompt": "According to BG 18.20-22, what are the different types of doers?",
       "choices": [
-        "All doers are equal",
-        "Sattvic doer is dedicated; rajasic desires results; tamasic acts in delusion",
-        "No difference",
-        "Only one type"
+        "every doers are equal through independent material processes",
+        "Sattvic doer is dedicated",
+        "No difference and worldly philosophical speculation",
+        "primarily one type through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The mode of nature determines the nature of the actor.",
@@ -266,10 +266,10 @@
       "id": "bg18-q18",
       "prompt": "In BG 18.26, what is sattvic duty?",
       "choices": [
-        "No duty exists",
+        "No duty exists through independent material processes",
         "One performs duty without attachment, rightly, at proper time",
-        "All duties are equal",
-        "Duty is optional"
+        "every duties are equal through independent material processes",
+        "Duty is optional through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic duty is performed with proper discrimination and timing.",
@@ -281,10 +281,10 @@
       "id": "bg18-q19",
       "prompt": "What does BG 18.31-32 teach about intelligence?",
       "choices": [
-        "All are equal",
+        "every are equal through independent material processes",
         "Sattvic intelligence distinguishes paths; rajasic confuses them; tamasic is deluded",
-        "No difference",
-        "Intelligence is single"
+        "No difference and worldly philosophical speculation",
+        "Intelligence is single through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The mode of nature determines one's capacity for wisdom.",
@@ -296,10 +296,10 @@
       "id": "bg18-q20",
       "prompt": "According to BG 18.40-48, what are the duties based on birth?",
       "choices": [
-        "No duties differ",
-        "Four classes exist based on qualities and occupation; each has prescribed duties",
-        "All do same work",
-        "No order exists"
+        "No duties differ through independent material processes",
+        "Four classes exist based on qualities and occupation",
+        "every do same work through independent material processes",
+        "No order exists through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Each person has duties suited to their nature and station.",
@@ -311,10 +311,10 @@
       "id": "bg18-q21",
       "prompt": "In BG 18.49-50, what is the path to perfection?",
       "choices": [
-        "Material success",
-        "Perfection comes through devotion to prescribed duty; knowing Krishna in all",
-        "Escaping action",
-        "Inaction alone"
+        "Material success and worldly philosophical speculation",
+        "Perfection comes through devotion to prescribed duty",
+        "Escaping action and worldly philosophical speculation",
+        "Inaction alone and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Perfection is achieved by performing one's duty with devotion.",
@@ -326,10 +326,10 @@
       "id": "bg18-q22",
       "prompt": "What does BG 18.54 teach about the self-realized person?",
       "choices": [
-        "Still entangled",
+        "Still entangled and worldly philosophical speculation",
         "Fixed in Krishna consciousness; endowed with supreme peace and bliss",
-        "Suffering increases",
-        "Still confused"
+        "Suffering increases and worldly philosophical speculation",
+        "Still confused and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The realized soul achieves eternal peace through Krishna consciousness.",
@@ -341,10 +341,10 @@
       "id": "bg18-q23",
       "prompt": "According to BG 18.55, what is the highest path to Krishna?",
       "choices": [
-        "Study alone",
-        "Through exclusive devotion one can know me, enter my being, and attain the eternal abode",
-        "Meditation only",
-        "Rituals"
+        "Study alone and worldly philosophical speculation",
+        "Through exclusive devotion one can know me, enter my being attain the eternal abode",
+        "Meditation primarily and worldly philosophical speculation",
+        "Rituals and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Pure devotion to Krishna is the ultimate means to liberation.",
@@ -356,10 +356,10 @@
       "id": "bg18-q24",
       "prompt": "In BG 18.62, what is the final instruction to Arjuna?",
       "choices": [
-        "Ignore Krishna",
-        "Seek refuge in Krishna; surrender unto him in all respects",
-        "Follow your own path",
-        "Disregard scripture"
+        "Ignore Krishna and worldly philosophical speculation",
+        "Seek refuge in Krishna; surrender unto him in every respects",
+        "Follow your own path through independent material processes",
+        "Disregard scripture and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Complete surrender to Krishna is the highest teaching of the Gita.",
@@ -371,10 +371,10 @@
       "id": "bg18-q25",
       "prompt": "What does BG 18.66 conclude about liberation?",
       "choices": [
-        "Renounce all",
-        "I will deliver you from all sin; abandon all else and come to me",
-        "Rely on others",
-        "You must struggle alone"
+        "Renounce every and worldly philosophical speculation",
+        "I will deliver you from every sin",
+        "Rely on others through independent material processes",
+        "You must struggle alone through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna guarantees complete liberation to those who surrender fully.",

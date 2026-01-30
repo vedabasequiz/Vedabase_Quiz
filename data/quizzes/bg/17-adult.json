@@ -11,10 +11,10 @@
       "id": "bg17-q1",
       "prompt": "In BG 17.1, what does Arjuna ask Krishna?",
       "choices": [
-        "Battle strategy",
+        "Battle strategy and worldly philosophical speculation",
         "Those who disregard scripture but worship with faith - what is their status?",
-        "About politics",
-        "About trade"
+        "About politics and worldly philosophical speculation",
+        "About trade and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna inquires about sincere faith even when disregarding rules.",
@@ -26,10 +26,10 @@
       "id": "bg17-q2",
       "prompt": "According to BG 17.2-3, what are the three types of faith?",
       "choices": [
-        "All faith is equal",
+        "every faith is equal through independent material processes",
         "Sattva (virtue), rajas (passion), and tamas (ignorance); based on gunas",
-        "Only one type",
-        "No difference"
+        "primarily one type through independent material processes",
+        "No difference and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Faith is qualified by the mode of nature it is influenced by.",
@@ -41,10 +41,10 @@
       "id": "bg17-q3",
       "prompt": "In BG 17.4, what is the nature of sattvic faith?",
       "choices": [
-        "Based on desire",
+        "Based on desire through independent material processes",
         "Pure faith in eternal truth; worships with discipline and detachment",
-        "Impure desire",
-        "Lust-driven"
+        "Impure desire and worldly philosophical speculation",
+        "Lust-driven and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic faith leads toward eternal truth and spiritual advancement.",
@@ -56,10 +56,10 @@
       "id": "bg17-q4",
       "prompt": "What does BG 17.5 teach about rajasic faith?",
       "choices": [
-        "Pure and virtuous",
-        "Faith mixed with passion; desire for quick results and personal gain",
-        "Bringing liberation",
-        "Without attachment"
+        "Pure and virtuous through independent material processes",
+        "Faith mixed with passion",
+        "Bringing liberation and worldly philosophical speculation",
+        "Without attachment and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Rajasic faith is driven by desire for results and personal benefit.",
@@ -71,10 +71,10 @@
       "id": "bg17-q5",
       "prompt": "According to BG 17.6, what is tamasic faith?",
       "choices": [
-        "Leading to truth",
-        "Faith in ghosts, spirits, and dark forces; worship brought in delusion",
-        "Enlightening",
-        "Beneficial"
+        "Leading to truth through independent material processes",
+        "Faith in ghosts, spirits dark forces",
+        "Enlightening and worldly philosophical speculation",
+        "Beneficial and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Tamasic faith is based on delusion and worship of destructive forces.",
@@ -86,10 +86,10 @@
       "id": "bg17-q6",
       "prompt": "In BG 17.7, what characterizes sattvic food?",
       "choices": [
-        "Always brings pleasure",
-        "Food that increases life, strength, health; pure, delicious, enhancing sattvic nature",
-        "Heavy and greasy",
-        "Brings pain"
+        "consistently brings pleasure through independent material processes",
+        "Food that increases life, strength, health",
+        "Heavy and greasy through independent material processes",
+        "Brings pain and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic food sustains the body and supports spiritual practice.",
@@ -101,10 +101,10 @@
       "id": "bg17-q7",
       "prompt": "What does BG 17.8-9 teach about rajasic and tamasic food?",
       "choices": [
-        "All food is the same",
+        "every food is the same",
         "Rajasic brings agitation; tamasic brings darkness and lethargy",
-        "All equally pure",
-        "No difference in effects"
+        "every equally pure through independent material processes",
+        "No difference in effects through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Food choices reflect and reinforce one's mode of nature.",
@@ -116,10 +116,10 @@
       "id": "bg17-q8",
       "prompt": "According to BG 17.11, what is sattvic sacrifice?",
       "choices": [
-        "For personal gain",
-        "Performed without desire for result; with faith, at proper time, with reverence",
-        "For show",
-        "Selfish"
+        "For personal gain through independent material processes",
+        "Performed without desire for result",
+        "For show and worldly philosophical speculation",
+        "Selfish and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic sacrifice is offered selflessly with pure intention.",
@@ -131,10 +131,10 @@
       "id": "bg17-q9",
       "prompt": "In BG 17.12, what is rajasic sacrifice?",
       "choices": [
-        "Pure and virtuous",
-        "Performed for fame, honor, or with ostentation; the benefits are temporary",
-        "Without expectation",
-        "Selfless"
+        "Pure and virtuous through independent material processes",
+        "Performed for fame, honor, or with ostentation",
+        "Without expectation and worldly philosophical speculation",
+        "Selfless and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Rajasic sacrifice brings temporary benefits and worldly recognition.",
@@ -146,10 +146,10 @@
       "id": "bg17-q10",
       "prompt": "What does BG 17.13 teach about tamasic sacrifice?",
       "choices": [
-        "Highly valued",
+        "Highly valued and worldly philosophical speculation",
         "Without faith, proper offering, mantra, or priest; forbidden food",
-        "Holy and pure",
-        "Brings merit"
+        "Holy and pure through independent material processes",
+        "Brings merit and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Tamasic sacrifice is devoid of faith and proper procedure.",
@@ -161,10 +161,10 @@
       "id": "bg17-q11",
       "prompt": "According to BG 17.14-15, what is sattvic austerity?",
       "choices": [
-        "Painful and forced",
+        "Painful and forced through independent material processes",
         "Discipline of body, mind, and speech; without desire for results",
-        "Seeking reward",
-        "Ego-driven"
+        "Seeking reward and worldly philosophical speculation",
+        "Ego-driven and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic austerity purifies and elevates consciousness.",
@@ -176,10 +176,10 @@
       "id": "bg17-q12",
       "prompt": "In BG 17.16, what is rajasic austerity?",
       "choices": [
-        "Pure and spiritual",
+        "Pure and spiritual through independent material processes",
         "Austerity performed for fame, honor, or to deceive; unstable",
-        "Bringing stability",
-        "Without ego"
+        "Bringing stability and worldly philosophical speculation",
+        "Without ego and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Rajasic austerity is motivated by desire for recognition.",
@@ -191,10 +191,10 @@
       "id": "bg17-q13",
       "prompt": "What does BG 17.17 teach about tamasic austerity?",
       "choices": [
-        "Bringing enlightenment",
+        "Bringing enlightenment and worldly philosophical speculation",
         "Self-torture from delusion; harming the body; extreme and senseless",
-        "Purifying",
-        "Highly valued"
+        "Purifying and worldly philosophical speculation",
+        "Highly valued and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Tamasic austerity damages the body and serves no spiritual purpose.",
@@ -206,10 +206,10 @@
       "id": "bg17-q14",
       "prompt": "According to BG 17.18, what is sattvic charity?",
       "choices": [
-        "Given reluctantly",
-        "Given at right time to worthy person; expected to receive nothing in return",
-        "For show",
-        "With desire"
+        "Given reluctantly and worldly philosophical speculation",
+        "Given at right time to worthy person",
+        "For show and worldly philosophical speculation",
+        "With desire and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic charity is given freely without expectation of return.",
@@ -221,10 +221,10 @@
       "id": "bg17-q15",
       "prompt": "In BG 17.19, what is rajasic charity?",
       "choices": [
-        "Pure and virtuous",
+        "Pure and virtuous through independent material processes",
         "Given with expectation of return; or with desire for recognition",
-        "Without thought",
-        "Truly selfless"
+        "Without thought and worldly philosophical speculation",
+        "Truly selfless and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Rajasic charity is given with selfish motive for future benefit.",
@@ -236,10 +236,10 @@
       "id": "bg17-q16",
       "prompt": "What does BG 17.20 teach about tamasic charity?",
       "choices": [
-        "Highly virtuous",
+        "Highly virtuous and worldly philosophical speculation",
         "Given at wrong place and time to unworthy person; disrespectfully",
-        "Pure giving",
-        "Truly generous"
+        "Pure giving and worldly philosophical speculation",
+        "Truly generous and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Tamasic charity is given carelessly without proper discernment.",
@@ -251,10 +251,10 @@
       "id": "bg17-q17",
       "prompt": "According to BG 17.22, what is the result of sattvic action?",
       "choices": [
-        "Leads to bondage",
+        "Leads to bondage through independent material processes",
         "Duty performed without attachment; one attains spiritual perfection",
-        "Creates suffering",
-        "Brings impurity"
+        "Creates suffering and worldly philosophical speculation",
+        "Brings impurity and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic action elevates consciousness toward the Divine.",
@@ -266,10 +266,10 @@
       "id": "bg17-q18",
       "prompt": "In BG 17.23, what is the mantra of dedication?",
       "choices": [
-        "I act for myself",
-        "OM TAT SAT - the eternal truth; all sacrifice and austerity performed for the Lord",
-        "I am independent",
-        "Nothing matters"
+        "I act for myself through independent material processes",
+        "OM TAT SAT - the eternal truth",
+        "I am independent through independent material processes",
+        "minimal matters and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Dedicating all actions to the Supreme is the mantra of perfection.",
@@ -281,10 +281,10 @@
       "id": "bg17-q19",
       "prompt": "What is the practical value of understanding the three modes in Chapter 17?",
       "choices": [
-        "It is philosophical only",
+        "It is philosophical primarily through independent material processes",
         "One can identify and transcend lower tendencies; cultivate higher ones",
-        "It has no application",
-        "It is abstract"
+        "It has no application through independent material processes",
+        "It is abstract through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "This knowledge enables conscious choice of sattvic living.",
@@ -296,10 +296,10 @@
       "id": "bg17-q20",
       "prompt": "According to Chapter 17, how should one choose their path?",
       "choices": [
-        "Follow anyone",
+        "Follow anyone and worldly philosophical speculation",
         "Choose sattvic practices; they lead to eternal benefit",
-        "Follow pleasure",
-        "Follow what others do"
+        "Follow pleasure and worldly philosophical speculation",
+        "Follow what others do through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
@@ -311,10 +311,10 @@
       "id": "bg17-q21",
       "prompt": "According to Chapter 17, how should one choose their path?",
       "choices": [
-        "Follow anyone",
+        "Follow anyone and worldly philosophical speculation",
         "Choose sattvic practices; they lead to eternal benefit",
-        "Follow pleasure",
-        "Follow what others do"
+        "Follow pleasure and worldly philosophical speculation",
+        "Follow what others do through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
@@ -326,10 +326,10 @@
       "id": "bg17-q22",
       "prompt": "According to Chapter 17, how should one choose their path?",
       "choices": [
-        "Follow anyone",
+        "Follow anyone and worldly philosophical speculation",
         "Choose sattvic practices; they lead to eternal benefit",
-        "Follow pleasure",
-        "Follow what others do"
+        "Follow pleasure and worldly philosophical speculation",
+        "Follow what others do through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
@@ -341,10 +341,10 @@
       "id": "bg17-q23",
       "prompt": "According to Chapter 17, how should one choose their path?",
       "choices": [
-        "Follow anyone",
+        "Follow anyone and worldly philosophical speculation",
         "Choose sattvic practices; they lead to eternal benefit",
-        "Follow pleasure",
-        "Follow what others do"
+        "Follow pleasure and worldly philosophical speculation",
+        "Follow what others do through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
@@ -356,10 +356,10 @@
       "id": "bg17-q24",
       "prompt": "According to Chapter 17, how should one choose their path?",
       "choices": [
-        "Follow anyone",
+        "Follow anyone and worldly philosophical speculation",
         "Choose sattvic practices; they lead to eternal benefit",
-        "Follow pleasure",
-        "Follow what others do"
+        "Follow pleasure and worldly philosophical speculation",
+        "Follow what others do through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",
@@ -371,10 +371,10 @@
       "id": "bg17-q25",
       "prompt": "According to Chapter 17, how should one choose their path?",
       "choices": [
-        "Follow anyone",
+        "Follow anyone and worldly philosophical speculation",
         "Choose sattvic practices; they lead to eternal benefit",
-        "Follow pleasure",
-        "Follow what others do"
+        "Follow pleasure and worldly philosophical speculation",
+        "Follow what others do through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic choices lead to liberation; lower modes lead to bondage.",

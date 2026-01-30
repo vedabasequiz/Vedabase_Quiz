@@ -11,10 +11,10 @@
       "id": "bg14-q1",
       "prompt": "In BG 14.1, what does Arjuna ask Krishna?",
       "choices": [
-        "About war tactics",
+        "About war tactics through independent material processes",
         "Teach me about the three modes of nature and their effects",
-        "About diplomacy",
-        "About governance"
+        "About diplomacy and worldly philosophical speculation",
+        "About governance and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna seeks to understand the three gunas and their influence.",
@@ -26,10 +26,10 @@
       "id": "bg14-q2",
       "prompt": "According to BG 14.3, what is the great womb from which all beings are born?",
       "choices": [
-        "The earth",
-        "My womb is the great Brahman; all beings are conceived in it",
-        "The sky",
-        "The ocean"
+        "The earth and worldly philosophical speculation",
+        "My womb is the great Brahman beings are conceived in it",
+        "The sky and worldly philosophical speculation",
+        "The ocean and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna is the source of all existence through His transcendental nature.",
@@ -41,10 +41,10 @@
       "id": "bg14-q3",
       "prompt": "In BG 14.4, what does Krishna describe about His creative function?",
       "choices": [
-        "I have no role",
-        "All forms are born from me; I am the father; prakriti is the womb",
-        "Only matter creates",
-        "Creation is random"
+        "I have no role through independent material processes",
+        "every forms are born from me the father",
+        "primarily matter creates through independent material processes",
+        "Creation is random through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna and His material energy combine to manifest all existence.",
@@ -56,10 +56,10 @@
       "id": "bg14-q4",
       "prompt": "What does BG 14.5 teach about the three modes?",
       "choices": [
-        "They do not exist",
-        "Sattva (goodness), rajas (passion), and tamas (ignorance) bind the eternal soul",
-        "Only one exists",
-        "They are temporary"
+        "They do not exist through independent material processes",
+        "Sattva (goodness), rajas (passion) tamas (ignorance) bind the eternal soul",
+        "primarily one exists through independent material processes",
+        "They are temporary through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The three qualities are the basic constituents of material nature.",
@@ -71,10 +71,10 @@
       "id": "bg14-q5",
       "prompt": "According to BG 14.6, what is the characteristic of sattva (goodness)?",
       "choices": [
-        "Brings darkness",
-        "Pure, luminous, and free from sinfulness; binds through knowledge and happiness",
-        "Causes confusion",
-        "Brings pain"
+        "Brings darkness and worldly philosophical speculation",
+        "Pure, luminous free from sinfulness",
+        "Causes confusion and worldly philosophical speculation",
+        "Brings pain and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Sattva is the purest mode and leads toward spiritual elevation.",
@@ -86,10 +86,10 @@
       "id": "bg14-q6",
       "prompt": "In BG 14.7, what is the nature of rajas (passion)?",
       "choices": [
-        "It is peaceful",
+        "It is peaceful through independent material processes",
         "The embodiment of desire and attachment; causes action and craving",
-        "It brings knowledge",
-        "It is stagnant"
+        "It brings knowledge through independent material processes",
+        "It is stagnant through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Passion creates restlessness and desire-driven action.",
@@ -101,10 +101,10 @@
       "id": "bg14-q7",
       "prompt": "What does BG 14.8 teach about tamas (ignorance)?",
       "choices": [
-        "It is enlightening",
+        "It is enlightening through independent material processes",
         "Darkness, delusion, and laziness; binds the living being through illusion",
-        "It brings joy",
-        "It is spiritually advanced"
+        "It brings joy through independent material processes",
+        "It is spiritually advanced through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Ignorance is the most degrading mode, creating delusion and inertia.",
@@ -116,10 +116,10 @@
       "id": "bg14-q8",
       "prompt": "According to BG 14.10, what happens when sattva predominates?",
       "choices": [
-        "One remains bound",
+        "One remains bound through independent material processes",
         "The symptoms of purity appear; wisdom and good qualities manifest",
-        "Confusion increases",
-        "Bondage strengthens"
+        "Confusion increases and worldly philosophical speculation",
+        "Bondage strengthens and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Goodness illuminates consciousness and leads toward liberation.",
@@ -131,10 +131,10 @@
       "id": "bg14-q9",
       "prompt": "In BG 14.11, what are the symptoms of rajas predominance?",
       "choices": [
-        "Peace and knowledge",
+        "Peace and knowledge through independent material processes",
         "Fruitive activity, restlessness, craving, and endless desire",
-        "Lethargy",
-        "Wisdom emerges"
+        "Lethargy and worldly philosophical speculation",
+        "Wisdom emerges and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Passion drives one toward endless pursuit of temporary goals.",
@@ -146,10 +146,10 @@
       "id": "bg14-q10",
       "prompt": "What does BG 14.12 teach about tamas predominance?",
       "choices": [
-        "Wisdom appears",
+        "Wisdom appears and worldly philosophical speculation",
         "Darkness, delusion, negligence, and madness; one becomes bound",
-        "Joy increases",
-        "Knowledge grows"
+        "Joy increases and worldly philosophical speculation",
+        "Knowledge grows and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Ignorance creates a state of confusion and spiritual darkness.",
@@ -161,10 +161,10 @@
       "id": "bg14-q11",
       "prompt": "According to BG 14.13, what happens when one transcends the modes?",
       "choices": [
-        "One remains bound",
+        "One remains bound through independent material processes",
         "One goes beyond birth, death, old age, and is liberated",
-        "One suffers more",
-        "One stagnates"
+        "One suffers more through independent material processes",
+        "One stagnates and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Transcending the gunas is the gateway to permanent liberation.",
@@ -176,10 +176,10 @@
       "id": "bg14-q12",
       "prompt": "In BG 14.14, what is the sign of one who has transcended the modes?",
       "choices": [
-        "Desire for pleasure",
-        "One sees the same consciousness in all; is unmoved by change",
-        "Attached to results",
-        "Easily disturbed"
+        "Desire for pleasure through independent material processes",
+        "One sees the same consciousness in every",
+        "Attached to results through independent material processes",
+        "Easily disturbed and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Equipoise toward all circumstances indicates transcendence of the gunas.",
@@ -191,10 +191,10 @@
       "id": "bg14-q13",
       "prompt": "What does BG 14.15 teach about the path to transcendence?",
       "choices": [
-        "Worship demigods",
+        "Worship demigods and worldly philosophical speculation",
         "Those who surrender to me transcend the modes and attain my nature",
-        "Follow the gunas",
-        "Practice worldly life"
+        "Follow the gunas through independent material processes",
+        "Practice worldly life through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Surrender to Krishna is the only means to transcend material nature.",
@@ -206,10 +206,10 @@
       "id": "bg14-q14",
       "prompt": "According to BG 14.16, what is promised to those who transcend the modes?",
       "choices": [
-        "Worldly success only",
+        "Knowledge of physical phenomena and external forms",
         "Freed from birth, death, decay, and sorrow; enjoy eternal bliss",
-        "Continued suffering",
-        "Temporary relief"
+        "Continued suffering and worldly philosophical speculation",
+        "Knowledge of physical phenomena and external forms"
       ],
       "correctIndex": 1,
       "feedback": "Transcendence grants permanent escape from the cycle of material misery.",
@@ -221,10 +221,10 @@
       "id": "bg14-q15",
       "prompt": "In BG 14.17, what distinguishes sattva from rajas and tamas?",
       "choices": [
-        "All are equal",
-        "Sattva leads toward liberation; rajas toward fruitive action; tamas toward bondage",
-        "No difference",
-        "Tamas is best"
+        "every are equal through independent material processes",
+        "Sattva leads toward liberation",
+        "No difference and worldly philosophical speculation",
+        "Tamas is best through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Each mode leads to different spiritual destinations.",
@@ -236,10 +236,10 @@
       "id": "bg14-q16",
       "prompt": "What does BG 14.18 teach about the destination of each mode?",
       "choices": [
-        "All lead to the same place",
-        "Sattva goes to the pure planets; rajas to the middle realms; tamas to hell",
-        "No differentiation",
-        "All are equal"
+        "every lead to the same place",
+        "Sattva goes to the pure planets",
+        "No differentiation and worldly philosophical speculation",
+        "every are equal through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "One's mode determines the nature of one's next birth and destination.",
@@ -251,10 +251,10 @@
       "id": "bg14-q17",
       "prompt": "According to BG 14.19, what is the ultimate path beyond the modes?",
       "choices": [
-        "Remain in the modes",
-        "One not bewildered by the modes, nor attached; knowing I am eternal, attains me",
-        "The modes are permanent",
-        "Escape is impossible"
+        "Remain in the modes through independent material processes",
+        "One not bewildered by the modes, nor attached",
+        "The modes are permanent through independent material processes",
+        "Escape is impossible through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Steady faith in Krishna's supremacy transcends all material conditioning.",
@@ -267,9 +267,9 @@
       "prompt": "In BG 14.20, what characterizes those who have transcended the modes?",
       "choices": [
         "Inferior to those in modes",
-        "They transcend material nature; freed from birth, death, pain, and decay",
-        "More bound",
-        "Weaker"
+        "They transcend material nature",
+        "More bound and worldly philosophical speculation",
+        "Weaker and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Those transcendent to the gunas achieve the highest spiritual position.",
@@ -281,10 +281,10 @@
       "id": "bg14-q19",
       "prompt": "What is the practical application of understanding the gunas?",
       "choices": [
-        "Ignore them",
+        "Ignore them and worldly philosophical speculation",
         "Recognize them to transcend them and attain Krishna",
-        "Embrace all equally",
-        "They are unimportant"
+        "Embrace every equally through independent material processes",
+        "They are unimportant through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Understanding the gunas is essential for spiritual progress.",
@@ -296,10 +296,10 @@
       "id": "bg14-q20",
       "prompt": "According to Chapter 14, how does one escape the cycle?",
       "choices": [
-        "By fighting",
+        "By fighting and worldly philosophical speculation",
         "Through knowledge of the gunas and surrender to Krishna",
-        "Through ignorance",
-        "By denying them"
+        "Through ignorance and worldly philosophical speculation",
+        "By denying them through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Knowledge and devotion together enable transcendence of material nature.",
@@ -311,10 +311,10 @@
       "id": "bg14-q21",
       "prompt": "In BG 14, what is the relationship between the gunas and rebirth?",
       "choices": [
-        "No relationship",
+        "No relationship and worldly philosophical speculation",
         "One's dominant guna determines the nature and quality of next birth",
-        "Only actions matter",
-        "Mind is irrelevant"
+        "primarily actions matter through independent material processes",
+        "Mind is irrelevant through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The modes shape both present and future destinies.",
@@ -326,10 +326,10 @@
       "id": "bg14-q22",
       "prompt": "What does transcending the gunas mean practically?",
       "choices": [
-        "Abandoning work",
-        "Performing duty without attachment; seeing all equally",
-        "Becoming inactive",
-        "Denying nature"
+        "Abandoning work and worldly philosophical speculation",
+        "Performing duty without attachment; seeing every equally",
+        "Becoming inactive and worldly philosophical speculation",
+        "Denying nature and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Transcendence is behavioral equanimity, not rejection of life.",
@@ -341,10 +341,10 @@
       "id": "bg14-q23",
       "prompt": "In Chapter 14, what is Krishna's ultimate promise?",
       "choices": [
-        "Follow rules strictly",
+        "Follow rules strictly through independent material processes",
         "Transcend the gunas; attain my nature; eternal peace awaits",
-        "Remain bound",
-        "Suffer forever"
+        "Remain bound and worldly philosophical speculation",
+        "Suffer forever and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The highest attainment is becoming one with Krishna's nature.",
@@ -356,10 +356,10 @@
       "id": "bg14-q24",
       "prompt": "In Chapter 14, what is Krishna's ultimate promise?",
       "choices": [
-        "Follow rules strictly",
+        "Follow rules strictly through independent material processes",
         "Transcend the gunas; attain my nature; eternal peace awaits",
-        "Remain bound",
-        "Suffer forever"
+        "Remain bound and worldly philosophical speculation",
+        "Suffer forever and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The highest attainment is becoming one with Krishna's nature.",
@@ -371,10 +371,10 @@
       "id": "bg14-q25",
       "prompt": "In Chapter 14, what is Krishna's ultimate promise?",
       "choices": [
-        "Follow rules strictly",
+        "Follow rules strictly through independent material processes",
         "Transcend the gunas; attain my nature; eternal peace awaits",
-        "Remain bound",
-        "Suffer forever"
+        "Remain bound and worldly philosophical speculation",
+        "Suffer forever and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The highest attainment is becoming one with Krishna's nature.",

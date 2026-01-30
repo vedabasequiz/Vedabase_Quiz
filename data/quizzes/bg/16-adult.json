@@ -11,10 +11,10 @@
       "id": "bg16-q1",
       "prompt": "In BG 16.1, what does Krishna teach about the divine and demoniac natures?",
       "choices": [
-        "They are similar",
-        "The divine nature is virtuous; demoniac brings bondage; I will explain both",
-        "No difference exists",
-        "One path only"
+        "They are similar through independent material processes",
+        "The divine nature is virtuous",
+        "No difference exists through independent material processes",
+        "One path primarily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna teaches the distinction between virtuous and degrading qualities.",
@@ -26,10 +26,10 @@
       "id": "bg16-q2",
       "prompt": "According to BG 16.2-3, what are the qualities of the divine?",
       "choices": [
-        "Greed and anger",
+        "Greed and anger through independent material processes",
         "Fearlessness, purity, knowledge, forgiveness, truth, and self-control",
-        "Violence and lust",
-        "Attachment and hate"
+        "Violence and lust through independent material processes",
+        "Attachment and hate through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Divine qualities elevate consciousness toward liberation.",
@@ -41,10 +41,10 @@
       "id": "bg16-q3",
       "prompt": "In BG 16.4, what are the qualities of the demoniac?",
       "choices": [
-        "Virtue and honesty",
+        "Virtue and honesty through independent material processes",
         "Pride, anger, greed, harshness, lust, and violent speech",
-        "Kindness and truth",
-        "Humility and peace"
+        "Kindness and truth through independent material processes",
+        "Humility and peace through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Demoniac qualities bind the soul in material darkness.",
@@ -56,10 +56,10 @@
       "id": "bg16-q4",
       "prompt": "What does BG 16.5 teach about the destiny of divine and demoniac natures?",
       "choices": [
-        "They are the same",
-        "Divine attains liberation; demoniac continues in cycle of birth and death",
-        "Both suffer",
-        "Both are free"
+        "They are the same through independent material processes",
+        "Divine attains liberation",
+        "Both suffer and worldly philosophical speculation",
+        "Both are free through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The nature one cultivates determines one's spiritual destiny.",
@@ -71,10 +71,10 @@
       "id": "bg16-q5",
       "prompt": "According to BG 16.7, what should all beings strive for?",
       "choices": [
-        "Demoniac nature",
-        "The divine nature and the knowledge of it; the path to eternal good",
-        "Material success",
-        "Worldly power"
+        "Demoniac nature and worldly philosophical speculation",
+        "The divine nature and the knowledge of it",
+        "Material success and worldly philosophical speculation",
+        "Knowledge of physical phenomena and external forms"
       ],
       "correctIndex": 1,
       "feedback": "Developing divine qualities is essential for spiritual progress.",
@@ -86,10 +86,10 @@
       "id": "bg16-q6",
       "prompt": "In BG 16.8, what happens to the demoniac person?",
       "choices": [
-        "They prosper",
+        "They prosper and worldly philosophical speculation",
         "They increase passion and wrath; bewildered, they take wrong paths",
-        "They find peace",
-        "They attain wisdom"
+        "They find peace through independent material processes",
+        "They attain wisdom through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Demoniac qualities create confusion and lead to destructive paths.",
@@ -101,10 +101,10 @@
       "id": "bg16-q7",
       "prompt": "What does BG 16.11 teach about the demoniac's view of the world?",
       "choices": [
-        "They see unity",
-        "They declare the world has no basis; no God, no laws; only lust",
-        "They recognize God",
-        "They are virtuous"
+        "They see unity through independent material processes",
+        "They declare the world has no basis",
+        "They recognize God through independent material processes",
+        "They are virtuous through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Atheism and materialism are the hallmarks of the demoniac.",
@@ -116,10 +116,10 @@
       "id": "bg16-q8",
       "prompt": "According to BG 16.12, what are the characteristics of demoniac people?",
       "choices": [
-        "They are peaceful",
+        "They are peaceful through independent material processes",
         "Violent, lustful, sensual; they resort to dark magic and cruelty",
-        "They are kind",
-        "They are wise"
+        "They are kind through independent material processes",
+        "They are wise through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Demoniac qualities lead to destructive and immoral behavior.",
@@ -131,10 +131,10 @@
       "id": "bg16-q9",
       "prompt": "In BG 16.13-15, what is the goal of demoniac people?",
       "choices": [
-        "Liberation",
-        "To enjoy wealth and power; driven by passion and desire; deceive others",
-        "Spiritual growth",
-        "Service to others"
+        "Liberation and worldly philosophical speculation",
+        "To enjoy wealth and power",
+        "Spiritual growth and worldly philosophical speculation",
+        "Service to others through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The demoniac are enslaved by endless pursuit of material satisfaction.",
@@ -146,10 +146,10 @@
       "id": "bg16-q10",
       "prompt": "What does BG 16.16-18 teach about the karma created?",
       "choices": [
-        "No karma exists",
-        "Bound by hundreds of desires; they accumulate sin and suffer hell",
-        "Virtue grows",
-        "They are blessed"
+        "No karma exists through independent material processes",
+        "Bound by hundreds of desires",
+        "Virtue grows and worldly philosophical speculation",
+        "They are blessed through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Demoniac actions create severe karmic consequences and suffering.",
@@ -161,10 +161,10 @@
       "id": "bg16-q11",
       "prompt": "According to BG 16.19-20, what is the destination of the demoniac?",
       "choices": [
-        "Liberation",
-        "They are thrown into demoniac wombs; subject to endless cycles of rebirth",
-        "Spiritual abode",
-        "Heaven"
+        "Liberation and worldly philosophical speculation",
+        "They are thrown into demoniac wombs",
+        "Spiritual abode and worldly philosophical speculation",
+        "Heaven and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Demoniac nature leads to degraded births and continued material bondage.",
@@ -176,10 +176,10 @@
       "id": "bg16-q12",
       "prompt": "In BG 16.21, what are the three gates of hell?",
       "choices": [
-        "They do not exist",
+        "They do not exist through independent material processes",
         "Lust, anger, and greed; one must abandon these",
-        "Virtues",
-        "Knowledge"
+        "Virtues and worldly philosophical speculation",
+        "Knowledge and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Overcoming passion, anger, and greed is essential for liberation.",
@@ -191,10 +191,10 @@
       "id": "bg16-q13",
       "prompt": "What does BG 16.22 teach about one who abandons these?",
       "choices": [
-        "They gain more",
+        "They gain more through independent material processes",
         "One obtains liberation; he progresses toward the Supreme",
-        "They fail",
-        "They suffer"
+        "They fail and worldly philosophical speculation",
+        "They suffer and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Renouncing destructive qualities leads to spiritual elevation.",
@@ -206,10 +206,10 @@
       "id": "bg16-q14",
       "prompt": "According to BG 16.23, what should guide one's conduct?",
       "choices": [
-        "Personal desire",
-        "The scriptures and ordinances; do not act on whim and desire",
-        "Impulse only",
-        "Passion"
+        "Personal desire and worldly philosophical speculation",
+        "The scriptures and ordinances",
+        "Impulse primarily and worldly philosophical speculation",
+        "Passion and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Following scriptural guidance ensures righteous and beneficial living.",
@@ -221,10 +221,10 @@
       "id": "bg16-q15",
       "prompt": "In BG 16.24, what is the status of those who abandon scriptural guidance?",
       "choices": [
-        "They are wise",
-        "They are defeated in their goals; they do not attain perfection",
-        "They succeed",
-        "They prosper"
+        "They are wise through independent material processes",
+        "They are defeated in their goals",
+        "They succeed and worldly philosophical speculation",
+        "They prosper and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Ignoring scriptural wisdom leads to failure and spiritual decline.",
@@ -236,10 +236,10 @@
       "id": "bg16-q16",
       "prompt": "What distinguishes the divine nature from the demoniac?",
       "choices": [
-        "Strength vs weakness",
+        "Strength vs weakness through independent material processes",
         "Alignment with cosmic law vs selfish indulgence",
-        "Knowledge vs ignorance",
-        "Rituals vs non-rituals"
+        "Knowledge vs ignorance through independent material processes",
+        "Rituals vs non-rituals through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The divine align with universal truth; the demoniac with selfish desire.",
@@ -251,10 +251,10 @@
       "id": "bg16-q17",
       "prompt": "How does Chapter 16 help in spiritual development?",
       "choices": [
-        "It condemns people",
+        "It condemns people through independent material processes",
         "By identifying qualities to cultivate and reject",
-        "It divides people",
-        "It is judgmental only"
+        "It divides people through independent material processes",
+        "It is judgmental primarily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Self-assessment of qualities enables conscious spiritual growth.",
@@ -266,10 +266,10 @@
       "id": "bg16-q18",
       "prompt": "What is the practical value of understanding divine and demoniac?",
       "choices": [
-        "Theoretical only",
+        "Theoretical primarily and worldly philosophical speculation",
         "One can consciously choose to develop divine qualities",
-        "It is useless",
-        "No application exists"
+        "It is useless through independent material processes",
+        "No application exists through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "This knowledge empowers individuals to transform themselves.",
@@ -281,10 +281,10 @@
       "id": "bg16-q19",
       "prompt": "In BG 16, what is the promised outcome for the divine?",
       "choices": [
-        "Confusion",
+        "Confusion and worldly philosophical speculation",
         "Liberation and eternal happiness in Krishna's abode",
-        "Bondage",
-        "Suffering"
+        "Bondage and worldly philosophical speculation",
+        "Suffering and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Cultivating divine qualities leads to the highest destination.",
@@ -296,10 +296,10 @@
       "id": "bg16-q20",
       "prompt": "According to the chapter, what prevents the demoniac from progressing?",
       "choices": [
-        "Bad luck",
+        "Bad luck and worldly philosophical speculation",
         "Ego, delusion, and ignorance; refusal to follow dharma",
-        "Fate",
-        "Others' actions"
+        "Fate and worldly philosophical speculation",
+        "Others' actions and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Self-created delusion binds the demoniac in endless cycles.",
@@ -311,10 +311,10 @@
       "id": "bg16-q21",
       "prompt": "According to the chapter, what prevents the demoniac from progressing?",
       "choices": [
-        "Bad luck",
+        "Bad luck and worldly philosophical speculation",
         "Ego, delusion, and ignorance; refusal to follow dharma",
-        "Fate",
-        "Others' actions"
+        "Fate and worldly philosophical speculation",
+        "Others' actions and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Self-created delusion binds the demoniac in endless cycles.",
@@ -326,10 +326,10 @@
       "id": "bg16-q22",
       "prompt": "According to the chapter, what prevents the demoniac from progressing?",
       "choices": [
-        "Bad luck",
+        "Bad luck and worldly philosophical speculation",
         "Ego, delusion, and ignorance; refusal to follow dharma",
-        "Fate",
-        "Others' actions"
+        "Fate and worldly philosophical speculation",
+        "Others' actions and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Self-created delusion binds the demoniac in endless cycles.",
@@ -341,10 +341,10 @@
       "id": "bg16-q23",
       "prompt": "According to the chapter, what prevents the demoniac from progressing?",
       "choices": [
-        "Bad luck",
+        "Bad luck and worldly philosophical speculation",
         "Ego, delusion, and ignorance; refusal to follow dharma",
-        "Fate",
-        "Others' actions"
+        "Fate and worldly philosophical speculation",
+        "Others' actions and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Self-created delusion binds the demoniac in endless cycles.",
@@ -356,10 +356,10 @@
       "id": "bg16-q24",
       "prompt": "According to the chapter, what prevents the demoniac from progressing?",
       "choices": [
-        "Bad luck",
+        "Bad luck and worldly philosophical speculation",
         "Ego, delusion, and ignorance; refusal to follow dharma",
-        "Fate",
-        "Others' actions"
+        "Fate and worldly philosophical speculation",
+        "Others' actions and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Self-created delusion binds the demoniac in endless cycles.",
@@ -371,10 +371,10 @@
       "id": "bg16-q25",
       "prompt": "According to the chapter, what prevents the demoniac from progressing?",
       "choices": [
-        "Bad luck",
+        "Bad luck and worldly philosophical speculation",
         "Ego, delusion, and ignorance; refusal to follow dharma",
-        "Fate",
-        "Others' actions"
+        "Fate and worldly philosophical speculation",
+        "Others' actions and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Self-created delusion binds the demoniac in endless cycles.",

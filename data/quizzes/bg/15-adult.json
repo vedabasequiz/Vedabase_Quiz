@@ -11,10 +11,10 @@
       "id": "bg15-q1",
       "prompt": "In BG 15.1, what does Krishna compare to a tree?",
       "choices": [
-        "A forest",
+        "A forest and worldly philosophical speculation",
         "The material world; with roots above and branches below",
-        "A flower",
-        "A mountain"
+        "A flower and worldly philosophical speculation",
+        "A mountain and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The cosmos is structured like an inverted tree rooted in Krishna.",
@@ -26,10 +26,10 @@
       "id": "bg15-q2",
       "prompt": "According to BG 15.2, what are the characteristics of this cosmic tree?",
       "choices": [
-        "It is simple",
-        "Its roots are above; branches extend in all directions; Vedas speak of it",
-        "No roots exist",
-        "It is flat"
+        "It is simple through independent material processes",
+        "Its roots are above",
+        "No roots exist through independent material processes",
+        "It is flat through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The Vedas describe the cosmic tree's structure and significance.",
@@ -41,10 +41,10 @@
       "id": "bg15-q3",
       "prompt": "In BG 15.3, what prevents one from seeing the cosmic tree truly?",
       "choices": [
-        "Ignorance alone",
-        "Neither its beginning, middle, nor end is perceived; attachment binds one",
-        "It is visible easily",
-        "No obstacles exist"
+        "Ignorance alone and worldly philosophical speculation",
+        "Neither its beginning, middle, nor end is perceived",
+        "It is visible easily through independent material processes",
+        "No obstacles exist through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Material conditioning obscures the true nature of cosmic reality.",
@@ -56,10 +56,10 @@
       "id": "bg15-q4",
       "prompt": "What does BG 15.4 teach about the path to the cosmic tree?",
       "choices": [
-        "Combat it",
-        "One must seek the source with strong conviction; cut the roots with detachment",
-        "Ignore it",
-        "Worship it"
+        "Combat it and worldly philosophical speculation",
+        "One must seek the source with strong conviction",
+        "Ignore it and worldly philosophical speculation",
+        "Worship it and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Detachment and knowledge are the axe to sever material attachment.",
@@ -71,10 +71,10 @@
       "id": "bg15-q5",
       "prompt": "According to BG 15.5, what characterizes those free from delusion?",
       "choices": [
-        "Worldly attachments",
-        "Freed from pride, delusion, attachment, and desire; they achieve the eternal abode",
-        "Desires grow",
-        "Confusion increases"
+        "Knowledge of physical phenomena and external forms",
+        "Freed from pride, delusion, attachment desire",
+        "Desires grow and worldly philosophical speculation",
+        "Confusion increases and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Freedom from illusion leads to the ultimate destination.",
@@ -86,10 +86,10 @@
       "id": "bg15-q6",
       "prompt": "In BG 15.6, what is the nature of the eternal abode?",
       "choices": [
-        "Material and temporary",
-        "The place where I dwell; none from there return to material world",
-        "Changing constantly",
-        "Destructible"
+        "Material and temporary through independent material processes",
+        "The place where I dwell",
+        "Changing constantly and worldly philosophical speculation",
+        "Destructible and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's realm is eternal and permanent, beyond material change.",
@@ -101,10 +101,10 @@
       "id": "bg15-q7",
       "prompt": "What does BG 15.7 teach about the living beings in the material world?",
       "choices": [
-        "They are permanent",
-        "They are fragments of me; an eternal part of my being",
-        "They are independent",
-        "They are matter only"
+        "They are permanent through independent material processes",
+        "They are fragments of me",
+        "They are independent through independent material processes",
+        "They are matter primarily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "All jivas (souls) are integral parts of Krishna's supreme existence.",
@@ -116,10 +116,10 @@
       "id": "bg15-q8",
       "prompt": "According to BG 15.8, what are the senses controlled by?",
       "choices": [
-        "Nothing controls them",
-        "The living being is controlled by mind; the mind by senses",
-        "Senses are master",
-        "Mind is independent"
+        "minimal controls them through independent material processes",
+        "The living being is controlled by mind",
+        "Senses are master through independent material processes",
+        "Mind is independent through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The hierarchy of control flows from consciousness to mind to senses.",
@@ -131,10 +131,10 @@
       "id": "bg15-q9",
       "prompt": "In BG 15.9, what happens to the living being at death?",
       "choices": [
-        "Nothing happens",
-        "The living being departs with mind and senses; carries impressions to new body",
-        "Only body changes",
-        "Consciousness remains static"
+        "minimal happens and worldly philosophical speculation",
+        "The living being departs with mind and senses",
+        "primarily body changes through independent material processes",
+        "Consciousness remains static through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The soul carries impressions and consciousness to its next birth.",
@@ -146,10 +146,10 @@
       "id": "bg15-q10",
       "prompt": "What does BG 15.10 teach about what the embodied soul obtains?",
       "choices": [
-        "Nothing obtains",
-        "Obtains a body suitable to his consciousness; obtains the results of his actions",
-        "Body is permanent",
-        "Actions do not affect"
+        "minimal obtains and worldly philosophical speculation",
+        "Obtains a body suitable to his consciousness",
+        "Body is permanent through independent material processes",
+        "Actions do not affect through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The quality of one's consciousness determines one's next birth.",
@@ -161,10 +161,10 @@
       "id": "bg15-q11",
       "prompt": "According to BG 15.11-12, how can one perceive the Almighty?",
       "choices": [
-        "It is impossible",
+        "It is impossible through independent material processes",
         "Yogis who discipline mind and senses can perceive the Lord within",
-        "Everyone perceives",
-        "No effort is needed"
+        "Everyone perceives and worldly philosophical speculation",
+        "No effort is needed through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Disciplined practice enables direct perception of the Divine.",
@@ -176,10 +176,10 @@
       "id": "bg15-q12",
       "prompt": "In BG 15.13, what does Krishna declare about His nature?",
       "choices": [
-        "I am limited",
-        "I support all with one portion of myself; I pervade the entire creation",
-        "I am distant",
-        "I depend on others"
+        "I am limited through independent material processes",
+        "I support every with one portion of myself",
+        "I am distant through independent material processes",
+        "I depend on others through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna sustains the entire cosmos with a minute fraction of His potency.",
@@ -191,10 +191,10 @@
       "id": "bg15-q13",
       "prompt": "What does BG 15.14 teach about the source of energy and light?",
       "choices": [
-        "Matter is independent",
-        "I am the source of all light; both sun and moon shine by my energy",
-        "No source exists",
-        "Light is self-created"
+        "Matter is independent through independent material processes",
+        "I am the source of every light",
+        "No source exists through independent material processes",
+        "Light is self-created through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "All energy in the universe flows from Krishna's supreme potency.",
@@ -206,10 +206,10 @@
       "id": "bg15-q14",
       "prompt": "According to BG 15.15, what is Krishna's role in the body and soul?",
       "choices": [
-        "He is absent",
-        "I am seated in everyone's heart; from me come memory, knowledge, and forgetfulness",
-        "He is distant",
-        "He does not interfere"
+        "He is absent through independent material processes",
+        "I am seated in everyone's heart",
+        "He is distant through independent material processes",
+        "He does not interfere through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna directs consciousness and controls memory in all beings.",
@@ -221,10 +221,10 @@
       "id": "bg15-q15",
       "prompt": "In BG 15.16, what are the two aspects of existence Krishna describes?",
       "choices": [
-        "Only one exists",
+        "primarily one exists through independent material processes",
         "The perishable (matter) and the imperishable (soul); both exist",
-        "The soul is mortal",
-        "Matter is eternal"
+        "The soul is mortal through independent material processes",
+        "Matter is eternal through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Existence comprises both temporary material and eternal spiritual aspects.",
@@ -236,10 +236,10 @@
       "id": "bg15-q16",
       "prompt": "What does BG 15.17 teach about the Supreme Person?",
       "choices": [
-        "He is mortal",
-        "Beyond the perishable and imperishable; I am supreme; known as Paramatma",
-        "He is material",
-        "He is temporary"
+        "He is mortal through independent material processes",
+        "Beyond the perishable and imperishable supreme; known as Paramatma",
+        "He is material through independent material processes",
+        "He is temporary through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna is the ultimate source beyond all dualities and conditions.",
@@ -251,10 +251,10 @@
       "id": "bg15-q17",
       "prompt": "According to BG 15.18, who is the greatest and most worshipable?",
       "choices": [
-        "The strong",
+        "The strong and worldly philosophical speculation",
         "One who knows me as the Supreme Self is my devotee and worships rightly",
-        "The powerful",
-        "The wealthy"
+        "The powerful and worldly philosophical speculation",
+        "The wealthy and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Perfect knowledge of Krishna leads to the highest form of worship.",
@@ -266,10 +266,10 @@
       "id": "bg15-q18",
       "prompt": "In BG 15.19, what is the conclusion about understanding Krishna fully?",
       "choices": [
-        "Knowledge is unnecessary",
-        "One who knows me in truth; enters my nature and loves me eternally",
-        "Understanding fails",
-        "Knowledge brings confusion"
+        "Knowledge is unnecessary through independent material processes",
+        "One who knows me in truth",
+        "Understanding fails and worldly philosophical speculation",
+        "Knowledge brings confusion through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Complete knowledge of Krishna grants eternal entrance to His divine realm.",
@@ -281,10 +281,10 @@
       "id": "bg15-q19",
       "prompt": "What is the main teaching of Chapter 15?",
       "choices": [
-        "Matter is supreme",
-        "Krishna is the source of all; understanding this liberates one",
-        "The universe is eternal",
-        "Nothing is real"
+        "Matter is supreme through independent material processes",
+        "Krishna is the source of every; understanding this liberates one",
+        "The universe is eternal through independent material processes",
+        "minimal is real through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Chapter 15 reveals Krishna as the supreme source and sustainer.",
@@ -296,10 +296,10 @@
       "id": "bg15-q20",
       "prompt": "In BG 15, what is the significance of the cosmic tree?",
       "choices": [
-        "It is just nature",
+        "It is just nature through independent material processes",
         "It represents the material universe and the path to transcend it",
-        "It is permanent",
-        "It has no meaning"
+        "It is permanent through independent material processes",
+        "It has no meaning through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The tree symbolizes the structure of material creation.",
@@ -311,10 +311,10 @@
       "id": "bg15-q21",
       "prompt": "According to Chapter 15, how does one escape the material world?",
       "choices": [
-        "By studying",
+        "By studying and worldly philosophical speculation",
         "By understanding Krishna's supremacy and surrendering to Him",
-        "By ignoring it",
-        "It is impossible"
+        "By ignoring it through independent material processes",
+        "It is impossible through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "True knowledge of Krishna enables escape from material bondage.",
@@ -326,10 +326,10 @@
       "id": "bg15-q22",
       "prompt": "What does the cosmic tree represent in practical terms?",
       "choices": [
-        "Just a metaphor",
+        "Just a metaphor through independent material processes",
         "The cycle of birth, death, and rebirth driven by karma",
-        "Nothing important",
-        "An actual tree"
+        "minimal important and worldly philosophical speculation",
+        "An actual tree through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The tree symbolizes the material condition and cycle of reincarnation.",
@@ -341,10 +341,10 @@
       "id": "bg15-q23",
       "prompt": "In BG 15, what is promised to those who understand these truths?",
       "choices": [
-        "Nothing special",
+        "minimal special and worldly philosophical speculation",
         "They achieve eternal peace and return to Krishna's abode",
-        "Confusion increases",
-        "They suffer more"
+        "Confusion increases and worldly philosophical speculation",
+        "They suffer more through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Understanding leads to permanent liberation and divine association.",
@@ -356,10 +356,10 @@
       "id": "bg15-q24",
       "prompt": "What is the ultimate conclusion of Chapter 15?",
       "choices": [
-        "Matter wins",
-        "Krishna is eternal; He alone is the Supreme Truth to worship",
-        "Nothing matters",
-        "All are equal"
+        "Matter wins and worldly philosophical speculation",
+        "Krishna is eternal",
+        "minimal matters and worldly philosophical speculation",
+        "every are equal through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The final teaching points to exclusive devotion to the Supreme.",
@@ -371,10 +371,10 @@
       "id": "bg15-q25",
       "prompt": "What is the ultimate conclusion of Chapter 15?",
       "choices": [
-        "Matter wins",
-        "Krishna is eternal; He alone is the Supreme Truth to worship",
-        "Nothing matters",
-        "All are equal"
+        "Matter wins and worldly philosophical speculation",
+        "Krishna is eternal",
+        "minimal matters and worldly philosophical speculation",
+        "every are equal through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The final teaching points to exclusive devotion to the Supreme.",

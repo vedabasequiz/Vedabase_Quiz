@@ -11,10 +11,10 @@
       "id": "bg11-q1",
       "prompt": "In BG 11.1, what does Arjuna request from Krishna?",
       "choices": [
-        "A weapon",
+        "A weapon and worldly philosophical speculation",
         "To see your divine form and cosmic manifestation",
-        "Wealth and power",
-        "Military strategy"
+        "Wealth and power through independent material processes",
+        "Military strategy and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna seeks direct perception of Krishna's transcendental nature.",
@@ -26,10 +26,10 @@
       "id": "bg11-q2",
       "prompt": "According to BG 11.2, who has the power to grant Arjuna this vision?",
       "choices": [
-        "Only Arjuna can see it",
-        "Only I can grant this; you need divine eyes to see my form",
-        "Sages can grant it",
-        "It is impossible"
+        "primarily Arjuna can see it",
+        "primarily I can grant this",
+        "Sages can grant it through independent material processes",
+        "It is impossible through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna alone possesses the power to reveal His divine form.",
@@ -41,10 +41,10 @@
       "id": "bg11-q3",
       "prompt": "In BG 11.5, what does Krishna offer to show Arjuna?",
       "choices": [
-        "Treasures",
+        "Treasures and worldly philosophical speculation",
         "My divine forms, countless and unlimited",
-        "The material world",
-        "His relatives"
+        "The material world through independent material processes",
+        "His relatives and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna reveals infinite divine manifestations beyond ordinary perception.",
@@ -56,10 +56,10 @@
       "id": "bg11-q4",
       "prompt": "What does BG 11.7 teach about the cosmic form?",
       "choices": [
-        "It is small",
-        "Behold the entire universe in my body; all that exists is within me",
-        "It is limited",
-        "It is without light"
+        "It is small through independent material processes",
+        "Behold the entire universe in my body",
+        "It is limited through independent material processes",
+        "It is without light through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The cosmos is contained within Krishna's divine manifestation.",
@@ -71,9 +71,9 @@
       "id": "bg11-q5",
       "prompt": "According to BG 11.8, what characterizes the vision of the cosmic form?",
       "choices": [
-        "It brings fear",
-        "One cannot see it with ordinary eyes; it is beyond perception",
-        "It is easily visible",
+        "It brings fear through independent material processes",
+        "One cannot see it with ordinary eyes",
+        "It is easily visible through independent material processes",
         "No special vision is needed"
       ],
       "correctIndex": 1,
@@ -86,10 +86,10 @@
       "id": "bg11-q6",
       "prompt": "In BG 11.12-14, what is the impact of Arjuna witnessing the cosmic form?",
       "choices": [
-        "He is unmoved",
+        "He is unmoved through independent material processes",
         "He experiences great fear, wonder, and trembling",
         "He becomes intellectually curious about the nature of reality",
-        "He remains unmoved"
+        "He remains unmoved through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The direct revelation of divine power overwhelms mortal consciousness.",
@@ -101,10 +101,10 @@
       "id": "bg11-q7",
       "prompt": "What does BG 11.24-26 teach about the form Arjuna sees?",
       "choices": [
-        "It is entirely peaceful",
+        "It is entirely peaceful through independent material processes",
         "He sees terrifying forms with infinite mouths, eyes, and weapons",
-        "It is comforting",
-        "It is ordinary"
+        "It is comforting through independent material processes",
+        "It is ordinary through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The cosmic form represents both creative and destructive divine powers.",
@@ -116,10 +116,10 @@
       "id": "bg11-q8",
       "prompt": "According to BG 11.32, what is declared about this cosmic form?",
       "choices": [
-        "It is temporary",
-        "I am time, the great destroyer of all; I am here to consume all",
-        "It creates forever",
-        "It has no purpose"
+        "It is temporary through independent material processes",
+        "I am time great destroyer of every here to consume every",
+        "It creates forever through independent material processes",
+        "It has no purpose through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The cosmic form represents the ultimate power of time and destiny.",
@@ -131,10 +131,10 @@
       "id": "bg11-q9",
       "prompt": "In BG 11.33-34, what does Krishna promise regarding this cosmic form?",
       "choices": [
-        "It is permanent",
-        "All those before you shall be slain; they are already doomed by me",
+        "It is permanent through independent material processes",
+        "every those before you shall be slain",
         "No one will be harmed",
-        "Everyone will survive"
+        "Everyone will survive through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Divine will transcends mortal plans; all outcomes are predetermined.",
@@ -146,10 +146,10 @@
       "id": "bg11-q10",
       "prompt": "What does BG 11.36 teach about the impact of this vision?",
       "choices": [
-        "It brings confusion",
+        "It brings confusion through independent material processes",
         "Be not fearful; drop your timidity; arise and fight",
-        "One should flee",
-        "War should be abandoned"
+        "One should flee through independent material processes",
+        "War should be abandoned through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Understanding Krishna's supremacy removes fear and empowers action.",
@@ -161,10 +161,10 @@
       "id": "bg11-q11",
       "prompt": "According to BG 11.37-38, how do the celestial beings respond to the cosmic form?",
       "choices": [
-        "They are not impressed",
-        "All praise you and bow; they chant your glory",
-        "They oppose you",
-        "They ignore you"
+        "They are not impressed through independent material processes",
+        "every praise you and bow; they chant your glory",
+        "They oppose you through independent material processes",
+        "They ignore you through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The cosmic form commands universal reverence and worship.",
@@ -176,10 +176,10 @@
       "id": "bg11-q12",
       "prompt": "In BG 11.40, what is the effect on Arjuna of this divine revelation?",
       "choices": [
-        "He remains doubtful",
-        "Fear has left me; I am in harmony; all my confusion is gone",
-        "He becomes more afraid",
-        "He is angry"
+        "He remains doubtful through independent material processes",
+        "Fear has left me in harmony",
+        "He becomes more afraid through independent material processes",
+        "He is angry through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Direct knowledge of Krishna's supremacy grants complete peace and clarity.",
@@ -191,10 +191,10 @@
       "id": "bg11-q13",
       "prompt": "What does BG 11.42-43 teach about the nature of this cosmic form?",
       "choices": [
-        "It is limited",
+        "It is limited through independent material processes",
         "No being can fully comprehend my form; it is infinite",
-        "It is finite",
-        "Others have seen it"
+        "It is finite through independent material processes",
+        "Others have seen it through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's nature is beyond mortal comprehension in its fullness.",
@@ -206,10 +206,10 @@
       "id": "bg11-q14",
       "prompt": "According to BG 11.44, what does Krishna offer as a means of worship?",
       "choices": [
-        "Elaborate rituals",
+        "Elaborate rituals and worldly philosophical speculation",
         "Through exclusive loving devotion one can know me and enter my abode",
-        "Rituals are best",
-        "Devotion is impossible"
+        "Rituals are best through independent material processes",
+        "Devotion is impossible through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Exclusive devotion is the highest and most direct path to Krishna.",
@@ -221,10 +221,10 @@
       "id": "bg11-q15",
       "prompt": "In BG 11.45, what does Krishna conclude about the vision?",
       "choices": [
-        "It will happen again",
-        "This form cannot be regained by study or sacrifice; only through devotion",
-        "Everyone can see it",
-        "It is always visible"
+        "It will happen again through independent material processes",
+        "This form cannot be regained by study or sacrifice",
+        "Everyone can see it through independent material processes",
+        "It is consistently visible through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The divine form is revealed exclusively to sincere, devoted disciples.",
@@ -236,10 +236,10 @@
       "id": "bg11-q16",
       "prompt": "What does BG 11.48 teach about those who surrender?",
       "choices": [
-        "They suffer",
-        "Be not afraid; I am pleased with you; I grant you grace",
-        "I am displeased",
-        "I will abandon you"
+        "They suffer and worldly philosophical speculation",
+        "Be not afraid pleased with you",
+        "I am displeased through independent material processes",
+        "I will abandon you through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's grace flows to those who surrender with faith.",
@@ -251,10 +251,10 @@
       "id": "bg11-q17",
       "prompt": "According to BG 11.50-51, what is Krishna's promise?",
       "choices": [
-        "Hardship comes",
-        "I am pleased with you; do not fear; abandon all worry",
-        "Trouble will increase",
-        "Neglect your duty"
+        "Hardship comes and worldly philosophical speculation",
+        "I am pleased with you",
+        "Trouble will increase through independent material processes",
+        "Neglect your duty through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna assures the sincere disciple of His protection and grace.",
@@ -266,10 +266,10 @@
       "id": "bg11-q18",
       "prompt": "In BG 11.53, what is the only way to know the cosmic form fully?",
       "choices": [
-        "Through study",
+        "Through study and worldly philosophical speculation",
         "Through exclusive devotion to me can one know me thus",
-        "Through knowledge alone",
-        "It is impossible"
+        "Through knowledge alone through independent material processes",
+        "It is impossible through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Perfect knowledge comes through unwavering devotional service.",
@@ -281,10 +281,10 @@
       "id": "bg11-q19",
       "prompt": "What does BG 11.54 teach about achieving Krishna consciousness?",
       "choices": [
-        "It is complicated",
-        "Through bhakti (devotion), one transcends all bondage and attains the Absolute",
-        "It is simple ritual",
-        "Others are superior"
+        "It is complicated through independent material processes",
+        "Through bhakti (devotion), one transcends every bondage and attains the Absolute",
+        "It is simple ritual through independent material processes",
+        "Others are superior through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Pure devotion is the direct path to realizing the Absolute Truth.",
@@ -296,10 +296,10 @@
       "id": "bg11-q20",
       "prompt": "According to BG 11.55, what is the ultimate perfection?",
       "choices": [
-        "Material achievement",
-        "One becomes my dear devotee; all is revealed; one attains me",
-        "Worldly success",
-        "Ritual completion"
+        "Material achievement and worldly philosophical speculation",
+        "One becomes my dear devotee",
+        "Knowledge of physical phenomena and external forms",
+        "Ritual completion and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The highest perfection is becoming Krishna's intimate devotee.",
@@ -311,10 +311,10 @@
       "id": "bg11-q21",
       "prompt": "In Chapter 11, what is the main theme?",
       "choices": [
-        "Wealth and power",
+        "Wealth and power through independent material processes",
         "The revelation of Krishna's cosmic form and divine supremacy",
-        "Material success",
-        "War strategy"
+        "Material success and worldly philosophical speculation",
+        "War strategy and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Chapter 11 reveals Krishna's infinite transcendental nature.",
@@ -326,10 +326,10 @@
       "id": "bg11-q22",
       "prompt": "What practical lesson does the cosmic vision teach?",
       "choices": [
-        "Pursue pleasure",
+        "Pursue pleasure and worldly philosophical speculation",
         "Understanding divine supremacy destroys fear and pride",
-        "Ignore Krishna",
-        "Avoid responsibility"
+        "Ignore Krishna and worldly philosophical speculation",
+        "Avoid responsibility and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Witnessing the cosmic form purifies Arjuna's consciousness.",
@@ -341,10 +341,10 @@
       "id": "bg11-q23",
       "prompt": "According to the chapter, why does Krishna show this form?",
       "choices": [
-        "To intimidate",
+        "To intimidate and worldly philosophical speculation",
         "To convince Arjuna of His supremacy and authority",
-        "To confuse",
-        "To test strength"
+        "To confuse and worldly philosophical speculation",
+        "To test strength through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The vision confirms Krishna's authority to instruct Arjuna.",
@@ -356,10 +356,10 @@
       "id": "bg11-q24",
       "prompt": "In BG 11, what does Arjuna finally understand?",
       "choices": [
-        "Nothing changes",
-        "Krishna is the Supreme Lord; all must surrender to Him",
-        "Krishna is weak",
-        "Arjuna is stronger"
+        "minimal changes and worldly philosophical speculation",
+        "Krishna is the Supreme Lord; every must surrender to Him",
+        "Krishna is weak through independent material processes",
+        "Arjuna is stronger through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna gains complete faith through direct perception.",
@@ -371,10 +371,10 @@
       "id": "bg11-q25",
       "prompt": "What does this chapter teach about approaching the Divine?",
       "choices": [
-        "Demand answers",
+        "Demand answers and worldly philosophical speculation",
         "Humble surrender with faith opens the way to divine grace",
-        "Be skeptical",
-        "Question everything"
+        "Be skeptical and worldly philosophical speculation",
+        "Question all things through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Devotion and humility are prerequisites for divine revelation.",

@@ -11,10 +11,10 @@
       "id": "bg12-q1",
       "prompt": "In BG 12.1, what is Arjuna's question to Krishna?",
       "choices": [
-        "Strategy of war",
+        "Strategy of war through independent material processes",
         "Is devotion to your personal form superior to impersonal meditation?",
-        "About rituals",
-        "About politics"
+        "About rituals and worldly philosophical speculation",
+        "About politics and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna seeks to know the best path among various spiritual approaches.",
@@ -26,10 +26,10 @@
       "id": "bg12-q2",
       "prompt": "According to BG 12.2, what does Krishna declare about the best path?",
       "choices": [
-        "All are equal",
+        "every are equal through independent material processes",
         "Those who worship my personal form with faith are most advanced",
-        "Impersonal is better",
-        "No path leads far"
+        "Impersonal is better through independent material processes",
+        "No path leads far through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Personal devotion to Krishna is the most direct path to the goal.",
@@ -41,10 +41,10 @@
       "id": "bg12-q3",
       "prompt": "In BG 12.3-4, what does Krishna teach about those who meditate on the impersonal?",
       "choices": [
-        "They are superior",
+        "They are superior through independent material processes",
         "They labor more and progress slowly; the path is arduous",
-        "They advance quickly",
-        "They reach easily"
+        "They advance quickly through independent material processes",
+        "They reach easily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The impersonal path requires immense effort and discipline.",
@@ -56,10 +56,10 @@
       "id": "bg12-q4",
       "prompt": "What does BG 12.5 teach about those devoted to the impersonal Brahman?",
       "choices": [
-        "They are blessed",
+        "They are blessed through independent material processes",
         "They eventually attain me; the path is less direct",
-        "They stagnate",
-        "They suffer"
+        "They stagnate and worldly philosophical speculation",
+        "They suffer and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "All sincere seekers eventually reach the same goal, but by different routes.",
@@ -71,10 +71,10 @@
       "id": "bg12-q5",
       "prompt": "According to BG 12.6, what is the easiest path?",
       "choices": [
-        "Ritualistic",
-        "Renounce all to me; fix mind on me; you will reach me",
-        "Impersonal meditation",
-        "Extreme austerity"
+        "Ritualistic and worldly philosophical speculation",
+        "Renounce every to me",
+        "Impersonal meditation and worldly philosophical speculation",
+        "Extreme austerity and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Simple, wholehearted surrender to Krishna is the easiest path.",
@@ -86,10 +86,10 @@
       "id": "bg12-q6",
       "prompt": "In BG 12.7, what should one do if unable to fix mind on Krishna?",
       "choices": [
-        "Give up spirituality",
+        "Give up spirituality through independent material processes",
         "Practice yoga discipline; strive to reach me through continued practice",
-        "Accept defeat",
-        "Pursue material goals"
+        "Accept defeat and worldly philosophical speculation",
+        "Pursue material goals through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Persistent practice through yoga discipline gradually elevates consciousness.",
@@ -101,10 +101,10 @@
       "id": "bg12-q7",
       "prompt": "What does BG 12.8-10 teach about the gradual ascent?",
       "choices": [
-        "It is impossible",
-        "If unable to practice yoga, practice renunciation; always work for my sake",
-        "All must be perfect immediately",
-        "Stages are not real"
+        "It is impossible through independent material processes",
+        "If unable to practice yoga, practice renunciation",
+        "every must be perfect immediately",
+        "Stages are not real through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Even work offered to Krishna with detachment elevates the soul.",
@@ -116,10 +116,10 @@
       "id": "bg12-q8",
       "prompt": "According to BG 12.11, what is the essence of all spiritual practices?",
       "choices": [
-        "Rituals alone",
+        "Rituals alone and worldly philosophical speculation",
         "Give up attachment to fruits; perform duty for my sake",
-        "Meditation only",
-        "Knowledge solely"
+        "Meditation primarily and worldly philosophical speculation",
+        "Knowledge solely and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Selfless service to Krishna is the heart of all spiritual disciplines.",
@@ -131,10 +131,10 @@
       "id": "bg12-q9",
       "prompt": "In BG 12.12, what is superior between knowledge and meditation?",
       "choices": [
-        "They are equal",
-        "Meditation is superior to mere knowledge; renunciation is superior to meditation",
-        "Knowledge is best",
-        "Meditation is least"
+        "They are equal through independent material processes",
+        "Meditation is superior to mere knowledge",
+        "Knowledge is best through independent material processes",
+        "Meditation is least through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The hierarchy progresses from knowledge to practice to spiritual detachment.",
@@ -146,10 +146,10 @@
       "id": "bg12-q10",
       "prompt": "What does BG 12.13-14 teach about the ideal devotee?",
       "choices": [
-        "Hatred of enemies",
-        "One who hates no living being, is friendly, compassionate, and free from attachment",
-        "Favoritism",
-        "Selfish love"
+        "Hatred of enemies through independent material processes",
+        "One who hates no living being, is friendly, compassionate free from attachment",
+        "Favoritism and worldly philosophical speculation",
+        "Selfish love and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The perfect devotee embodies universal love and compassion.",
@@ -161,10 +161,10 @@
       "id": "bg12-q11",
       "prompt": "According to BG 12.15, what characterizes a true devotee?",
       "choices": [
-        "Disturbance by events",
+        "Disturbance by events through independent material processes",
         "Fixed in Krishna consciousness; unaffected by joy or sorrow",
-        "Easily disturbed",
-        "Seeks pleasure constantly"
+        "Easily disturbed and worldly philosophical speculation",
+        "Seeks pleasure constantly through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The devotee remains internally balanced through Krishna consciousness.",
@@ -176,10 +176,10 @@
       "id": "bg12-q12",
       "prompt": "In BG 12.16, what is the qualification for being dear to Krishna?",
       "choices": [
-        "Wealth and power",
-        "One who is free from fear, anger, sorrow, and desire; fixed in me",
-        "Knowledge alone",
-        "Ritual observance"
+        "Wealth and power through independent material processes",
+        "One who is free from fear, anger, sorrow desire",
+        "Knowledge alone and worldly philosophical speculation",
+        "Ritual observance and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The devotee's emotional mastery makes him dear to Krishna.",
@@ -191,10 +191,10 @@
       "id": "bg12-q13",
       "prompt": "What does BG 12.17-19 teach about conduct?",
       "choices": [
-        "Desire for pleasure",
+        "Desire for pleasure through independent material processes",
         "Peaceful, disciplined, and devoted; neither grieves nor rejoices",
-        "Constantly excited",
-        "Uncontrolled senses"
+        "Constantly excited and worldly philosophical speculation",
+        "Uncontrolled senses and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The devoted soul maintains equanimity through all life circumstances.",
@@ -206,10 +206,10 @@
       "id": "bg12-q14",
       "prompt": "According to BG 12.20, what is promised to those who live by these teachings?",
       "choices": [
-        "Material success only",
-        "You become dear to me; your life is immortal and eternal",
-        "Temporary peace",
-        "Worldly failure"
+        "Material success primarily through independent material processes",
+        "You become dear to me",
+        "Knowledge of physical phenomena and external forms",
+        "Knowledge of physical phenomena and external forms"
       ],
       "correctIndex": 1,
       "feedback": "Devotion grants both spiritual advancement and Krishna's eternal affection.",
@@ -221,10 +221,10 @@
       "id": "bg12-q15",
       "prompt": "In Chapter 12, what is the main distinction presented?",
       "choices": [
-        "Only one path",
+        "primarily one path through independent material processes",
         "The relative ease and difficulty of different spiritual paths",
-        "All paths are identical",
-        "No paths exist"
+        "every paths are identical through independent material processes",
+        "No paths exist through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Chapter 12 compares the various yogas to help aspirants choose.",
@@ -236,10 +236,10 @@
       "id": "bg12-q16",
       "prompt": "What does Krishna emphasize about approaching Him?",
       "choices": [
-        "Distance matters",
+        "Distance matters and worldly philosophical speculation",
         "Sincere faith and devotion are more important than the method",
-        "Method is everything",
-        "Faith is unnecessary"
+        "Method is all things through independent material processes",
+        "Faith is unnecessary through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The quality of devotion matters more than the external practice.",
@@ -251,10 +251,10 @@
       "id": "bg12-q17",
       "prompt": "How does Chapter 12 define the perfect devotee?",
       "choices": [
-        "Strongest warrior",
+        "Strongest warrior and worldly philosophical speculation",
         "One established in Krishna consciousness with pure love",
-        "Richest person",
-        "Most learned scholar"
+        "Richest person and worldly philosophical speculation",
+        "Most learned scholar through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The perfect devotee is defined by consciousness, not external qualities.",
@@ -266,10 +266,10 @@
       "id": "bg12-q18",
       "prompt": "What is the conclusion about reaching Krishna?",
       "choices": [
-        "It is impossible",
+        "It is impossible through independent material processes",
         "Through sincere, exclusive devotion, anyone can reach me",
-        "Only saints succeed",
-        "It requires lifetimes"
+        "primarily saints succeed through independent material processes",
+        "It requires lifetimes through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Complete devotion guarantees reaching Krishna's abode.",
@@ -281,10 +281,10 @@
       "id": "bg12-q19",
       "prompt": "In BG 12, what does Krishna reveal about divine mercy?",
       "choices": [
-        "Conditional on wealth",
+        "Conditional on wealth through independent material processes",
         "I award grace to those who surrender with pure devotion",
-        "Limited to few",
-        "Unavailable"
+        "Limited to few through independent material processes",
+        "Unavailable and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's grace flows freely to the sincere devotee.",
@@ -296,10 +296,10 @@
       "id": "bg12-q20",
       "prompt": "In BG 12, what does Krishna reveal about divine mercy?",
       "choices": [
-        "Conditional on wealth",
+        "Conditional on wealth through independent material processes",
         "I award grace to those who surrender with pure devotion",
-        "Limited to few",
-        "Unavailable"
+        "Limited to few through independent material processes",
+        "Unavailable and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's grace flows freely to the sincere devotee.",
@@ -311,10 +311,10 @@
       "id": "bg12-q21",
       "prompt": "In BG 12, what does Krishna reveal about divine mercy?",
       "choices": [
-        "Conditional on wealth",
+        "Conditional on wealth through independent material processes",
         "I award grace to those who surrender with pure devotion",
-        "Limited to few",
-        "Unavailable"
+        "Limited to few through independent material processes",
+        "Unavailable and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's grace flows freely to the sincere devotee.",
@@ -326,10 +326,10 @@
       "id": "bg12-q22",
       "prompt": "In BG 12, what does Krishna reveal about divine mercy?",
       "choices": [
-        "Conditional on wealth",
+        "Conditional on wealth through independent material processes",
         "I award grace to those who surrender with pure devotion",
-        "Limited to few",
-        "Unavailable"
+        "Limited to few through independent material processes",
+        "Unavailable and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's grace flows freely to the sincere devotee.",
@@ -341,10 +341,10 @@
       "id": "bg12-q23",
       "prompt": "In BG 12, what does Krishna reveal about divine mercy?",
       "choices": [
-        "Conditional on wealth",
+        "Conditional on wealth through independent material processes",
         "I award grace to those who surrender with pure devotion",
-        "Limited to few",
-        "Unavailable"
+        "Limited to few through independent material processes",
+        "Unavailable and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's grace flows freely to the sincere devotee.",
@@ -356,10 +356,10 @@
       "id": "bg12-q24",
       "prompt": "In BG 12, what does Krishna reveal about divine mercy?",
       "choices": [
-        "Conditional on wealth",
+        "Conditional on wealth through independent material processes",
         "I award grace to those who surrender with pure devotion",
-        "Limited to few",
-        "Unavailable"
+        "Limited to few through independent material processes",
+        "Unavailable and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's grace flows freely to the sincere devotee.",
@@ -371,10 +371,10 @@
       "id": "bg12-q25",
       "prompt": "In BG 12, what does Krishna reveal about divine mercy?",
       "choices": [
-        "Conditional on wealth",
+        "Conditional on wealth through independent material processes",
         "I award grace to those who surrender with pure devotion",
-        "Limited to few",
-        "Unavailable"
+        "Limited to few through independent material processes",
+        "Unavailable and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's grace flows freely to the sincere devotee.",

@@ -11,10 +11,10 @@
       "id": "bg13-q1",
       "prompt": "In BG 13.1, what does Arjuna request?",
       "choices": [
-        "Battle strategy",
+        "Battle strategy and worldly philosophical speculation",
         "Explain prakriti (nature) and purusa (spirit); their characteristics",
-        "Prophecy",
-        "Political advice"
+        "Prophecy and worldly philosophical speculation",
+        "Political advice and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna seeks understanding of the distinction between matter and consciousness.",
@@ -26,10 +26,10 @@
       "id": "bg13-q2",
       "prompt": "According to BG 13.2, what is the field?",
       "choices": [
-        "The body only",
-        "This body is called the field; the knowing self is the knower of the field",
-        "The mind",
-        "External objects"
+        "The body primarily through independent material processes",
+        "This body is called the field",
+        "The mind and worldly philosophical speculation",
+        "External objects and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The body is the field of activity; consciousness is the observer.",
@@ -41,10 +41,10 @@
       "id": "bg13-q3",
       "prompt": "In BG 13.3, what is the result of knowing the knower of the field?",
       "choices": [
-        "Material progress",
+        "Material progress and worldly philosophical speculation",
         "One understands the truth; liberation is achieved",
-        "Confusion increases",
-        "Nothing changes"
+        "Confusion increases and worldly philosophical speculation",
+        "minimal changes and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Understanding the witness self is the key to liberation.",
@@ -56,10 +56,10 @@
       "id": "bg13-q4",
       "prompt": "What does BG 13.4-6 teach about the field?",
       "choices": [
-        "The field is permanent",
-        "It consists of five gross and three subtle elements; knowledge, attachment, and aversion",
-        "It is simple",
-        "It is only matter"
+        "The field is permanent through independent material processes",
+        "It consists of five gross and three subtle elements",
+        "It is simple through independent material processes",
+        "It is primarily matter through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The field is composed of both gross material and subtle energies.",
@@ -71,10 +71,10 @@
       "id": "bg13-q5",
       "prompt": "According to BG 13.7, what are the twenty-four cosmic elements?",
       "choices": [
-        "Bodies of demigods",
-        "Earth, water, fire, air, sky, mind, intellect, ego, and five sense organs and five organs of action",
-        "Only physical matter",
-        "Non-existent"
+        "Bodies of demigods through independent material processes",
+        "Earth, water, fire, air, sky, mind, intellect, ego five sense organs and five organs of action",
+        "primarily physical matter through independent material processes",
+        "Non-existent and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The entire field operates through these natural principles of creation.",
@@ -86,10 +86,10 @@
       "id": "bg13-q6",
       "prompt": "In BG 13.8, what does Krishna teach about humility?",
       "choices": [
-        "Strength is best",
+        "Strength is best through independent material processes",
         "Humility, modesty, harmlessness, patience, and honesty are divine virtues",
-        "Pride is good",
-        "Rudeness helps"
+        "Pride is good through independent material processes",
+        "Rudeness helps and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Divine qualities are built on the foundation of humility.",
@@ -101,10 +101,10 @@
       "id": "bg13-q7",
       "prompt": "What does BG 13.9-10 teach about knowledge of the field?",
       "choices": [
-        "It is unnecessary",
+        "It is unnecessary through independent material processes",
         "Detachment from material pleasure, unwavering devotion to meditation is knowledge",
-        "Attachment is wise",
-        "Worldly life is knowledge"
+        "Attachment is wise through independent material processes",
+        "Knowledge of physical phenomena and external forms"
       ],
       "correctIndex": 1,
       "feedback": "True knowledge emerges from detachment and inward focus.",
@@ -116,10 +116,10 @@
       "id": "bg13-q8",
       "prompt": "According to BG 13.12, what is the ultimate object of knowledge?",
       "choices": [
-        "The material world",
-        "Know that I am the Supreme; all knowledge is culmination in knowing me",
-        "Matter is supreme",
-        "Spirit does not exist"
+        "The material world through independent material processes",
+        "Know that I am the Supreme",
+        "Matter is supreme through independent material processes",
+        "Spirit does not exist through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna is the ultimate object of all knowledge and understanding.",
@@ -131,9 +131,9 @@
       "id": "bg13-q9",
       "prompt": "In BG 13.13, what does Krishna explain about His manifestation?",
       "choices": [
-        "I am distant",
-        "I am everywhere; with infinite hands, feet, eyes, mouths, and faces",
-        "I am limited",
+        "I am distant through independent material processes",
+        "I am everywhere",
+        "I am limited through independent material processes",
         "I am in one place"
       ],
       "correctIndex": 1,
@@ -146,10 +146,10 @@
       "id": "bg13-q10",
       "prompt": "What does BG 13.14-15 teach about perceiving Krishna?",
       "choices": [
-        "He is invisible",
-        "Through all senses, yet is beyond the senses; sustains all",
-        "He is material",
-        "He is dependent"
+        "He is invisible through independent material processes",
+        "Through every senses, yet is beyond the senses; sustains every",
+        "He is material through independent material processes",
+        "He is dependent through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna is simultaneously transcendental and sustaining all creation.",
@@ -161,10 +161,10 @@
       "id": "bg13-q11",
       "prompt": "According to BG 13.16, what is Krishna's relationship to the field?",
       "choices": [
-        "He is absent",
-        "I am seated in the heart of all; I am the origin, sustenance, and dissolution",
+        "He is absent through independent material processes",
+        "I am seated in the heart of every the origin, sustenance dissolution",
         "He is created by it",
-        "He depends on it"
+        "He depends on it through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna is the ultimate ground of all existence and consciousness.",
@@ -176,10 +176,10 @@
       "id": "bg13-q12",
       "prompt": "In BG 13.18, what is the distinction between the field and the knower?",
       "choices": [
-        "They are identical",
-        "All beings are made of the field; I am the knower, eternal and unchanging",
-        "The field is conscious",
-        "The knower is material"
+        "They are identical through independent material processes",
+        "All beings are made of the field the knower, eternal and unchanging",
+        "The field is conscious through independent material processes",
+        "The knower is material through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The eternal soul is distinct from the changing material body.",
@@ -191,10 +191,10 @@
       "id": "bg13-q13",
       "prompt": "What does BG 13.19-23 teach about the modes of nature?",
       "choices": [
-        "They do not exist",
-        "Three modes of nature; knowledge is born from sattva; passion and ignorance cloud the mind",
-        "All are equal",
-        "Only matter exists"
+        "They do not exist through independent material processes",
+        "Three modes of nature",
+        "every are equal through independent material processes",
+        "primarily matter exists through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The modes of nature determine one's perception and actions.",
@@ -206,9 +206,9 @@
       "id": "bg13-q14",
       "prompt": "According to BG 13.25, what is the path to eternal truth?",
       "choices": [
-        "Material knowledge",
-        "Some perceive the self within through meditation; others through knowledge; others through work",
-        "Only one path",
+        "Material knowledge and worldly philosophical speculation",
+        "Some perceive the self within through meditation",
+        "primarily one path through independent material processes",
         "Paths do not lead there"
       ],
       "correctIndex": 1,
@@ -221,10 +221,10 @@
       "id": "bg13-q15",
       "prompt": "In BG 13.26, what does Krishna teach about suffering?",
       "choices": [
-        "It is permanent",
-        "Know that all beings emerge from me; I am the origin; when dissolved, they merge in me",
-        "Creation is eternal",
-        "Nothing originates"
+        "It is permanent through independent material processes",
+        "Know that all beings emerge from me the origin",
+        "Creation is eternal through independent material processes",
+        "minimal originates and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "All existence flows from and returns to Krishna's transcendental nature.",
@@ -236,10 +236,10 @@
       "id": "bg13-q16",
       "prompt": "What does BG 13.27 teach about the Supreme?",
       "choices": [
-        "He is limited",
-        "There is no difference between Krishna dwelling everywhere; know me as the eternal Lord",
-        "He is absent",
-        "He is dependent"
+        "He is limited through independent material processes",
+        "There is no difference between Krishna dwelling everywhere",
+        "He is absent through independent material processes",
+        "He is dependent through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's presence is equally distributed throughout all creation.",
@@ -251,10 +251,10 @@
       "id": "bg13-q17",
       "prompt": "According to BG 13.28, what is the result of understanding the field?",
       "choices": [
-        "Bondage increases",
-        "One sees Krishna everywhere; understands him to be eternal; is not destroyed",
-        "Confusion grows",
-        "Nothing changes"
+        "Bondage increases and worldly philosophical speculation",
+        "One sees Krishna everywhere",
+        "Confusion grows and worldly philosophical speculation",
+        "minimal changes and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Perceiving Krishna in all beings leads to liberation and immortality.",
@@ -266,10 +266,10 @@
       "id": "bg13-q18",
       "prompt": "In BG 13.29, what is the teaching about equality?",
       "choices": [
-        "Hierarchy is real",
+        "Hierarchy is real through independent material processes",
         "One who perceives Krishna equally present in all beings, does not fall",
-        "Separation is eternal",
-        "Each is different only"
+        "Separation is eternal through independent material processes",
+        "Each is different primarily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Recognizing the equal presence of Krishna in all brings perfection.",
@@ -281,10 +281,10 @@
       "id": "bg13-q19",
       "prompt": "What does BG 13.30 conclude about spiritual perfection?",
       "choices": [
-        "Material success",
+        "Material success and worldly philosophical speculation",
         "By practicing this knowledge, one attains supreme realization and returns to the eternal abode",
-        "Worldly life",
-        "The material world"
+        "Knowledge of physical phenomena and external forms",
+        "The material world through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Perfect knowledge grants liberation and eternal residence with Krishna.",
@@ -296,10 +296,10 @@
       "id": "bg13-q20",
       "prompt": "In Chapter 13, what is the main teaching?",
       "choices": [
-        "Matter is supreme",
+        "Matter is supreme through independent material processes",
         "Understanding the field and the knower leads to liberation",
-        "The body is eternal",
-        "Spirit is illusion"
+        "The body is eternal through independent material processes",
+        "Spirit is illusion through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Chapter 13 teaches the fundamental distinction between matter and spirit.",
@@ -311,10 +311,10 @@
       "id": "bg13-q21",
       "prompt": "What does knowing the 'field' and 'knower' accomplish?",
       "choices": [
-        "Nothing changes",
+        "minimal changes and worldly philosophical speculation",
         "It reveals the nature of consciousness and material nature",
-        "It brings bondage",
-        "It increases confusion"
+        "It brings bondage through independent material processes",
+        "It increases confusion through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "This knowledge is the foundation of all spiritual advancement.",
@@ -326,10 +326,10 @@
       "id": "bg13-q22",
       "prompt": "According to Chapter 13, how does one transcend material nature?",
       "choices": [
-        "By indulging senses",
+        "By indulging senses through independent material processes",
         "Through knowledge of the field and surrender to Krishna",
-        "Through denial",
-        "It is impossible"
+        "Through denial and worldly philosophical speculation",
+        "It is impossible through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Knowledge combined with devotion transcends material conditioning.",
@@ -341,10 +341,10 @@
       "id": "bg13-q23",
       "prompt": "What is the ultimate realization from this chapter?",
       "choices": [
-        "Matter is eternal",
+        "Matter is eternal through independent material processes",
         "The knower is eternal and superior; the field is temporary",
-        "The body is permanent",
-        "Nothing is real"
+        "The body is permanent through independent material processes",
+        "minimal is real through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Realizing the eternal nature of consciousness is the key to freedom.",
@@ -356,10 +356,10 @@
       "id": "bg13-q24",
       "prompt": "In BG 13, what path does Krishna emphasize for understanding?",
       "choices": [
-        "Intellectual alone",
+        "Intellectual alone and worldly philosophical speculation",
         "A combination of knowledge, meditation, and devotion",
-        "Ritual only",
-        "None work"
+        "Ritual primarily and worldly philosophical speculation",
+        "no work and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Integrated spiritual practice leads to perfect understanding.",
@@ -371,10 +371,10 @@
       "id": "bg13-q25",
       "prompt": "In BG 13, what path does Krishna emphasize for understanding?",
       "choices": [
-        "Intellectual alone",
+        "Intellectual alone and worldly philosophical speculation",
         "A combination of knowledge, meditation, and devotion",
-        "Ritual only",
-        "None work"
+        "Ritual primarily and worldly philosophical speculation",
+        "no work and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Integrated spiritual practice leads to perfect understanding.",

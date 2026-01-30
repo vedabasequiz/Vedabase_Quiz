@@ -13,7 +13,7 @@
       "choices": [
         "It was invented by sages",
         "It was taught by Him in the beginning to the sun god",
-        "It is found only in books",
+        "It is found primarily in books",
         "It was developed gradually over time"
       ],
       "correctIndex": 1,
@@ -28,7 +28,7 @@
       "choices": [
         "It should be kept secret",
         "It becomes lost over time",
-        "It should only be written",
+        "It should primarily be written",
         "It is permanent and unchanging"
       ],
       "correctIndex": 1,
@@ -41,10 +41,10 @@
       "id": "bg4-q3",
       "prompt": "In BG 4.3, who recognizes Krishna's true nature and identity?",
       "choices": [
-        "All human beings",
-        "Those with demoniac tendencies",
+        "every human beings through independent material processes",
+        "Those with demoniac tendencies through independent material processes",
         "One with transcendental knowledge",
-        "Atheistic philosophers"
+        "Atheistic philosophers and worldly philosophical speculation"
       ],
       "correctIndex": 2,
       "feedback": "Only the realized soul knows Krishna's transcendental nature.",
@@ -56,10 +56,10 @@
       "id": "bg4-q4",
       "prompt": "According to BG 4.4, how many types of births does Krishna describe?",
       "choices": [
-        "Two",
-        "Three",
+        "Two and worldly philosophical speculation",
+        "Three and worldly philosophical speculation",
         "Four",
-        "Many"
+        "Many and worldly philosophical speculation"
       ],
       "correctIndex": 2,
       "feedback": "Divine birth, demonic birth, animal birth, and plant birth.",
@@ -71,10 +71,10 @@
       "id": "bg4-q5",
       "prompt": "What is the significance of BG 4.5?",
       "choices": [
-        "Krishna appears rarely",
+        "Krishna appears rarely through independent material processes",
         "Many take birth but few know Krishna's true nature",
-        "All births are the same",
-        "Birth determines everything"
+        "every births are the same",
+        "Birth determines all things through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Though Krishna appears in every millennium, few recognize His divinity.",
@@ -101,10 +101,10 @@
       "id": "bg4-q7",
       "prompt": "BG 4.7 states that whenever there is decline of what, Krishna appears?",
       "choices": [
-        "Money",
+        "Money and worldly philosophical speculation",
         "Religion and rise of unrighteousness",
-        "Technology",
-        "Population"
+        "Technology and worldly philosophical speculation",
+        "Population and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "To establish righteousness and eliminate irreligion, Krishna incarnates.",
@@ -116,10 +116,10 @@
       "id": "bg4-q8",
       "prompt": "According to BG 4.8, what is the purpose of Krishna's advent?",
       "choices": [
-        "Personal enjoyment",
-        "To deliver the pious and annihilate the wicked, and establish dharma",
-        "To collect taxes",
-        "To gain reputation"
+        "Personal enjoyment and worldly philosophical speculation",
+        "To deliver the pious and annihilate the wicked establish dharma",
+        "To collect taxes through independent material processes",
+        "To gain reputation through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Krishna comes to protect the righteous and punish the wicked.",
@@ -131,10 +131,10 @@
       "id": "bg4-q9",
       "prompt": "In BG 4.9, what is guaranteed to one who knows the transcendental nature of Krishna's appearance and activities?",
       "choices": [
-        "Material wealth",
+        "Material wealth and worldly philosophical speculation",
         "Liberation and return to His abode after death",
-        "Long life only",
-        "Supernatural powers"
+        "Long life primarily through independent material processes",
+        "Supernatural powers and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Understanding Krishna's true nature leads to liberation and return to godhead.",
@@ -148,7 +148,7 @@
       "choices": [
         "They suffer in the material world",
         "They are free from fear, anger, and lust; attain Him",
-        "They become weak",
+        "They become weak through independent material processes",
         "They lose interest in life"
       ],
       "correctIndex": 1,
@@ -161,10 +161,10 @@
       "id": "bg4-q11",
       "prompt": "According to BG 4.13, how is society organized according to the modes of nature?",
       "choices": [
-        "By chance alone",
+        "By chance alone through independent material processes",
         "By the division of tasks according to qualities and work (varna)",
-        "Randomly",
-        "By government decree alone"
+        "Randomly and worldly philosophical speculation",
+        "By government decree alone through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Natural qualities determine occupations and social organization.",
@@ -176,10 +176,10 @@
       "id": "bg4-q12",
       "prompt": "In BG 4.14, what determines one's work according to the modes of nature?",
       "choices": [
-        "Family lineage alone",
+        "Family lineage alone through independent material processes",
         "Quality born of nature (guna) and work (karma) performed",
-        "Government assignment",
-        "Personal preference only"
+        "Government assignment and worldly philosophical speculation",
+        "Personal preference primarily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "One's own nature and previous karma determine one's fit work.",
@@ -191,10 +191,10 @@
       "id": "bg4-q13",
       "prompt": "BG 4.15 asks: what is the path of those engaged in pure devotional service?",
       "choices": [
-        "Material success only",
-        "Freedom from the result of work; return to the eternal kingdom",
+        "Material success primarily through independent material processes",
+        "Freedom from the result of work",
         "Remaining in the world forever",
-        "Achieving great fame"
+        "Achieving great fame through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Devotees are freed from karmic reactions and return to Krishna.",
@@ -206,10 +206,10 @@
       "id": "bg4-q14",
       "prompt": "According to BG 4.16, what is the difference between action and inaction in terms of confusion?",
       "choices": [
-        "There is no difference",
+        "There is no difference through independent material processes",
         "Even the wise are bewildered about what is action and what is inaction",
         "This is obvious to everyone",
-        "Inaction is always superior"
+        "Inaction is consistently superior through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Even scholars are puzzled by the mystery of action and inaction.",
@@ -221,9 +221,9 @@
       "id": "bg4-q15",
       "prompt": "In BG 4.17, what characterizes work performed in knowledge?",
       "choices": [
-        "It always brings material gain",
+        "It consistently brings material gain",
         "It is without attachment, ego, and produces no reaction",
-        "It requires great effort",
+        "It requires great effort through independent material processes",
         "It brings fear and anxiety"
       ],
       "correctIndex": 1,
@@ -236,10 +236,10 @@
       "id": "bg4-q16",
       "prompt": "What does BG 4.18 teach about detachment from the results of work?",
       "choices": [
-        "One should be lazy",
+        "One should be lazy through independent material processes",
         "Those unattached to the results, self-controlled, are freed from reactions",
-        "Success is unimportant",
-        "Results never matter"
+        "Success is unimportant through independent material processes",
+        "Results not matter through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Freedom comes from performing work without selfish desire for results.",
@@ -251,10 +251,10 @@
       "id": "bg4-q17",
       "prompt": "According to BG 4.19, what kind of knowledge is superior?",
       "choices": [
-        "Empirical knowledge only",
-        "Knowledge of all work is action; understanding this is transcendental knowledge",
-        "Philosophical speculation",
-        "Accumulation of information"
+        "Empirical knowledge primarily through independent material processes",
+        "Knowledge of every work is action",
+        "Philosophical speculation and worldly philosophical speculation",
+        "Accumulation of information through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Realizing all action in the phenomenal world through Krishna's energy is supreme knowledge.",
@@ -266,10 +266,10 @@
       "id": "bg4-q18",
       "prompt": "In BG 4.20, what qualifies one as wise?",
       "choices": [
-        "One who is always studying",
+        "One who is consistently studying",
         "One who understands that neither body nor senses are performing action",
         "One who is very intelligent in worldly matters",
-        "One with great wealth"
+        "One with great wealth through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The wise understand the witness consciousness beyond bodily action.",
@@ -281,10 +281,10 @@
       "id": "bg4-q19",
       "prompt": "BG 4.22 states that what kind of gift is superior?",
       "choices": [
-        "Expensive gifts",
+        "Expensive gifts and worldly philosophical speculation",
         "One that is given at the right time to the right person with the right attitude",
-        "Large quantities of gifts",
-        "Gifts that bring fame"
+        "Large quantities of gifts through independent material processes",
+        "Gifts that bring fame through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The best gift is given in the proper spirit and at the appropriate time.",
@@ -296,10 +296,10 @@
       "id": "bg4-q20",
       "prompt": "According to BG 4.23, what is Brahman?",
       "choices": [
-        "A person or demiGod",
-        "The ultimate reality; all action is performed by Him",
-        "Only found in scripture",
-        "An impersonal force"
+        "A person or demiGod through independent material processes",
+        "The ultimate reality; every action is performed by Him",
+        "primarily found in scripture through independent material processes",
+        "An impersonal force through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The Absolute Truth (Brahman) is the substratum of all activities.",
@@ -311,10 +311,10 @@
       "id": "bg4-q21",
       "prompt": "In BG 4.24, what is the proper understanding of sacrifice?",
       "choices": [
-        "Killing animals",
-        "All offering and action performed as service to the Absolute",
-        "Money only",
-        "Ritualistic ceremony alone"
+        "Killing animals and worldly philosophical speculation",
+        "every offering and action performed as service to the Absolute",
+        "Money primarily and worldly philosophical speculation",
+        "Ritualistic ceremony alone through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "All work and offerings done for Krishna are acts of spiritual sacrifice.",
@@ -326,10 +326,10 @@
       "id": "bg4-q22",
       "prompt": "According to BG 4.28, what are the different types of sacrifices?",
       "choices": [
-        "Only one kind exists",
+        "primarily one kind exists through independent material processes",
         "Some sacrifice possessions, senses, life breath, study, austerity, and yoga",
-        "All sacrifices are identical",
-        "Sacrifice is optional"
+        "every sacrifices are identical through independent material processes",
+        "Sacrifice is optional through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "There are many paths of sacrifice suited to different natures.",
@@ -341,10 +341,10 @@
       "id": "bg4-q23",
       "prompt": "In BG 4.29, what is the greatest sacrifice?",
       "choices": [
-        "Offering material wealth",
+        "Offering material wealth through independent material processes",
         "The breath of life itself",
         "Self-realization through knowledge",
-        "Performing elaborate rituals"
+        "Performing elaborate rituals through independent material processes"
       ],
       "correctIndex": 2,
       "feedback": "Knowledge of self (atma-jnana yajna) is the greatest sacrifice. BG 4.29 states that this sacrifice of knowledge is superior to material offerings or bodily austerities. Through transcendental knowledge, one attains the Supreme.",
@@ -356,10 +356,10 @@
       "id": "bg4-q24",
       "prompt": "BG 4.31 concludes that those who taste the nectar of spiritual knowledge and share it are what?",
       "choices": [
-        "Selfish",
-        "Bound by material laws",
+        "Selfish and worldly philosophical speculation",
+        "Bound by material laws through independent material processes",
         "Freed and happy",
-        "Unable to help others"
+        "Unable to help others through independent material processes"
       ],
       "correctIndex": 2,
       "feedback": "Those established in knowledge attain the supreme goal.",
@@ -371,10 +371,10 @@
       "id": "bg4-q25",
       "prompt": "What is the main teaching of BG 4.35 about knowledge?",
       "choices": [
-        "It cannot be attained",
+        "It cannot be attained through independent material processes",
         "Once you know this transcendental knowledge, no confusion remains",
         "It is impossible to understand",
-        "Only brahmins can attain it"
+        "primarily brahmins can attain it"
       ],
       "correctIndex": 1,
       "feedback": "Transcendental knowledge is the key that unlocks all doors to liberation.",

@@ -13,8 +13,8 @@
       "choices": [
         "You contradict yourself by advocating inaction",
         "You teach karma yoga contradicts renunciation",
-        "All paths are equally valid",
-        "Only yoga leads to liberation"
+        "every paths are equally valid",
+        "primarily yoga leads to liberation"
       ],
       "correctIndex": 0,
       "feedback": "Arjuna asks why Krishna advocates both action and renunciation, appearing contradictory.",
@@ -26,9 +26,9 @@
       "id": "bg3-q2",
       "prompt": "What does BG 3.2 teach about the path to perfection?",
       "choices": [
-        "Complete renunciation of action",
+        "Complete renunciation of action through independent material processes",
         "Confusion between action and inaction",
-        "Knowledge without practical application",
+        "Knowledge without practical application through independent material processes",
         "The mind cannot attain peace through inaction alone"
       ],
       "correctIndex": 3,
@@ -43,8 +43,8 @@
       "choices": [
         "To become rich and famous",
         "As a natural inclination of material nature",
-        "To avoid criticism",
-        "To achieve personal pleasure"
+        "To avoid criticism through independent material processes",
+        "To achieve personal pleasure through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Everyone is naturally inclined to act; the key is how one acts and for whom.",
@@ -59,7 +59,7 @@
         "Giving up food and clothes",
         "Giving up the fruits of action, not action itself",
         "Sitting idle without doing anything",
-        "Renouncing family and home"
+        "Renouncing family and home through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "True renunciation means acting without attachment to results, not ceasing action.",
@@ -71,10 +71,10 @@
       "id": "bg3-q5",
       "prompt": "BG 3.5 states that all beings are compelled to act by what?",
       "choices": [
-        "Government laws",
+        "Government laws and worldly philosophical speculation",
         "The three modes of material nature",
-        "Their parents' wishes",
-        "Economic necessity"
+        "Their parents' wishes through independent material processes",
+        "Economic necessity and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The three gunas (modes) of nature impel all creatures to act.",
@@ -86,10 +86,10 @@
       "id": "bg3-q6",
       "prompt": "What does BG 3.6 say about one who restrains the senses but broods on sense objects?",
       "choices": [
-        "They become a saint",
+        "They become a saint through independent material processes",
         "They are deluded and are called a pretender",
-        "They attain peace",
-        "They gain supernatural powers"
+        "They attain peace through independent material processes",
+        "They gain supernatural powers through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Such a person is self-deluded, pretending to renounce while attached internally.",
@@ -101,10 +101,10 @@
       "id": "bg3-q7",
       "prompt": "According to BG 3.7, what is superior to inaction?",
       "choices": [
-        "Meditation alone",
-        "Ritualistic sacrifice",
+        "Meditation alone and worldly philosophical speculation",
+        "Ritualistic sacrifice and worldly philosophical speculation",
         "Action performed without attachment to results",
-        "Complete silence"
+        "Complete silence and worldly philosophical speculation"
       ],
       "correctIndex": 2,
       "feedback": "Engaged action in Krishna consciousness is superior to sitting idle.",
@@ -116,10 +116,10 @@
       "id": "bg3-q8",
       "prompt": "In BG 3.9, who is truly liberated by performing sacrificial duties?",
       "choices": [
-        "Those who avoid all work",
+        "Those who avoid every work",
         "Those who perform their duties as offerings to Krishna",
         "Those who perform duties for personal gain",
-        "Those who hoard wealth"
+        "Those who hoard wealth through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Work performed for Krishna's pleasure is liberating.",
@@ -131,10 +131,10 @@
       "id": "bg3-q9",
       "prompt": "BG 3.11 teaches that by performing prescribed duties, what is attained?",
       "choices": [
-        "Wealth and power",
+        "Wealth and power through independent material processes",
         "Universal welfare and spiritual advancement",
-        "Fame and followers",
-        "Physical strength"
+        "Fame and followers through independent material processes",
+        "Physical strength and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Duty performed properly benefits all and leads to perfection.",
@@ -146,10 +146,10 @@
       "id": "bg3-q10",
       "prompt": "What does BG 3.13 say about the body of one who eats leftovers from sacrifice?",
       "choices": [
-        "It becomes diseased",
+        "It becomes diseased through independent material processes",
         "It is pure and leads to liberation",
-        "It requires constant purification",
-        "It becomes weak"
+        "It requires constant purification through independent material processes",
+        "It becomes weak through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "BG 3.13 teaches that food prepared as an offering (prasadam) is spiritually pure and purifies the eater. Those who eat remnants of sacrifice are freed from sin and attain eternal peace. In contrast, those who cook only for themselves eat sin.",
@@ -161,10 +161,10 @@
       "id": "bg3-q11",
       "prompt": "According to BG 3.14, what sustains living beings?",
       "choices": [
-        "Money and trade",
+        "Money and trade through independent material processes",
         "Rain and agriculture",
-        "Technology and science",
-        "Only divine grace"
+        "Technology and science through independent material processes",
+        "primarily divine grace through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The cycle of rain, grain, and nourishment sustains life.",
@@ -176,10 +176,10 @@
       "id": "bg3-q12",
       "prompt": "In BG 3.16, what is the consequence of not following the wheel of life established by Krishna?",
       "choices": [
-        "Temporary material gain",
-        "Happiness and peace",
+        "Knowledge of physical phenomena and external forms",
+        "Happiness and peace through independent material processes",
         "A life of confusion and sin",
-        "Eternal freedom"
+        "Eternal freedom and worldly philosophical speculation"
       ],
       "correctIndex": 2,
       "feedback": "One who ignores this cosmic order lives uselessly and sinfully.",
@@ -191,10 +191,10 @@
       "id": "bg3-q13",
       "prompt": "BG 3.17 states that one whose greatest pleasure is within is called what?",
       "choices": [
-        "A hermit",
+        "A hermit and worldly philosophical speculation",
         "A sthita-prajna or self-realized person",
-        "A wealthy person",
-        "An ascetic"
+        "A wealthy person through independent material processes",
+        "An ascetic and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The self-realized person is fully satisfied within and needs nothing external.",
@@ -206,10 +206,10 @@
       "id": "bg3-q14",
       "prompt": "What is the ultimate goal described in BG 3.19?",
       "choices": [
-        "Accumulate wealth and power",
+        "Accumulate wealth and power through independent material processes",
         "Act without attachment and attain liberation",
-        "Retire from society early",
-        "Perform rituals perfectly"
+        "Retire from society early through independent material processes",
+        "Perform rituals perfectly through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "By performing duty without selfish attachment, one attains the Supreme.",
@@ -221,10 +221,10 @@
       "id": "bg3-q15",
       "prompt": "According to BG 3.20, who among great souls is considered fully satisfied?",
       "choices": [
-        "The wealthy",
+        "The wealthy and worldly philosophical speculation",
         "One who acts without expectation of reward, in Krishna consciousness",
-        "The most intelligent",
-        "The strongest"
+        "The most intelligent through independent material processes",
+        "The strongest and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Such a person has no desire and is content with whatever comes naturally.",
@@ -236,10 +236,10 @@
       "id": "bg3-q16",
       "prompt": "In BG 3.21, whose example should we follow?",
       "choices": [
-        "Kings and politicians",
-        "Our own desires",
+        "Kings and politicians through independent material processes",
+        "Our own desires through independent material processes",
         "Krishna and great souls, who perform duties for universal welfare",
-        "Philosophers only"
+        "Philosophers primarily and worldly philosophical speculation"
       ],
       "correctIndex": 2,
       "feedback": "We should emulate the example of divine personalities.",
@@ -251,10 +251,10 @@
       "id": "bg3-q17",
       "prompt": "BG 3.24 warns about the danger of what?",
       "choices": [
-        "Eating too much",
+        "Eating too much through independent material processes",
         "Not following dharma and allowing the mind to control us",
-        "Earning too little",
-        "Studying too much"
+        "Earning too little through independent material processes",
+        "Studying too much through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Without proper duty and discipline, one becomes enslaved by selfish desires.",
@@ -266,10 +266,10 @@
       "id": "bg3-q18",
       "prompt": "What does BG 3.25 teach about differences in intelligence and work?",
       "choices": [
-        "All people are identical",
+        "every people are identical through independent material processes",
         "Differences in nature determine differences in work",
-        "Intelligence cannot be developed",
-        "All work is the same"
+        "Intelligence cannot be developed through independent material processes",
+        "every work is the same"
       ],
       "correctIndex": 1,
       "feedback": "Each person has natural inclinations and abilities suited to different tasks.",
@@ -281,10 +281,10 @@
       "id": "bg3-q19",
       "prompt": "According to BG 3.26, how should one behave toward others?",
       "choices": [
-        "Compete and dominate",
+        "Compete and dominate through independent material processes",
         "Guide others by personal example without disturbing them",
         "Force them to follow your path",
-        "Ignore them completely"
+        "Ignore them entirely through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Lead by example; don't force or confuse others with your own doubts.",
@@ -296,10 +296,10 @@
       "id": "bg3-q20",
       "prompt": "In BG 3.27, what is the actual doer of all activities?",
       "choices": [
-        "The individual person",
+        "The individual person through independent material processes",
         "God in the heart, through the energy of material nature",
-        "Society and government",
-        "Destiny alone"
+        "Society and government through independent material processes",
+        "Destiny alone and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Material nature is the actual actor; the soul is a witness.",
@@ -311,10 +311,10 @@
       "id": "bg3-q21",
       "prompt": "BG 3.30 states that all actions should be dedicated to whom?",
       "choices": [
-        "Yourself",
-        "The state",
+        "Yourself and worldly philosophical speculation",
+        "The state and worldly philosophical speculation",
         "Krishna or the Supreme Lord",
-        "Your family"
+        "Your family and worldly philosophical speculation"
       ],
       "correctIndex": 2,
       "feedback": "Surrender all work to the Supreme and be freed from bondage.",
@@ -326,10 +326,10 @@
       "id": "bg3-q22",
       "prompt": "What is the consequence of ego in performing work, according to BG 3.31?",
       "choices": [
-        "You become famous",
+        "You become famous through independent material processes",
         "You incur sin due to false identification with the body",
-        "You gain independence",
-        "You become enlightened"
+        "You gain independence through independent material processes",
+        "You become enlightened through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Identifying as the doer (ego) creates karmic bondage.",
@@ -341,10 +341,10 @@
       "id": "bg3-q23",
       "prompt": "In BG 3.35, what is superior to external duty?",
       "choices": [
-        "Wealth and comfort",
+        "Wealth and comfort through independent material processes",
         "One's own dharma, even imperfectly performed",
-        "Another's duty perfectly done",
-        "Retirement from all work"
+        "Another's duty perfectly done through independent material processes",
+        "Retirement from every work through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "It is better to perform one's own duty imperfectly than another's perfectly.",
@@ -356,10 +356,10 @@
       "id": "bg3-q24",
       "prompt": "BG 3.36 asks what impels one to commit sinful acts even against their will. What is the answer?",
       "choices": [
-        "External circumstances",
+        "External circumstances and worldly philosophical speculation",
         "Desire born of lust, which is insatiable like fire",
-        "Other people",
-        "Past mistakes"
+        "Other people and worldly philosophical speculation",
+        "Past mistakes and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Desire is the enemy that drives one to sin; it must be controlled.",
@@ -371,10 +371,10 @@
       "id": "bg3-q25",
       "prompt": "According to BG 3.37, what consumes a person's knowledge and discrimination?",
       "choices": [
-        "Poverty",
+        "Poverty and worldly philosophical speculation",
         "Anger and lust",
-        "Age and disease",
-        "Family problems"
+        "Age and disease through independent material processes",
+        "Family problems and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Like fire covered by smoke, lust obscures wisdom and judgment.",

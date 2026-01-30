@@ -3,7 +3,7 @@
   "scripture": "bg",
   "chapter": 1,
   "audience": "adult",
-  "title": "Bhagavad Gita - Chapter 1 (Adult) | 33Q",
+  "title": "Bhagavad Gita - Chapter 1 (Adult) | 25Q",
   "difficulty": "medium-hard",
   "publishedOn": "2026-01-29",
   "questions": [
@@ -353,21 +353,6 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg1-q24",
-      "prompt": "In the purport to BG 1.41-42, Srila Prabhupada describes Arjuna's argument about varna-sankara (unwanted population). What does Prabhupada reveal about the logic Arjuna employs?",
-      "choices": [
-        "Arjuna's argument is entirely original and unprecedented",
-        "Arjuna draws on remembered teachings from authorities",
-        "Arjuna invents his social theories from personal speculation",
-        "Arjuna quotes direct instructions from Krsna received earlier"
-      ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada notes that Arjuna is recalling what he has heard from authorities regarding the social consequences of family destruction and the problem of unwanted progeny. Arjuna's arguments are not baseless sentiment - they reflect scriptural learning about social stability. However, Prabhupada's point is subtle: Arjuna applies this knowledge incorrectly to his present circumstance. Why this matters: Even correct scriptural understanding can be misapplied when one lacks discrimination about situational duties. The false path is mechanical application of rules without understanding transcendental context. This warns against rigid fundamentalism that ignores the guidance of realized souls.",
-      "verseLabel": "BG 1.41-42",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/41-42/",
-      "verdict": "Correct"
-    },
-    {
       "id": "bg1-q25",
       "prompt": "In BG 1.39, what does Arjuna say happens when a dynasty is destroyed?",
       "choices": [
@@ -395,111 +380,6 @@
       "feedback": "Arjuna links prominent irreligion to degradation in family life and to the rise of unwanted progeny (varna-sankara). His analysis, though perceptive, is still bound by materialistic perspective.",
       "verseLabel": "BG 1.40",
       "verseUrl": "https://vedabase.io/en/library/bg/1/40/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg1-q27",
-      "prompt": "In BG 1.41, why do the ancestors of corrupt families fall down, according to Arjuna?",
-      "choices": [
-        "Because they are defeated in the battle",
-        "Because traditional offerings of food and water cease",
-        "Because they eventually lose all their property",
-        "Because they abandon their gurus and teachers"
-      ],
-      "correctIndex": 1,
-      "feedback": "Arjuna says the ancestors fall down when the family becomes corrupt, because the traditional offerings of food and water are no longer performed. This reveals Arjuna's concern for proper ritualistic and familial duties.",
-      "verseLabel": "BG 1.41",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/41/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg1-q28",
-      "prompt": "In BG 1.42, what broader damage does Arjuna say results from destroying family tradition?",
-      "choices": [
-        "Temple worship decreases in the cities",
-        "The army becomes weaker over generations",
-        "Community projects and family welfare are devastated",
-        "Trade and agriculture permanently cease throughout"
-      ],
-      "correctIndex": 2,
-      "feedback": "Arjuna warns that the breakdown of tradition damages society broadly, ruining community projects and family welfare activities. His argument demonstrates understanding of social consequences across generations.",
-      "verseLabel": "BG 1.42",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/42/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg1-q29",
-      "prompt": "In BG 1.43, what does Arjuna say he has heard by disciplic succession?",
-      "choices": [
-        "That warfare inevitably purifies everyone who participates",
-        "Those who destroy family traditions dwell in hell",
-        "That the Pandavas are guaranteed eventual victory",
-        "That teachers should not fight under any circumstances"
-      ],
-      "correctIndex": 1,
-      "feedback": "Arjuna appeals to what he has heard in disciplic succession: those who destroy family traditions dwell in hell. He attempts to establish his argument on scriptural authority, but lacks discriminative understanding.",
-      "verseLabel": "BG 1.43",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/43/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg1-q30",
-      "prompt": "In BG 1.44, what does Arjuna call 'strange' about the situation?",
-      "choices": [
-        "That everyone is so well trained in military arts",
-        "That desire for royal happiness drives killing of kinsmen",
-        "That Krsna is personally present on this battlefield",
-        "That the Pandava army is so vastly outnumbered"
-      ],
-      "correctIndex": 1,
-      "feedback": "Arjuna is shocked that desire for royal happiness can push people into preparing greatly sinful acts like killing their own relatives. He fails to understand that Dharma transcends material considerations.",
-      "verseLabel": "BG 1.44",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/44/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg1-q31",
-      "prompt": "In BG 1.45, what does Arjuna say would be better for him personally?",
-      "choices": [
-        "To win the kingdom and then rule peacefully thereafter",
-        "To be killed unarmed and unresisting by Dhritarastra's sons",
-        "To retreat immediately and establish a kingdom elsewhere",
-        "To fight exclusively with Bhisma and Drona alone"
-      ],
-      "correctIndex": 1,
-      "feedback": "Arjuna says it would be better if the sons of Dhritarastra killed him while he is unarmed and not resisting, rather than he killing them. This extreme statement shows how deeply lamentation has gripped him.",
-      "verseLabel": "BG 1.45",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/45/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg1-q32",
-      "prompt": "In BG 1.46, what does Sanjaya report as Arjuna's condition after speaking?",
-      "choices": [
-        "He becomes fearless and eagerly lifts his bow again",
-        "He begins negotiating peace terms directly with Duryodhana",
-        "He casts aside his weapons, sitting down in grief",
-        "He immediately orders Krsna to drive the chariot back"
-      ],
-      "correctIndex": 2,
-      "feedback": "Sanjaya states that Arjuna puts down his bow and arrows and sits on the chariot, overwhelmed with grief, showing collapse under illusion. This marks the culmination of material reasoning without spiritual knowledge.",
-      "verseLabel": "BG 1.46",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/46/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg1-q33",
-      "prompt": "In the purport to BG 1.46, Srila Prabhupada makes a crucial observation about Arjuna's final state. What is the most important point he emphasizes?",
-      "choices": [
-        "That Arjuna's grief proves he is unqualified to receive transcendental knowledge",
-        "That lamentation and confusion are natural preconditions for receiving spiritual instruction",
-        "That Arjuna should have fought without waiting for Krsna's teaching",
-        "That sitting down in the chariot represents the highest form of renunciation"
-      ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains that Arjuna's breakdown is not disqualifying but preparatory. His grief, confusion, and surrender create the perfect condition for receiving transcendental knowledge. Without this crisis, Arjuna would have relied on his own material intelligence. The entire First Chapter demonstrates how material reasoning, even when sophisticated and morally sensitive, inevitably leads to paralysis without divine guidance. Why this matters: Many reject spiritual inquiry during personal crisis, thinking they must resolve problems first. The false path is believing we must be emotionally stable before approaching transcendence. Prabhupada shows that acknowledging our helplessness is precisely when we become qualified for genuine spiritual instruction, as Arjuna demonstrates in the next chapter.",
-      "verseLabel": "BG 1.46",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/46/",
       "verdict": "Correct"
     }
   ]

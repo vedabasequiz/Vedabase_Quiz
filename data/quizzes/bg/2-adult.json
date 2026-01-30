@@ -233,33 +233,33 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q26-purport",
-      "prompt": "In the purport to BG 2.2, Srila Prabhupada explains the three realizations of Absolute Truth using the sun analogy. Which realization represents the highest?",
+      "id": "bg2-q20-synthesis",
+      "prompt": "How does Prabhupada's teaching on tolerating dualities (BG 2.14-15) inform the instruction to perform duty with equanimity (BG 2.48)?",
       "choices": [
-        "Understanding the sunshine represents Brahman realization which is lower stage",
-        "Knowing the sun's surface represents Paramatma realization which is intermediate",
-        "Entering the sun planet represents Bhagavan realization which is highest",
-        "All three are equal according to impersonal philosophy taught by Mayavadis"
+        "The stoic error that suppressing emotions creates detachment",
+        "Recognizing impermanence of sense experience enables balanced action",
+        "The fatalist view that outcomes don't matter since predetermined",
+        "The hedonist misconception that experiencing pleasure aids spirituality"
       ],
-      "correctIndex": 2,
-      "feedback": "The bhaktas who realize Bhagavan are topmost transcendentalists, like those who enter the sun planet.",
-      "verseLabel": "BG 2.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
+      "correctIndex": 1,
+      "feedback": "Understanding dualities (happiness-distress) as temporary winter-summer seasons removes their power to disturb consciousness, enabling yoga (equanimity) in action-one performs duty unmoved by transient reactions because their temporary nature is realized. Tolerance flows from metaphysical insight, not willpower.",
+      "verseLabel": "BG 2.14-48",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/14/",
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q27-purport",
-      "prompt": "In the purport to BG 2.2, what does Srila Prabhupada say characterizes non-Aryans?",
+      "id": "bg2-q21-synthesis",
+      "prompt": "How does realizing the soul's eternality (BG 2.20-25) practically manifest in the sthita-prajna's behavior (BG 2.54-72)?",
       "choices": [
-        "They are noble warriors fighting for righteousness and dharma on battlefields",
-        "They know liberation but prefer material life and sense gratification",
-        "They have no knowledge of liberation from material bondage at all",
-        "They follow prescribed duties with determination and complete devotion"
+        "The intellectualist error that knowledge doesn't require behavioral change",
+        "Soul-knowledge produces sense control, equanimity, and withdrawal from material desire",
+        "The antinomian view that realized souls can act without any constraints",
+        "The gradualist assumption that understanding precedes application by years"
       ],
-      "correctIndex": 2,
-      "feedback": "Non-Aryans have no knowledge of liberation from material bondage, being captivated by external material features.",
-      "verseLabel": "BG 2.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
+      "correctIndex": 1,
+      "feedback": "Knowing the soul as eternal, indestructible, and distinct from body naturally produces the steady wisdom's characteristics: if I'm not the body, bodily pleasures lose appeal (sense control), bodily changes don't disturb (equanimity), material goals lose meaning (desirelessness). The sthita-prajna's conduct flows from soul-realization, not imposed discipline.",
+      "verseLabel": "BG 2.20-72",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
       "verdict": "Correct"
     },
     {
@@ -368,18 +368,18 @@
       "verdict": "Correct"
     },
     {
-      "id": "bg2-q34-purport",
-      "prompt": "In the purport to BG 2.46, what false path does Srila Prabhupada warn against regarding Vedic study?",
+      "id": "bg2-q24-synthesis",
+      "prompt": "How does Prabhupada's teaching that the body is like clothes (BG 2.22) integrate with Krishna's instruction to fight without attachment to results (BG 2.38, 2.47)?",
       "choices": [
-        "Studying Vedas leads to material prosperity guaranteed by scriptural authority",
-        "Attachment to rituals only without knowing their purpose",
-        "Chanting holy names is for sentimentalists not for scholarly persons",
-        "Self-realization requires abandoning all Vedic knowledge and scriptural study"
+        "The dualist error that soul and action exist in separate compartments",
+        "Soul-body distinction enables duty performance without existential investment",
+        "The escapist view that spiritual understanding justifies avoiding responsibilities",
+        "The mechanistic fallacy that detachment means emotional suppression"
       ],
       "correctIndex": 1,
-      "feedback": "One must understand the purpose of Vedas (knowing Krsna), not just be attached to rituals and heavenly elevation.",
-      "verseLabel": "BG 2.46",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/46/",
+      "feedback": "If bodies are mere garments and the soul unchangeable, then bodily outcomes (victory-defeat, life-death) don't affect one's essential nature-this metaphysical understanding enables unattached action: perform kshatriya duty because it's appropriate for the garment (body) you wear, without confusion that results touch the wearer (soul). Detachment roots in correct identification.",
+      "verseLabel": "BG 2.22-47",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/22/",
       "verdict": "Correct"
     }
   ]

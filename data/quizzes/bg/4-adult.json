@@ -9,7 +9,7 @@
   "questions": [
     {
       "id": "bg4-q1",
-      "prompt": "In BG 4.1, what does Krishna reveal about the origin of yoga?",
+      "prompt": "In BG 4.1, what does Krsna reveal about the origin of yoga?",
       "choices": [
         "It was invented by ancient sages primarily",
         "It was taught by Him to the sun god",
@@ -17,7 +17,7 @@
         "It was developed gradually over many ages"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna declares ima\u092e\u094d vivasvate yogam proktavan (I spoke this yoga to Vivasvan)-establishes ancient parampara. The trap: novelty-seeking modernity bias. Why this matters: The false path is assuming newer is truer-treating ancient teachings as primitive, requiring 'modern' revision for relevance. Real understanding: Timeless truth transmitted through disciplic succession (parampara) from Krishna -> Vivasvan -> Manu -> Ikshvaku demonstrates knowledge's eternal nature and authentic transmission-method. Not human speculation evolving over time but divine revelation maintained through authorized lineage. This validates Vedic epistemology-knowledge descends from perfect source (Krishna) through transparent media (realized gurus), not ascending from imperfect speculation. Therefore approach transcendental knowledge through parampara not independent research-truth isn't discovered but received from knowers.",
+      "feedback": "Correct: Krsna declares imam vivasvate yogam proktavan (I spoke this yoga to Vivasvan)-establishes ancient parampara from Krsna -> Vivasvan -> Manu -> Ikshvaku demonstrating knowledge's eternal nature. Why this matters: Timeless truth transmitted through disciplic succession validates Vedic epistemology-knowledge descends from perfect source (Krsna) through realized gurus, not ascending from human speculation. Approach transcendental knowledge through parampara not independent research-truth isn't discovered but received from knowers.",
       "verseLabel": "BG 4.1",
       "verseUrl": "https://vedabase.io/en/library/bg/4/1/",
       "verdict": "Correct"
@@ -32,29 +32,29 @@
         "Material degradation automatically destroys all spiritual wisdom"
       ],
       "correctIndex": 1,
-      "feedback": "Parampara (disciplic succession) maintains knowledge evam paramparaya (thus in succession)-prevents deviation. The trap: autonomous interpretation. Why this matters: The false path is treating scripture as open text for individual interpretation-assuming sincere reading suffices without lineage-authorization, producing fragmentation and distortion. Real understanding: Realization requires guru-parampara transmission-not just reading words but receiving understanding from those who received from their gurus back to original speaker. Prevents distortion through unauthorized interpretation-like telephone-game, message corrupts without authorized relay. Sa kaleneha yogo nashtah (with time this yoga was lost) shows deviation's inevitability without living tradition. Therefore receive knowledge through bona-fide parampara not independent study-lineage ensures fidelity to original meaning against time's corrupting influence.",
+      "feedback": "Correct: Parampara (disciplic succession) maintains knowledge evam paramparaya (thus in succession), preventing deviation through authorized transmission. Realization requires receiving understanding from those who received from their gurus back to original speaker-not just reading words independently. Sa kaleneha yogo nashtah (with time this yoga was lost) shows deviation's inevitability without living tradition. Lineage ensures fidelity to original meaning against time's corrupting influence.",
       "verseLabel": "BG 4.2",
       "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
       "verdict": "Correct"
     },
     {
       "id": "bg4-q3",
-      "prompt": "In BG 4.5, what key difference does Krishna state between Himself and Arjuna regarding past births?",
+      "prompt": "In BG 4.5, what key difference does Krsna state between Himself and Arjuna regarding past births?",
       "choices": [
-        "Arjuna remembers all his past births; Krishna forgets",
-        "Krishna remembers many past births; Arjuna does not",
+        "Arjuna remembers all his past births; Krsna forgets",
+        "Krsna remembers many past births; Arjuna does not",
         "Both remember equally because all souls are omniscient",
         "Neither remembers because memory is only material"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna declares Arjuna as bhaktosi (My devotee) and sakha (friend)-qualifications for receiving confidential knowledge. The trap: qualification-irrelevance assumption. Why this matters: The false path is democratizing transcendental knowledge-assuming any sincere seeker regardless of consciousness qualifies for highest teachings, missing preparedness requirement. Real understanding: Guhyam (confidential) knowledge requires appropriate receiver-not elitist restriction but practical necessity. Bhakti (devotion) and friendship with Krishna create receptivity theoretical knowledge cannot-relationship precedes realization. Impersonalists studying same words miss meaning because lacking devotional platform. Therefore cultivate devotional relationship before expecting full realization-qualification matters not from pride but from epistemic necessity that consciousness-level determines comprehension-depth.",
+      "feedback": "Correct: Krsna declares Arjuna as bhaktosi (My devotee) and sakha (friend)-qualifications for receiving confidential knowledge. Guhyam (confidential) knowledge requires appropriate receiver-bhakti (devotion) and friendship with Krsna create receptivity theoretical knowledge cannot. Impersonalists studying same words miss meaning because lacking devotional platform. Relationship precedes realization-consciousness-level determines comprehension-depth.",
       "verseLabel": "BG 4.5",
       "verseUrl": "https://vedabase.io/en/library/bg/4/5/",
       "verdict": "Correct"
     },
     {
       "id": "bg4-q4",
-      "prompt": "BG 4.7 states that whenever there is decline of what, Krishna appears?",
+      "prompt": "BG 4.7 states that whenever there is decline of what, Krsna appears?",
       "choices": [
         "Money and material wealth accumulated in society",
         "Religion and corresponding rise of unrighteousness in the world",
@@ -62,29 +62,29 @@
         "Population and demographic changes across the world"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna's chronological objection-how could You instruct Vivasvan when he lived previously? The trap: historical-critical reductionism. Why this matters: The false path is applying material time-constraints to spiritual beings-assuming Krishna subject to linear chronology like conditioned souls, reducing Him to historical figure. Real understanding: Krishna is nitya (eternal) and ajam (unborn)-exists beyond time as its source. Appeared in past kalpas (time-cycles) performing identical lilas (pastimes) including instructing Vivasvan. Material chronology doesn't constrain Him-can appear/disappear at will throughout time. This demonstrates avyayam (inexhaustible) nature-not depleted or changed by manifestation. Therefore transcend chronological provincialism-Krishna isn't historical personage but eternal person occasionally visible in history, existing equally in all time-periods simultaneously.",
+      "feedback": "Correct: Arjuna's chronological objection-how could You instruct Vivasvan when he lived previously-misapplies material time-constraints to Krsna. Krsna is nitya (eternal) and ajam (unborn), existing beyond time as its source, appearing in past kalpas performing identical lilas. Material chronology doesn't constrain Him-can appear/disappear at will throughout time. Krsna isn't historical personage but eternal person occasionally visible in history.",
       "verseLabel": "BG 4.7",
       "verseUrl": "https://vedabase.io/en/library/bg/4/7/",
       "verdict": "Correct"
     },
     {
       "id": "bg4-q5",
-      "prompt": "How does Krishna's dual purpose in BG 4.8-protecting devotees and destroying demons-reflect divine justice?",
+      "prompt": "How does Krsna's dual purpose in BG 4.8-protecting devotees and destroying demons-reflect divine justice?",
       "choices": [
         "The dualist error that good and evil are equally ultimate realities",
         "Mercy to faithful and punishment to wicked upholds cosmic order",
-        "The universalist misconception that all receive equal treatment from Krishna",
+        "The universalist misconception that all receive equal treatment from Krsna",
         "The impersonalist view that God remains indifferent to all moral distinctions"
       ],
       "correctIndex": 1,
-      "feedback": "Verse distinguishes Krishna (veda-aham-I know) from Arjuna (na vettha-you don't know) regarding past births-qualitative difference. The trap: egalitarian relativism. Why this matters: The false path is assuming Krishna-Arjuna differ only quantitatively (realized vs unrealized) not qualitatively-missing that Krishna is Supreme (never conditioned) while Arjuna is jiva (conditioned but recoverable). Real understanding: Krishna possesses complete memory of infinite births because never covered by maya; Arjuna forgets due to material conditioning. Not developmental difference (both advancing at different rates) but constitutional difference (ever-free vs conditionally-bound). This establishes Krishna's supreme position-not another seeker but eternal Teacher possessing perfect omniscience. Therefore accept Krishna as Supreme Authority not fellow-traveler-relationship requires acknowledging ontological distinction enabling instruction-reception.",
+      "feedback": "Correct: Verse distinguishes Krsna (veda-aham-I know) from Arjuna (na vettha-you don't know) regarding past births-qualitative difference not quantitative. Krsna possesses complete memory of infinite births because never covered by maya; Arjuna forgets due to material conditioning. This constitutional difference (ever-free vs conditionally-bound) establishes Krsna's supreme position-not another seeker but eternal Teacher possessing perfect omniscience.",
       "verseLabel": "BG 4.8",
       "verseUrl": "https://vedabase.io/en/library/bg/4/8/",
       "verdict": "Correct"
     },
     {
       "id": "bg4-q6",
-      "prompt": "In BG 4.9, what is guaranteed to one who knows the transcendental nature of Krishna's appearance and activities?",
+      "prompt": "In BG 4.9, what is guaranteed to one who knows the transcendental nature of Krsna's appearance and activities?",
       "choices": [
         "Material wealth and worldly prosperity in this lifetime",
         "Liberation and return to His abode after death",
@@ -92,14 +92,14 @@
         "Supernatural powers and mystic siddhis for material benefit"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna as ajo'vyayatma (unborn, inexhaustible soul) and bhutanam ishvara (Lord of beings) appears through yoga-maya. The trap: ordinary birth comparison. Why this matters: The false path is treating Krishna's appearance as material birth-soul entering womb, undergoing gestation, subject to karma-missing transcendental nature of avatar. Real understanding: Krishna doesn't take birth (ordinary jiva) but appears (descends)-atma-maya (internal potency) manifests His eternal form without material contamination. Ishvara (controller) not controlled-chooses when/where to appear unlike conditioned souls forced by karma. This preserves divinity-if Krishna born materially, He'd be conditioned entity not Supreme Lord. Therefore Krishna's appearance is lila (transcendental pastime) not karma (material consequence)-descends voluntarily to re-establish dharma, not forced by previous actions.",
+      "feedback": "Correct: Krsna as ajo'vyayatma (unborn, inexhaustible soul) and bhutanam ishvara (Lord of beings) appears through atma-maya (internal potency), not material birth. Ishvara (controller) chooses when/where to appear unlike conditioned souls forced by karma-manifests His eternal form without material contamination. Krsna's appearance is lila (transcendental pastime) not karma (material consequence), descending voluntarily to re-establish dharma.",
       "verseLabel": "BG 4.9",
       "verseUrl": "https://vedabase.io/en/library/bg/4/9/",
       "verdict": "Correct"
     },
     {
       "id": "bg4-q7",
-      "prompt": "What does BG 4.10 teach about those who are fully absorbed in Krishna consciousness?",
+      "prompt": "What does BG 4.10 teach about those who are fully absorbed in Krsna consciousness?",
       "choices": [
         "They suffer in the material world due to karmic reactions",
         "They are free from fear, anger, and lust; attain Him",
@@ -107,7 +107,7 @@
         "They lose interest in life and material responsibilities"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna appears yada yada hi dharmasya glanir bhavati (whenever decline of dharma)-principle of periodic descent. The trap: dispensability thesis. Why this matters: The false path is assuming Krishna's appearance historically contingent not necessary-maybe happened, maybe not-reducing avatara to optional myth. Real understanding: Regular incarnation (avatara) constitutes cosmic maintenance-system-Krishna descends precisely when dharma declines, establishing rhythm of revelation-decline-restoration. Not random but systematic-like seasonal rains occurring when needed. This demonstrates Krishna's ongoing involvement-not deist God creating then abandoning but active maintainer periodically intervening. Therefore avatara-principle shows divine care-system-Krishna doesn't leave creation to independent evolution but actively guides through periodic incarnations maintaining dharmic order.",
+      "feedback": "Correct: Krsna appears yada yada hi dharmasya glanir bhavati (whenever decline of dharma)-principle of periodic descent. Why this matters: Regular incarnation (avatara) constitutes cosmic maintenance-system-Krsna descends precisely when dharma declines, establishing rhythm of revelation-decline-restoration. This demonstrates Krsna's ongoing involvement-not deist God creating then abandoning but active maintainer periodically intervening through incarnations maintaining dharmic order.",
       "verseLabel": "BG 4.10",
       "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
       "verdict": "Correct"
@@ -122,7 +122,7 @@
         "The meritocratic illusion that individual choice alone should determine role"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna's dual purpose-paritranaya sadhunam (protect devotees) and vinashaya dushkritam (destroy miscreants). The trap: sentimentalized unilateral mercy. Why this matters: The false path is projecting only loving acceptance-assuming Krishna tolerates all behaviors equally, missing justice dimension. Real understanding: Krishna simultaneously merciful (protecting sadhus) and just (destroying dushkritam)-not contradiction but completeness. Evil requires active opposition not passive acceptance-neglecting this enables adharma's spread. Devotees need protection from oppression; miscreants need destruction for collective welfare. Therefore Krishna's mercy includes justice-protecting good requires removing evil, authentic compassion sometimes manifests as apparent severity preventing harm to innocent and correcting wrongdoers.",
+      "feedback": "Correct: Krsna's dual purpose-paritranaya sadhunam (protect devotees) and vinashaya dushkritam (destroy miscreants)-demonstrates completeness not contradiction. Krsna simultaneously merciful (protecting sadhus) and just (destroying evil)-authentic compassion requires removing adharma to protect innocent. Evil requires active opposition not passive acceptance-protecting good necessitates destroying evil for collective welfare.",
       "verseLabel": "BG 4.13",
       "verseUrl": "https://vedabase.io/en/library/bg/4/13/",
       "verdict": "Correct"
@@ -131,13 +131,13 @@
       "id": "bg4-q9",
       "prompt": "In the purport to BG 4.13, what does Srila Prabhupada explain about the creator's non-doership?",
       "choices": [
-        "Krishna creates but remains detached from all activities always",
+        "Krsna creates but remains detached from all activities always",
         "As supreme controller, He acts but isn't bound by karma",
         "The creator participates in material activities like ordinary beings",
-        "Krishna is not actually the creator despite scriptural claims"
+        "Krsna is not actually the creator despite scriptural claims"
       ],
       "correctIndex": 1,
-      "feedback": "Knowing Krishna's transcendental birth (divyam) and activities (karma) liberates-tyaktva deham punar janma naiti (leaving body, doesn't take birth again). The trap: biographical knowledge sufficiency. Why this matters: The false path is treating Krishna-lila as mere history-studying facts without devotional understanding, producing academic knowledge not liberating realization. Real understanding: Divyam means transcendental-Krishna's activities aren't mundane events but spiritual substance. Knowing them tattvatah (in truth) requires devotional consciousness not just intellectual comprehension. This knowledge alone liberates-such power indicates content's transcendental nature, not ordinary information. Mam eti (comes to Me)-liberation means personal relationship not impersonal absorption. Therefore approach Krishna's pastimes devotionally-hearing/chanting with bhakti enables transcendental realization transforming knowledge into liberation.",
+      "feedback": "Correct: Knowing Krsna's transcendental birth (divyam) and activities (karma) liberates-tyaktva deham punar janma naiti (leaving body, doesn't take birth again). Divyam means transcendental-knowing them tattvatah (in truth) requires devotional consciousness not just intellectual comprehension. Mam eti (comes to Me)-liberation means personal relationship not impersonal absorption. Approach Krsna's pastimes devotionally-hearing/chanting with bhakti transforms knowledge into liberation.",
       "verseLabel": "BG 4.13",
       "verseUrl": "https://vedabase.io/en/library/bg/4/13/",
       "verdict": "Correct"
@@ -152,7 +152,7 @@
         "Modern methods are superior to ancient devotional examples"
       ],
       "correctIndex": 1,
-      "feedback": "Vita-raga-bhaya-krodha (free from attachment-fear-anger), mam-mayah (absorbed in Me)-purification through bhakti. The trap: negative-definition spirituality. Why this matters: The false path is cessation-focused practice-trying to eliminate negatives (raga/bhaya/krodha) without cultivating positive (Krishna-absorption), producing emptiness not fulfillment. Real understanding: Purification isn't mere subtraction (removing bad qualities) but substitution (replacing material absorption with Krishna-absorption). Mam-mayah indicates positive cultivation-consciousness filled with Krishna leaving no space for material contaminations. Tapasa (austerity) works when directed toward Krishna not merely away from material. Therefore positive bhakti naturally eliminates negatives-occupied consciousness in Krishna automatically becomes unoccupied in material, achieving purification through engagement not renunciation.",
+      "feedback": "Correct: Vita-raga-bhaya-krodha (free from attachment-fear-anger), mam-mayah (absorbed in Me)-purification through bhakti substitutes material absorption with Krsna-absorption. Purification isn't mere subtraction (removing bad qualities) but substitution-consciousness filled with Krsna leaves no space for material contaminations. Tapasa (austerity) works when directed toward Krsna not merely away from material. Positive bhakti naturally eliminates negatives through engagement not renunciation.",
       "verseLabel": "BG 4.15",
       "verseUrl": "https://vedabase.io/en/library/bg/4/15/",
       "verdict": "Correct"
@@ -167,14 +167,14 @@
         "Because material existence obscures spiritual reality causing confusion"
       ],
       "correctIndex": 1,
-      "feedback": "Ye yatha mam prapadyante (as they surrender to Me), tams tathaiva bhajami (I reward proportionally)-reciprocation principle. The trap: unilateral divine action. Why this matters: The false path is either demanding Krishna act irrespective of one's surrender, or fearing Krishna won't respond to sincere approach-both missing reciprocal relationship structure. Real understanding: Krishna reciprocates according to surrender-degree-intense devotee receives intense reciprocation, casual seeker receives casual response. Not capricious but lawful-like mirror reflecting viewer precisely. This validates effort-Krishna responds to whatever approach offered. Mama vartma (My path)-various paths ultimately reach Him because He accepts sincere seekers through any authorized process. Therefore Krishna's reciprocation guarantees result proportional to input-removes doubt about practice's effectiveness while establishing responsibility for intensity.",
+      "feedback": "Correct: Ye yatha mam prapadyante (as they surrender to Me), tams tathaiva bhajami (I reward proportionally)-Krsna reciprocates according to surrender-degree. Intense devotee receives intense reciprocation; casual seeker receives casual response-like mirror reflecting viewer precisely. Mama vartma (My path)-various paths ultimately reach Him because He accepts sincere seekers through any authorized process. Krsna's reciprocation guarantees result proportional to input.",
       "verseLabel": "BG 4.16",
       "verseUrl": "https://vedabase.io/en/library/bg/4/16/",
       "verdict": "Correct"
     },
     {
       "id": "bg4-q12",
-      "prompt": "In BG 4.17, what does Krishna say must be understood about action?",
+      "prompt": "In BG 4.17, what does Krsna say must be understood about action?",
       "choices": [
         "Only renunciation of all action; work is always binding",
         "Karma (action), vikarma (forbidden action), and akarma (inaction within action)",
@@ -182,7 +182,7 @@
         "Only intention matters ultimately; the act itself never matters"
       ],
       "correctIndex": 1,
-      "feedback": "Those desiring fruitive results (kankshantah karmanam siddhim) worship devas-material orientation. The trap: material spirituality. Why this matters: The false path is using spiritual practices for material goals-treating devas as means to wealth/power/pleasure, remaining on material platform while appearing religious. Real understanding: Demigod-worship for fruitive results (kamya-karma) keeps consciousness material-goal determines path's nature, not ritual's sophistication. Quick results in human society (ksipram) indicate material not spiritual success-transcendental realization develops gradually through purification. This exposes motivation-test-are religious activities pursued for material benefits or spiritual transformation? Therefore examine worship's purpose-if seeking material results, remains material consciousness; only Krishna-prema as goal produces transcendental consciousness-shift.",
+      "feedback": "Correct: Those desiring fruitive results (kankshantah karmanam siddhim) worship devas-material orientation keeping consciousness material. Demigod-worship for fruitive results (kamya-karma)-goal determines path's nature, not ritual's sophistication. Quick results in human society (ksipram) indicate material not spiritual success-transcendental realization develops gradually. Examine worship's purpose-if seeking material results, remains material consciousness; only Krsna-prema as goal produces transcendental shift.",
       "verseLabel": "BG 4.17",
       "verseUrl": "https://vedabase.io/en/library/bg/4/17/",
       "verdict": "Correct"
@@ -197,7 +197,7 @@
         "They are contradictory creating tension between duty and liberation"
       ],
       "correctIndex": 1,
-      "feedback": "Catur-varnyam (four orders) created maya (by Me) according to guna-karma (quality-work)-divine social organization. The trap: biological determinism or arbitrary social construction. Why this matters: The false path is either birth-based rigidity (varna by genetics alone) or radical constructivism (varna as oppressive fiction)-missing divinely ordained yet quality-based system. Real understanding: Varnashrama created by Krishna according to guna (quality) and karma (activity)-not birth nor arbitrary social agreement but divinely designed social order reflecting individual's psychophysical nature. Brahmana/kshatriya/vaishya/shudra determined by qualities demonstrated and work performed-validates natural diversity while preventing exploitation. Akarataram api mam viddhi akartaram avyayam (though creator, know Me as non-doer and eternal)-Krishna establishes system then allows it to function through nature. Therefore follow varnashrama-dharma according to actual qualities-divinely designed social order facilitating both material stability and spiritual advancement when properly understood.",
+      "feedback": "Correct: Catur-varnyam (four orders) created maya (by Me) according to guna-karma (quality-work)-divine social organization. Why this matters: Varnashrama created by Krsna according to guna (quality) and karma (activity)-not birth nor arbitrary social agreement but divinely designed order reflecting psychophysical nature. Varna determined by qualities demonstrated and work performed-validates natural diversity while preventing exploitation. Follow varnashrama-dharma according to actual qualities-facilitating both material stability and spiritual advancement.",
       "verseLabel": "BG 4.20-21",
       "verseUrl": "https://vedabase.io/en/library/bg/4/20/",
       "verdict": "Correct"
@@ -212,22 +212,22 @@
         "The skeptic's demand for proof before accepting any authority"
       ],
       "correctIndex": 1,
-      "feedback": "Na mam karmani limpanti (actions don't bind Me), na me karma-phale spriha (I have no desire for action-fruits)-Krishna's transcendence. The trap: analogizing Krishna's action to jiva's. Why this matters: The false path is treating Krishna's activities as analogous to conditioned souls'-assuming He acts from desire/necessity like us, reducing Him to superhuman not Supreme. Real understanding: Krishna acts without binding karmic reactions because no selfish motivation-na spriha (desireless). Actions without desire for results don't produce bondage-principle applicable both to Krishna (eternally) and jiva (through cultivation). Ittham yah mam vetti na sa karmabhir badhyate (one who knows thus isn't bound by activities)-understanding Krishna's transcendence enables one's own transcendence through imitation. Therefore emulate Krishna's desirelessness-acting without result-attachment, transforming actions from binding to liberating through consciousness-purification.",
+      "feedback": "Correct: Na mam karmani limpanti (actions don't bind Me), na me karma-phale spriha (I have no desire for action-fruits)-Krsna acts without binding karmic reactions because desireless. Actions without desire for results don't produce bondage-principle applicable to Krsna (eternally) and jiva (through cultivation). Ittham yah mam vetti na sa karmabhir badhyate (one who knows thus isn't bound by activities)-understanding Krsna's transcendence enables one's own transcendence. Emulate Krsna's desirelessness-acting without result-attachment transforms actions from binding to liberating.",
       "verseLabel": "BG 4.2-34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
       "verdict": "Correct"
     },
     {
       "id": "bg4-q15",
-      "prompt": "How does Krishna's transcendental birth and activities (BG 4.6-9) inform the teaching about action-inaction (BG 4.16-18)?",
+      "prompt": "How does Krsna's transcendental birth and activities (BG 4.6-9) inform the teaching about action-inaction (BG 4.16-18)?",
       "choices": [
         "The Docetic error that divine incarnation is illusory appearance",
-        "Krishna acts without material bondage; same principle applies to devotees",
+        "Krsna acts without material bondage; same principle applies to devotees",
         "The pantheist confusion that all activity is equally divine",
         "The Mayavadi view that the Absolute cannot engage in activities"
       ],
       "correctIndex": 1,
-      "feedback": "Ancient siddhas (perfected beings) performed action knowing this tattva (truth)-precedent for karma-yoga. The trap: unprecedented individual path. Why this matters: The false path is assuming successful spirituality requires inventing personal method-missing that authorized path already tested by countless predecessors. Real understanding: Evam (thus) purva (ancient) siddhas (perfected) practiced karma-yoga achieving liberation-validates method through results. Not blind traditionalism but evidence-based confidence-proven process repeatedly producing desired outcome. Kuru karma (perform action) tasmad tvam (therefore you) purvaih purvataram (as ancients did earlier)-follow established effective procedure rather than experimental novelty. Therefore trust proven path-ancient siddhas' success demonstrates karma-yoga's effectiveness, providing confidence for current practice against novel untested alternatives.",
+      "feedback": "Correct: Ancient siddhas (perfected beings) performed action knowing this tattva (truth)-validates method through results. Evam (thus) purva (ancient) siddhas practiced karma-yoga achieving liberation-proven process repeatedly producing desired outcome. Kuru karma (perform action) tasmad tvam (therefore you) purvaih purvataram (as ancients did earlier)-follow established effective procedure. Trust proven path-ancient siddhas' success demonstrates karma-yoga's effectiveness.",
       "verseLabel": "BG 4.6-18",
       "verseUrl": "https://vedabase.io/en/library/bg/4/6/",
       "verdict": "Correct"
@@ -242,7 +242,7 @@
         "The gnostic assumption that information automatically liberates consciousness"
       ],
       "correctIndex": 1,
-      "feedback": "Kim karma kim akarmeti (what is action, what is inaction)-wise are bewildered about action's nature. The trap: superficial behavioral ethics. Why this matters: The false path is action-inaction based solely on external behavior-treating physical movement as action, physical stillness as inaction-missing consciousness determines action's actual nature. Real understanding: Complexity requires guru-guidance-apparently doing nothing while consciousness absorbed in material is action (binding); apparently doing everything while consciousness absorbed in Krishna is inaction (non-binding). Karmano gahana (action's nature is profound) indicates philosophical sophistication required. Dhira (wise) can be mohita (bewildered) showing this isn't obvious. Therefore seek expert guidance discerning karma (binding action) from akarma (liberating non-action)-external appearance doesn't reveal consciousness-quality determining spiritual effect.",
+      "feedback": "Correct: Kim karma kim akarmeti (what is action, what is inaction)-wise are bewildered because consciousness determines action's nature, not external behavior. Apparently doing nothing while consciousness absorbed in material is action (binding); apparently doing everything while consciousness absorbed in Krsna is inaction (non-binding). Karmano gahana (action's nature is profound)-seek expert guidance discerning karma from akarma. External appearance doesn't reveal consciousness-quality determining spiritual effect.",
       "verseLabel": "BG 4.19-33",
       "verseUrl": "https://vedabase.io/en/library/bg/4/19/",
       "verdict": "Correct"
@@ -257,14 +257,14 @@
         "Material conception makes spiritual personality attractive and desirable"
       ],
       "correctIndex": 1,
-      "feedback": "Must understand karma (action), vikarma (forbidden action), and akarma (inaction)-threefold discrimination. The trap: binary thinking about action. Why this matters: The false path is simple action/inaction dichotomy-missing nuanced classification where forbidden action (vikarma) differs from prescribed action (karma), and transcendental action appears as non-action (akarma). Real understanding: Three categories-karma (prescribed duties binding if performed selfishly), vikarma (prohibited acts always binding), akarma (devotional service appearing as action but non-binding). Gahana karmano gatih (profound is the way of action)-requires subtle discrimination beyond gross behavior-observation. Therefore develop discriminative intelligence through guru-shastra-sadhu-distinguishing actions' spiritual quality not just their external form, enabling navigation of complex ethical landscape.",
+      "feedback": "Correct: Must understand karma (action), vikarma (forbidden action), and akarma (inaction)-threefold discrimination beyond binary thinking. Three categories-karma (prescribed duties binding if performed selfishly), vikarma (prohibited acts always binding), akarma (devotional service appearing as action but non-binding). Gahana karmano gatih (profound is the way of action)-requires subtle discrimination. Develop discriminative intelligence through guru-shastra-sadhu-distinguishing actions' spiritual quality not just their external form.",
       "verseLabel": "BG 4.10",
       "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
       "verdict": "Correct"
     },
     {
       "id": "bg4-q18",
-      "prompt": "How does Prabhupada's warning (BG 4.2 purport) about demons making business on Krishna's words apply to modern Gita commentaries that reject Krishna's personality?",
+      "prompt": "How does Prabhupada's warning (BG 4.2 purport) about demons making business on Krsna's words apply to modern Gita commentaries that reject Krsna's personality?",
       "choices": [
         "The academic pretense of objective scholarship while denying the subject",
         "Both show misappropriation of spiritual authority enables exploitation",
@@ -272,7 +272,7 @@
         "The pluralist view that multiple contradictory readings enrich scripture"
       ],
       "correctIndex": 0,
-      "feedback": "Seeing action in inaction and inaction in action-paradoxical transcendental vision. The trap: conventional perception. Why this matters: The false path is surface-level observation-assuming external activity indicates binding action, external stillness indicates liberation-missing consciousness determines action's actual effect. Real understanding: Transcendentally situated person sees akarma (non-action) in karma (action)-engaged physically but uninvolved emotionally/volitionally, no binding result. Simultaneously sees karma in akarma-apparently doing nothing while consciousness full of material thoughts accumulates karma. This inverted vision reveals consciousness supremacy over behavior-what you think while acting determines result more than what you do. Buddhiman (intelligent) manushyeshu (among humans) yuktah (engaged) krisnakrit (all-work-doer)-actively engaged yet transcendental. Therefore cultivate conscious Krishna-connection during all activities-transforms binding actions into non-binding service through consciousness-quality regardless of external behavior.",
+      "feedback": "Correct: Demons make business on Krsna's words while denying His personality-misappropriation of spiritual authority for exploitation without submission to the subject. Impersonalist commentaries similarly use Gita's authority while rejecting Krsna's personal supremacy-academic pretense studying text while denying the speaker's nature. Both show how spiritual teachings can be distorted when divorced from devotional platform. Approach scripture with submission to its speaker, not as raw material for independent speculation.",
       "verseLabel": "BG 4.2",
       "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
       "verdict": "Correct"
@@ -287,7 +287,7 @@
         "Individual existence ends at liberation naturally and automatically"
       ],
       "correctIndex": 1,
-      "feedback": "Sarvarambha (all undertakings) without kama-sankalpa (desire-conception)-actionin desireless consciousness. The trap: inactive cessationism. Why this matters: The false path is thinking desireless means doing nothing-confusing desirelessness with inactivity, producing artificial withdrawal. Real understanding: Sarvarambha means all undertakings-not no undertakings-but performed without kama (selfish desire) and sankalpa (mental motivation for results). Full external engagement with internal transcendence-working without working. Panditah (wise) call such person-not because avoiding action but because performing action transcendentally. Therefore maintain full activity spectrum while eliminating selfish motivation-doesn't require behavior-reduction but consciousness-transformation, performing all duties without material attachment.",
+      "feedback": "Correct: Merging into impersonal Brahman is fearful stage devoid of perfect knowledge-losing personality contradicts the soul's eternal individual nature. Why this matters: The bubble analogy impersonalists use proves the opposite-individual souls fear dissolution not liberation, desiring personal existence eternally. The self-realized person retains personality in transcendence-liberation perfects individuality through pure relationship with Krsna, not annihilation through merging. Transcendence means purified personality, not personality's destruction.",
       "verseLabel": "BG 4.10",
       "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
       "verdict": "Correct"
@@ -302,7 +302,7 @@
         "Receiving knowledge from self-realized souls in authorized line"
       ],
       "correctIndex": 1,
-      "feedback": "Tyaktva karma-phalasangam (abandoning results-attachment), nitya-tripto (always satisfied), nirashraya (without shelter)-appears actionless while fully engaged. The trap: external renunciation. Why this matters: The false path is interpreting renunciation as activity-cessation-missing that internal detachment not external withdrawal defines real tyaga. Real understanding: Abandons phalasanga (result-attachment) not karma (action itself)-performs duties without expecting personal benefit. Nitya-tripto internally satisfied-doesn't need action-results for happiness. Nirashraya without material shelter-doesn't depend on outcomes for security. Karmani abhipravrittah api (engaged in activities nevertheless) naiva kinchit karoti (does nothing at all)-paradox resolved through consciousness-quality. Therefore renounce attachment not action-inner freedom maintaining outer engagement, transforming karma from bondage into non-bondage through desireless performance.",
+      "feedback": "Correct: Spiritual realization by manufacturing one's own unauthorized process fails-approaching bona fide spiritual master in disciplic succession is essential. Self-invented spiritual methods lack parampara validation-genuine realization requires receiving knowledge through authorized lineage from the Lord Himself. Independent speculation produces mental gymnastics not transcendental realization. Follow disciplic succession from Krsna through self-realized souls in authorized line.",
       "verseLabel": "BG 4.34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"
@@ -317,7 +317,7 @@
         "Study independently before approaching teacher for confirmation"
       ],
       "correctIndex": 1,
-      "feedback": "Nirasir (without expectation), yatcitta (controlled mind), tyakta-sarva-parigraha (abandoned possessiveness)-performs only bodily action without karmic consequence. The trap: external action inevitably produces karma. Why this matters: The false path is assuming any physical activity generates binding karma-missing that consciousness determines binding-power not behavior. Real understanding: Controlled mind without expectation/possessiveness performs shariram kevalam (body alone) action-physical movements without volitional investment, preventing karmic reaction. Papam (sin) doesn't touch such person because sin requires willful violation-mechanical action without desire/attachment carries no moral weight. This liberates from paralytic fear of action-can engage fully without karmic anxiety when consciousness properly situated. Therefore perform duties with controlled consciousness-not action itself but consciousness during action determines karma, enabling fearless engagement in prescribed duties.",
+      "feedback": "Correct: Approach spiritual master in full surrender, accepting him like a menial servant-not with intellectual pride or false prestige. Pranapata (obeisances), pariprasna (inquiry), and seva (service) constitute proper approach-humble submission combined with sincere questions and practical service. Both blind following and absurd inquiries condemned-require intelligent submission not mechanical acceptance. The secret of advancement is satisfying self-realized spiritual master through service.",
       "verseLabel": "BG 4.34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"
@@ -332,7 +332,7 @@
         "Both demonstrate proper guru-disciple relationship"
       ],
       "correctIndex": 2,
-      "feedback": "Content with spontaneous gain (yadriccha-labha), beyond dualities (dvandva-atita), equipoised (sama), non-envious (na matsari)-liberated though acting. The trap: achievement-orientation pervades spiritual life. Why this matters: The false path is bringing material success-mentality into spiritual practice-planning/strategizing for specific outcomes, remaining result-focused though religiously. Real understanding: Yadriccha-labha santushta (content with spontaneous gain)-accepts whatever comes without scheming for more. Beyond dvandva (dualities like gain/loss, success/failure)-equal-minded in all circumstances. This contentment-freedom produces mukta (liberation) even while performing karma-not waiting for future liberation but liberated now through present contentment. Therefore cultivate satisfaction with present arrangements-cease material planning-mentality even in spiritual activities, accepting Krishna's arrangement as perfect for spiritual advancement regardless of appearance.",
+      "feedback": "Correct: Both blind following and absurd inquiries are condemned in this verse-neither mechanical acceptance without understanding nor challenging questions from false prestige. Proper approach requires pranapata (obeisances showing submission), pariprasna (sincere inquiry for understanding), and seva (practical service). Balance submission with intelligence-humble acceptance of authority combined with genuine desire to understand through service. The spiritual master reveals knowledge to those who serve with proper attitude.",
       "verseLabel": "BG 4.34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"
@@ -347,7 +347,7 @@
         "The gradualist misconception that caste determines spiritual hierarchy"
       ],
       "correctIndex": 1,
-      "feedback": "Gatasangasya muktasya (freed from attachment, liberated) whose mind established in jnana-work dissolves in yajna. The trap: accumulated karma-debt requires payment. Why this matters: The false path is fearing past karma's inevitable consequences-assuming accumulated reactions must be suffered, producing anxiety despite present spiritual practice. Real understanding: For liberated person (mukta) whose consciousness anchored in transcendental knowledge, all work dissolves into sacrifice (akhilam karma akhilam samapyate)-past reactions neutralized through present transcendental consciousness. Not gradual payment through suffering but complete dissolution through knowledge. This removes retroactive karma-fear-present realization neutralizes past reactions, enabling anxiety-free practice. Therefore don't fear past karma-genuine transcendental consciousness dissolves previous entanglements, focusing energy on present purification not past consequences.",
+      "feedback": "Correct: Varnashrama based on guna and karma (BG 4.13) provides purification path through natural duties performed in Krsna consciousness. Transcendence (BG 4.9-10, 4.15) via devotional service is available regardless of social position-any varna can attain perfection through bhakti. Natural duties purify modes gradually; devotion to Krsna transcends mode-bound existence. Follow prescribed duties as offerings to Krsna-social position becomes vehicle for spiritual advancement.",
       "verseLabel": "BG 4.9-15",
       "verseUrl": "https://vedabase.io/en/library/bg/4/13/",
       "verdict": "Correct"
@@ -362,7 +362,7 @@
         "They are contradictory suggesting both surrender and independence"
       ],
       "correctIndex": 1,
-      "feedback": "Brahmarpanam (Brahman is the offering), brahma-havi (Brahman is the oblation), brahmagnau (in fire of Brahman), brahmana (by Brahman), hutam (offered)-all is Brahman in transcendental vision. The trap: pantheistic monism. Why this matters: The false path is undifferentiated oneness-declaring 'all is Brahman' in impersonal sense, eliminating distinctions necessary for relational worship. Real understanding: Person in Brahman-consciousness sees everything in relation to absolute-offering/oblation/fire/offerer all understood as Brahman's energy engaged in Brahman's service. Not that distinctions disappear but that all distinctions relate to single source. Brahmaiva tena gantavya (Brahman alone is reached) by such consciousness-seeing unity-in-diversity. Therefore develop Brahman-vision-seeing all as Krishna's energy engaged in His service, not eliminating variety but understanding variety's source and purpose.",
+      "feedback": "Correct: Pranapata (obeisances), pariprasna (inquiry), and seva (service) balance submission with intelligence-both require humble submission rejecting pride in intellect. Neither blind acceptance without understanding nor skeptical pride demanding proof before commitment-proper attitude combines surrender with sincere desire to understand. The guru reveals knowledge to those who approach with this balanced attitude. Satisfaction of self-realized spiritual master through service is the secret of advancement.",
       "verseLabel": "BG 4.34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"
@@ -377,7 +377,7 @@
         "Intellectual debates and philosophical arguments with scholars"
       ],
       "correctIndex": 1,
-      "feedback": "Various yajnas-daivam (demigod-worship), brahma (Brahman offerings)-show diverse valid spiritual approaches. The trap: my-way-only sectarianism. Why this matters: The false path is exclusivist rigidity-declaring only one valid spiritual process, dismissing all others as useless-producing religious conflict and limiting accessibility. Real understanding: Krishna acknowledges multiple valid paths-daiva-yajna (demigod worship), brahma-yajna (offering to Brahman), samyama-yajna (sense-control), and others-all have value at appropriate levels. Unity in diversity-various practices suit various temperaments/stages while ultimately reaching same goal. This doesn't mean all paths equal but that various authorized paths exist. Therefore respect diverse approaches while following one's own-avoid sectarian rejection of alternative authorized processes, recognizing that what works for one may not work for another, yet all can be valid.",
+      "feedback": "Correct: Satisfaction of self-realized spiritual master through service is the secret of advancement in spiritual life-not accumulating theoretical knowledge from books alone. The guru reveals transcendental knowledge to those who serve with proper attitude-pranapata (obeisances), pariprasna (inquiry), and seva (service). Independent study produces mental speculation not transcendental realization. Approach bona fide spiritual master in disciplic succession with submission and service.",
       "verseLabel": "BG 4.34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"

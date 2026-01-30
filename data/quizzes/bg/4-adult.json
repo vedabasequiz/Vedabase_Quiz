@@ -24,77 +24,32 @@
     },
     {
       "id": "bg4-q2",
-      "prompt": "What warning does BG 4.2 give about the transmission of knowledge?",
+      "prompt": "Why does BG 4.2 warn that spiritual knowledge becomes lost over time?",
       "choices": [
-        "It should be kept secret",
-        "It becomes lost over time",
-        "It should primarily be written",
-        "It is permanent and unchanging"
+        "The rationalist error that texts alone preserve understanding permanently",
+        "Succession breaks when unqualified teach without realization",
+        "The progressivist belief that knowledge naturally improves with time",
+        "Material degradation automatically destroys all spiritual wisdom"
       ],
       "correctIndex": 1,
-      "feedback": "Over time, this succession of knowledge is lost; Krishna revives it.",
+      "feedback": "Knowledge transmitted through living disciplic succession degrades when links break-unqualified teachers distort teachings they haven't realized, necessitating periodic renewal by Krishna Himself.",
       "verseLabel": "BG 4.2",
       "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
       "verdict": "Correct"
     },
     {
-      "id": "bg4-q3",
-      "prompt": "In BG 4.3, who recognizes Krishna's true nature and identity?",
-      "choices": [
-        "All human beings can understand through material scholarship",
-        "Those with demoniac tendencies and atheistic inclinations",
-        "One with transcendental knowledge of His divinity",
-        "Atheistic philosophers engaged in worldly speculation only"
-      ],
-      "correctIndex": 2,
-      "feedback": "Only the realized soul knows Krishna's transcendental nature.",
-      "verseLabel": "BG 4.3",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/3/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg4-q4",
-      "prompt": "According to BG 4.4, how many types of births does Krishna describe?",
-      "choices": [
-        "Two types of births mentioned in Vedic literature",
-        "Three types of births described in the scriptures",
-        "Four types including divine, demonic, animal, and plant",
-        "Many types of births explained throughout the texts"
-      ],
-      "correctIndex": 2,
-      "feedback": "Divine birth, demonic birth, animal birth, and plant birth.",
-      "verseLabel": "BG 4.4",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/4/",
-      "verdict": "Correct"
-    },
-    {
       "id": "bg4-q5",
-      "prompt": "What is the significance of BG 4.5?",
+      "prompt": "What does BG 4.5 reveal about why few recognize Krishna's divinity despite His regular appearances?",
       "choices": [
-        "Krishna appears rarely in the material world only occasionally",
-        "Many take birth but few know Krishna's true nature",
-        "All births are the same in the eyes of eternity",
-        "Birth determines all things including one's spiritual destination"
+        "The agnostic position that divinity cannot be known with certainty",
+        "Material conditioning obscures transcendental perception",
+        "The atheist claim that no divine persons exist to recognize",
+        "Krishna appears too rarely for people to become familiar with Him"
       ],
       "correctIndex": 1,
-      "feedback": "Though Krishna appears in every millennium, few recognize His divinity.",
+      "feedback": "Though Krishna appears millennium after millennium, material conditioning prevents recognition of His transcendental nature-people see Him through bodily conception, missing His divinity.",
       "verseLabel": "BG 4.5",
       "verseUrl": "https://vedabase.io/en/library/bg/4/5/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg4-q6",
-      "prompt": "In BG 4.6, what does Krishna teach about His incarnations?",
-      "choices": [
-        "He does not take birth at all",
-        "He is born through His own internal energy",
-        "He is forced to take birth by karma",
-        "He depends on material nature for birth"
-      ],
-      "correctIndex": 1,
-      "feedback": "Krishna's appearance is not forced; He comes by His own will.",
-      "verseLabel": "BG 4.6",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/6/",
       "verdict": "Correct"
     },
     {
@@ -114,15 +69,15 @@
     },
     {
       "id": "bg4-q8",
-      "prompt": "According to BG 4.8, what is the purpose of Krishna's advent?",
+      "prompt": "How does Krishna's dual purpose in BG 4.8-protecting devotees and destroying demons-reflect divine justice?",
       "choices": [
-        "Personal enjoyment and fulfillment of material desires in life",
-        "To deliver the pious and annihilate the wicked",
-        "To collect taxes from the citizens for kingdom maintenance",
-        "To gain reputation among demigods and celestial beings"
+        "The dualist error that good and evil are equally ultimate realities",
+        "Mercy to faithful, punishment to wicked upholds cosmic order",
+        "The universalist misconception that all receive equal treatment regardless",
+        "The impersonalist view that God remains indifferent to moral distinctions"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna comes to protect the righteous and punish the wicked.",
+      "feedback": "Divine advent serves both protective mercy (pious) and destructive justice (wicked)-not arbitrary favoritism but upholding dharma by supporting those who serve Him and removing obstacles to righteousness.",
       "verseLabel": "BG 4.8",
       "verseUrl": "https://vedabase.io/en/library/bg/4/8/",
       "verdict": "Correct"
@@ -159,15 +114,15 @@
     },
     {
       "id": "bg4-q11",
-      "prompt": "According to BG 4.13, how is society organized according to the modes of nature?",
+      "prompt": "Why does BG 4.13 organize society by qualities and work rather than birth alone?",
       "choices": [
-        "By chance alone without any rhyme or reason whatsoever",
-        "By division of tasks according to qualities and work",
-        "Randomly through arbitrary assignment without any consideration whatsoever",
-        "By government decree alone issued by political authorities"
+        "The egalitarian misconception that all divisions are oppressive constructs",
+        "Natural abilities determine suitable service-proper arrangement",
+        "The hereditary corruption that birth determines occupation mechanically",
+        "The meritocratic illusion that individual choice alone should determine role"
       ],
       "correctIndex": 1,
-      "feedback": "Natural qualities determine occupations and social organization.",
+      "feedback": "Varnashrama based on guna (quality) and karma (work) channels natural propensities into social service-not rigid birth-based hierarchy, but recognition that different natures suit different duties in the body politic.",
       "verseLabel": "BG 4.13",
       "verseUrl": "https://vedabase.io/en/library/bg/4/13/",
       "verdict": "Correct"
@@ -204,15 +159,15 @@
     },
     {
       "id": "bg4-q14",
-      "prompt": "According to BG 4.16, what is the difference between action and inaction in terms of confusion?",
+      "prompt": "Why are even the wise bewildered about action and inaction according to BG 4.16?",
       "choices": [
-        "There is no difference between them according to philosophers",
-        "Even the wise are bewildered about action and inaction",
-        "This is obvious to everyone who studies scripture carefully",
-        "Inaction is consistently superior in all circumstances for everyone"
+        "The phenomenal complexity surpasses human intellectual capacity entirely",
+        "Consciousness determines reality-same act binds or liberates",
+        "The relativist view that no objective distinction exists between them",
+        "Insufficient study prevents understanding this obvious philosophical matter"
       ],
       "correctIndex": 1,
-      "feedback": "Even scholars are puzzled by the mystery of action and inaction.",
+      "feedback": "Externally identical work can be karma (binding) or akarma (liberating) depending on consciousness-the mystery lies in intention and consciousness, not mechanical performance, bewildering those focused on externals.",
       "verseLabel": "BG 4.16",
       "verseUrl": "https://vedabase.io/en/library/bg/4/16/",
       "verdict": "Correct"
@@ -234,15 +189,15 @@
     },
     {
       "id": "bg4-q16",
-      "prompt": "What does BG 4.18 teach about detachment from the results of work?",
+      "prompt": "How does BG 4.18's principle of detachment from results free one from karmic reactions?",
       "choices": [
-        "One should be lazy and avoid all work entirely",
-        "Those unattached to the results, self-controlled, are freed from reactions",
-        "Success is unimportant in the pursuit of spiritual goals",
-        "Results do not matter in the ultimate scheme of things"
+        "The stoic suppression of natural desires through willpower alone",
+        "Desire for results binds; detachment redirects energy to Krishna",
+        "The antinomian error that realized souls can act without consequences",
+        "The fatalist resignation that outcomes don't matter since predetermined"
       ],
       "correctIndex": 1,
-      "feedback": "Freedom comes from performing work without selfish desire for results.",
+      "feedback": "Attachment to fruits entangles consciousness in results, creating karmic bonds; detachment means working for Krishna's satisfaction rather than personal gain-same action performed, different consciousness liberates.",
       "verseLabel": "BG 4.18",
       "verseUrl": "https://vedabase.io/en/library/bg/4/18/",
       "verdict": "Correct"
@@ -308,6 +263,21 @@
       "verdict": "Correct"
     },
     {
+      "id": "bg4-q23-synthesis",
+      "prompt": "How does Prabhupada's warning (BG 4.2 purport) about demons making business on Krishna's words apply to modern Gita commentaries that reject Krishna's personality?",
+      "choices": [
+        "The academic pretense of objective scholarship while denying the subject",
+        "All interpretations validly contribute to understanding truth equally",
+        "Rejecting personal God shows advanced philosophical sophistication",
+        "The pluralist view that multiple contradictory readings enrich scripture"
+      ],
+      "correctIndex": 0,
+      "feedback": "Commentators who profit from Gita's wisdom while denying Krishna's divinity exemplify demonic appropriation: enjoying God's property (spiritual authority, fame, wealth from His words) while refusing to accept the proprietor-like squatters monetizing someone else's house.",
+      "verseLabel": "BG 4.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
+      "verdict": "Correct"
+    },
+    {
       "id": "bg4-q30-purport",
       "prompt": "In the purport to BG 4.10, what does Srila Prabhupada say about the comparison of living entities to bubbles?",
       "choices": [
@@ -363,6 +333,34 @@
       ],
       "correctIndex": 2,
       "feedback": "In this verse, both blind following and absurd inquiries are condemned.",
+      "verseLabel": "BG 4.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
+      "verdict": "Correct"
+    },
+    {      "id": "bg4-q24-synthesis",
+      "prompt": "How does Prabhupada's instruction (BG 4.34 purport) to approach a guru with surrender, inquiry, and service balance submission with intelligence?",
+      "choices": [
+        "The fundamentalist error of blind acceptance without understanding",
+        "Humble service enables receptivity; sincere questions demonstrate seriousness",
+        "The skeptic's pride demanding proof before commitment or surrender",
+        "The relativist claim that no one has authority to teach absolute truth"
+      ],
+      "correctIndex": 1,
+      "feedback": "True discipleship avoids both extremes: not blind belief (which lacks understanding) nor prideful interrogation (which lacks humility)-rather, service opens the heart while intelligent inquiry deepens comprehension, uniting devotion and discrimination.",
+      "verseLabel": "BG 4.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
+      "verdict": "Correct"
+    },
+    {      "id": "bg4-q24-synthesis",
+      "prompt": "How does Prabhupada's instruction (BG 4.34 purport) to approach a guru with surrender, inquiry, and service balance submission with intelligence?",
+      "choices": [
+        "The fundamentalist error of blind acceptance without understanding",
+        "Humble service enables receptivity; sincere questions demonstrate seriousness",
+        "The skeptic's pride demanding proof before commitment or surrender",
+        "The relativist claim that no one has authority to teach absolute truth"
+      ],
+      "correctIndex": 1,
+      "feedback": "True discipleship avoids both extremes: not blind belief (which lacks understanding) nor prideful interrogation (which lacks humility)-rather, service opens the heart while intelligent inquiry deepens comprehension, uniting devotion and discrimination.",
       "verseLabel": "BG 4.34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
       "verdict": "Correct"

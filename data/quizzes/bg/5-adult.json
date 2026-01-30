@@ -9,66 +9,36 @@
   "questions": [
     {
       "id": "bg5-q1",
-      "prompt": "In BG 5.1, what does Arjuna ask about renunciation versus the path of action?",
+      "prompt": "Why does Arjuna ask again in BG 5.1 which path is superior, despite Krishna's previous explanations?",
       "choices": [
-        "Which is older and more ancient in Vedic tradition?",
-        "Which path is superior: renunciation or work in devotion?",
-        "Which brings faster results for spiritual advancement?",
-        "Which requires less effort and is easier to practice?"
+        "The dualistic error of seeing renunciation and action as contradictory",
+        "Krishna deliberately confuses Arjuna with contradictory teachings",
+        "The relativist claim that all paths are equally valid spiritually",
+        "Arjuna has forgotten everything Krishna taught in previous chapters"
       ],
-      "correctIndex": 1,
-      "feedback": "Arjuna seeks to understand both paths and their relationship.",
+      "correctIndex": 0,
+      "feedback": "Arjuna still perceives sannyasa and karma-yoga as separate paths, not grasping their unity: both require detachment-true renunciation is internal attitude, not external inactivity.",
       "verseLabel": "BG 5.1",
       "verseUrl": "https://vedabase.io/en/library/bg/5/1/",
       "verdict": "Correct"
     },
     {
       "id": "bg5-q2",
-      "prompt": "According to BG 5.2, what is the true nature of renunciation?",
+      "prompt": "According to BG 5.2, which path does Krishna recommend as superior?",
       "choices": [
-        "Abandoning all work and becoming completely inactive",
-        "Abandoning the desire for fruits of action",
-        "Leaving home and family to live in isolated places",
-        "Sitting idle and engaging in mere speculation without action"
+        "Complete renunciation of all activities without exception",
+        "Work in devotion is superior to formal renunciation",
+        "Both paths are equally easy for all practitioners",
+        "Neither path leads to liberation from material bondage"
       ],
       "correctIndex": 1,
-      "feedback": "True renunciation is not giving up work but performing it without attachment.",
+      "feedback": "Krishna recommends karma-yoga (work in devotion) as superior to mere renunciation, though both can lead to the goal.",
       "verseLabel": "BG 5.2",
       "verseUrl": "https://vedabase.io/en/library/bg/5/2/",
       "verdict": "Correct"
     },
     {
       "id": "bg5-q3",
-      "prompt": "In BG 5.3, what is the main difference between the sannyasi and the yogi?",
-      "choices": [
-        "Sannyasi is superior to yogi in all spiritual respects",
-        "Both reach the same goal of self-realization",
-        "There is no connection between these two paths whatsoever",
-        "They follow different religions based on varying conceptions"
-      ],
-      "correctIndex": 1,
-      "feedback": "Both paths lead to the same destination of self-realization.",
-      "verseLabel": "BG 5.3",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/3/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg5-q4",
-      "prompt": "What does BG 5.4 teach about the qualities needed for renunciation?",
-      "choices": [
-        "Strength alone and physical power without spiritual advancement",
-        "Solitude and forbearance through detachment from desires",
-        "Renunciation is not for ordinary persons at all",
-        "It requires superhuman abilities beyond normal human capacity"
-      ],
-      "correctIndex": 1,
-      "feedback": "The renounced order is meant for those purified by works.",
-      "verseLabel": "BG 5.4",
-      "verseUrl": "https://vedabase.io/en/library/bg/5/4/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg5-q5",
       "prompt": "According to BG 5.5, what is the real consequence of true renunciation?",
       "choices": [
         "You become poor and lose all material possessions completely",
@@ -84,15 +54,15 @@
     },
     {
       "id": "bg5-q6",
-      "prompt": "In BG 5.6, what keeps one bound to the world?",
+      "prompt": "Why does BG 5.6 state that work without yoga keeps one bound?",
       "choices": [
-        "Knowledge and scholarly study of philosophical texts alone",
-        "Work without yoga; mere renunciation cannot free",
-        "Study and intellectual pursuit of theoretical understanding only",
-        "Austerity and penances performed without proper consciousness whatsoever"
+        "The ascetic fallacy that mere external renunciation liberates automatically",
+        "Yoga connects work to God; without connection, karma binds",
+        "The activist misconception that good works alone guarantee spiritual progress",
+        "Physical labor itself creates bondage through material engagement"
       ],
       "correctIndex": 1,
-      "feedback": "Without the proper yoga (union with God), one cannot be freed.",
+      "feedback": "Work performed without yogic connection to Krishna accumulates karmic reactions; yoga (union) transforms work from binding karma to liberating service-the connection, not cessation, frees.",
       "verseLabel": "BG 5.6",
       "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
       "verdict": "Correct"
@@ -114,15 +84,15 @@
     },
     {
       "id": "bg5-q8",
-      "prompt": "In BG 5.8, how does the transcendentalist use the senses?",
+      "prompt": "How does the transcendentalist's use of senses (BG 5.8) differ from the sensualist's use?",
       "choices": [
-        "They suppress all senses completely through severe austerity",
-        "They withdraw from sense objects and use senses properly",
-        "They indulge freely in all pleasures without any restriction",
-        "They become insensitive to all external stimuli and sensations"
+        "The dualist error that senses themselves are inherently sinful",
+        "Consciousness determines whether senses bind or liberate",
+        "The ascetic misconception that total sense suppression equals spirituality",
+        "Transcendentalists simply have stronger willpower to resist temptation"
       ],
       "correctIndex": 1,
-      "feedback": "The wise engage senses for their proper purpose without attachment.",
+      "feedback": "Same senses, different consciousness: sensualist uses for self-gratification (binding), transcendentalist engages for Krishna's service (liberating)-senses themselves neutral, directed by will.",
       "verseLabel": "BG 5.8",
       "verseUrl": "https://vedabase.io/en/library/bg/5/8/",
       "verdict": "Correct"
@@ -174,15 +144,15 @@
     },
     {
       "id": "bg5-q12",
-      "prompt": "What does BG 5.12 teach about the fruits of work?",
+      "prompt": "How does offering work's results to Krishna (BG 5.12) free one from karmic reactions?",
       "choices": [
-        "They should be hoarded for future security and enjoyment",
-        "The wise perform work and offer every results to Krishna",
-        "Results are unimportant in the ultimate scheme of things",
-        "Work produces primarily suffering and should be minimized"
+        "The magical thinking that ritual offering nullifies material consequences",
+        "Offering transfers ownership; what's Krishna's doesn't bind the offerer",
+        "The legalistic view that correct procedure satisfies cosmic requirements",
+        "Krishna takes responsibility for devotees' actions mechanically"
       ],
       "correctIndex": 1,
-      "feedback": "By offering results to God, one is freed from karmic reactions.",
+      "feedback": "When work is done for Krishna and results offered to Him, the doer becomes instrument not proprietor-reactions accrue to the enjoyer/owner, not the tool; offering shifts agency from self to Krishna.",
       "verseLabel": "BG 5.12",
       "verseUrl": "https://vedabase.io/en/library/bg/5/12/",
       "verdict": "Correct"
@@ -234,15 +204,15 @@
     },
     {
       "id": "bg5-q16",
-      "prompt": "According to BG 5.16, what is the result of attaining knowledge?",
+      "prompt": "How does knowledge destroy doubts and liberate according to BG 5.16?",
       "choices": [
-        "Knowledge of physical phenomena and external material forms",
-        "every doubts are dispelled and one is liberated",
-        "Confusion increases and leads to more philosophical speculation",
-        "Knowledge brings more questions requiring further study"
+        "The rationalist assumption that intellectual understanding alone liberates",
+        "Transcendental knowledge reveals soul's nature, dispelling illusion",
+        "The gnostic error that secret information grants automatic salvation",
+        "Accumulating facts about spiritual topics gradually removes ignorance"
       ],
       "correctIndex": 1,
-      "feedback": "True knowledge destroys all doubts and grants liberation.",
+      "feedback": "Not mere information but realized knowledge of soul's eternality and Krishna's supremacy destroys the ignorance causing material identification-this awakening to reality dissolves doubts born of illusion.",
       "verseLabel": "BG 5.16",
       "verseUrl": "https://vedabase.io/en/library/bg/5/16/",
       "verdict": "Correct"
@@ -273,6 +243,21 @@
       ],
       "correctIndex": 1,
       "feedback": "When Mayavadis take shelter of Bhagavatam without proper understanding, dry speculations and impersonal interpretations are useless.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q23-synthesis",
+      "prompt": "Why does Prabhupada (BG 5.6 purport) say Mayavadi sannyasis' Brahman speculation becomes tedious while Krishna consciousness remains fresh?",
+      "choices": [
+        "The impersonal void lacks relational dynamics to sustain interest",
+        "Both eventually become tedious; all spiritual practice is difficult",
+        "Brahman realization is superior but requires more qualification",
+        "The sentimentalist error that emotion matters more than truth"
+      ],
+      "correctIndex": 0,
+      "feedback": "Impersonal speculation targets featureless void-no reciprocation, no variety, no love possible; tedium inevitable. Krishna consciousness engages personality in unlimited relational exchange with infinite Person-ever-fresh because the soul's nature is relationship, not isolation. Mayavadis' falldown to material philanthropy reveals void's inadequacy.",
       "verseLabel": "BG 5.6",
       "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
       "verdict": "Correct"
@@ -318,6 +303,21 @@
       ],
       "correctIndex": 1,
       "feedback": "The greatest peace formula: Krsna is beneficiary, proprietor of all planets, greater than all demigods.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q25-synthesis",
+      "prompt": "How does Prabhupada's peace formula (BG 5.29 purport)-Krishna as proprietor, beneficiary, friend-address global conflicts over resources, nationalism, and competing interests?",
+      "choices": [
+        "The utopian error that religion alone solves political problems",
+        "Recognizing true Owner/Enjoyer dissolves false proprietorship conflicts",
+        "The secular view that separating religion from politics brings peace",
+        "The pluralist hope that respecting all beliefs creates harmony"
+      ],
+      "correctIndex": 1,
+      "feedback": "Conflicts arise from false proprietorship: 'my country, my resources, my rights.' Realizing Krishna owns everything, humans are tenants not owners, and His pleasure is goal-removes competition's root. Nations fight over what's 'theirs'; devotees cooperate over Krishna's property. No peace without recognizing actual proprietor.",
       "verseLabel": "BG 5.29",
       "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
       "verdict": "Correct"

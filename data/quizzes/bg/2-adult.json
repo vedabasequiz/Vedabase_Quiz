@@ -8,46 +8,16 @@
   "publishedOn": "2026-01-29",
   "questions": [
     {
-      "id": "bg2-q1",
-      "prompt": "In BG 2.2, what does Krsna ask Arjuna about his condition?",
-      "choices": [
-        "How these impurities have come upon him",
-        "Whether he desires more wealth and material gain",
-        "If he wants to become king of the realm",
-        "Why he has so many followers in the army"
-      ],
-      "correctIndex": 0,
-      "feedback": "Krsna asks how these impurities have come upon Arjuna, urging him to abandon weakness.",
-      "verseLabel": "BG 2.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
-      "verdict": "Correct"
-    },
-    {
-      "id": "bg2-q2",
-      "prompt": "BG 2.3 advises Arjuna to overcome weakness by doing what?",
-      "choices": [
-        "Yield to sorrow and accept defeat with grace",
-        "Give up petty weakness of heart and arise",
-        "Renounce the world immediately and abandon all duties",
-        "Compose a hymn of praise to honor the elders"
-      ],
-      "correctIndex": 1,
-      "feedback": "Krsna urges Arjuna to give up petty weakness of heart and arise with purpose.",
-      "verseLabel": "BG 2.3",
-      "verseUrl": "https://vedabase.io/en/library/bg/2/3/",
-      "verdict": "Correct"
-    },
-    {
       "id": "bg2-q3",
-      "prompt": "In BG 2.4, what concern does Arjuna express about fighting Bhisma and Drona?",
+      "prompt": "Why does Arjuna's respect for Bhisma and Drona create a moral dilemma in BG 2.4?",
       "choices": [
-        "They will easily be defeated in battle despite their experience",
+        "They represent both his enemies and those worthy of worship",
         "They are worthy of his worship and respect",
-        "They are untrained in the art of warfare",
-        "They have no true followers or supporters in the army"
+        "They are weaker than him but demand false respect",
+        "They have betrayed their duty as warriors in this conflict"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna hesitates because Bhisma and Drona are his superiors and worthy of worship.",
+      "feedback": "Arjuna's dilemma arises from duty to fight versus natural respect for superiors, illustrating tension between dharma and sentiment.",
       "verseLabel": "BG 2.4",
       "verseUrl": "https://vedabase.io/en/library/bg/2/4/",
       "verdict": "Correct"
@@ -114,15 +84,15 @@
     },
     {
       "id": "bg2-q8",
-      "prompt": "What does BG 2.14 say about happiness and distress?",
+      "prompt": "Why does BG 2.14 compare happiness and distress to summer and winter?",
       "choices": [
-        "They are permanent states that define one's spiritual position",
-        "They are like summer and winter and should be tolerated",
-        "They are illusions to be ignored entirely through detachment",
-        "They are signals of divine favor or displeasure from God"
+        "To show both are permanent states requiring serious attention",
+        "To emphasize their temporary nature arising from sense contact",
+        "To prove material pleasure brings spiritual advancement naturally",
+        "To demonstrate God controls our emotional experiences directly"
       ],
       "correctIndex": 1,
-      "feedback": "Happiness and distress are temporary like seasons and should be tolerated.",
+      "feedback": "The seasonal analogy emphasizes impermanence: happiness and distress arise from temporary sense contact and should be tolerated without disturbing one's spiritual equilibrium.",
       "verseLabel": "BG 2.14",
       "verseUrl": "https://vedabase.io/en/library/bg/2/14/",
       "verdict": "Correct"
@@ -144,15 +114,15 @@
     },
     {
       "id": "bg2-q10",
-      "prompt": "What distinction do the seers make in BG 2.16?",
+      "prompt": "How does the distinction in BG 2.16 between the nonexistent and the eternal resolve Arjuna's grief?",
       "choices": [
-        "The material body is eternal and the soul is temporary in nature",
-        "The body has no endurance, the eternal soul has no change",
-        "Both body and soul are equally perishable in all material nature",
-        "Nothing can be known for certain about these philosophical matters whatsoever"
+        "The Mayavadi view that both body and soul merge into Brahman eventually",
+        "Since the body is temporary and soul eternal, death changes nothing real",
+        "The impersonalist belief that all distinctions are ultimately illusory",
+        "The agnostic position that nothing can be known with certainty"
       ],
       "correctIndex": 1,
-      "feedback": "BG 2.16 distinguishes the nonendurance of the body from the changeless soul.",
+      "feedback": "Understanding the body's nonendurance versus the soul's eternality reveals death affects only the temporary, not the eternal self-eliminating basis for lamentation.",
       "verseLabel": "BG 2.16",
       "verseUrl": "https://vedabase.io/en/library/bg/2/16/",
       "verdict": "Correct"
@@ -189,15 +159,15 @@
     },
     {
       "id": "bg2-q13",
-      "prompt": "Which simile is used in BG 2.22 to explain the soul's transition?",
+      "prompt": "How does the garment analogy in BG 2.22 refute the fear of death?",
       "choices": [
-        "A tree shedding leaves during the seasonal changes of nature",
-        "Putting on new garments and giving up old ones",
-        "A river evaporating into mist through the heat of the sun",
-        "A mountain eroding gradually over the passage of countless years"
+        "The Buddhist view of complete annihilation at death",
+        "It shows the soul remains unchanged while bodies are exchanged",
+        "The Mayavadi theory that individual identity ceases at liberation",
+        "The materialist belief that consciousness ends with bodily death"
       ],
       "correctIndex": 1,
-      "feedback": "BG 2.22 compares the soul's change of body to changing garments.",
+      "feedback": "Just as changing clothes doesn't affect the person wearing them, the soul's essence remains unaffected by changing bodies-death is merely a change of garments.",
       "verseLabel": "BG 2.22",
       "verseUrl": "https://vedabase.io/en/library/bg/2/22/",
       "verdict": "Correct"
@@ -219,15 +189,15 @@
     },
     {
       "id": "bg2-q15",
-      "prompt": "BG 2.25 calls the soul which of the following?",
+      "prompt": "Why does BG 2.25 emphasize the soul as invisible, inconceivable and immutable?",
       "choices": [
-        "Visible and changeable like the body it resides within",
-        "Invisible, inconceivable and immutable in all circumstances eternally",
-        "A local entity limited to one body alone",
-        "A collection of elements temporarily combined by material nature"
+        "The empiricist view that only measurable phenomena are real",
+        "To show the soul transcends material perception and speculation",
+        "The Buddhist doctrine that soul is a temporary aggregation of elements",
+        "The materialist assumption that invisible means non-existent"
       ],
       "correctIndex": 1,
-      "feedback": "BG 2.25: the soul is invisible, inconceivable and immutable; do not grieve for the body.",
+      "feedback": "These qualities establish the soul's transcendental nature beyond empirical observation or mental speculation, rendering grief for the body philosophically invalid.",
       "verseLabel": "BG 2.25",
       "verseUrl": "https://vedabase.io/en/library/bg/2/25/",
       "verdict": "Correct"
@@ -245,6 +215,21 @@
       "feedback": "BG 2.30 states the indwelling self cannot be slain, so grief is unnecessary.",
       "verseLabel": "BG 2.30",
       "verseUrl": "https://vedabase.io/en/library/bg/2/30/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q17-synthesis",
+      "prompt": "How do the arguments about the soul's eternality (BG 2.12-25) and Arjuna's warrior duty (BG 2.31-32) work together to resolve his crisis?",
+      "choices": [
+        "The utilitarian view that duties matter more than philosophical understanding",
+        "Eternal soul makes death illusory; kshatriya duty makes fighting righteous",
+        "The pacifist position that violence is never justified regardless of duty",
+        "The relativist claim that both fighting and fleeing are equally valid choices"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krsna synthesizes metaphysics and ethics: understanding the soul's indestructibility removes fear of killing, while kshatriya duty provides righteous justification-together they eliminate Arjuna's philosophical and practical objections to fighting.",
+      "verseLabel": "BG 2.12-32",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/12/",
       "verdict": "Correct"
     },
     {
@@ -363,6 +348,21 @@
       ],
       "correctIndex": 1,
       "feedback": "Consciousness is the symptom of the soul. Like sunlight indicates the sun, consciousness indicates the soul's presence.",
+      "verseLabel": "BG 2.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg2-q25-synthesis",
+      "prompt": "How does Prabhupada's purport (BG 2.20) that consciousness is the soul's symptom challenge modern neuroscience's claim that consciousness emerges from brain chemistry?",
+      "choices": [
+        "The reductionist error that the symptom (consciousness) produces its source (soul)",
+        "Both views are equally valid depending on one's perspective and beliefs",
+        "Modern science correctly explains consciousness through material causation",
+        "The dualist compromise that mind and brain interact but are separate"
+      ],
+      "correctIndex": 0,
+      "feedback": "Just as sunlight indicates but doesn't create the sun, consciousness indicates but doesn't emerge from the brain-the symptom reveals the transcendent source, exposing materialism's category error of confusing effect with cause.",
       "verseLabel": "BG 2.20",
       "verseUrl": "https://vedabase.io/en/library/bg/2/20/",
       "verdict": "Correct"

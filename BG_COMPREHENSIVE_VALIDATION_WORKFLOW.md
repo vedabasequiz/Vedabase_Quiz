@@ -128,6 +128,43 @@ These ensure excellent user experience. Focus of quality revision process.
 - **Red flag:** >80% indicates systematic bias
 - **How to fix:** Apply Strategy B (condense correct answers) from template
 
+#### 10. Cognitive Depth Distribution (NEW - Tier 3)
+- ✅ **Recall Questions (40-50% target):** "What," "Who," "Which," "According to"
+- ✅ **Analysis Questions (30-40% target):** "Why," "How," "What distinguishes," "What does Prabhupada warn"
+- ✅ **Synthesis Questions (15-25% target):** "Compare," "How would this apply," "What connects," "Relate X to Y"
+- **Script check:** `validate-all-standards.py` → "Cognitive distribution: X% recall, Y% analysis, Z% synthesis"
+- **Status:** Tier 3 (excellence metric, not blocking)
+- **Purpose:** Ensures questions provoke reflection, not just memorization
+- **How to enhance:**
+  - Convert simple "what" questions to "why" or "how" where possible
+  - Add 2-3 synthesis questions per chapter (last 40%)
+  - Ensure purport questions require reasoning, not just recall
+
+#### 11. Difficulty Progression (NEW - Tier 3)
+- ✅ **First 15 questions (60%):** Accessible, grounding (mostly recall/comprehension)
+- ✅ **Last 10 questions (40%):** Moderately harder, integrative (analysis/synthesis)
+- ✅ **Final 3-5 questions:** Emphasis on warnings, integration, philosophical contrasts
+- **Script check:** Analyze question complexity by position
+- **Status:** Tier 3 (quality indicator)
+- **Purpose:** Aligns with Tier 2 requirement (Section 8: Difficulty Progression)
+- **How to improve:**
+  - Move complex questions to later positions
+  - Ensure last questions require multi-step reasoning
+  - End with insight, caution, or integration (not trivial facts)
+
+#### 12. Distractor Philosophy Depth (NEW - Tier 3)
+- ✅ **Philosophical misunderstandings:** Mayavadi, impersonalist, karma-mimamsa positions
+- ✅ **Partial truths:** Correct in isolation but wrong in context
+- ✅ **Misplaced emphasis:** True fact but irrelevant to question focus
+- **Script check:** Flag generic errors vs philosophical position errors
+- **Target:** 50%+ distractors referencing specific philosophical errors
+- **Status:** Tier 3 (excellence metric)
+- **Purpose:** Makes wrong answers instructive about common deviations
+- **How to enhance:**
+  - Replace generic wrong answers with specific philosophical errors
+  - Reference Mayavadi oneness, impersonalist void, karma-kanda rituals
+  - Use Prabhupada's purport warnings as distractor sources
+
 ---
 
 ## 🔄 Validation Workflow

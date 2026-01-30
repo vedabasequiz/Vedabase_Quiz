@@ -274,6 +274,70 @@ class QuizValidator:
         else:
             self.warnings.append(f"Correct-is-longest: {percentage:.1f}% ({correct_is_longest}/{total}) - High (target <70%)")
     
+    def check_cognitive_depth(self) -> None:
+        """Tier 3: Cognitive depth distribution"""
+        recall_keywords = ['what', 'who', 'which', 'where', 'when', 'according to', 'does', 'is', 'are']
+        analysis_keywords = ['why', 'how', 'distinguishes', 'differs', 'explains', 'warns', 'indicates']
+        synthesis_keywords = ['compare', 'contrast', 'relate', 'apply', 'connect', 'synthesize', 'integrate']
+        
+        recall_count = 0
+        analysis_count = 0
+        synthesis_count = 0
+        
+        for q in self.data.get('questions', []):
+            prompt = q.get('prompt', '').lower()
+            
+            # Check synthesis first (most specific)
+            if any(keyword in prompt for keyword in synthesis_keywords):
+                synthesis_count += 1
+            # Then analysis
+            elif any(keyword in prompt for keyword in analysis_keywords):
+                analysis_count += 1
+            # Default to recall
+            else:
+                recall_count += 1
+        
+        total = len(self.data.get('questions', []))
+        if total == 0:
+            return
+        
+        recall_pct = (recall_count / total * 100)
+        analysis_pct = (analysis_count / total * 100)
+        synthesis_pct = (synthesis_count / total * 100)
+        
+        # Informational only (Tier 3)
+        self.passes.append(f"Cognitive depth: {recall_pct:.0f}% recall, {analysis_pct:.0f}% analysis, {synthesis_pct:.0f}% synthesis")
+        
+        # Optional recommendation
+        if synthesis_pct < 10:
+            self.warnings.append(f"Tier 3 suggestion: Consider adding synthesis questions (currently {synthesis_pct:.0f}%)")
+    
+    def check_difficulty_progression(self) -> None:
+        """Tier 3: Difficulty progression check"""
+        total = len(self.data.get('questions', []))
+        if total < 10:
+            return  # Skip for small quizzes
+        
+        # Check last 40% for analysis/synthesis
+        last_40_start = int(total * 0.6)
+        analysis_keywords = ['why', 'how', 'distinguishes', 'differs', 'explains', 'warns', 'compare', 'contrast', 'relate']
+        
+        harder_questions = 0
+        for i in range(last_40_start, total):
+            q = self.data['questions'][i]
+            prompt = q.get('prompt', '').lower()
+            if any(keyword in prompt for keyword in analysis_keywords):
+                harder_questions += 1
+        
+        last_40_count = total - last_40_start
+        harder_pct = (harder_questions / last_40_count * 100) if last_40_count > 0 else 0
+        
+        # Informational only (Tier 3)
+        if harder_pct >= 50:
+            self.passes.append(f"Difficulty progression: {harder_pct:.0f}% of last 40% are analysis/synthesis questions")
+        else:
+            self.warnings.append(f"Tier 3 suggestion: Last 40% should be harder questions (currently {harder_pct:.0f}%)")
+    
     def run_all_checks(self) -> bool:
         """Run all validation checks"""
         print_header(f"Validating: {self.file_path.name}")
@@ -300,6 +364,10 @@ class QuizValidator:
         self.check_quality_length_balance()
         self.check_quality_distractors()
         self.check_quality_correct_is_longest()
+        
+        # TIER 3 CHECKS (Informational only)
+        self.check_cognitive_depth()
+        self.check_difficulty_progression()
         
         # RESULTS
         print(f"\n{Colors.BOLD}RESULTS{Colors.END}")

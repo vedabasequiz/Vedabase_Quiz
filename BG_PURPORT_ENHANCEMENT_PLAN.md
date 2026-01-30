@@ -2,7 +2,7 @@
 **Phase 2: Chapters 2-18 Adult Quizzes**
 
 ## Objective
-Add 8 purport-critical questions to each of the remaining 17 BG Adult chapters to achieve the required 35-40% purport ratio per VEDABASE_BG_PUBLISH_CHECKLIST.md Tier 2 standards.
+Add 8 purport-critical questions to BG Adult chapters 2-18 to achieve the required 35-40% purport ratio per VEDABASE_BG_PUBLISH_CHECKLIST.md Tier 2 standards. Chapter 1 already completed as reference standard.
 
 ---
 
@@ -19,16 +19,18 @@ Add 8 purport-critical questions to each of the remaining 17 BG Adult chapters t
 ## Three-Tier Priority Structure
 
 ### 🔴 TIER 1 - Critical Foundation (Complete First)
-**Chapters 2-4** - Core philosophical framework
+**Chapters 1-4** - Core philosophical framework
 
 | Chapter | Theme | Why Critical | Target Questions |
 |---------|-------|--------------|------------------|
+| **Ch 1** ✅ | Observing the Armies | Scene-setting, Arjuna's dilemma, bodily attachment | 33 total (COMPLETE) |
 | **Ch 2** | Analytical Study of Material/Spiritual Nature | Most quoted chapter, sankhya-yoga foundation | 33 total (25→33) |
 | **Ch 3** | Karma-yoga | Practical philosophy of action | 33 total (25→33) |
 | **Ch 4** | Transcendental Knowledge | Guru succession, sacrifice | 33 total (25→33) |
 
-**Time Estimate**: 12-18 hours (3 chapters × 4-6 hours each)  
-**Completion Deadline**: Week 1
+**Time Estimate**: 8-12 hours remaining (2 chapters × 4-6 hours each)  
+**Completion Deadline**: Week 1  
+**Status**: Chapter 1 complete ✅, Chapters 2-4 in progress
 
 ---
 
@@ -169,6 +171,7 @@ strength."
 ### Completion Checklist
 
 **Tier 1 (Critical):**
+- [x] Chapter 1 Adult (33Q) - COMPLETE ✅
 - [ ] Chapter 2 Adult (33Q) - Priority 1
 - [ ] Chapter 3 Adult (33Q) - Priority 2  
 - [ ] Chapter 4 Adult (33Q) - Priority 3
@@ -240,7 +243,9 @@ Chapters [X-Y] Adult quizzes now meet Tier 2 standards:
 ## Resource Requirements
 
 ### Time Investment
-- **Total**: 68-102 hours for 17 chapters
+- **Total**: 68-102 hours for 17 chapters remaining (Chapter 1 complete)
+- **Completed**: ~5 hours (Chapter 1)
+- **Remaining**: 64-96 hours for Chapters 2-18
 - **Per chapter**: 4-6 hours (prep, generation, integration, QA)
 - **Recommended pace**: 2-3 chapters per week to maintain quality
 
@@ -254,7 +259,8 @@ Chapters [X-Y] Adult quizzes now meet Tier 2 standards:
 ## Success Metrics
 
 ### Tier 2 Compliance Achieved When:
-- [ ] All 17 chapters have 33 questions (25 original + 8 purport)
+- [x] Chapter 1: 33 questions with 35-40% purport ratio ✅
+- [ ] Chapters 2-18: All have 33 questions (25 original + 8 purport)
 - [ ] Each chapter shows 35-40% purport ratio (8-10 questions minimum)
 - [ ] All purport questions cite purport explicitly in prompt or feedback
 - [ ] Feedback quality matches Chapter 1 benchmark (3-5 sentences, contrastive)

@@ -2,6 +2,18 @@ Vedabase Quiz – Final Pre-Publish Checklist
 
 (3-Tier Governance Model)
 
+📚 GOLD STANDARD REFERENCE CHAPTERS
+
+These chapters demonstrate the complete application of all Tier 1/2/3 standards and serve as templates for future work:
+
+**BG Chapter 2 (Adult)**: Soul proof chain, sequential IDs, 32% purport, 88% length balance
+**BG Chapter 3 (Adult)**: Karma-yoga spine, 40% purport, 96% length balance, vocabulary precision
+**BG Chapter 4 (Adult)**: Transcendental knowledge, verse-anchoring accuracy, Tier-3 language refinement
+**BG Chapter 5 (Adult)**: Sannyasa-karma-yoga synthesis, 40% purport, 88% length balance, philosophical bhakti
+**BG Chapter 6 (Adult)**: Dhyana-yoga reference for meditation topics - demonstrates how to handle yoga-heavy material with philosophical rigor rather than sentimental bhakti framing. Contains 9 "Why this matters" sections, warnings against false paths (artificial renunciation, mechanical meditation, seeking siddhis), psychological traps identified. Essential template for BG 8, 12, 18.
+
+All Gold Standard chapters feature: Sequential q1-q25 IDs, 35-40% purport ratio, 90%+ length balance, Adult feedback depth with contrastive analysis, verse integrity verified, ASCII-only compliance, bhakti grounded in philosophical reasoning.
+
 🔒 TIER 1 — HARD RULES
 
 Non-negotiable. Any violation = automatic rejection.

@@ -46,7 +46,7 @@ python3 scripts/validate-all-standards.py data/quizzes/bg/*.json
 
 ### Documentation
 
-- **[COMPREHENSIVE_VALIDATION_WORKFLOW.md](COMPREHENSIVE_VALIDATION_WORKFLOW.md)** - Complete validation checklist and workflow (START HERE)
+- **[BG_COMPREHENSIVE_VALIDATION_WORKFLOW.md](BG_COMPREHENSIVE_VALIDATION_WORKFLOW.md)** - Complete validation checklist and workflow (START HERE)
 - **[VEDABASE_BG_PUBLISH_CHECKLIST.md](VEDABASE_BG_PUBLISH_CHECKLIST.md)** - 3-tier governance standards (Tier 1/2/3)
 - **[QUIZ_QUALITY_STANDARDS.md](QUIZ_QUALITY_STANDARDS.md)** - MCQ design guidelines (length balance, plausible distractors)
 - **[BG_QUIZ_REVISION_TEMPLATE.md](BG_QUIZ_REVISION_TEMPLATE.md)** - Step-by-step revision process with fix strategies

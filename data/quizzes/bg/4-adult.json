@@ -39,15 +39,15 @@
     },
     {
       "id": "bg4-q3",
-      "prompt": "What does BG 4.5 reveal about why few recognize Krishna's divinity despite His regular appearances?",
+      "prompt": "In BG 4.5, what key difference does Krishna state between Himself and Arjuna regarding past births?",
       "choices": [
-        "The agnostic position that divinity cannot be known with certainty",
-        "Material conditioning obscures all transcendental perception of Krishna",
-        "The atheist claim that no divine persons exist to recognize",
-        "Krishna appears too rarely for people to become truly familiar"
+        "Arjuna remembers all his past births; Krishna forgets",
+        "Krishna remembers many past births; Arjuna does not",
+        "Both remember equally because all souls are omniscient",
+        "Neither remembers because memory is only material"
       ],
       "correctIndex": 1,
-      "feedback": "Though Krishna appears millennium after millennium, material conditioning prevents recognition of His transcendental nature; people see Him through bodily conception, missing His divinity.",
+      "feedback": "Krishna states that both have passed through many births, but He remembers them all whereas Arjuna has forgotten-showing Krishna's supreme position and Arjuna's conditioned limitation.",
       "verseLabel": "BG 4.5",
       "verseUrl": "https://vedabase.io/en/library/bg/4/5/",
       "verdict": "Correct"
@@ -174,22 +174,22 @@
     },
     {
       "id": "bg4-q12",
-      "prompt": "In BG 4.17, what characterizes work performed in knowledge?",
+      "prompt": "In BG 4.17, what does Krishna say must be understood about action?",
       "choices": [
-        "It consistently brings material gain and worldly prosperity",
-        "It is without attachment, ego, and produces no reaction",
-        "It requires great effort through sustained discipline and practice",
-        "It brings fear and anxiety about the future results"
+        "Only renunciation of all action; work is always binding",
+        "Karma (action), vikarma (forbidden action), and akarma (inaction within action)",
+        "Only ritual actions performed correctly; knowledge is secondary",
+        "Only intention matters ultimately; the act itself never matters"
       ],
       "correctIndex": 1,
-      "feedback": "Work done selflessly and wisely does not bind one.",
+      "feedback": "Krishna says one must understand action (karma), forbidden action (vikarma), and inaction (akarma), because the path of action is very intricate.",
       "verseLabel": "BG 4.17",
       "verseUrl": "https://vedabase.io/en/library/bg/4/17/",
       "verdict": "Correct"
     },
     {
       "id": "bg4-q13",
-      "prompt": "How does BG 4.18's principle of detachment from results free one from karmic reactions?",
+      "prompt": "How does BG 4.20-21's principle of detachment from results free one from karmic reactions?",
       "choices": [
         "The stoic suppression of natural desires through willpower alone",
         "Desire for results binds; detachment redirects energy to Krishna",
@@ -198,8 +198,8 @@
       ],
       "correctIndex": 1,
       "feedback": "Attachment to fruits entangles consciousness in results, creating karmic bonds; detachment means working for Krishna's satisfaction rather than personal gain. Same action performed, different consciousness liberates.",
-      "verseLabel": "BG 4.18",
-      "verseUrl": "https://vedabase.io/en/library/bg/4/18/",
+      "verseLabel": "BG 4.20-21",
+      "verseUrl": "https://vedabase.io/en/library/bg/4/20/",
       "verdict": "Correct"
     },
     {

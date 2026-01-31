@@ -191,7 +191,7 @@
     },
     {
       "id": "bg10-q14",
-        "prompt": "In the purport to BG 10.23, what does Srila Prabhupada explain about Krishna's opulences among the Rudras, Yakshas, Vasus, and mountains?",
+        "prompt": "In BG 10.23, which opulences does Krishna list?",
         "choices": [
           "He is Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
           "He is Vishnu among the Adityas, the sun among luminaries, Marici among Maruts, and the moon among stars",
@@ -236,12 +236,12 @@
         "prompt": "According to BG 10.26, which opulences does Krishna list?",
         "choices": [
           "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings",
-          "I am the celestial steed Ucchaihshravas among horses, Airavata among elephants, and the king among men",
-          "I am Skanda among generals and the ocean among bodies of water",
-          "I am the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents"
+          "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Skanda among perfected beings",
+          "I am the banyan tree among trees, Narada among sages, Skanda among Gandharvas, and Kapila among perfected beings",
+          "I am the banyan tree among trees, Bhrigu among sages, Citraratha among Gandharvas, and Kapila among perfected beings"
         ],
         "correctIndex": 0,
-        "feedback": "In BG 10.26, Krishna says He is the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings. This demonstrates Krishna's supremacy in the categories of trees, sages, celestial musicians, and perfected beings.",
+        "feedback": "In BG 10.26, Krishna says He is the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings. The distractors are near-misses to ensure careful reading and understanding of the verse list.",
         "verseLabel": "BG 10.26",
         "verseUrl": "https://vedabase.io/en/library/bg/10/26/"
     },

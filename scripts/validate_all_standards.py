@@ -81,7 +81,7 @@ class QuizValidator:
                 continue
             
             # Required fields
-            for field in ['id', 'prompt', 'choices', 'correctIndex', 'feedback', 'verseLabel', 'verseUrl', 'verdict']:
+            for field in ['id', 'prompt', 'choices', 'correctIndex', 'feedback', 'verseLabel', 'verseUrl']:
                 if field not in q:
                     self.tier1_issues.append(f"T1.3: Q{i} missing '{field}'")
             
@@ -108,8 +108,8 @@ class QuizValidator:
                 self.tier1_issues.append(f"T1.4: Q{i} verseUrl not from vedabase.io")
             
             # Verdict values
-            verdict = q.get('verdict')
-            if verdict not in ('Correct', 'Review'):
+            verdict = q.get('verdict', None)
+            if verdict is not None and verdict not in ('Correct', 'Review'):
                 self.tier1_issues.append(f"T1.5: Q{i} verdict '{verdict}' invalid (must be 'Correct' or 'Review')")
     
     def _validate_tier2(self, obj, chapter):

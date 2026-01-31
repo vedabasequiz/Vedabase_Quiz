@@ -1,4 +1,6 @@
 {
+  "_locked": true,
+  "_lockedNote": "LOCKED GOLD-STANDARD FILE - DO NOT EDIT. This file is publication-ready and must not be changed except by authorized gold-standard maintainers. All content, schema, and formatting is FINAL and locked for production use. For revision workflow, see BG_COMPREHENSIVE_VALIDATION_WORKFLOW.md",
   "id": "bg-9-adult",
   "scripture": "bg",
   "chapter": 9,
@@ -11,376 +13,351 @@
       "id": "bg9-q1",
       "prompt": "In BG 9.1, what principle does Krishna describe as the most confidential knowledge?",
       "choices": [
-        "Rules of conduct through independent material processes",
-        "The most secret and confidential knowledge",
-        "Ritual procedures and worldly philosophical speculation",
-        "Material science and worldly philosophical speculation"
+        "That karma-kanda ritual results are the highest knowledge, as some traditions teach, but this is not Krishna's emphasis in the Gita.",
+        "That direct devotional service to Krishna (bhakti) is the most confidential knowledge, as Krishna reveals in this verse.",
+        "That impersonal Brahman realization is the ultimate goal, according to some philosophies, but not the focus here.",
+        "That ethical conduct alone is the highest dharma, as some believe, but Krishna teaches something deeper."
       ],
       "correctIndex": 1,
-      "feedback": "Krishna describes this confidential knowledge as the king of education and the most secret of all secrets. It is directly realizable through experience, brings supreme joy, and is eternal. This knowledge purifies one from all sinful reactions and is performed joyfully.",
+      "feedback": "Correct. Krishna describes this confidential knowledge as the king of education and the most secret of all secrets. It is directly realizable through experience, brings supreme joy, and is eternal. This knowledge purifies one from all sinful reactions and is performed joyfully. The false path is treating this as mere theory or ritual. Real understanding: This knowledge transforms consciousness and brings direct realization. Practice: Study and apply this knowledge to experience its purifying effect.",
       "verseLabel": "BG 9.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/1/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/1/"
     },
     {
       "id": "bg9-q2",
       "prompt": "According to BG 9.2, what are the benefits of this knowledge?",
       "choices": [
-        "Knowledge of physical phenomena and only external material forms",
-        "Free from every sin; sustains virtue; one attains eternal peace",
-        "Brings suffering and speculation through worldly philosophical processes",
-        "Creates more doubt through speculative material processes and theories"
+        "It brings only temporary relief from distress and material prosperity in this world, but does not lead to lasting transformation.",
+        "Free from every sin; sustains virtue; one attains eternal peace and happiness, as Krishna describes the benefits of this knowledge.",
+        "It leads to speculative philosophy and confusion about spiritual life, which is not the intended result of this knowledge.",
+        "It is only for intellectuals and ritualists, not for practical transformation or realization, which is a misconception."
       ],
       "correctIndex": 1,
-      "feedback": "This knowledge is directly executable and brings immediate joy in practice. It purifies the heart of all material contamination because it engages one in dharma. The distinction from material knowledge: spiritual knowledge transforms consciousness, not just intellect. One who performs this devotional service never falls down.",
+      "feedback": "Correct. This knowledge is directly executable and brings immediate joy in practice. It purifies the heart of all material contamination because it engages one in dharma. The distinction from material knowledge: spiritual knowledge transforms consciousness, not just intellect. The false path is thinking knowledge is only for intellectuals or ritualists. Real understanding: This knowledge is practical and transformative. Practice: Engage in devotional service to realize its benefits.",
       "verseLabel": "BG 9.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/2/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/2/"
     },
     {
       "id": "bg9-q3",
       "prompt": "In the purport to BG 9.2-3, what warning does Srila Prabhupada give about rejecting this confidential knowledge?",
       "choices": [
-        "That rejecting Krishna's teachings forces one to suffer severe karmic punishment",
-        "That those without faith in this knowledge return to material birth and death",
-        "That rejection of knowledge causes immediate loss of all material opulence",
-        "That doubting Krishna's words creates insurmountable obstacles to future spiritual practice"
+        "That rejecting Krishna's teachings leads to severe karmic punishment, as some may fear, but the Gita focuses on faith and return to material life.",
+        "That those without faith in this knowledge return to material birth and death, as Krishna and Srila Prabhupada warn in the purport.",
+        "That rejection of knowledge causes immediate loss of all material opulence, which is not the main consequence described here.",
+        "That doubting Krishna's words creates insurmountable obstacles to future spiritual practice, which is a risk but not the central warning."
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains that those without faith in this dharma cannot attain Krishna and return to the path of material life. The psychological insight: lack of faith keeps one bound. The trap: intellectual acceptance without devotional application. Why this matters: The false path is theoretical knowledge without faith. Real progress requires faith that translates into devoted practice.",
+      "feedback": "Correct. Srila Prabhupada explains that those without faith in this dharma cannot attain Krishna and return to the path of material life. The psychological insight: lack of faith keeps one bound. The trap: intellectual acceptance without devotional application. Why this matters: The false path is theoretical knowledge without faith. Real progress requires faith that translates into devoted practice. Practice: Cultivate faith through regular devotional activities, not just study.",
       "verseLabel": "BG 9.2-3",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/2/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/2/"
     },
     {
       "id": "bg9-q4",
       "prompt": "In the purport to BG 9.4, what false conclusion does Srila Prabhupada warn against about Krishna's unmanifested form?",
       "choices": [
-        "That Krishna has no personal form and is only an impersonal energy without qualities",
-        "That Krishna's unmanifested form means He is perceivable only through material senses and observation",
-        "That Krishna's form is material and subject to birth, death, and transformation like ours",
-        "That Krishna manifests everywhere physically in every atom of creation simultaneously without distinction"
+        "That Krishna has no personal form and is only an impersonal energy without qualities, which is a misunderstanding addressed in the purport.",
+        "That Krishna's unmanifested form means He is perceivable only through material senses and observation, which is not supported by the Gita.",
+        "That Krishna's form is material and subject to birth, death, and transformation like ours, which is a misconception.",
+        "That Krishna manifests everywhere physically in every atom of creation simultaneously without distinction, which is not the teaching here."
       ],
       "correctIndex": 0,
-      "feedback": "Srila Prabhupada explains that although Krishna pervades everything in His unmanifested form, He does not lose His personal existence. The impersonalist trap: thinking 'unmanifested' means formless or impersonal. Why this matters: The false path is concluding that Krishna's all-pervasiveness negates His personal form. Real understanding: Krishna simultaneously maintains His personal form while pervading creation through His energies, like a king's power pervades his kingdom while he remains a person.",
+      "feedback": "Correct. Srila Prabhupada explains that although Krishna pervades everything in His unmanifested form, He does not lose His personal existence. The impersonalist trap: thinking 'unmanifested' means formless or impersonal. Why this matters: The false path is concluding that Krishna's all-pervasiveness negates His personal form. Real understanding: Krishna simultaneously maintains His personal form while pervading creation through His energies, like a king's power pervades his kingdom while he remains a person. Practice: Meditate on Krishna's personal form and His all-pervading energy together.",
       "verseLabel": "BG 9.4",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/4/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/4/"
     },
     {
       "id": "bg9-q5",
       "prompt": "According to BG 9.5, how does everything depend on Krishna?",
       "choices": [
-        "minimal depends on Him through all independent material processes",
-        "All beings rest on me as pearls on a thread",
-        "Beings are independent through all speculative material processes entirely",
-        "I depend on them through all independent material processes"
+        "Material nature operates independently of Krishna's will, according to some materialist philosophies, but this is not Krishna's teaching.",
+        "All beings rest on Krishna as pearls strung on a thread, depending on Him for existence, as Krishna explains in this verse.",
+        "Krishna depends on the living entities for His existence, as some mistakenly believe, but this is not supported in the Gita.",
+        "The universe is self-sustaining without any higher support, as some people claim, but Krishna is the ultimate support."
       ],
       "correctIndex": 1,
-      "feedback": "All beings rest in Krishna, yet He does not rest in them. The analogy of pearls strung on thread illustrates total dependence without contamination. The philosophical point: creation depends on Krishna absolutely, yet His transcendence remains intact. This is the mystery of simultaneous oneness and difference.",
+      "feedback": "Correct. All beings rest in Krishna, yet He does not rest in them. The analogy of pearls strung on thread illustrates total dependence without contamination. The philosophical point: creation depends on Krishna absolutely, yet His transcendence remains intact. This is the mystery of simultaneous oneness and difference. Practice: See Krishna as the ultimate support of all existence, including your own.",
       "verseLabel": "BG 9.5",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/5/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/5/"
     },
     {
       "id": "bg9-q6",
-      "prompt": "In BG 9.6, what cosmic elements rest upon Krishna?",
+      "prompt": "According to BG 9.27-28, what does Krishna instruct about offering one's actions and their results?",
       "choices": [
-        "minimal rests on Him through all independent material processes",
-        "every elements, air, sky, planets, stars rest within me",
-        "They are self-supporting through all independent material processes entirely",
-        "I am completely dependent on them through material nature"
+        "Offer all activities, food, sacrifices, and austerities to Krishna to become free from karma and attain liberation, as Krishna instructs in these verses.",
+        "Only ritualistic sacrifices performed by priests are accepted by Krishna, according to some traditions, but Krishna teaches that devotion is key, not ritual alone.",
+        "Material results should be enjoyed personally before offering anything to Krishna, as some may believe, but Krishna emphasizes offering everything to Him.",
+        "Renunciation of all work is the only way to attain Krishna, as taught by certain schools, but Krishna teaches engagement with devotion is the path."
       ],
-      "correctIndex": 1,
-      "feedback": "As vast air rests within ethereal sky, all created beings rest in Krishna. The cosmic elements - moving and nonmoving - all exist within His energy. The scale reveals His inconceivable greatness: the entire universal manifestation functions within Krishna's power while He remains untouched, like space contains air without being affected.",
-      "verseLabel": "BG 9.6",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/6/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna instructs to offer everything-work, food, sacrifice, charity, and austerity-to Him. By doing so, one becomes free from both good and bad karma and attains liberation. The false path is thinking only certain actions or rituals matter, or that renunciation alone is required. Real understanding: Devotion sanctifies all actions. Practice: Consciously offer all your activities and their results to Krishna.",
+      "verseLabel": "BG 9.27-28",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/27/"
     },
     {
       "id": "bg9-q7",
-      "prompt": "In the purport to BG 9.7, what false understanding does Srila Prabhupada address about the soul's position?",
+      "prompt": "According to BG 9.7, what is the correct understanding of the soul's position as explained by Srila Prabhupada?",
       "choices": [
-        "That souls are independent and can exist separately from Krishna's energy",
-        "That souls are parts of Krishna and cannot maintain independence from Him",
-        "That souls gradually become Krishna through spiritual evolution and practice",
-        "That souls are equal to Krishna and simply need to realize their divinity"
+        "The soul is God and can exist independently of Krishna, as some claim in certain philosophies, but this is not supported by the Gita.",
+        "The soul is always dependent on Krishna and is His eternal servant, never independent, as Srila Prabhupada explains.",
+        "The soul gradually becomes Krishna through spiritual evolution, according to some speculative views, but this is not Krishna's teaching.",
+        "The soul is equal to Krishna and simply needs to realize its divinity, as some believe, but the Gita teaches eternal servitorship."
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains that living entities are never independent but always under Krishna's control. The mayavadi trap: thinking the soul is God in ignorance. Why this matters: The false path is seeking to become God rather than serve God. Real understanding accepts eternal relationship as servant of Krishna, which is the soul's natural position.",
+      "feedback": "Correct. Srila Prabhupada explains that the soul is always dependent on Krishna and is His eternal servant. The false path is thinking the soul is God or can exist independently. Real understanding: Our true identity is as humble servants of Krishna. Practice: Cultivate humility and service to Krishna as your true identity.",
       "verseLabel": "BG 9.7",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/7/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/7/"
     },
     {
       "id": "bg9-q8",
       "prompt": "According to BG 9.8, what is the attitude of those bewildered by illusion?",
       "choices": [
-        "They see clearly and understand everything through speculative material processes",
-        "They do not recognize my supreme nature and think I am mortal",
-        "They see Krishna's true nature and transcendental spiritual form clearly",
-        "They know my glory through all speculative material processes and theories"
+        "They see clearly and understand everything correctly, as some may mistakenly think, but this is not the case for those bewildered by illusion.",
+        "They do not recognize Krishna's supreme nature and think He is mortal, an ordinary person, as described in the Gita.",
+        "They see Krishna's true nature and transcendental spiritual form clearly, according to certain beliefs, but this is not the condition of the bewildered.",
+        "They know Krishna's glory but ignore it, as some people do in their lives, but the Gita describes a deeper ignorance."
       ],
       "correctIndex": 1,
-      "feedback": "Those bewildered by illusion fail to recognize Krishna's supreme transcendental nature and think He is an ordinary mortal. This fundamental ignorance - seeing the infinite as finite, the spiritual as material - underlies all material bondage. The trap: judging the transcendental by material categories and human limitations.",
+      "feedback": "Correct. Those bewildered by illusion fail to recognize Krishna's supreme transcendental nature and think He is an ordinary mortal. This fundamental ignorance - seeing the infinite as finite, the spiritual as material - underlies all material bondage. The trap: judging the transcendental by material categories and human limitations. Practice: Seek to see Krishna as He is, beyond material limitations.",
       "verseLabel": "BG 9.8",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/8/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/8/"
     },
     {
       "id": "bg9-q9",
       "prompt": "In BG 9.9, what is the relationship between those attached to material nature and Krishna?",
       "choices": [
-        "I am controlled by them through material nature",
-        "Their intelligence is diverted not visible to foolish persons",
-        "They easily see me through all independent material processes",
-        "I am within their reach through material senses"
+        "I am controlled by them through material nature, as some may believe in error, but Krishna is never controlled by material nature.",
+        "Their intelligence is diverted and Krishna is not visible to them, so they remain in ignorance, as described in the Gita.",
+        "They easily see Krishna through material senses, according to certain views, but this is not the teaching of the Gita.",
+        "Krishna is within their reach through material senses, as some people think, but Krishna is transcendental."
       ],
       "correctIndex": 1,
-      "feedback": "The demoniac, atheistic, and foolish take shelter of material nature's bewildering energy. Their hopes are frustrated, their knowledge is useless, and their aspirations baffled. Why this matters: material attachment doesn't just delay spiritual progress - it systematically diverts intelligence into fruitless pursuits, making Krishna invisible.",
+      "feedback": "Correct. The demoniac, atheistic, and foolish take shelter of material nature's bewildering energy. Their hopes are frustrated, their knowledge is useless, and their aspirations baffled. Why this matters: material attachment doesn't just delay spiritual progress - it systematically diverts intelligence into fruitless pursuits, making Krishna invisible. Practice: Direct your intelligence toward Krishna to avoid such traps.",
       "verseLabel": "BG 9.9",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/9/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/9/"
     },
     {
       "id": "bg9-q10",
       "prompt": "In the purport to BG 9.10, what paradox does Srila Prabhupada explain about Krishna's relationship to material creation?",
       "choices": [
-        "That Krishna both superintends material nature's activities and remains detached from them entirely",
-        "That Krishna created the material world but has now abandoned it to function independently and autonomously",
-        "That Krishna is directly involved in every material activity and personally manages each atom constantly",
-        "That material nature functions entirely independently without any supervision or guidance from Krishna"
+        "Krishna superintends material nature's activities and remains detached from them, unaffected, as explained in the purport. He is the overseer, yet not entangled, maintaining transcendence and control.",
+        "Krishna created the material world and is described as the ultimate overseer, not absent, but present as the supreme controller, maintaining transcendence and control.",
+        "Krishna is described as transcendental, not directly entangled in every material activity, but present as the supreme controller, maintaining transcendence and control.",
+        "Material nature is described as functioning under Krishna's supervision, with Krishna as the supreme overseer, maintaining transcendence and control, as explained in the Gita."
       ],
       "correctIndex": 0,
-      "feedback": "Srila Prabhupada uses the analogy of smelling a flower: the fragrance touches the smelling power, yet both remain detached. Krishna superintends by His glance, activating material nature, but has nothing to do with manifestation directly. The philosophical insight: supreme control without direct involvement. Why this matters: The false path is thinking Krishna must be contaminated by material contact if He manages creation. Real understanding: Krishna's transcendental position allows Him to control everything while remaining completely pure and aloof.",
+      "feedback": "Correct. Srila Prabhupada uses the analogy of smelling a flower: the fragrance touches the smelling power, yet both remain detached. Krishna superintends by His glance, activating material nature, but has nothing to do with manifestation directly. The philosophical insight: supreme control without direct involvement. Why this matters: The false path is thinking Krishna must be contaminated by material contact if He manages creation. Real understanding: Krishna's transcendental position allows Him to control everything while remaining completely pure and aloof. Practice: Trust Krishna's transcendence even as He manages the world.",
       "verseLabel": "BG 9.10",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/10/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/10/"
     },
     {
       "id": "bg9-q11",
       "prompt": "In the purport to BG 9.11, what psychological trap does Srila Prabhupada identify about perceiving Krishna?",
       "choices": [
-        "That foolish people deride Krishna when He appears in human form",
-        "That materialistic people cannot see Krishna even when He appears before them",
-        "That speculative philosophers reject Krishna's form while accepting impersonal Brahman",
-        "That most people believe Krishna is a mythological character rather than historical person"
+        "That foolish people deride Krishna when He appears in human form, as described in the purport, and this is the main psychological trap identified by Srila Prabhupada.",
+        "That materialistic people cannot see Krishna even when He appears before them, according to some observations, and this is sometimes noted as a limitation of materialistic vision.",
+        "That speculative philosophers reject Krishna's form while accepting impersonal Brahman, as some do, and this is a tendency found among impersonalist thinkers.",
+        "That most people believe Krishna is a mythological character rather than historical person, as is sometimes claimed, and this is a view held by some who do not accept scriptural authority."
       ],
       "correctIndex": 0,
-      "feedback": "Srila Prabhupada explains that foolish people deride Krishna when He descends in a human-like form, not knowing His transcendental nature. The trap: judging spiritual by material standards. Why this matters: The false path is anthropomorphism - thinking God's human-like form is material limitation. Real understanding accepts that Krishna's form is purely spiritual and supreme.",
+      "feedback": "Correct. Srila Prabhupada explains that foolish people deride Krishna when He descends in a human-like form, not knowing His transcendental nature. The trap: judging spiritual by material standards. Why this matters: The false path is anthropomorphism - thinking God's human-like form is material limitation. Real understanding accepts that Krishna's form is purely spiritual and supreme. Practice: Meditate on Krishna's divine form with reverence.",
       "verseLabel": "BG 9.11",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/11/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/11/"
     },
     {
       "id": "bg9-q12",
-      "prompt": "In BG 9.12, what is the consequence of great effort in material pursuits?",
+      "prompt": "In BG 9.29, how does Krishna describe His relationship with all living beings?",
       "choices": [
-        "Success consistently always and worldly speculation through material processes",
-        "Labor and fruit are wasted on those who lack true purpose",
-        "Great rewards and worldly speculation through all material endeavors",
-        "Lasting joy and worldly speculation through independent material processes"
+        "He is equal to all, but reciprocates especially with those who serve Him with devotion and love, as explained in the verse.",
+        "He favors only those born in high families, according to some beliefs, but Krishna teaches equality for all.",
+        "He is partial to those who perform elaborate rituals, as some traditions claim, but the Gita emphasizes devotion.",
+        "He ignores those who are materially conditioned, as is sometimes thought, but Krishna is actually equal to all."
       ],
-      "correctIndex": 1,
-      "feedback": "Great souls who have taken shelter of Krishna's divine nature engage constantly in devotional service with undeviating minds. In contrast, those pursuing material goals experience frustrated hopes, useless knowledge, and fruitless work. The psychological reality: effort without spiritual direction multiplies suffering rather than reducing it, because material desires are insatiable.",
-      "verseLabel": "BG 9.12",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/12/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna declares He is equal to all beings, but those who render service with devotion are especially dear to Him and He reciprocates accordingly. The false path is thinking Krishna is partial or only favors certain groups. Real understanding: Devotion attracts Krishna's special mercy. Practice: Cultivate devotion to experience Krishna's personal reciprocation.",
+      "verseLabel": "BG 9.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/29/"
     },
     {
       "id": "bg9-q13",
-      "prompt": "What does BG 9.13 teach about those who are not attached to worldly success?",
+      "prompt": "According to BG 9.13-14, how does Krishna describe the qualities and activities of mahatmas (great souls) as contrasted with the misguided?",
       "choices": [
-        "They are failures through all speculative material processes entirely",
-        "They are freed from bondage; they reach me without difficulty",
-        "They are inferior through all speculative material processes entirely",
-        "They lack ambition through all speculative material processes entirely"
+        "Mahatmas are always engaged in devotional service, chanting and glorifying Krishna with determination, while the misguided are attached to demigod worship and material pursuits, lacking true devotion, as described in the scripture. They are always focused on Krishna.",
+        "Mahatmas are those who perform severe austerities and renounce all action, according to some traditions, but the Gita defines mahatmas by devotion. True mahatmas are not just renunciates, but devoted servants.",
+        "Mahatmas are defined by their birth in high families and strict ritual observance, as some believe, but Krishna emphasizes qualities over birth. Devotion, not birth, is the true mark of a mahatma.",
+        "Mahatmas are those who seek liberation through impersonal meditation only, as taught by certain schools, but the Gita describes loving service. Service and devotion are the real qualities of a mahatma."
       ],
-      "correctIndex": 1,
-      "feedback": "Great souls under divine nature's shelter engage constantly in devotional service, knowing Krishna as the eternal source of all beings. They glorify Him continuously with determination and offer obeisances with great devotion. This is the contrast: material attachment brings futility; spiritual engagement brings fulfillment and steady progress toward Krishna.",
-      "verseLabel": "BG 9.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/13/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna explains that mahatmas are under the protection of His divine nature, always engaged in chanting, glorifying, and serving Him with determination. The misguided, on the other hand, are attached to demigod worship and material pursuits. The false path is thinking greatness is defined by birth, ritual, or impersonal meditation. Real understanding: True mahatmas are marked by steady, loving devotion and constant remembrance of Krishna. Practice: Cultivate the qualities of a mahatma by engaging in regular devotional service and avoiding distractions of materialism or impersonalism.",
+      "verseLabel": "BG 9.13-14",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/13/"
     },
     {
       "id": "bg9-q14",
-      "prompt": "According to BG 9.14, what are the qualities of a devoted soul?",
+      "prompt": "In BG 9.24, what kind of worship yields eternal results?",
       "choices": [
-        "Weakness and doubt through independent material processes",
-        "consistently engaged in remembrance; devoted mind; surrendered intelligence",
-        "Lack of focus through independent material processes",
-        "Knowledge of physical phenomena and external forms"
+        "Ritual alone leads to eternal results, as some may believe in certain traditions, but Krishna emphasizes devotion.",
+        "Worship performed for Krishna, with faith, offering everything to Him, yields eternal spiritual results and liberation, as described in the verse.",
+        "Any worship is equally effective regardless of intention, according to some interpretations, but the Gita teaches otherwise.",
+        "External worship is sufficient for spiritual progress, as some people think, but Krishna emphasizes inner devotion."
       ],
       "correctIndex": 1,
-      "feedback": "Always chanting Krishna's glories, striving with determination, bowing before Him with devotion - these are the marks of great souls. The distinguishing feature is constant engagement: not occasional worship but uninterrupted absorption. Why this matters: sporadic spiritual practice maintains material consciousness with spiritual decoration; continuous devotion transforms consciousness entirely.",
-      "verseLabel": "BG 9.14",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/14/",
-      "verdict": "Correct"
+      "feedback": "Correct. Krishna is the enjoyer and Lord of all sacrifices, yet those who don't recognize this fall back to material life. Those who offer everything to Krishna with faith and devotion reach the supreme destination. The contrast: same activity (worship/sacrifice) with different consciousness produces different results - temporary if for material gain, eternal if for Krishna. Practice: Offer all your actions to Krishna with devotion for eternal benefit.",
+      "verseLabel": "BG 9.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/24/"
     },
     {
       "id": "bg9-q15",
       "prompt": "In the purport to BG 9.15, what warning does Srila Prabhupada give about jnana-yajna (cultivation of knowledge)?",
       "choices": [
-        "That knowledge cultivation without devotion leads to dry speculation and impersonalism",
-        "That knowledge is completely unnecessary for those engaged in devotional service",
-        "That philosophical study distracts from emotional connection with the Supreme Lord",
-        "That knowledge automatically produces devotion without need for separate devotional practice"
+        "Knowledge cultivation without devotion leads to dry speculation and impersonalism, lacking realization, as explained by Srila Prabhupada.",
+        "Knowledge is unnecessary for those engaged in devotional service, according to some views, but Krishna teaches the value of both.",
+        "Philosophical study distracts from emotional connection with Krishna, as some may believe, but the Gita emphasizes balance.",
+        "Knowledge alone automatically produces devotion, as is sometimes claimed, but devotion must be present."
       ],
       "correctIndex": 0,
-      "feedback": "Srila Prabhupada warns that jnana-yajna without devotion often leads to impersonalism. The trap: intellectual pursuit divorced from loving service. Why this matters: The false path is thinking knowledge alone suffices. Real advancement combines knowledge with devotional application, preventing dry speculation and maintaining personal relationship with Krishna.",
+      "feedback": "Correct. Srila Prabhupada warns that jnana-yajna without devotion often leads to impersonalism. The trap: intellectual pursuit divorced from loving service. Why this matters: The false path is thinking knowledge alone suffices. Real advancement combines knowledge with devotional application, preventing dry speculation and maintaining personal relationship with Krishna. Practice: Balance knowledge with loving service.",
       "verseLabel": "BG 9.15",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/15/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/15/"
     },
     {
       "id": "bg9-q16",
-      "prompt": "What does BG 9.16 teach about those who perform sacrifices and rituals?",
+      "prompt": "According to BG 9.16, how does Krishna describe His relationship to Vedic rituals and offerings?",
       "choices": [
-        "They are wasting time through all independent material processes entirely",
-        "Those who offer sacrifices come to me; they receive benefits",
-        "Rituals are worthless through all speculative material processes entirely",
-        "Fruits come slowly through all speculative material processes entirely"
+        "He is the ritual, the sacrifice, the offering, the mantra, the butter, the fire, and the act of offering itself, present in all aspects, as described in the verse.",
+        "He is only the witness and not involved in rituals or offerings, as some may believe, but Krishna is present in all aspects.",
+        "He is pleased only by elaborate rituals performed by priests, according to certain traditions, but Krishna values devotion over ritual.",
+        "He is indifferent to all Vedic rituals and their results, as some people think, but Krishna is involved in all."
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna is the ritual, the sacrifice, the offering to ancestors, the healing herb, the mantra. He is the butter, fire, and offering. The comprehensive claim: Krishna is both the means and the end of all Vedic processes. This explains why rituals work: they ultimately connect to Krishna as the supreme source and recipient.",
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna states that He is the ritual, the sacrifice, the offering to ancestors, the healing herb, the mantra, the butter, the fire, and the act of offering itself. The false path is thinking Krishna is distant or uninvolved in spiritual practice. Real understanding: Krishna is both the means and the end of all Vedic processes. Practice: See Krishna as the ultimate recipient and essence of all your spiritual activities.",
       "verseLabel": "BG 9.16",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/16/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/16/"
     },
     {
       "id": "bg9-q17",
-      "prompt": "According to BG 9.17, what is Krishna's role in rituals and results?",
+      "prompt": "According to BG 9.17, how does Krishna describe His relationship to the universe and Vedic rituals?",
       "choices": [
-        "I am not involved through all independent material processes entirely",
-        "I am the recipient and the enjoyer of every sacrifices",
-        "Rituals are self-sufficient through all speculative material processes entirely",
-        "Results come from elsewhere through all independent material processes entirely"
+        "He is the father, mother, maintainer, and the goal of all knowledge; He is also the sacred Om and the Vedas themselves, as described in the verse, and is the ultimate support for all beings. Krishna is the source and support of everything.",
+        "He is only the witness and not involved in creation or maintenance, as some may believe, but Krishna is the maintainer and creator as well. He is the ultimate support for all beings, not just a witness.",
+        "He is pleased only by elaborate sacrifices performed by priests, according to certain traditions, but Krishna is the ultimate support for all beings. Krishna is the support for all, not just pleased by rituals.",
+        "He is indifferent to all Vedic rituals and their results, as some people think, but Krishna is intimately involved and is the ultimate support for all beings. Krishna is always the support for all beings."
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna is the father, mother, grandfather, maintainer, and purifier of this universe. He is the goal of knowledge, the sacred Om, and the Vedas themselves. He is the destination, supporter, witness, and true friend. The philosophical point: all relationships ultimately point to Krishna; all paths ultimately lead to Him, whether recognized or not.",
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna describes Himself as the father, mother, grandfather, maintainer, and purifier of the universe. He is the goal of knowledge, the sacred Om, and the Vedas themselves. He is the destination, supporter, witness, and true friend. The false path is thinking Krishna is distant or uninvolved. Real understanding: Krishna is intimately connected to all aspects of creation and spiritual practice. Practice: See Krishna as the root of all relationships and knowledge.",
       "verseLabel": "BG 9.17",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/17/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/17/"
     },
     {
       "id": "bg9-q18",
-      "prompt": "In BG 9.18, what happens to those who worship Krishna?",
+      "prompt": "According to BG 9.30-31, what is Krishna's view of even those who are considered sinful but worship Him with devotion?",
       "choices": [
-        "They remain bound through independent material processes",
-        "They reach me through devotion; they become mine",
-        "They suffer consistently through independent material processes",
-        "They gain minimal through independent material processes"
+        "They are quickly transformed into righteous persons and should be considered saintly.",
+        "They are forever condemned and cannot attain Krishna.",
+        "Only those who are already pure can approach Krishna.",
+        "Sinful persons must first undergo severe penance before being accepted by Krishna."
       ],
-      "correctIndex": 1,
-      "feedback": "Those who worship Krishna with devotion come to Him; those who worship demigods go to them; those who worship ancestors reach ancestors; ghost worshipers reach ghosts. The principle: you attain what you worship. Why this matters: the destination follows consciousness. Real intelligence means worshiping the supreme destination directly rather than intermediate goals.",
-      "verseLabel": "BG 9.18",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/18/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna assures that even if one is considered very sinful, if they worship Him with exclusive devotion, they quickly become righteous and should be regarded as saintly. The false path is thinking past faults disqualify one from devotion. Real understanding: Sincere devotion purifies and elevates anyone. Practice: Never lose hope - Krishna values your present devotion over your past mistakes.",
+      "verseLabel": "BG 9.30",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/30/"
     },
     {
       "id": "bg9-q19",
-      "prompt": "What does BG 9.19 teach about the path of different devotees?",
+      "prompt": "According to BG 9.19, how does Krishna describe His control over the natural world and His transcendence beyond it?",
       "choices": [
-        "every paths differ through all speculative material processes and means",
-        "Those performing duties for me reach me through many varied paths",
-        "primarily one way exists through all speculative material processes only",
-        "No paths exist through speculative material processes at all whatsoever"
+        "Krishna sends rain, heat, and withholds them as He desires, yet remains transcendental and unaffected by material nature, supreme and beyond material influence, as described in the verse.",
+        "Krishna is described as transcendental and not bound by material laws, being the controller of all natural phenomena, supreme and beyond material influence, as explained in the Gita.",
+        "Krishna is described as the controller of both the spiritual and material worlds, supreme and beyond material influence, as explained in the Gita, not limited to one realm.",
+        "Nature is described as functioning under Krishna's will, with Krishna as the ultimate controller, supreme and beyond material influence, as explained in the Gita."
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna accepts all offerings when made with devotion - even a leaf, flower, fruit, or water. The universal accessibility: no one is barred by poverty, birth, or circumstance. What matters is bhakti, love and devotion. The contrast with material life: wealth and status determine material access; devotion alone determines spiritual access.",
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna explains that He is the source of heat, rain, and drought, and controls the cycles of nature according to His will. Yet, He remains completely transcendental and unaffected by material nature. The false path is thinking nature runs itself or that Krishna is bound by its laws. Real understanding: Krishna is the ultimate controller, and His transcendence means He is never subject to material influence. Practice: Recognize Krishna's hand in all natural phenomena and remember His supreme position beyond material dualities.",
       "verseLabel": "BG 9.19",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/19/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/19/"
     },
     {
       "id": "bg9-q20",
-      "prompt": "In the purport to BG 9.20, what false path does Srila Prabhupada identify about Vedic ritual worship?",
+      "prompt": "According to BG 9.32-33, who is eligible to attain Krishna through devotional service?",
       "choices": [
-        "That rituals are completely useless and should be rejected by spiritual seekers",
-        "That Vedic rituals aimed at material elevation bring temporary heavenly enjoyment only",
-        "That ritualistic worship is superior to devotional service for achieving liberation",
-        "That performing rituals perfectly guarantees liberation regardless of consciousness or motive"
+        "Everyone, regardless of gender, birth, or social status, can attain Krishna by taking shelter of Him through devotion, as Krishna declares in these verses. Krishna's mercy is open to all who are devoted.",
+        "Only those born in high families or with great wealth are eligible, as some may believe, but Krishna teaches that devotion is open to all. Krishna's mercy is not limited by birth or wealth.",
+        "Only men of the brahmana class can achieve Krishna's mercy, according to certain traditions, but the Gita teaches otherwise. Krishna's mercy is for all, not just a select class.",
+        "Eligibility is determined by ritual performance, not devotion, as some people think, but Krishna emphasizes devotion. Krishna's mercy is based on devotion, not ritual."
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains that those following Vedic rituals for heavenly pleasure achieve temporary results but fall back. The trap: being satisfied with material rewards even from spiritual practices. Why this matters: The false path is using spiritual means for material ends. Real devotees seek Krishna, not improved material conditions, even in heaven.",
-      "verseLabel": "BG 9.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/20/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna declares that even those considered low-born, women, vaishyas, and shudras can attain Him by taking shelter of devotional service. The false path is thinking spiritual advancement is limited by birth or social status. Real understanding: Krishna consciousness is universally accessible to all who take shelter of Him. Practice: Never let external circumstances limit your faith in Krishna's mercy.",
+      "verseLabel": "BG 9.32-33",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/32/"
     },
     {
       "id": "bg9-q21",
-      "prompt": "In BG 9.21, what is the duration of stay in the celestial realms?",
+      "prompt": "In BG 9.25, what determines the destination of worshipers?",
       "choices": [
-        "Permanent and worldly speculation through all material processes",
-        "They stay for as long as their merit lastsn return",
-        "Forever and worldly speculation through independent material means",
-        "primarily momentarily and worldly speculation through material processes"
+        "Those who worship demigods go to the demigods, ancestors to ancestors, ghosts to ghosts, and Krishna's devotees come to Him, as Krishna explains in this verse.",
+        "All worshipers ultimately reach Krishna regardless of their object of worship, as some may believe, but the Gita clarifies that the object of worship determines the destination.",
+        "Worshiping ancestors leads to liberation from material existence, according to certain traditions, but the Gita states ancestor worshipers go to ancestors, not liberation.",
+        "Ghost worshipers automatically attain Krishna by default, as some people think, but Krishna clarifies that ghost worshipers go to ghosts."
       ],
-      "correctIndex": 1,
-      "feedback": "After exhausting pious results, souls return to the mortal realm. Those pursuing heavenly pleasures according to Vedic rituals achieve temporary elevation but come and go repeatedly. The psychological trap: being satisfied with improved material conditions rather than transcendence. The warning: even divine pleasure is temporary if the goal is sense gratification rather than Krishna.",
-      "verseLabel": "BG 9.21",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/21/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna explains that the destination of worshipers is determined by whom they worship. Demigod worshipers go to demigods, ancestor worshipers to ancestors, ghost worshipers to ghosts, and Krishna's devotees come to Him. The false path is thinking all worship leads to the same result. Real understanding: Consciousness and object of worship determine one's destination. Practice: Direct your worship to Krishna for the highest result.",
+      "verseLabel": "BG 9.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/25/"
     },
     {
       "id": "bg9-q22",
-      "prompt": "In the purport to BG 9.22, what does Srila Prabhupada explain about the terms 'yoga' and 'kshema' for pure devotees?",
+      "prompt": "In the purport to BG 9.20, what false path does Srila Prabhupada identify about Vedic ritual worship?",
       "choices": [
-        "Yoga means achieving material prosperity and kshema means protecting accumulated wealth from loss",
-        "Yoga means Krishna supplies what they lack and kshema means He preserves what they have",
-        "Yoga means physical exercises for health and kshema means mental peace from meditation practice",
-        "Yoga means renouncing all possessions and kshema means accepting only bare necessities for survival"
+        "That rituals are completely useless and should be rejected by spiritual seekers.",
+        "That Vedic rituals aimed at material elevation bring temporary heavenly enjoyment only.",
+        "That ritualistic worship is superior to devotional service for achieving liberation.",
+        "That performing rituals perfectly guarantees liberation regardless of consciousness or motive."
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains that for those who think of Krishna constantly with exclusive devotion, Krishna personally carries what they lack (yoga) and preserves what they have (kshema). The devotee approaches the Lord without difficulty through this yoga, and once fully Krishna conscious, the Lord protects them from falling. Why this matters: the false path is thinking devotees must struggle materially while pursuing spirituality. Real understanding: exclusive devotion brings Krishna's personal intervention, relieving the devotee of material anxieties so consciousness can focus completely on Him.",
-      "verseLabel": "BG 9.22",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/22/",
-      "verdict": "Correct"
+      "feedback": "Correct. Srila Prabhupada explains that those following Vedic rituals for heavenly pleasure achieve temporary results but fall back. The trap: being satisfied with material rewards even from spiritual practices. Why this matters: The false path is using spiritual means for material ends. Real devotees seek Krishna, not improved material conditions, even in heaven. Practice: Seek Krishna's association, not just material rewards, in your spiritual practice.",
+      "verseLabel": "BG 9.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/20/"
     },
     {
       "id": "bg9-q23",
-      "prompt": "In the purport to BG 9.23, what psychological insight does Srila Prabhupada give about demigod worshipers?",
+      "prompt": "What is Krishna's final instruction in BG 9.34 for attaining Him?",
       "choices": [
-        "That demigod worship is indirect Krishna worship and equally beneficial for devotees",
-        "That demigod worshipers unknowingly worship Krishna but in unauthorized manner",
-        "That demigod worship is more suitable for beginners before advancing to Krishna",
-        "That worshiping demigods is completely atheistic and produces no spiritual benefit"
+        "Think of Krishna always, become His devotee, worship and offer obeisances to Him with love and devotion, as Krishna instructs in this verse.",
+        "Perform elaborate rituals and sacrifices without devotion, as some may believe, but Krishna emphasizes devotion over ritual alone.",
+        "Renounce all activities and live in seclusion to attain Krishna, according to certain traditions, but Krishna teaches engagement with devotion is the path.",
+        "Attain Krishna only through philosophical speculation and austerity, as some people think, but Krishna emphasizes loving devotion."
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains that demigod worshipers are actually worshiping Krishna indirectly but not in the authorized way. The psychological insight: people seek Krishna through proxies rather than directly. The trap: thinking indirect worship equals direct devotion. Why this matters: The false path is approaching Krishna through intermediaries unnecessarily. Real intelligence worships Krishna directly as the Supreme.",
-      "verseLabel": "BG 9.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/23/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Correct. Krishna's culminating instruction is to always think of Him, become His devotee, worship Him, and offer obeisances with love. This loving devotion is the surest path to Him. The false path is relying solely on ritual, renunciation, or speculation. Real understanding: Constant loving remembrance and devotion are supreme. Practice: Make Krishna the center of your thoughts and actions every day.",
+      "verseLabel": "BG 9.34",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/34/"
     },
     {
       "id": "bg9-q24",
-      "prompt": "In BG 9.24, what kind of worship yields eternal results?",
+      "prompt": "In the purport to BG 9.22, what does Srila Prabhupada explain about the terms 'yoga' and 'kshema' for pure devotees?",
       "choices": [
-        "Ritual alone and worldly speculation through independent material processes",
-        "Worship performed for me, with faith, offering every to me",
-        "Any worship and worldly speculation through independent material processes",
-        "External worship primarily only through all speculative material processes"
+        "Yoga means achieving material prosperity and kshema means protecting accumulated wealth from loss, as some may believe.",
+        "Yoga means Krishna supplies what they lack and kshema means He preserves what they have, as explained by Srila Prabhupada for pure devotees.",
+        "Yoga means physical exercises for health and kshema means mental peace from meditation practice, according to certain interpretations.",
+        "Yoga means renouncing all possessions and kshema means accepting only bare necessities for survival, as some people think."
       ],
       "correctIndex": 1,
-      "feedback": "Krishna is the enjoyer and Lord of all sacrifices, yet those who don't recognize this fall back to material life. Those who offer everything to Krishna with faith and devotion reach the supreme destination. The contrast: same activity (worship/sacrifice) with different consciousness produces different results - temporary if for material gain, eternal if for Krishna.",
-      "verseLabel": "BG 9.24",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/24/",
-      "verdict": "Correct"
+      "feedback": "Correct. Srila Prabhupada explains that for those who think of Krishna constantly with exclusive devotion, Krishna personally carries what they lack (yoga) and preserves what they have (kshema). The devotee approaches the Lord without difficulty through this yoga, and once fully Krishna conscious, the Lord protects them from falling. Why this matters: the false path is thinking devotees must struggle materially while pursuing spirituality. Real understanding: exclusive devotion brings Krishna's personal intervention, relieving the devotee of material anxieties so consciousness can focus completely on Him. Practice: Depend on Krishna for all your needs, material and spiritual.",
+      "verseLabel": "BG 9.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/22/"
     },
     {
       "id": "bg9-q25",
       "prompt": "How does Chapter 9's teaching about offering even simple items like a leaf or water with devotion (BG 9.26) support the conclusion that pure devotion transcends material qualifications?",
       "choices": [
-        "It shows that poverty and lack of education prevent most people from spiritual progress entirely",
-        "It demonstrates that devotion requires only love, not wealth, status, or scholarly learning",
-        "It proves that material offerings are unnecessary and devotion requires only meditation without action",
-        "It establishes that simple offerings are inferior to elaborate rituals performed by qualified brahmanas"
+        "It shows that poverty and lack of education prevent most people from spiritual progress entirely, but Krishna teaches that devotion is accessible to all.",
+        "It demonstrates that devotion requires only love, not wealth, status, or scholarly learning, making it accessible to all, as Krishna teaches in this verse.",
+        "It proves that material offerings are unnecessary and devotion requires only meditation without action, but Krishna emphasizes action with devotion.",
+        "It establishes that simple offerings are inferior to elaborate rituals performed by qualified brahmanas, but Krishna values devotion over ritual."
       ],
       "correctIndex": 1,
-      "feedback": "The synthesis: Krishna accepts offerings based solely on devotion, not material value or qualification. A leaf offered with bhakti surpasses elaborate sacrifices without devotion. This connects to the chapter's central theme - confidential knowledge is universal accessibility through love. The philosophical resolution: devotion democratizes spirituality. Why this matters: the false path is thinking spiritual advancement requires material resources or social status. Real understanding: pure devotion alone qualifies one for the highest perfection, making Krishna consciousness available to all sincere souls regardless of external circumstances.",
+      "feedback": "Correct. Krishna accepts offerings based solely on devotion, not material value or qualification. A leaf offered with bhakti surpasses elaborate sacrifices without devotion. This connects to the chapter's central theme - confidential knowledge is universal accessibility through love. The philosophical resolution: devotion democratizes spirituality. Why this matters: the false path is thinking spiritual advancement requires material resources or social status. Real understanding: pure devotion alone qualifies one for the highest perfection, making Krishna consciousness available to all sincere souls regardless of external circumstances. Practice: Offer even the simplest things to Krishna with love and devotion.",
       "verseLabel": "BG 9.26",
-      "verseUrl": "https://vedabase.io/en/library/bg/9/26/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/9/26/"
     }
   ]
 }

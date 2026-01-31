@@ -9,15 +9,15 @@
   "questions": [
     {
       "id": "bg7-q1",
-      "prompt": "In BG 7.1, what principle does Krishna ask Arjuna to do?",
+      "prompt": "In BG 7.1, what does Krishna instruct Arjuna to do in order to know Him completely (asamshayam samagram)?",
       "choices": [
-        "Leave battlefield through independent material engagement processes",
-        "Hear about knowledge and entirely surrender to Krishna",
-        "Study scriptures alone through independent material speculation",
-        "Perform rituals through worldly philosophical speculation only"
+        "Perfect astanga-yoga postures and breath control as main requirement",
+        "Hear about Krishna practicing yoga with mind attached to Him (asakta, mat-parah)",
+        "Master entire Vedic corpus first, then begin devotion afterward",
+        "Perform duty mechanically, avoiding personal relationship with Supreme"
       ],
       "correctIndex": 1,
-      "feedback": "Asaktena (without attachment), mat-parah (devoted to Me)-practicing yoga hearing about Me-will know entirely. The trap: knowledge accumulation without devotional context. Why this matters: The false path is academic Krishna-study-learning philosophy/theology without mat-parah (devotional orientation), producing theoretical knowledge not transformative realization. Real understanding: Complete knowledge (asamshayam samagram) requires asaktena (detached from material) plus mat-parah (devoted to Krishna)-devotional relationship providing framework for genuine understanding. Hearing about Krishna (mayi shrinvat) in devotional consciousness enables complete realization. Therefore approach Krishna-knowledge devotionally-not as subject for study but as Person for relationship, transforming information-gathering into devotional realization.",
+      "feedback": "Correct: Krishna says that by hearing about Him while practicing yoga with mind devoted to Him, one can know Him fully. Why this matters: A common false path is treating Krishna as a mere subject of study; devotion (mat-parah) makes knowledge transformative, not just informational. This verse sets the chapter's tone: hearing plus devotion, not dry scholarship.",
       "verseLabel": "BG 7.1",
       "verseUrl": "https://vedabase.io/en/library/bg/7/1/",
       "verdict": "Correct"
@@ -26,13 +26,13 @@
       "id": "bg7-q2",
       "prompt": "In the purport to BG 7.2, what false path does Srila Prabhupada warn against regarding spiritual knowledge?",
       "choices": [
-        "Pursuing intellectual understanding without practical realization through devotional service engagement",
-        "Reading too many books instead of focusing on single scripture study alone",
-        "Seeking knowledge from spiritual teachers rather than discovering independently through speculation",
-        "Studying philosophy before establishing firm foundation in ritual worship practices"
+        "Gathering theoretical information while avoiding realized practice in devotional service",
+        "Rejecting knowledge as unnecessary and relying only on emotions",
+        "Assuming one needs no guru and inventing private path by speculation",
+        "Reducing devotion to ritual without understanding or hearing"
       ],
       "correctIndex": 0,
-      "feedback": "Srila Prabhupada explains that theoretical knowledge alone is insufficient. One must combine jnana (knowledge) with vijnana (realized understanding) through practice. The trap is accumulating information without transformation. Why this matters: Modern seekers confuse intellectual grasp with actual realization. The false path is studying endlessly without applying knowledge in devotional practice.",
+      "feedback": "Correct: Srila Prabhupada stresses that jnana without vijnana becomes mere theory; realized knowledge comes through practice in devotional service. The trap is mistaking information for transformation. Real hearing and service turn knowledge into realization.",
       "verseLabel": "BG 7.2",
       "verseUrl": "https://vedabase.io/en/library/bg/7/2/",
       "verdict": "Correct"
@@ -41,13 +41,13 @@
       "id": "bg7-q3",
       "prompt": "In the purport to BG 7.3, what distinction does Srila Prabhupada make between jnana and vijnana?",
       "choices": [
-        "Jnana is theoretical knowledge; vijnana is realized practical understanding",
-        "Jnana comes from books; vijnana comes from direct guru instruction",
-        "Jnana is intellectual understanding; vijnana is emotional devotional feeling",
-        "Jnana means material knowledge; vijnana means transcendental scriptural study"
+        "Jnana is theoretical understanding; vijnana is realized, practical application in Krishna consciousness",
+        "Jnana is secret knowledge for renunciates; vijnana is ordinary knowledge for householders",
+        "Jnana is emotional faith; vijnana is intellectual analysis and debate skill",
+        "Jnana is material science; vijnana is study of ritual rules and ceremonies"
       ],
       "correctIndex": 0,
-      "feedback": "Srila Prabhupada explains that jnana means theoretical knowledge of the spirit soul's nature. Vijnana means practical realization of spiritual truth through devotional practice. The trap: collecting information without transformation. Why this matters: The false path is academic study without applying Krishna consciousness in life. Real spiritual advancement requires both theoretical understanding and practical realization.",
+      "feedback": "Correct: Jnana is knowing spiritual truth in principle, while vijnana is realized understanding lived through practice. Srila Prabhupada repeatedly warns that spiritual life cannot remain only at the level of concepts. Practice makes knowledge real.",
       "verseLabel": "BG 7.3",
       "verseUrl": "https://vedabase.io/en/library/bg/7/3/",
       "verdict": "Correct"
@@ -56,13 +56,13 @@
       "id": "bg7-q4",
       "prompt": "What does BG 7.4 teach about Krishna's energies?",
       "choices": [
-        "Krishna has no power through speculative material processes",
-        "My energy divides into eight aspects manifesting all beings",
-        "Everything is one through speculative material processes only",
-        "Only one primary energy exists through material speculation"
+        "Earth, water, fire, air, ether, mind, intelligence, false ego constitute My separated material energy",
+        "Krishna's eight-fold energy operates independently once created and maintains itself without His guidance",
+        "The eight material elements constitute complete reality with no higher nature beyond them",
+        "Mind, intelligence and false ego are more fundamental than the gross elements"
       ],
-      "correctIndex": 1,
-      "feedback": "Eight-fold apara prakrti (lower nature)-earth/water/fire/air/ether/mind/intelligence/false-ego. The trap: matter as ultimate reality. Why this matters: The false path is materialism-treating eight elements as fundamental reality, missing they constitute apara (lower/inferior) prakrti subordinate to para (higher) spiritual nature. Real understanding: Material elements are mama maya (My energy)-Krishna's external potency creating/maintaining material cosmos. Apara means inferior not in value but in consciousness-level-matter is unconscious energy serving conscious spirit. Therefore recognize matter's subordinate status-Krishna's energy not independent reality, tools for spirit's education not ultimate ontology, inverting materialist hierarchy placing matter above spirit.",
+      "correctIndex": 0,
+      "feedback": "Correct: Krishna's eight-fold apara prakrti (lower nature) includes earth, water, fire, air, ether, mind, intelligence, and false ego. Materialism mistakes these elements as fundamental reality, missing that they're inferior energy subordinate to para prakrti (spiritual nature). Matter is Krishna's energy serving the spirit's education, not independent or ultimate.",
       "verseLabel": "BG 7.4",
       "verseUrl": "https://vedabase.io/en/library/bg/7/4/",
       "verdict": "Correct"
@@ -71,13 +71,13 @@
       "id": "bg7-q5",
       "prompt": "In the purport to BG 7.5, what false conception does Srila Prabhupada warn against about the living entity?",
       "choices": [
-        "That living entities are simply combinations of material elements only",
-        "That souls gradually evolve from matter through biological processes over time",
+        "That the jiva is supreme and needs no surrender to any higher authority",
         "That consciousness emerges from complex chemical reactions in the brain",
-        "That individual souls will eventually merge into one impersonal existence"
+        "That individual souls will eventually merge into one impersonal existence",
+        "That living entities are merely combinations of material elements with no spiritual nature"
       ],
-      "correctIndex": 0,
-      "feedback": "Beyond apara (lower material) prakrti is para (higher spiritual) prakrti-jiva-bhutah (living entities) sustaining jagat (world). The trap: monistic oneness. Why this matters: The false path is undifferentiated Brahman-declaring living entities identical with Supreme, missing para-prakrti (superior nature) distinction from apara-prakrti (inferior nature). Real understanding: Living entities constitute para-prakrti (superior spiritual nature) distinct from apara-prakrti (eight material elements)-higher than matter but subordinate to Supreme. Neither material (apara) nor Supreme but intermediate category-simultaneously one and different. Therefore understand acintya-bhedabheda-living entities ontologically distinct from both matter and Supreme, occupying intermediate position as Supreme's eternal marginal energy.",
+      "correctIndex": 3,
+      "feedback": "Correct: Beyond apara prakrti (lower material nature) is para prakrti (higher spiritual nature) - jiva-bhutah, the living entities who sustain the world. The material reductionist trap treats consciousness as a byproduct of chemical combinations, missing that living entities are Krishna's superior energy. Souls are neither material products nor identical with the Supreme, but intermediate - simultaneously one with and different from Krishna (acintya-bhedabheda). Recognize the jiva as Krishna's eternal marginal energy, superior to matter yet dependent on Him.",
       "verseLabel": "BG 7.5",
       "verseUrl": "https://vedabase.io/en/library/bg/7/5/",
       "verdict": "Correct"
@@ -86,13 +86,13 @@
       "id": "bg7-q6",
       "prompt": "In BG 7.6, what is the origin of all beings?",
       "choices": [
-        "All beings are eternal through independent material processes",
-        "I am the source of everything that exists",
-        "Matter created itself through independent material processes",
-        "Beings created randomly through independent material processes"
+        "All beings originate from the interaction of purusha and prakriti",
+        "The Brahman effulgence is the ultimate source of all manifestation",
+        "I am the source of all beings and their dissolution",
+        "Creation emerges from the cosmic universal form through time's influence"
       ],
-      "correctIndex": 1,
-      "feedback": "All beings' source (yoni) I am-and pralaya (dissolution) also. The trap: deistic absent-creator. Why this matters: The false path is clockmaker-God-creates universe then abandons to independent function, missing Krishna's ongoing involvement as both origin (utpatti) and dissolution (pralaya). Real understanding: Jagat (world) originates from Me and dissolves into Me-continuous relationship not one-time creation. Yoni (womb/source) metaphor indicates ongoing sustenance not just initial production. This establishes panentheism not deism-universe exists within Krishna's energy under His control. Therefore relate to active involved Supreme-not distant historical creator but present sustainer-dissolver, recognizing creation's ongoing dependence on Krishna's continuous energetic manifestation.",
+      "correctIndex": 2,
+      "feedback": "Correct: Krishna is the source (yoni) and dissolution (pralaya) of all beings. Unlike deism's clockmaker-God who creates then abandons, Krishna continuously sustains creation. Yoni (womb) indicates ongoing involvement, not one-time creation.",
       "verseLabel": "BG 7.6",
       "verseUrl": "https://vedabase.io/en/library/bg/7/6/",
       "verdict": "Correct"
@@ -107,67 +107,67 @@
         "Concluding that all paths lead to same destination regardless of actual understanding"
       ],
       "correctIndex": 0,
-      "feedback": "Srila Prabhupada warns against the impersonalist error - thinking that personality implies material limitation. This is the mayavadi trap: projecting material defects onto the spiritual realm. Why this matters: The false path is rejecting Krishna's personal form while claiming to be advanced. Real knowledge accepts the Absolute Truth as simultaneously personal and unlimited.",
+      "feedback": "Correct: Srila Prabhupada warns against the impersonalist error - thinking that personality implies material limitation. This mayavadi conception projects material defects onto the spiritual realm. Real knowledge accepts the Absolute Truth as simultaneously personal and unlimited, rejecting the notion that form equals limitation.",
       "verseLabel": "BG 7.7",
       "verseUrl": "https://vedabase.io/en/library/bg/7/7/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q8",
-      "prompt": "According to BG 7.8, what principle does Krishna identify as His living energy?",
+      "prompt": "According to BG 7.8, which manifestation does Krishna specifically identify as His presence in the Vedas?",
       "choices": [
-        "Matter alone through worldly material speculation",
-        "The sound vibration OM representing spiritual energy",
-        "Time alone through worldly material speculation",
-        "Space alone through worldly material speculation"
+        "The sound vibration OM (pranava) representing spiritual sound",
+        "The eternal time factor controlling all transformations in creation",
+        "The pure consciousness that pervades all existence equally",
+        "The combination of matter and spirit working harmoniously"
       ],
-      "correctIndex": 1,
-      "feedback": "I am rasa (taste) in water, prabha (light) in sun/moon, pranava (om) in Vedas, shabda (sound) in ether, paurusham (ability) in men. The trap: pantheistic identity-confusion. Why this matters: The false path is 'I am water, I am sun'-confusing Krishna's presence as primary quality with object itself, producing monistic reduction. Real understanding: Krishna is essential quality enabling manifestation-rasa making water tasteful, prabha making sun luminous, pranava making Vedas authoritative. Not the things themselves but their essence. Recognizing Krishna in phenomena without confusing Him with phenomena. Therefore practice discriminative perception-see Krishna as essential quality enabling all manifestations without reducing Him to manifestations, maintaining distinction-in-identity preventing pantheistic collapse.",
+      "correctIndex": 0,
+      "feedback": "Correct: Krishna is rasa (taste) in water, prabha (light) in sun/moon, pranava (OM) in Vedas, shabda (sound) in ether, and ability in men. He is the essential quality enabling manifestation, not the object itself - rasa makes water tasteful, prabha makes sun luminous. Recognize Krishna in phenomena without confusing Him with phenomena.",
       "verseLabel": "BG 7.8",
       "verseUrl": "https://vedabase.io/en/library/bg/7/8/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q9",
-      "prompt": "In BG 7.9, what are examples of Krishna being the original of all?",
+      "prompt": "In BG 7.9, what are examples of Krishna being the original essence?",
       "choices": [
-        "Krishna is present primarily only in formal temple worship and rituals",
-        "I am fragrance in earth, heat in fire, life in all living beings",
-        "Examples of Krishna's presence cannot be given through speculative material processes",
-        "Only minimal qualities come from Krishna through independent material speculation"
+        "Krishna manifests only in extraordinary phenomena like rare natural wonders",
+        "Fragrance in earth, brilliance in fire, life in beings, austerity in ascetics",
+        "The fragrance in earth and heat in fire derive from material elements alone",
+        "Life exists in beings due to chemical combination of material elements"
       ],
       "correctIndex": 1,
-      "feedback": "Punyo gandhah (pure fragrance) in earth, tejas (brilliance) in fire, jivana (life) in all beings, tapas (austerity) in ascetics-I am. The trap: identifying Supreme with particular manifestations. Why this matters: The false path is limiting Krishna to sublime experiences-only special fragrances/brilliant fires/extraordinary lives, missing He's present in all instances of category as essence. Real understanding: Universal presence through essential qualities-punyo gandhah (pure fragrance) indicates fragrances' common essence not particular smell. Every fragrance manifests Krishna's presence-ordinary and extraordinary. This democratizes divine perception. Therefore develop universal vision-recognize Krishna in all instances of essential qualities not just impressive manifestations, seeing Supreme's presence in common phenomena not just extraordinary experiences, preventing spiritual elitism.",
+      "feedback": "Correct: Krishna is pure fragrance in earth, brilliance in fire, life in all beings, and austerity in ascetics. Restricting Krishna to extraordinary manifestations - spectacular fragrances or fires - misses that He's present in all instances as essence. Every fragrance manifests Krishna, not just impressive ones.",
       "verseLabel": "BG 7.9",
       "verseUrl": "https://vedabase.io/en/library/bg/7/9/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q10",
-      "prompt": "What does BG 7.10 teach about Krishna's powers?",
+      "prompt": "In BG 7.10, what does Krishna say about His relationship to intelligence and prowess?",
       "choices": [
-        "Krishna has no power through speculative material processes",
-        "Force of energy is essence, everything rests on my potency",
-        "Power is only temporary through speculative material processes",
-        "Only one primary thing has power in material existence"
+        "Intelligence and prowess develop through evolution of consciousness over many lifetimes",
+        "I am seed of all beings, intelligence of intelligent, prowess of powerful",
+        "Great souls achieve excellence through determined effort, discipline, and practice",
+        "Seed of existence lies in pradhana, the undifferentiated material nature"
       ],
       "correctIndex": 1,
-      "feedback": "Bijam (seed) of all beings, buddhi (intelligence) of intelligent, tejas (prowess) of powerful-I am. The trap: glorifying particular excellence. Why this matters: The false path is personality-cult-glorifying specific intelligent/powerful persons while ignoring quality's universal source, producing false hero-worship. Real understanding: Krishna is buddhi buddhimatam (intelligence of intelligent), tejas tejasvinam (prowess of powerful)-not praising individual but recognizing source. Every intelligence/power manifests Krishna's presence-great and small. Individual excellence should direct attention upward to source not terminating in person. Therefore practice source-attribution-see impressive qualities as Krishna's manifestations, praising Him through them not replacing Him with them, preventing creature-worship through recognizing Creator behind all creature-excellence.",
+      "feedback": "Correct: Krishna is the seed of all beings, the intelligence of the intelligent, and the prowess of the powerful. Hero-worship stops at the individual while ignoring the source. Every excellence manifests Krishna's presence - recognize and praise the source behind impressive qualities.",
       "verseLabel": "BG 7.10",
       "verseUrl": "https://vedabase.io/en/library/bg/7/10/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q11",
-      "prompt": "According to BG 7.11, how does Krishna manifest in the world?",
+      "prompt": "According to BG 7.11, how does Krishna manifest in strength and desire?",
       "choices": [
-        "Only in temples through formal worship and ritualistic ceremonies alone",
-        "As strength of strong devoid of passion and dharmic desire",
-        "In nature alone through independent material processes without any purpose",
-        "Through intellectual speculation and philosophical debate exclusively without devotion"
+        "As unlimited strength in all beings regardless of moral character",
+        "In all desires equally, with no distinction between regulated and unregulated",
+        "As strength free from lust and desire not contrary to dharma",
+        "As attachment and passion which motivate all human endeavors"
       ],
-      "correctIndex": 1,
-      "feedback": "Balam (strength) free from kama-raga (desire-attachment) I am-and kama (desire) not contrary to dharma. The trap: absolute desire-condemnation. Why this matters: The false path is universal desire-rejection-treating all kama (desire) as spiritual obstacle, missing dharma-congruent desire as Krishna's manifestation. Real understanding: Strength without kama-raga (lust-attachment) is Krishna; and kama aviruddha dharma (desire not contrary to dharma)-regulated desire compatible with Krishna. Not all desire is lust-dharmic desire for progeny/service/protection represents Krishna. Therefore discriminate desire-types-reject adharmic kama (sense-indulgence) while honoring dharmic kama (duty-motivated desire), avoiding both libertine acceptance of all desires and ascetic rejection of all desires through dharma-based discrimination.",
+      "correctIndex": 2,
+      "feedback": "Correct: Krishna is strength free from lust, and desire not contrary to dharma. Not all desire is spiritual obstacle - dharma-congruent desire represents Krishna. Dharmic desire for progeny, service, and protection is legitimate; reject only adharmic sense-indulgence.",
       "verseLabel": "BG 7.11",
       "verseUrl": "https://vedabase.io/en/library/bg/7/11/",
       "verdict": "Correct"
@@ -177,27 +177,27 @@
       "prompt": "In BG 7.12, what is Krishna's relationship to the modes of material nature?",
       "choices": [
         "Krishna is controlled by the three modes like all other beings",
-        "All modes emanate from Krishna, but He remains transcendent to them",
         "The modes exist independently without any connection to Krishna",
-        "Krishna identifies Himself completely with the mode of goodness"
+        "Krishna identifies Himself completely with the mode of goodness",
+        "The modes emanate from Krishna, yet He remains transcendent to them"
       ],
-      "correctIndex": 1,
-      "feedback": "Sattva/rajas/tamas bhavas (states)-all from Me eva (alone), but not I in them, they in Me. The trap: pantheistic immanence without transcendence. Why this matters: The false path is limiting Krishna to material manifestations-'God is in everything' without recognizing He transcends everything, reducing Supreme to material categories. Real understanding: Modes originate mattah (from Me) but na aham teshu (not I in them)-Krishna source of gunas but transcends them. Asymmetrical relationship-modes depend on Krishna, Krishna independent of modes. This preserves both immanence (modes from Krishna) and transcendence (Krishna beyond modes). Therefore recognize Krishna's simultaneous immanence-transcendence-present in creation as source yet untouched by creation's limitations, neither pantheistic reduction nor deistic distance.",
+      "correctIndex": 3,
+      "feedback": "Correct: All states of goodness, passion, and ignorance come from Krishna, yet He is not in them - they are in Him. The relationship is asymmetrical: modes depend on Krishna, but Krishna is independent of modes. He is simultaneously immanent as source yet transcendent, untouched by material limitations.",
       "verseLabel": "BG 7.12",
       "verseUrl": "https://vedabase.io/en/library/bg/7/12/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q13",
-      "prompt": "What does BG 7.13 teach about those attached to material desires?",
+      "prompt": "According to BG 7.13, what prevents the world from recognizing Krishna?",
       "choices": [
-        "They progress spiritually through independent material processes",
-        "They worship demigods seeking temporary material rewards",
-        "Everyone gains equally through independent material processes",
-        "Material desire is good through independent material processes"
+        "Bewildered by three gunas, they do not know Me beyond them",
+        "They recognize gunas as temporary and seek transcendence naturally",
+        "They master three modes through philosophical discrimination alone",
+        "They gradually evolve beyond modes through karmic purification"
       ],
-      "correctIndex": 1,
-      "feedback": "Tribhih guna-mayaih (made of three gunas) bhavais (states)-entire world mohita (bewildered) doesn't know eternal Me beyond gunas. The trap: guna-identification as self. Why this matters: The false path is identifying with mode-based personality-'I am intellectual/passionate/lazy'-missing these are temporary guna-conditions not eternal identity. Real understanding: Whole world mohita (bewildered) by three guna-mayaih bhavaih (states made of gunas)-identifies with temporary mode-combination. Doesn't recognize Krishna param (beyond) gunas as actual self's source. Gunas are clothing not wearer. Therefore transcend guna-identity-recognize thoughts/feelings/behaviors as mode-expressions not self-nature, seeing past guna-covering to eternal spiritual identity as Krishna's servant beyond material psychological types.",
+      "correctIndex": 0,
+      "feedback": "Correct: The world, bewildered by states made of the three gunas, doesn't know eternal Krishna beyond them. Mistaking 'I am intellectual/passionate/lazy' as true identity misses that these are temporary mode-conditions. Gunas are clothing, not the wearer - the self's actual source is Krishna beyond the gunas.",
       "verseLabel": "BG 7.13",
       "verseUrl": "https://vedabase.io/en/library/bg/7/13/",
       "verdict": "Correct"
@@ -206,28 +206,28 @@
       "id": "bg7-q14",
       "prompt": "In the purport to BG 7.14, why does Srila Prabhupada warn that maya is insurmountable by material effort?",
       "choices": [
-        "Because maya actively prevents all spiritual progress through constant material engagement",
-        "Because only surrender to Krishna provides the power to overcome maya's illusion",
+        "Because maya actively prevents all spiritual progress through material engagement",
         "Because maya requires many lifetimes of gradual purification before transcendence",
-        "Because maya is ultimately more powerful than God's grace and divine mercy"
+        "Because only surrender to Krishna provides the power to overcome maya",
+        "Because maya is ultimately more powerful than God's grace and mercy"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains that maya is daivi (divine) and cannot be overcome by personal effort. Only by surrendering to Krishna does one cross over. The psychological trap is thinking self-improvement alone can achieve liberation. Why this matters: The false path is attempting spiritual advancement through willpower without devotion. Real transcendence requires grace through surrender.",
+      "correctIndex": 2,
+      "feedback": "Correct: Srila Prabhupada explains that maya is divine and cannot be overcome by personal effort alone. Only surrendering to Krishna provides the power to cross over. Why this matters: Self-improvement without devotion cannot achieve liberation - real transcendence requires grace through surrender.",
       "verseLabel": "BG 7.14",
       "verseUrl": "https://vedabase.io/en/library/bg/7/14/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q15",
-      "prompt": "In BG 7.15, what types of fools are mentioned?",
+      "prompt": "In BG 7.15, what four types do NOT surrender to Krishna?",
       "choices": [
-        "Only the ignorant through independent material processes",
-        "Those who know not my transcendental divine nature",
-        "All people are wise through independent material processes",
-        "Knowledge brings problems through independent material processes"
+        "Only the ignorant who lack proper education and philosophical training",
+        "Mudha, naradhama, mayayapahrita-jnanah, and those of demonic nature",
+        "Only those lacking formal education who remain simple and unsophisticated",
+        "Those who worship demigods instead of approaching the Supreme directly"
       ],
       "correctIndex": 1,
-      "feedback": "Na mam dushkritinah (evildoers not to Me) prapadyante (surrender)-four types: mudha (foolish), naradhama (lowest), mayayapahrita-jnanah (knowledge stolen by maya), asuram (demonic). The trap: universal divine acceptance regardless of character. Why this matters: The false path is sentimental universalism-'everyone worships same God'-missing that character-defects prevent Krishna-surrender. Real understanding: Four obstacles-mudhah (foolish materialists), naradhama (degraded misusing human life), mayayapahrta-jnanah (pseudo-intellectual with distorted knowledge), asuricam bhavam ashritah (those accepting demoniac nature)-all avoid surrendering to Krishna. Character matters-certain corruptions prevent spiritual receptivity. Therefore cultivate receptive character-overcoming foolishness/degradation/distorted-knowledge/demoniac-mentality enabling Krishna-surrender, recognizing spiritual path requires character-development not just intellectual assent.",
+      "feedback": "Correct: Four types don't surrender: mudha (foolish), naradhama (lowest of men), mayayapahrita-jnanah (those whose knowledge is stolen by maya), and asuric (demonic). Character-defects prevent Krishna-surrender - foolishness, degradation, distorted knowledge, and demoniac mentality all block spiritual receptivity.",
       "verseLabel": "BG 7.15",
       "verseUrl": "https://vedabase.io/en/library/bg/7/15/",
       "verdict": "Correct"
@@ -236,13 +236,13 @@
       "id": "bg7-q16",
       "prompt": "In the purport to BG 7.16, what warning does Srila Prabhupada give about approaching God with material desires?",
       "choices": [
-        "That any approach to God, even with desires, is completely worthless and condemned",
-        "That distressed and desiring devotees are pious but must eventually seek pure love",
-        "That only those approaching without any motivation whatsoever can be accepted",
-        "That material desires automatically disqualify one from any spiritual progress completely"
+        "Approach with desires is pious but one must progress toward pure love",
+        "Any approach to God with desires is worthless and condemned",
+        "Only those approaching without motivation can be accepted by Krishna",
+        "Material desires automatically disqualify one from spiritual progress"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains that approaching Krishna even with material desires is pious, but the highest platform is seeking Krishna without expectation. The trap is either rejecting conditional devotees or remaining stuck in material motivation. Why this matters: The false path is thinking impure motivation prevents spiritual life. Real progress allows gradual purification from material desires to pure love.",
+      "correctIndex": 0,
+      "feedback": "Correct: Srila Prabhupada explains that approaching Krishna even with material desires is pious, but the highest platform seeks Krishna without expectation. Real progress allows gradual purification from material desires to pure love - begin where you are, but don't remain there.",
       "verseLabel": "BG 7.16",
       "verseUrl": "https://vedabase.io/en/library/bg/7/16/",
       "verdict": "Correct"
@@ -251,43 +251,43 @@
       "id": "bg7-q17",
       "prompt": "According to BG 7.17, among those who approach Krishna, who is dearest to Him?",
       "choices": [
-        "The distressed through worldly philosophical speculation",
-        "The wise serving me with single-pointed devotion",
-        "The wealthy through worldly philosophical speculation",
-        "The powerful through worldly philosophical speculation"
+        "The distressed person seeking relief through devotional practice",
+        "The materially desiring devotee who approaches Krishna for prosperity",
+        "The curious inquirer seeking knowledge of spiritual truths",
+        "The wise devotee serving with single-pointed constant devotion"
       ],
-      "correctIndex": 1,
-      "feedback": "All four devotee-types are udarah (magnanimous), but jnani atmaiva (My very self) me matam (I consider)-constantly engaged. The trap: path-equality dogma. Why this matters: The false path is refusing hierarchical distinction-treating all devotional approaches as equally advanced, missing qualitative development from material to pure motivation. Real understanding: All four types noble but jnani represents highest-unmotivated pure love after transcending distress/desire/curiosity. Atmaiva me (My very self)-complete identification through love. Not devaluing lower stages but acknowledging progression. Therefore aspire upward-honor all devotional starting-points while recognizing goal as pure unmotivated love, validating gradual purification from mixed to pure bhakti through stages.",
+      "correctIndex": 3,
+      "feedback": "Correct: All four devotee-types are magnanimous, but the jnani is atmaiva (My very self) - constantly engaged and most dear. All are noble, but the jnani represents the highest platform: unmotivated pure love transcending distress, desire, and curiosity. The false path is to deny gradation and remain attached to material motives while claiming all devotion is equal.",
       "verseLabel": "BG 7.17",
       "verseUrl": "https://vedabase.io/en/library/bg/7/17/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q18",
-      "prompt": "According to BG 7.17, who is most dear to Krishna among devotees?",
+      "prompt": "In BG 7.17-18, why does Krishna consider the jnani (wise devotee) as His very self (atmaiva)?",
       "choices": [
-        "The learned scholars who understand through speculative material processes",
-        "The wise serving Him with single-pointed devotion",
-        "Material scholars are wisest who study through speculative processes",
-        "No one is truly wise who relies on speculative material processes"
+        "The jnani has mastered all philosophical knowledge and Vedic scriptures",
+        "The jnani is constantly engaged, very dear to Krishna",
+        "The jnani performs most austerities and follows all religious principles",
+        "The jnani has transcended all desires through years of meditation"
       ],
       "correctIndex": 1,
-      "feedback": "All four devotee-types (arta/artharthi/jijnasu/jnani) are udara (noble), but jnani is atmaiva (My very self)-most dear. The trap: equal-value relativism among devotees. Why this matters: The false path is treating all devotional motivations equally-missing progressive hierarchy from material distress-relief through enlightenment-seeking to pure love. Real understanding: All four types noble-distressed, materially desirous, curious, wise-but jnani in pure love is atmaiva Me iti (My very self). Qualitative progression-begin with material motives, gradually purify to unmotivated devotion. Jnani prioritized not from favoritism but from love-quality. Therefore aim for jnana-bhakti-appreciate all devotional beginning-points while aspiring toward unmotivated pure love, recognizing spiritual path's developmental nature from mixed to pure motivation.",
+      "feedback": "Correct: All four devotee-types are noble, but the jnani is atmaiva (My very self) - most dear. Qualitative progression exists from material motives to unmotivated devotion. Aim for jnana-bhakti while appreciating all devotional starting-points.",
       "verseLabel": "BG 7.17",
       "verseUrl": "https://vedabase.io/en/library/bg/7/17/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q19",
-      "prompt": "In the purport to BG 7.19, what false conception does Srila Prabhupada address about spiritual advancement?",
+      "prompt": "In the purport to BG 7.19, what does Srila Prabhupada teach about spiritual realization?",
       "choices": [
-        "That anyone can achieve full realization quickly through weekend meditation retreats",
-        "That after many births of seeking, the wise person recognizes Krishna as everything",
-        "That spiritual knowledge develops automatically without sustained practice or study",
-        "That material advancement and wealth indicate spiritual progress and divine favor"
+        "Anyone can achieve realization quickly through intensive meditation retreats",
+        "Spiritual knowledge develops automatically without sustained practice or study",
+        "After many births, wise person recognizes Vasudeva as everything and surrenders",
+        "Material advancement and wealth indicate spiritual progress and divine favor"
       ],
-      "correctIndex": 1,
-      "feedback": "After bahuni janmani (many births), jnani (wise one) knowing vasudevah sarvam (Vasudeva is all) surrenders-such mahatma su-durlabhah (very rare). The trap: instant enlightenment or common attainment. Why this matters: The false path is either expecting immediate realization or assuming many achieve it-missing that genuine Krishna-surrender after complete understanding is su-durlabhah (extremely rare). Real understanding: Bahuni janmani (many births) required for full realization-not quick achievement but gradual development over multiple lifetimes. Vasudevah sarvam iti (Vasudeva is everything)-complete understanding enabling total surrender. Such mahatma very rare-acknowledges path's difficulty preventing false claims or discouragement. Therefore maintain realistic expectations-genuine realization rare and gradual, inspiring sustained effort without illusions of easy achievement or false success-declarations.",
+      "correctIndex": 2,
+      "feedback": "Correct: After many births, the jnani recognizing vasudevah sarvam (Vasudeva is everything) surrenders - such a mahatma is very rare. Genuine Krishna-surrender after complete understanding requires many births; maintain realistic expectations about gradual development. This protects us from the pride of 'quick realization' and pushes us toward steady hearing, service, and surrender.",
       "verseLabel": "BG 7.19",
       "verseUrl": "https://vedabase.io/en/library/bg/7/19/",
       "verdict": "Correct"
@@ -296,13 +296,13 @@
       "id": "bg7-q20",
       "prompt": "According to BG 7.20, why do people worship demigods?",
       "choices": [
-        "Krishna denies them completely through speculative material processes only",
-        "Their knowledge stolen by desires, they worship other deities",
-        "They achieve complete liberation through speculative material processes entirely",
-        "They prosper forever eternally through speculative material processes constantly"
+        "Their knowledge stolen by desires, they worship other deities following their nature",
+        "They follow the authentic Vedic injunctions for systematic spiritual advancement",
+        "They recognize that all deities are manifestations of the one Supreme Truth",
+        "They attain the same supreme destination as devotees of Vishnu"
       ],
-      "correctIndex": 1,
-      "feedback": "Kamais tais taih (by various desires) hrita-jnanah (stolen knowledge)-worship anya-devatah (other gods) adopting various practices by svabhava (own nature). The trap: polytheistic tolerance. Why this matters: The false path is religious relativism-'all paths equally valid'-missing that desire-driven demigod-worship indicates hrita-jnana (stolen knowledge) not spiritual advancement. Real understanding: Those whose jnana (knowledge) hrita (stolen) by various kamais (desires) worship other deities-not respecting diversity but diagnosing distortion. Desire-motivation reveals knowledge-absence despite religious forms. Therefore discriminate motivation-devotion to Krishna versus demigods differs in consciousness-quality not just ritual-forms, kamya-karma (desire-motivated worship) indicating spiritual immaturity regardless of deity worshiped.",
+      "correctIndex": 0,
+      "feedback": "Correct: Those whose knowledge is stolen by desires worship other gods according to their nature. Desire-driven demigod worship indicates stolen knowledge, not spiritual advancement. Devotion to Krishna versus demigods differs in consciousness-quality, not just ritual forms.",
       "verseLabel": "BG 7.20",
       "verseUrl": "https://vedabase.io/en/library/bg/7/20/",
       "verdict": "Correct"
@@ -312,13 +312,13 @@
       "prompt": "In the purport to BG 7.20-23, what psychological trap does Srila Prabhupada identify about demigod worship?",
       "choices": [
         "That demigods are completely imaginary and worshiping them produces no results",
-        "That worship of demigods brings temporary rewards but distracts from ultimate goal",
-        "That demigod worship is equally valuable as Krishna worship for spiritual liberation",
-        "That demigods are more accessible than Krishna and therefore better for beginners"
+        "That demigod worship is equally valuable as Krishna worship for liberation",
+        "That demigods are more accessible than Krishna and better for beginners",
+        "That demigod worship brings temporary rewards but distracts from the ultimate goal"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada warns that those of small intelligence worship demigods for temporary material benefits, missing the supreme goal. The trap is being satisfied with lesser attainments. Why this matters: The false path is seeking material solutions from demigods while neglecting Krishna. Real intelligence directs worship to the Supreme Source who can grant both material and spiritual perfection.",
-      "verseLabel": "BG 7.20-23",
+      "correctIndex": 3,
+      "feedback": "Correct: Srila Prabhupada warns that those of small intelligence worship demigods for temporary material benefits, missing the supreme goal. Real intelligence directs worship to the Supreme Source who can grant both material and spiritual perfection.",
+      "verseLabel": "BG 7.20",
       "verseUrl": "https://vedabase.io/en/library/bg/7/20/",
       "verdict": "Correct"
     },
@@ -326,28 +326,28 @@
       "id": "bg7-q22",
       "prompt": "How do BG 7.4-5 and 7.14 work together to explain why surrendering to Krishna is the only way to transcend maya?",
       "choices": [
-        "Material energy is weak, so anyone can overcome it through willpower and determination",
-        "Maya (material energy) is Krishna's divine potency and insurmountable except by surrendering to Him",
-        "The living entities are products of material energy and have no independent existence",
-        "Material and spiritual energies are equal, so one can choose either path freely"
+        "Material energy is weak, so anyone can overcome it through willpower alone",
+        "Maya is Krishna's divine potency, insurmountable except by surrendering to Him",
+        "Living entities are products of material energy with no independent existence",
+        "Material and spiritual energies are equal, so one can choose either path"
       ],
       "correctIndex": 1,
-      "feedback": "This synthesis reveals the paradox of spiritual life: maya (Krishna's inferior energy) is divine and insurmountable by material effort, yet Krishna's superior energy (the living entities) can transcend it through surrender. The living entity is superior to matter but inferior to Krishna. Why this matters: The false path is attempting self-improvement without grace. The psychological trap is pride in personal effort. Real transcendence recognizes that only by connecting to the Supreme through surrender can the soul overcome the divine illusion. This explains why Chapter 6's yoga requires devotion, not just technique.",
-      "verseLabel": "BG 7.4-5, 7.14",
-      "verseUrl": "https://vedabase.io/en/library/bg/7/4/",
+      "feedback": "Correct: Maya (Krishna's inferior energy) is divine and insurmountable by material effort, yet Krishna's superior energy (the living entities) can transcend it through surrender. The living entity is superior to matter but inferior to Krishna. Why this matters: Attempting self-improvement without grace is the false path - only surrender to the Supreme overcomes the divine illusion. This explains why Chapter 6's yoga requires devotion, not just technique.",
+      "verseLabel": "BG 7.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/7/14/",
       "verdict": "Correct"
     },
     {
       "id": "bg7-q23",
       "prompt": "According to BG 7.23, what is the result of worshiping demigods?",
       "choices": [
-        "It is obvious Krishna is mortal being",
-        "Limited fruit - they reach demigod worlds, but Krishna's devotees reach Him",
-        "Everyone knows Krishna's nature through material processes",
-        "This does not happen through independent material processes"
+        "Demigod worshipers and Krishna devotees achieve the same permanent liberation",
+        "Worshiping any deity leads to Krishna since all paths are fundamentally equal",
+        "They reach demigod worlds temporarily; Krishna's devotees reach Him permanently",
+        "Demigods grant superior material rewards compared to worshiping the Supreme"
       ],
-      "correctIndex": 1,
-      "feedback": "Antavat tu phalam (limited fruit) tesham (of them)-worship demigods leads to their worlds, but My devotees come to Me. The trap: result-equivalence among religions. Why this matters: The false path is outcome-agnosticism-assuming all worship yields same destination, missing that deity determines destination-quality. Real understanding: Demigod-worshipers reach deva-lokas (temporary heavenly planets) with antavat phalam (limited results)-returns to material cycle. Krishna's devotees reach Him-permanent liberation. Therefore recognize destination-difference-not all worship equally efficacious, deity-choice determines outcome-quality, Krishna-worship alone transcending material rebirth-cycle while demigod-worship yielding temporary elevation within material existence.",
+      "correctIndex": 2,
+      "feedback": "Correct: Worship of demigods yields limited fruit - reaching their worlds temporarily - but Krishna's devotees come to Him permanently. Deity-choice determines outcome: demigod-worshipers reach temporary heavenly planets and return to material cycle; Krishna's devotees attain permanent liberation.",
       "verseLabel": "BG 7.23",
       "verseUrl": "https://vedabase.io/en/library/bg/7/23/",
       "verdict": "Correct"
@@ -356,13 +356,13 @@
       "id": "bg7-q24",
       "prompt": "According to BG 7.24, what mistake do foolish people make about Krishna?",
       "choices": [
-        "All devotees must start with pure love; those with material desires are disqualified completely",
-        "They think the unmanifest has become manifest, not understanding His supreme imperishable nature",
-        "The four types of devotees remain forever separate with no possibility of advancement",
-        "Only philosophical study without devotional practice can transform material into spiritual understanding"
+        "They think the unmanifest became manifest, not knowing His imperishable nature",
+        "They understand Krishna's form is a temporary product of maya like our bodies",
+        "They recognize Krishna's appearance as a mystical descent requiring no material elements",
+        "They worship Krishna's impersonal Brahman effulgence as His ultimate feature"
       ],
-      "correctIndex": 1,
-      "feedback": "Avyaktam (unmanifest) vyaktim (manifest) apanna manyante (think attained)-mudha (foolish) don't know param (supreme) avyayam (imperishable) bhava (nature). The trap: avatara as ordinary incarnation. Why this matters: The false path is reducing Krishna's appearance to material birth-soul entering body, subject to birth-death like ordinary beings, missing transcendental nature. Real understanding: Mudhah (foolish) think avyaktam (unmanifest/impersonal) vyaktim apannam (has become manifest/personal)-that formless becomes formed through material manifestation. Don't understand param avyayam bhavam (supreme imperishable nature)-Krishna eternally possesses transcendental form not acquired through material birth. Therefore recognize Krishna's eternal form-not that formless becomes formed but that transcendental form appears/disappears in material vision, preserving divinity against Mayavada reduction.",
+      "correctIndex": 0,
+      "feedback": "Correct: The foolish think the unmanifest became manifest, not understanding Krishna's supreme imperishable nature. They reduce Krishna's appearance to ordinary material birth, like conditioned souls entering bodies. Krishna eternally possesses transcendental form - His appearance and disappearance occur only in material vision.",
       "verseLabel": "BG 7.24",
       "verseUrl": "https://vedabase.io/en/library/bg/7/24/",
       "verdict": "Correct"
@@ -371,13 +371,13 @@
       "id": "bg7-q25",
       "prompt": "In the purport to BG 7.25, why does Srila Prabhupada explain that Krishna is not manifest to everyone?",
       "choices": [
-        "Because Krishna randomly chooses favorites and conceals Himself from all others arbitrarily",
-        "Because Krishna is covered by yoga-maya and foolish people cannot understand Him properly",
-        "Because Krishna lacks the power to reveal Himself to materialistic people lacking devotion",
-        "Because people must achieve specific realization levels through effort before seeing Krishna"
+        "Because Krishna reveals Himself equally to all, but people's interpretations vary by conditioning",
+        "Because Krishna lacks the power to penetrate deeply materialistic consciousness",
+        "Because people must first achieve brahma-bhuta realization through gradual elevation",
+        "Because Krishna is covered by yoga-maya and foolish cannot understand Him"
       ],
-      "correctIndex": 1,
-      "feedback": "Naham prakashash (I am not revealed) to sarvasya (everyone)-covered by yoga-maya. Mudha (foolish) nabhijanati (don't know) ajam (unborn) avyayam (imperishable) Me. The trap: universal divine accessibility. Why this matters: The false path is automatic Krishna-realization-assuming sincere interest suffices for darshana, missing yoga-maya covering preventing casual vision. Real understanding: Krishna not prakashash (revealed) to everyone-covered by yoga-maya (internal potency). Mudha (foolish) material-oriented persons don't recognize ajam avyayam (unborn imperishable)-requires spiritual qualification. This explains why most don't perceive Krishna despite presence. Therefore cultivate qualification-Krishna reveals proportional to purification, not automatically visible but disclosed to prepared consciousness, requiring devotional practice removing yoga-maya covering.",
+      "correctIndex": 3,
+      "feedback": "Correct: Krishna is not revealed to everyone - covered by yoga-maya, the foolish don't know the unborn imperishable Lord. Why this matters: Material-oriented consciousness cannot perceive the spiritual; Krishna reveals Himself proportionally to purification through devotional practice.",
       "verseLabel": "BG 7.25",
       "verseUrl": "https://vedabase.io/en/library/bg/7/25/",
       "verdict": "Correct"

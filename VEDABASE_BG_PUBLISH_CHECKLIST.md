@@ -12,6 +12,12 @@ These chapters demonstrate the complete application of all Tier 1/2/3 standards 
 **BG Chapter 5 (Adult)**: Sannyasa-karma-yoga synthesis, 40% purport, 88% length balance, philosophical bhakti
 **BG Chapter 6 (Adult)** ✅ PUBLISH-READY: Dhyana-yoga reference for meditation topics - demonstrates how to handle yoga-heavy material with philosophical rigor rather than sentimental bhakti framing. Contains 9 "Why this matters" sections, warnings against false paths (artificial renunciation, mechanical meditation, seeking siddhis), psychological traps identified. Essential template for BG 8, 12, 18. High false-path density (q2, q7, q10, q15, q17, q19, q21), balanced translation/purport reasoning, natural difficulty progression (structure → discipline/psychology → happiness/culmination), psychological pedagogy without dilution, no devotional shortcuts, strong thematic continuity with Ch5 non-doership and inner happiness themes.
 
+**BG Chapter 7 (Adult)** ✅ PUBLISH-READY: Knowledge of the Absolute - LOCKED GOLD STANDARD after comprehensive 10-phase refinement journey (36% purport, 9/25; 319 chars avg feedback, 84% length balance). Journey highlights: Condensed verbose feedback 54% (700→319 avg, 820→293 median), fixed critical content errors (q10: BG 7.7→7.10, q15: generic→four types), eliminated answer position exploit (22@B→9/6/5/5 balanced distribution), achieved full Tier 1/2/3 compliance (ASCII-only, verdict labels, verse consistency, adult depth 3-5 sentences). Demonstrates systematic transformation methodology: audit→condense→fix exploits→polish→technical compliance. Contains 4 strategic "Why this matters" sections (q1, q14, q22, q25), synthesis question (q22) connecting maya's divine nature to surrender necessity, sophisticated distractors in finale (q24: mayavadi conception, q25: yoga-maya coverage). Essential reference for multi-phase quality improvement cycles. Commit: c36cbeb "Lock BG Chapter 7 as gold standard - 10-phase refinement to full compliance".
+
+**BG Chapter 8 (Adult)** ✅ PUBLISH-READY: Attaining the Supreme with complete Gold Standard transformation (40% purport, 10/25; 72% length balance, 18/25 passing 1.5x threshold). Critical fixes: Duplicate questions discovered and replaced (q24/q25 were copies of q1/q2 - replaced with synthesis questions connecting death remembrance principle to Ch6 constant practice, and cosmic hierarchy necessitating bhakti). Feedback enhancement: 13 questions expanded from thin 1-sentence feedback to Adult depth 2-5 sentences with "Why this matters" sections, contrastive analysis, false-path warnings. Length balance: 10 questions systematically fixed. URL corrected: q23 (8.29 → 8.28, Ch8 has only 28 verses). New synthesis: q24 connects BG 8.5-7 and 8.14 on death consciousness, q25 synthesizes cosmic time cycles with devotional superiority. Demonstrates complete transformation methodology: critical error detection → systematic enhancement → iterative validation → publish-ready status. Commit: 12c6842 "BG Ch8 Gold Standard: Fixed duplicates, enhanced feedback, achieved publish-ready status".
+
+**BG Chapter 9 (Adult)** ✅ PUBLISH-READY: The Most Confidential Knowledge with complete Gold Standard transformation (36% purport, 9/25; 100% length balance, all 25 within 1.3x variance). Purport additions: Converted q4 (impersonalist trap about unmanifested form), q10 (creation paradox: superintendence without contamination), q22 (yoga-kshema divine guarantee) to purport questions. Feedback enhancement: 19 questions expanded from thin feedback to Adult depth with contrastive analysis - q1 (king of education), q8 (bewilderment principle), q14 (constant vs sporadic practice), q21 (temporary heavenly pleasures warning), q24 (exclusive devotion principle). Length balance: Fixed 14 questions to achieve strict 1.3x variance threshold. Synthesis question: q25 connects BG 9.26 simple offerings to democratization of spirituality theme. Demonstrates universal accessibility through devotion, not material qualifications. Commit: 6dc1df7 "BG Ch9 Gold Standard: PUBLISH-READY".
+
 All Gold Standard chapters feature: Sequential q1-q25 IDs, 35-40% purport ratio, 90%+ length balance, Adult feedback depth with contrastive analysis, verse integrity verified, ASCII-only compliance, bhakti grounded in philosophical reasoning.
 
 🔒 TIER 1 — HARD RULES
@@ -131,87 +137,105 @@ Misinterpretations warned against by Srila Prabhupada
 
 9. Feedback Quality
 
-✅ Global Feedback Rules (ALL quizzes, ALL ages)
+✅ LOCKED GLOBAL FEEDBACK STRUCTURE (EVERY question, ALL audiences)
 
-Every question's feedback must include all three elements, in this order:
+Every question's feedback must include all three elements in this exact order:
 
-1. Verdict label
+1. **Verdict label**
 
-☐ Use only: "Correct" or "Review"
+☐ Use ONLY: "Correct" or "Review"
 
-❌ Never use "Wrong", "Incorrect", or similar
+❌ NEVER use: "Wrong", "Incorrect", or similar
 
-2. Reasoned explanation
+☐ Must appear at the start of feedback text (e.g., "Correct: Arjuna...")
 
-☐ Must align with the intent of the verse and/or purport
+2. **Reasoned explanation**
 
-☐ Explanation quality scales by age group (see below)
+☐ Must align with the verse and/or purport intent
 
-3. Mandatory verse link
+☐ Quality and depth scale by audience (see below)
 
-☐ A direct clickable link to the exact verse page on vedabase.io
+3. **Mandatory clickable Vedabase verse link**
+
+☐ Direct link to exact verse page on vedabase.io
 
 ❌ No generic chapter links, no homepage links
 
-🎓 Adult Feedback Requirements
+☐ Link format: `https://vedabase.io/en/library/bg/[chapter]/[verse]/`
 
-☐ Length: 2-5 sentences per question
+---
 
-☐ Contrastive and purport-driven
+🎓 ADULT Feedback Requirements (Ages 18+)
 
-☐ Explicitly warn against false paths, such as:
+☐ **Length**: 3–5 sentences per question
 
-Doership illusion
+☐ **Style**: Contrastive and purport-driven where appropriate
 
-False renunciation
+☐ **Explain**: Why the right answer is right AND why common wrong paths fail
 
-Mundane or speculative interpretation
+☐ **False-path warnings**: Explicitly warn against dangerous misunderstandings:
 
-Attachment disguised as duty
+• Doership illusion
 
-☐ Explain why wrong options fail, not just why the correct one works
+• False renunciation
 
-☐ Emphasize psychological and philosophical consequences of misunderstanding
+• Speculative interpretation
 
-☐ Optional: In 2-5 questions per quiz, include "Why this matters" (practical/philosophical consequence)
+• Attachment disguised as duty
 
-☐ **Adult quizzes must not frame bhakti as sentimental or isolated devotion; bhakti must be grounded in philosophical reasoning, contrastive analysis, and purport-supported epistemology**
+• Sentimental bhakti disconnected from philosophy
 
-🧑‍🎓 Teen Feedback Requirements
+☐ **"Why this matters" add-on**: Optional, but ONLY in ~3–5 questions per quiz
 
-☐ Length: 2-3 sentences
+• Use to highlight practical/philosophical consequences of misunderstanding
 
-☐ Guided reasoning, one-step logic
+• Must deepen insight, not pad length
 
-☐ May briefly explain why one distractor fails
+☐ **Bhakti grounding**: Adult quizzes must ground bhakti in philosophical reasoning, contrastive analysis, and purport-supported epistemology—never frame as sentimental or isolated devotion
 
-❌ No dense metaphysics
+---
 
-❌ No abstract Sanskrit philosophy
+🧑‍🎓 TEEN Feedback Requirements (Ages 13–17)
 
-🧒 Kids Feedback Requirements
+☐ **Length**: 2–3 sentences
 
-☐ Length: 1-2 short, positive sentences
+☐ **Style**: Guided reasoning with clear anchors
 
-☐ Concrete, cause-effect explanation only
+☐ **May**: Briefly explain why another option fails
 
-❌ No option comparison
+❌ **Avoid**: Dense metaphysics and heavy Sanskrit terminology
 
-❌ No abstract or philosophical terms
+☐ **Tone**: Accessible yet rigorous; challenge assumptions without overwhelming
 
-☐ References mainly appear in feedback, not the prompt
+---
 
-🚫 Explicitly Forbidden Across ALL Feedback
+🧒 KIDS Feedback Requirements (Ages 8–12)
 
-❌ Using "Wrong" instead of "Review"
+☐ **Length**: 1–2 short sentences
 
-❌ Vague affirmations ("This is correct because Krishna says so")
+☐ **Style**: Concrete, positive, simple cause–effect
 
-❌ Feedback that merely restates the question
+❌ **Avoid**: Option comparison, abstract terms, negative phrasing
+
+☐ **References**: Mainly handled via the verse link, not in feedback text
+
+☐ **Tone**: Enthusiastic encouragement; build confidence
+
+---
+
+🚫 EXPLICITLY FORBIDDEN (ALL audiences)
+
+❌ Using "Wrong" instead of "Review" anywhere (feedback, score responses, UI text)
+
+❌ Vague affirmations: "This is correct because Krishna says so"
+
+❌ Feedback that merely restates the question without explanation
 
 ❌ Missing vedabase.io verse links
 
-❌ Neutral explanations that fail to warn about misinterpretation risks (Adults)
+❌ Neutral explanations that fail to warn against misinterpretation risks (Adults)
+
+❌ Repetitive scaffolding: Overusing "The trap... Why this matters... The false path... Real understanding" in every question
 
 10. UX & Labeling
 

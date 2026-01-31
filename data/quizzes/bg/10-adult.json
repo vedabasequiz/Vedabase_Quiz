@@ -165,10 +165,10 @@
       "id": "bg10-q12",
       "prompt": "In BG 10.21, what example does Krishna give of His opulences in the material world?",
       "choices": [
-        "I exhibit few manifestations in visible creation",
-        "I am fire and OM among elements",
-        "I withdraw my presence from natural phenomena",
-        "Matter operates entirely through independent laws"
+          "I exhibit few manifestations in visible creation",
+          "I am the sun among luminaries, Marici among Maruts, and the moon among stars",
+          "I withdraw my presence from natural phenomena",
+          "Matter operates entirely through independent laws"
       ],
       "correctIndex": 1,
       "feedback": "Krishna begins describing His principal opulences: among Adityas He is Vishnu, among luminaries the radiant sun, among Maruts He is Marici, among stars the moon. The pedagogical method: Krishna uses familiar categories to help limited human consciousness grasp unlimited divine nature. Each manifestation represents Krishna's excellence in that category, teaching devotees to see His supremacy everywhere while recognizing all power flows from the source.",
@@ -177,124 +177,124 @@
     },
     {
       "id": "bg10-q13",
-      "prompt": "What does BG 10.22 teach about the highest of Krishna's manifestations?",
-      "choices": [
-        "All manifestations possess equivalent power and position",
-        "All rests on Me like pearls on thread",
-        "I rank among the lesser transcendent principles",
-        "Divine manifestations function independently of each other"
-      ],
-      "correctIndex": 1,
-      "feedback": "Among the Vedas Krishna is the Sama Veda, among demigods He is Indra, among senses the mind, among living beings consciousness. The hierarchical principle: even among exalted categories, Krishna is the most exalted. This systematic presentation shows Krishna's supremacy is not sectarian bias but metaphysical reality - He is the highest in every dimension of existence, the thread upon which all pearls of manifestation are strung.",
-      "verseLabel": "BG 10.22",
-      "verseUrl": "https://vedabase.io/en/library/bg/10/22/"
+        "prompt": "What does BG 10.22 teach about the highest of Krishna's manifestations?",
+        "choices": [
+          "I am the Sama Veda among the Vedas, Indra among demigods, the mind among senses, and consciousness among living beings",
+          "All rests on Me like pearls on thread",
+          "I rank among the lesser transcendent principles",
+          "Divine manifestations function independently of each other"
+        ],
+        "correctIndex": 0,
+        "feedback": "Among the Vedas Krishna is the Sama Veda, among demigods He is Indra, among senses the mind, among living beings consciousness. The hierarchical principle: even among exalted categories, Krishna is the most exalted. This systematic presentation shows Krishna's supremacy is not sectarian bias but metaphysical reality - He is the highest in every dimension of existence, the thread upon which all pearls of manifestation are strung.",
+        "verseLabel": "BG 10.22",
+        "verseUrl": "https://vedabase.io/en/library/bg/10/22/"
     },
     {
       "id": "bg10-q14",
-      "prompt": "In the purport to BG 10.23, what does Srila Prabhupada explain about worshiping demigods versus Krishna?",
-      "choices": [
-        "That worshiping powerful demigods ultimately means worshiping Krishna indirectly through them",
-        "That demigod worship and Krishna worship produce equivalent spiritual results eventually always",
-        "That one should worship demigods first before advancing to Krishna worship later",
-        "That demigods function independently and don't require Krishna's empowerment at all"
-      ],
-      "correctIndex": 0,
-      "feedback": "Srila Prabhupada explains that Krishna is Vishnu among the Adityas, superior to all other demigods. The philosophical point: all power in the universe flows from Krishna; demigods are empowered servants. Why this matters: The false path is thinking demigods possess independent power worthy of worship. Real intelligence recognizes all opulence comes from Krishna and worships the source directly rather than approaching Him through intermediaries, which is less intelligent though still indirectly worshiping Him.",
-      "verseLabel": "BG 10.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/10/23/"
+        "prompt": "In the purport to BG 10.23, what does Srila Prabhupada explain about Krishna's opulences among the Rudras, Yakshas, Vasus, and mountains?",
+        "choices": [
+          "He is Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
+          "He is Vishnu among the Adityas, the sun among luminaries, Marici among Maruts, and the moon among stars",
+          "He is Indra among demigods, the mind among senses, and consciousness among living beings",
+          "He is the Sama Veda among the Vedas"
+        ],
+        "correctIndex": 0,
+        "feedback": "In BG 10.23, Krishna describes Himself as Shankara among the Rudras, Kubera among the Yakshas and Rakshasas, fire among the Vasus, and Meru among mountains. Srila Prabhupada explains that Krishna's opulences are the highest in every category, showing His supremacy and the personal nature of the Absolute Truth.",
+        "verseLabel": "BG 10.23",
+        "verseUrl": "https://vedabase.io/en/library/bg/10/23/"
     },
     {
       "id": "bg10-q15",
-      "prompt": "In BG 10.24, what is Krishna among the senses?",
-      "choices": [
-        "He lacks direct control over sensory experiences",
-        "I am the mind and life in beings",
-        "He remains absent from material sense perception",
-        "Matter provides the foundation of all perception"
-      ],
-      "correctIndex": 1,
-      "feedback": "Among the senses Krishna is the mind, in living beings He is consciousness. This reveals the hierarchy of manifestation: mind coordinates senses, consciousness underlies mind. Krishna identifies with the highest principle in each category. The philosophical significance: consciousness is not emergent from matter but the direct presence of Krishna as the Self. Materialism fails because it tries to explain consciousness through non-conscious elements, reversing the actual hierarchy where consciousness is primary.",
-      "verseLabel": "BG 10.24",
-      "verseUrl": "https://vedabase.io/en/library/bg/10/24/"
+        "prompt": "In BG 10.24, which opulences does Krishna identify with?",
+        "choices": [
+          "I am Skanda among great generals and the ocean among bodies of water",
+          "I am the mind among the senses and consciousness among living beings",
+          "I am Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
+          "I am the Sama Veda among the Vedas"
+        ],
+        "correctIndex": 0,
+        "feedback": "In BG 10.24, Krishna says He is Skanda (Kartikeya) among great generals and the ocean among bodies of water. This demonstrates that Krishna is the greatest in every category, and His manifestations are the most prominent and powerful.",
+        "verseLabel": "BG 10.24",
+        "verseUrl": "https://vedabase.io/en/library/bg/10/24/"
     },
     {
       "id": "bg10-q16",
-      "prompt": "What does BG 10.25 teach about Krishna among the celestial beings?",
-      "choices": [
-        "He ranks below the most powerful demigods",
-        "I am Indra, the king among them",
-        "He withdraws from the realm of devas",
-        "Demigods operate independently of His supreme will"
-      ],
-      "correctIndex": 1,
-      "feedback": "Among Rudras Krishna is Shankara, among Yakshas and Rakshasas He is Kubera the treasurer, among Vasus He is fire, among mountains Meru. The systematic presentation continues: in every category of powerful beings or impressive manifestations, Krishna is supreme. This refutes both polytheism and impersonalism - deities are real but subordinate; the supreme is personal, not abstract. All power is delegated from the one source.",
-      "verseLabel": "BG 10.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/10/25/"
+        "prompt": "What does BG 10.25 teach about Krishna's opulences among sages, sacrifices, and mountains?",
+        "choices": [
+          "He is Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains",
+          "He is Skanda among generals and the ocean among bodies of water",
+          "He is Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
+          "He is the Sama Veda among the Vedas"
+        ],
+        "correctIndex": 0,
+        "feedback": "In BG 10.25, Krishna says He is Bhrigu among sages, Om among vibrations, japa (chanting) among sacrifices, and the Himalayas among mountains. This illustrates Krishna's supremacy in spiritual, ritual, and natural categories.",
+        "verseLabel": "BG 10.25",
+        "verseUrl": "https://vedabase.io/en/library/bg/10/25/"
     },
     {
       "id": "bg10-q17",
-      "prompt": "According to BG 10.26, what weapon represents Krishna?",
-      "choices": [
-        "He lacks the ability to manifest power",
-        "I am the thunderbolt and Kamadhenu",
-        "Divine weapons operate completely independently of Him",
-        "He possesses diminished strength compared to matter"
-      ],
-      "correctIndex": 1,
-      "feedback": "Among weapons Krishna is the thunderbolt, among cows Kamadhenu the wish-fulfilling cow, among causes for procreation He is Kandarpa (Cupid), among serpents He is Vasuki. The inclusive vision: from weapons of war to wish-fulfilling cows, from procreative power to serpents - Krishna's supremacy extends across all categories without moral judgment. The theological point: God is source of all power, beautiful and terrible, mild and fierce, showing His complete transcendence beyond human categorization.",
-      "verseLabel": "BG 10.26",
-      "verseUrl": "https://vedabase.io/en/library/bg/10/26/"
+        "prompt": "According to BG 10.26, which opulences does Krishna list?",
+        "choices": [
+          "I am the celestial steed Ucchaihshravas among horses, Airavata among elephants, and the king among men",
+          "I am the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents",
+          "I am Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains",
+          "I am Skanda among generals and the ocean among bodies of water"
+        ],
+        "correctIndex": 0,
+        "feedback": "In BG 10.26, Krishna says He is the celestial steed Ucchaihshravas among horses, Airavata among elephants, and the king among men. This demonstrates Krishna's supremacy in the animal and human realms.",
+        "verseLabel": "BG 10.26",
+        "verseUrl": "https://vedabase.io/en/library/bg/10/26/"
     },
     {
       "id": "bg10-q18",
-      "prompt": "In BG 10.27, what generation of the Yadavas is Krishna?",
-      "choices": [
-        "He descends from a different royal lineage",
-        "I am Vasudeva; I am Krishna",
-        "He possesses diminished status among His kinsmen",
-        "His position remains subordinate to elder Yadavas"
-      ],
-      "correctIndex": 1,
-      "feedback": "Among the Yadavas Krishna is Vasudeva (Krishna Himself), among great sages He is Vyasa, among great poets He is Ushana. The personal touch: Krishna identifies Himself by name among His own family, demonstrating that His appearance in the Yadu dynasty is not ordinary birth but divine manifestation. The intimate revelation: the Supreme becomes accessible through His historical appearance, not remaining abstract or remote but entering human affairs as a specific person.",
-      "verseLabel": "BG 10.27",
-      "verseUrl": "https://vedabase.io/en/library/bg/10/27/"
+        "prompt": "In BG 10.27, which opulences does Krishna identify with?",
+        "choices": [
+          "I am Airavata among elephants and the king among men",
+          "I am Vasudeva among the Vrishnis, Arjuna among the Pandavas, Vyasa among sages, and Ushana among great thinkers",
+          "I am Skanda among generals and the ocean among bodies of water",
+          "I am the Sama Veda among the Vedas"
+        ],
+        "correctIndex": 1,
+        "feedback": "In BG 10.27, Krishna says He is Vasudeva among the Vrishnis, Arjuna among the Pandavas, Vyasa among sages, and Ushana among great thinkers. This shows Krishna's personal connection to His devotees and His supremacy among the most exalted personalities.",
+        "verseLabel": "BG 10.27",
+        "verseUrl": "https://vedabase.io/en/library/bg/10/27/"
     },
     {
       "id": "bg10-q19",
-      "prompt": "What does BG 10.28 teach about Krishna's function?",
-      "choices": [
-        "I provide minimal support to manifested reality",
-        "I am the seed; none exists without Me",
-        "Creation operates entirely through independent material laws",
-        "I rely on nature's energy for existence"
-      ],
-      "correctIndex": 1,
-      "feedback": "Among means of controlling Krishna is the rod of punishment, among those seeking victory He is morality, among secrets He is silence, among the wise He is wisdom. The foundation principle continues: nothing exists without Krishna as its seed. The ontological claim is radical - not just that Krishna created everything once, but that He is the continuing basis of existence for all beings. Remove Krishna and all manifestation immediately vanishes, like pearls falling when the thread is cut.",
-      "verseLabel": "BG 10.28",
-      "verseUrl": "https://vedabase.io/en/library/bg/10/28/"
+        "prompt": "What does BG 10.28 teach about Krishna's opulences among weapons, cows, procreation, and serpents?",
+        "choices": [
+          "He is the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents",
+          "He is Skanda among generals and the ocean among bodies of water",
+          "He is Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains",
+          "He is Vasudeva among the Vrishnis, Arjuna among the Pandavas, Vyasa among sages, and Ushana among great thinkers"
+        ],
+        "correctIndex": 0,
+        "feedback": "In BG 10.28, Krishna says He is the thunderbolt among weapons, Kamadhenu among cows, Kandarpa (Cupid) among causes for procreation, and Vasuki among serpents. This demonstrates Krishna's supremacy in both material and living categories.",
+        "verseLabel": "BG 10.28",
+        "verseUrl": "https://vedabase.io/en/library/bg/10/28/"
     },
     {
       "id": "bg10-q20",
-      "prompt": "According to BG 10.29, what brings unlimited strength and power?",
-      "choices": [
-        "Accumulation of material wealth and possessions",
-        "My association and divine grace",
-        "Mastery of technical skills and knowledge",
-        "Dedicated scriptural study without devotional service"
-      ],
-      "correctIndex": 1,
-      "feedback": "Krishna declares He is the seed of all existences - there is no being, moving or nonmoving, that can exist without Him. The absolute claim: Krishna is the ultimate foundation of all reality. The existential dependency is complete - nothing possesses independent existence apart from Krishna's sustaining power. Why this matters: the illusion of independence from God underlies all material bondage. Real knowledge means recognizing total dependence on Krishna for existence itself, not just for blessings or benefits.",
-      "verseLabel": "BG 10.29",
-      "verseUrl": "https://vedabase.io/en/library/bg/10/29/"
+        "prompt": "In BG 10.29, which opulences does Krishna list?",
+        "choices": [
+          "He is Ananta among Nagas, Varuna among aquatic beings, Aryama among ancestors, and Yama among controllers",
+          "He is the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents",
+          "He is Skanda among generals and the ocean among bodies of water",
+          "He is Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains"
+        ],
+        "correctIndex": 0,
+        "feedback": "In BG 10.29, Krishna says He is Ananta among Nagas, Varuna among aquatic beings, Aryama among ancestors, and Yama among controllers. This shows Krishna's supremacy in the categories of serpents, aquatic beings, ancestors, and controllers.",
+        "verseLabel": "BG 10.29",
+        "verseUrl": "https://vedabase.io/en/library/bg/10/29/"
     },
     {
       "id": "bg10-q21",
       "prompt": "In the purport to BG 10.39, what psychological trap does Srila Prabhupada warn against when appreciating Krishna's opulences?",
       "choices": [
-        "That one may become attached to Krishna's material manifestations rather than Krishna Himself",
-        "That seeing Krishna's opulence everywhere automatically produces spiritual advancement without devotional practice",
-        "That appreciating divine manifestations is unnecessary for any devotional progress whatsoever",
-        "That material beauty and power have no connection to Krishna's supreme spiritual nature"
+          "That one may become attached to Krishna's material manifestations rather than Krishna Himself",
+          "That seeing Krishna's opulence everywhere automatically produces spiritual advancement without devotional practice",
+          "That appreciating divine manifestations is unnecessary for any devotional progress whatsoever",
+          "That material beauty and power have no connection to Krishna's supreme spiritual nature"
       ],
       "correctIndex": 0,
       "feedback": "Srila Prabhupada explains that everything glorious, beautiful, or powerful is but a spark of Krishna's splendor. The trap: becoming fascinated with the manifestation rather than the source. Why this matters: The false path is stopping at appreciation of opulence without progressing to devotion to the opulent person. Real advancement means seeing all beauty and power as reminders to worship Krishna, using manifestations as stepping stones to the Supreme Person, not becoming attached to them as ends in themselves.",

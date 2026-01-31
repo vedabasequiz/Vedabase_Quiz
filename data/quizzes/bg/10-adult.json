@@ -191,17 +191,17 @@
     },
     {
       "id": "bg10-q14",
-        "prompt": "In BG 10.23, which opulences does Krishna list?",
-        "choices": [
-          "He is Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
-          "He is Vishnu among the Adityas, the sun among luminaries, Marici among Maruts, and the moon among stars",
-          "He is Indra among demigods, the mind among senses, and consciousness among living beings",
-          "He is the Sama Veda among the Vedas"
-        ],
-        "correctIndex": 0,
-        "feedback": "In BG 10.23, Krishna describes Himself as Shankara among the Rudras, Kubera among the Yakshas and Rakshasas, fire among the Vasus, and Meru among mountains. Srila Prabhupada explains that Krishna's opulences are the highest in every category, showing His supremacy and the personal nature of the Absolute Truth.",
-        "verseLabel": "BG 10.23",
-        "verseUrl": "https://vedabase.io/en/library/bg/10/23/"
+          "prompt": "In BG 10.23, which opulences does Krishna list?",
+          "choices": [
+            "He is Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
+            "He is Vishnu among the Adityas, the sun among luminaries, Marici among Maruts, and the moon among stars",
+            "He is Indra among demigods, the mind among senses, and consciousness among living beings",
+            "He is the Sama Veda among the Vedas"
+          ],
+          "correctIndex": 0,
+          "feedback": "This verse lists one set of Krishna's vibhutis - He is the foremost in each category: Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains. This illustrates Krishna's supremacy and the personal nature of the Absolute Truth.",
+          "verseLabel": "BG 10.23",
+          "verseUrl": "https://vedabase.io/en/library/bg/10/23/"
     },
     {
       "id": "bg10-q15",
@@ -233,17 +233,17 @@
     },
     {
       "id": "bg10-q17",
-        "prompt": "According to BG 10.26, which opulences does Krishna list?",
-        "choices": [
-          "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings",
-          "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Skanda among perfected beings",
-          "I am the banyan tree among trees, Narada among sages, Skanda among Gandharvas, and Kapila among perfected beings",
-          "I am the banyan tree among trees, Bhrigu among sages, Citraratha among Gandharvas, and Kapila among perfected beings"
-        ],
-        "correctIndex": 0,
-        "feedback": "In BG 10.26, Krishna says He is the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings. The distractors are near-misses to ensure careful reading and understanding of the verse list.",
-        "verseLabel": "BG 10.26",
-        "verseUrl": "https://vedabase.io/en/library/bg/10/26/"
+          "prompt": "According to BG 10.26, which opulences does Krishna list?",
+          "choices": [
+            "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings",
+            "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Skanda among perfected beings",
+            "I am the banyan tree among trees, Narada among sages, Skanda among Gandharvas, and Kapila among perfected beings",
+            "I am the banyan tree among trees, Bhrigu among sages, Citraratha among Gandharvas, and Kapila among perfected beings"
+          ],
+          "correctIndex": 0,
+          "feedback": "In BG 10.26, Krishna says He is the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings. This verse highlights Krishna's supremacy as the greatest in every category, teaching us to see the divine source behind all excellence.",
+          "verseLabel": "BG 10.26",
+          "verseUrl": "https://vedabase.io/en/library/bg/10/26/"
     },
     {
       "id": "bg10-q18",

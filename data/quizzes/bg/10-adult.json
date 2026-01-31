@@ -235,13 +235,13 @@
       "id": "bg10-q17",
         "prompt": "According to BG 10.26, which opulences does Krishna list?",
         "choices": [
+          "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings",
           "I am the celestial steed Ucchaihshravas among horses, Airavata among elephants, and the king among men",
-          "I am the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents",
-          "I am Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains",
-          "I am Skanda among generals and the ocean among bodies of water"
+          "I am Skanda among generals and the ocean among bodies of water",
+          "I am the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents"
         ],
         "correctIndex": 0,
-        "feedback": "In BG 10.26, Krishna says He is the celestial steed Ucchaihshravas among horses, Airavata among elephants, and the king among men. This demonstrates Krishna's supremacy in the animal and human realms.",
+        "feedback": "In BG 10.26, Krishna says He is the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings. This demonstrates Krishna's supremacy in the categories of trees, sages, celestial musicians, and perfected beings.",
         "verseLabel": "BG 10.26",
         "verseUrl": "https://vedabase.io/en/library/bg/10/26/"
     },
@@ -250,12 +250,12 @@
         "prompt": "In BG 10.27, which opulences does Krishna identify with?",
         "choices": [
           "I am Airavata among elephants and the king among men",
-          "I am Vasudeva among the Vrishnis, Arjuna among the Pandavas, Vyasa among sages, and Ushana among great thinkers",
+          "I am Dhananjaya (Arjuna) among the Pandavas, and the conch among weapons",
           "I am Skanda among generals and the ocean among bodies of water",
           "I am the Sama Veda among the Vedas"
         ],
-        "correctIndex": 1,
-        "feedback": "In BG 10.27, Krishna says He is Vasudeva among the Vrishnis, Arjuna among the Pandavas, Vyasa among sages, and Ushana among great thinkers. This shows Krishna's personal connection to His devotees and His supremacy among the most exalted personalities.",
+        "correctIndex": 0,
+        "feedback": "In BG 10.27, Krishna says He is Airavata among elephants and the king among men. This demonstrates Krishna's supremacy in the animal and human realms.",
         "verseLabel": "BG 10.27",
         "verseUrl": "https://vedabase.io/en/library/bg/10/27/"
     },
@@ -317,15 +317,15 @@
     },
     {
       "id": "bg10-q23",
-      "prompt": "In BG 10.40, what is promised to those who meditate on Krishna?",
+      "prompt": "In BG 10.40, what point does Krishna make about His opulences?",
       "choices": [
-        "Continued struggle within the material world",
-        "I am never absent from you",
-        "Gradual distancing from Krishna's divine presence",
-        "Increasing material suffering over lifetimes"
+        "His divine manifestations are endless; what He described is only a brief summary",
+        "He is never absent from His devotees",
+        "Material suffering increases over lifetimes",
+        "Devotees must meditate on every opulence in detail"
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna concludes that His divine manifestations are endless - what He has described is only a brief summary. There is no end to His opulences. The pedagogical strategy becomes clear: these examples serve to elevate consciousness, not to provide exhaustive knowledge. The unlimited cannot be fully cataloged. Yet enough has been revealed to understand Krishna's supremacy and engage in devotion, which is the actual goal rather than complete intellectual comprehension.",
+      "correctIndex": 0,
+      "feedback": "In BG 10.40, Krishna states that His divine manifestations are endless and what He has described is only a brief summary. This teaches that the Supreme's opulences are unlimited, and the purpose of listing them is to inspire devotion, not to provide an exhaustive catalog.",
       "verseLabel": "BG 10.40",
       "verseUrl": "https://vedabase.io/en/library/bg/10/40/"
     },

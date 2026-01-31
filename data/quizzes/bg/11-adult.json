@@ -22,8 +22,8 @@
       "verseUrl": "https://vedabase.io/en/library/bg/11/1/"
     },
     {
-      "id": "bg11-q2",
-      "prompt": "In BG 11.2, what does Prabhupada warn about in his purport regarding the power to reveal the universal form?",
+        "id": "bg11-q2",
+        "prompt": "In BG 11.2, what does Prabhupada warn about in his purport regarding the power to reveal the universal form?",
         "choices": [
           "That mystic yogis can reveal it through their own practices and meditation",
           "That only Krishna can grant this vision; no independent means exist",
@@ -218,14 +218,14 @@
       "verseUrl": "https://vedabase.io/en/library/bg/11/45/"
     },
     {
-      "id": "bg11-q16",
-      "prompt": "What does BG 11.48 teach about those who surrender?",
-      "choices": [
-        "They suffer hardship and worldly philosophical speculation",
-        "Be not afraid I am pleased with you",
-        "I am displeased through independent material processes",
-        "I will abandon you through independent material processes"
-      ],
+        "id": "bg11-q16",
+        "prompt": "What does BG 11.48 teach about those who surrender?",
+        "choices": [
+          "They suffer hardship and worldly philosophical speculation",
+          "Be not afraid I am pleased with you",
+          "I am displeased through independent material processes",
+          "I will abandon you through independent material processes"
+        ],
       "correctIndex": 1,
       "feedback": "After overwhelming Arjuna with the terrifying universal form, Krishna reassures him: 'Be not afraid; I am pleased with you.' This reveals the devotional relationship that transcends even cosmic majesty. Despite showing Himself as the destroyer of worlds, Krishna relates to Arjuna as a pleased friend. Why this matters: The universal form could lead to the conclusion that God is distant, terrifying, unapproachable. But Krishna immediately counters this by emphasizing His affection for the devotee. The Supreme Controller is also the supreme well-wisher. This dual revelation--Krishna's infinite power and His intimate care--is essential for proper understanding. He can destroy everything, yet He chooses to protect and guide His devotee with personal affection.",
       "verseLabel": "BG 11.48",
@@ -288,7 +288,7 @@
       "verseUrl": "https://vedabase.io/en/library/bg/11/55/"
       },
     {
-      "id": "bg11-q21",
+        "id": "bg11-q21",
         "prompt": "Which of the following best synthesizes the main lesson of Chapter 11 for a devotee's daily life?",
         "choices": [
           "Krishna's cosmic form is a historical event with no relevance to modern spiritual practice.",
@@ -296,27 +296,27 @@
           "Material success and philosophical speculation are the highest goals.",
           "War strategy and tactics are the main focus of spiritual life."
         ],
-        "correctIndex": 1,
-        "feedback": "The main lesson of Chapter 11 is that Krishna is the Supreme Controller. For a devotee, this means acting with faith, surrender, and detachment, trusting Krishna's plan rather than being attached to outcomes. The vision of the universal form is meant to inspire this practical surrender in daily life, not just awe or historical curiosity.",
-        "verseLabel": "BG 11.56",
-        "verseUrl": "https://vedabase.io/en/library/bg/11/56/"
+      "correctIndex": 1,
+      "feedback": "The main lesson of Chapter 11 is that Krishna is the Supreme Controller. For a devotee, this means acting with faith, surrender, and detachment, trusting Krishna's plan rather than being attached to outcomes. The vision of the universal form is meant to inspire this practical surrender in daily life, not just awe or historical curiosity.",
+      "verseLabel": "BG 11.56",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/56/"
     },
     {
-      "id": "bg11-q22",
-        "prompt": "A devotee is anxious about the outcome of a major life event. According to the universal form's lesson in BG 11.32-34, what is the best spiritual response?",
+        "id": "bg11-q22",
+        "prompt": "A devotee is anxious about the outcome of a major life event. According to the universal form's lesson, what is the best spiritual response?",
         "choices": [
           "Try to control every detail and outcome through personal effort alone.",
           "Recognize Krishna's ultimate control over time and outcomes, act as His instrument, and let go of anxiety.",
           "Assume everything is random and has no higher purpose.",
           "Withdraw from action and avoid responsibility."
         ],
-        "correctIndex": 1,
-        "feedback": "The universal form teaches that Krishna is time and the ultimate controller. The devotee's best response is to act as Krishna's instrument, surrendering anxiety about results and trusting His plan. This is not fatalism, but active engagement with spiritual detachment.",
-        "verseLabel": "BG 11.57",
-        "verseUrl": "https://vedabase.io/en/library/bg/11/57/"
+      "correctIndex": 1,
+      "feedback": "The universal form teaches that Krishna is time and the ultimate controller. The devotee's best response is to act as Krishna's instrument, surrendering anxiety about results and trusting His plan. This is not fatalism, but active engagement with spiritual detachment.",
+      "verseLabel": "BG 11.57",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/57/"
     },
     {
-      "id": "bg11-q23",
+        "id": "bg11-q23",
         "prompt": "Why does Krishna reveal the universal form to Arjuna, and what is the practical implication for a devotee?",
         "choices": [
           "To intimidate Arjuna and discourage spiritual inquiry.",
@@ -324,13 +324,13 @@
           "To confuse Arjuna and make spiritual life more difficult.",
           "To test Arjuna's strength and independence."
         ],
-        "correctIndex": 1,
-        "feedback": "Krishna reveals the universal form to establish His supreme authority, so Arjuna (and all devotees) accept His instructions with faith and surrender. The practical implication is that spiritual progress depends on recognizing Krishna's position and following His guidance, not on independent speculation or resistance.",
-        "verseLabel": "BG 11.58",
-        "verseUrl": "https://vedabase.io/en/library/bg/11/58/"
+      "correctIndex": 1,
+      "feedback": "Krishna reveals the universal form to establish His supreme authority, so Arjuna (and all devotees) accept His instructions with faith and surrender. The practical implication is that spiritual progress depends on recognizing Krishna's position and following His guidance, not on independent speculation or resistance.",
+      "verseLabel": "BG 11.58",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/58/"
     },
     {
-      "id": "bg11-q24",
+        "id": "bg11-q24",
         "prompt": "After witnessing the universal form, what transformation occurs in Arjuna, and what does this teach about spiritual realization?",
         "choices": [
           "He remains attached to his own plans and doubts Krishna's supremacy.",
@@ -338,13 +338,13 @@
           "He becomes more confused and resists Krishna's instructions.",
           "He decides to abandon spiritual practice altogether."
         ],
-        "correctIndex": 1,
-        "feedback": "Arjuna's transformation is from doubt to unshakeable faith and surrender, after directly experiencing Krishna's universal form. This teaches that true spiritual realization comes from direct experience of Krishna's supremacy, not just intellectual argument or study.",
-        "verseLabel": "BG 11.59",
-        "verseUrl": "https://vedabase.io/en/library/bg/11/59/"
+      "correctIndex": 1,
+      "feedback": "Arjuna's transformation is from doubt to unshakeable faith and surrender, after directly experiencing Krishna's universal form. This teaches that true spiritual realization comes from direct experience of Krishna's supremacy, not just intellectual argument or study.",
+      "verseLabel": "BG 11.59",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/59/"
     },
     {
-      "id": "bg11-q25",
+        "id": "bg11-q25",
         "prompt": "How does the revelation of the universal form in Chapter 11 ultimately point to the superiority of pure devotional service (bhakti)?",
         "choices": [
           "The universal form is the highest goal and should be the focus of all spiritual practice.",
@@ -352,10 +352,10 @@
           "Mystic visions and cosmic consciousness are more important than devotional relationship with Krishna's personal form.",
           "Understanding Krishna's power is sufficient; personal surrender and loving service are not required."
         ],
-        "correctIndex": 1,
-        "feedback": "The universal form is shown to establish Krishna's supremacy, but the chapter concludes that pure devotional service to Krishna's personal form is the highest perfection. The devotee seeks loving relationship, not just awe or cosmic vision. This is the Gita's essential teaching: bhakti is superior to even the most majestic spiritual experiences.",
-        "verseLabel": "BG 11.60",
-        "verseUrl": "https://vedabase.io/en/library/bg/11/60/"
+      "correctIndex": 1,
+      "feedback": "The universal form is shown to establish Krishna's supremacy, but the chapter concludes that pure devotional service to Krishna's personal form is the highest perfection. The devotee seeks loving relationship, not just awe or cosmic vision. This is the Gita's essential teaching: bhakti is superior to even the most majestic spiritual experiences.",
+      "verseLabel": "BG 11.60",
+      "verseUrl": "https://vedabase.io/en/library/bg/11/60/"
     }
   ]
 }

@@ -5,382 +5,357 @@
   "audience": "adult",
   "title": "Bhagavad Gita - Chapter 16 (Adult) | 25Q",
   "difficulty": "medium-hard",
-  "publishedOn": "2026-01-28",
+  "publishedOn": "2026-02-01",
   "questions": [
     {
       "id": "bg16-q1",
-      "prompt": "In BG 16.1, what does Krishna teach about the divine and demoniac natures?",
+      "prompt": "According to BG 16.1-3, what is the overall nature of divine qualities?",
       "choices": [
-        "They are similar through independent material processes",
-        "The divine nature is essentially virtuous",
-        "No difference exists through independent material processes",
-        "One path primarily through independent material processes"
+        "Traits leading toward liberation",
+        "Skills for material success",
+        "Neutral habits without outcome",
+        "Temporary social refinements"
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna explicitly distinguishes daivi sampat (divine wealth) from asuri (demoniac) qualities-these are not morally neutral traits but define spiritual trajectory. The trap: thinking character qualities are culturally relative or personality preferences. Why this matters: The false path is moral relativism erasing real distinctions. Authentic understanding recognizes fearlessness, purity, charity, self-control lead to liberation; pride, anger, arrogance, cruelty bind in material suffering-choose consciously.",
-      "verseLabel": "BG 16.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/1/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Krsna lists divine qualities as leading toward liberation. They purify consciousness and align one with spiritual progress rather than material dominance.",
+      "verseLabel": "BG 16.1-3",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/1/"
     },
     {
       "id": "bg16-q2",
-      "prompt": "In the purport to BG 16.1-3, what false notion does Srila Prabhupada warn against regarding qualities?",
+      "prompt": "According to BG 16.4, what is the ultimate destination of demoniac qualities?",
       "choices": [
-        "That fearlessness, charity, and self-control lead to bondage through dogma",
-        "That qualities arise from conscious cultivation and spiritual practice always",
-        "That divine qualities are innate unchangeable traits from birth determining destiny",
-        "That character development requires scriptural study and devotional association"
+        "Temporary confusion only",
+        "Higher birth through reform",
+        "Bondage and degradation",
+        "Neutral karmic outcome"
       ],
       "correctIndex": 2,
-      "feedback": "Srila Prabhupada explains divine qualities are cultivated through association and practice-not genetic or astrologically fixed. The trap: thinking temperament is immutable fate. Why this matters: The false path is determinism denying free will. Real understanding recognizes anyone can develop fearlessness, purity, knowledge through deliberate spiritual discipline-birth determines starting point not final destination; conscious effort transforms character.",
-      "verseLabel": "BG 16.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/2/",
-      "verdict": "Correct"
+      "feedback": "Krsna states that demoniac qualities lead to bondage. The danger is not merely moral failure but progressive entanglement and loss of spiritual direction.",
+      "verseLabel": "BG 16.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/4/"
     },
     {
       "id": "bg16-q3",
-      "prompt": "In BG 16.4, what are the qualities of the demoniac?",
+      "prompt": "In the purport to BG 16.4, what deeper danger does Prabhupada emphasize?",
       "choices": [
-        "Virtue and honesty through independent material processes",
-        "Pride, anger, greed, harshness, lust, and violent speech",
-        "Kindness and truth through independent material processes",
-        "Humility and peace through independent material processes"
+        "Social rejection by others",
+        "Loss of material prosperity",
+        "Rejection of divine authority",
+        "Temporary emotional imbalance"
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna lists dambha (pride), darpa (arrogance), abhimana (conceit), krodha (anger), parushya (harshness), ajnana (ignorance) as asuri sampat-demoniac endowment. The trap: rationalizing these as strength, assertiveness, or authentic self-expression. Why this matters: The false path is rebranding vice as virtue through cultural relativism. Authentic understanding recognizes anger poisons relationships, pride blocks learning, harshness destroys trust-these qualities create suffering and material bondage regardless of justification.",
+      "correctIndex": 2,
+      "feedback": "Prabhupada emphasizes that demoniac life rejects divine authority itself. Once authority is denied, self-made morality replaces submission, blocking genuine spiritual progress.",
       "verseLabel": "BG 16.4",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/4/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/16/4/"
     },
     {
       "id": "bg16-q4",
-      "prompt": "In the purport to BG 16.5, what misconception does Srila Prabhupada address about liberation?",
+      "prompt": "According to BG 16.5, how are divine and demoniac natures contrasted?",
       "choices": [
-        "That divine qualities lead to liberation (vimokshaya) and demoniac to bondage",
-        "That all paths lead to same destination regardless of character qualities",
-        "That fear (ma shuchah) of demoniac nature is inappropriate for devotees",
-        "That Arjuna was born with divine nature as Krishna's eternal associate"
+        "Divine liberates; demoniac binds",
+        "Divine dominates; demoniac obeys",
+        "Divine doubts; demoniac believes",
+        "Divine is passive; demoniac active"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada refutes universalism-daivi sampat leads to vimoksha (liberation), asuri to bandha (bondage); destinations differ radically. The trap: sentimentalizing that consciousness or sincerity alone suffices. Why this matters: The false path is denying moral causation thinking all choices equally valid. Real understanding recognizes cultivating pride, anger, greed creates material entanglement; fearlessness, compassion, self-control liberates-character determines destiny not wishful thinking.",
+      "correctIndex": 0,
+      "feedback": "Krsna directly contrasts the outcomes: divine qualities lead to liberation, demoniac qualities to bondage. The chapter frames psychology in terms of destination, not appearance.",
       "verseLabel": "BG 16.5",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/5/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/16/5/"
     },
     {
       "id": "bg16-q5",
-      "prompt": "According to BG 16.7, what distinguishes demoniac mentality?",
+      "prompt": "According to BG 16.7, what key confusion defines demoniac behavior?",
       "choices": [
-        "Demoniac nature and worldly philosophical speculation",
-        "Demoniac lack proper conduct renunciation and cleanliness",
-        "Material success and worldly philosophical speculation",
-        "Knowledge of physical phenomena and external forms"
+        "Confusion about ritual details",
+        "Inability to distinguish action from inaction",
+        "Confusion about material science",
+        "Ignorance of social hierarchy"
       ],
       "correctIndex": 1,
-      "feedback": "Asuras lack pravritti (right action), nivritti (renunciation), and shaucha (purity)-not intellectual ignorance but willful rejection of dharma. The trap: thinking secular ethics or personal integrity substitute for scriptural standards. Why this matters: The false path is relativistic morality detached from transcendent authority. Real understanding recognizes pravr itti-nivritti framework from Vedas establishes what to pursue and renounce-rejecting scriptural guidance isn't autonomy but delusion leading to degradation.",
+      "feedback": "Krsna says the demoniac cannot distinguish proper action from improper action. This confusion removes moral compass and leads to self-justified wrongdoing.",
       "verseLabel": "BG 16.7",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/7/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/16/7/"
     },
     {
       "id": "bg16-q6",
-      "prompt": "In the purport to BG 16.8, what atheistic philosophy does Srila Prabhupada critique?",
+      "prompt": "In the purport to BG 16.7, what false assumption is exposed?",
       "choices": [
-        "That cosmos is asatya (unreal), apratishtham (without foundation), created through kama (lust)",
-        "That universe is satya (real), has pratishtham (foundation) in Brahman",
-        "That world requires ishvara (controller) and results from yajna (sacrifice)",
-        "That material nature operates under Krishna's direction as subordinate energy"
+        "Morality evolves by convenience",
+        "Scripture restricts freedom",
+        "Authority limits enjoyment",
+        "Ethics are culturally fixed"
       ],
       "correctIndex": 0,
-      "feedback": "Srila Prabhupada explains asuras declare jagat asatya (world unreal), apratishtham (baseless), born from sex alone not divine will-denying both meaning and Creator. The trap: thinking this nihilism is sophisticated philosophy. Why this matters: The false path is existential meaninglessness producing despair. Real understanding recognizes cosmos has foundation in Brahman, purpose in Krishna's lila-denying this doesn't liberate but enslaves to hedonic treadmill seeking satisfaction in empty void.",
-      "verseLabel": "BG 16.8",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/8/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada exposes the false assumption that morality can be invented for convenience. Without revealed guidance, ethics bend toward desire rather than truth.",
+      "verseLabel": "BG 16.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/7/"
     },
     {
       "id": "bg16-q7",
-      "prompt": "In the purport to BG 16.10-11, what false ideology does Srila Prabhupada identify in demoniac civilization?",
+      "prompt": "According to BG 16.8, how do demoniac persons view the world?",
       "choices": [
-        "That spiritual realization requires renunciation and detachment from sense gratification",
-        "That unlimited sense enjoyment is life's supreme goal and rightful pursuit",
-        "That kama (lust) must be regulated through dharma for social harmony",
-        "That material desires are obstacles to be overcome through self-discipline"
+        "Temporary but purposeful",
+        "Illusory yet divinely guided",
+        "Without foundation or controller",
+        "Structured by moral law"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada critiques modern hedonism-asuras see kama-upabhoga-parama (sense enjoyment supreme) as life's purpose, building civilization on maximizing pleasure. The trap: thinking consumerism or sexual liberation represents progress. Why this matters: The false path is glorifying lust as authentic living. Real understanding recognizes unregulated kama creates addiction-like escalation-what satisfies today bores tomorrow; pursuing unlimited gratification paradoxically increases misery through insatiable craving.",
-      "verseLabel": "BG 16.11",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/11/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krsna explains that demoniac persons see the world as without foundation or controller. This worldview removes accountability and fuels exploitation.",
+      "verseLabel": "BG 16.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/8/"
     },
     {
       "id": "bg16-q8",
-      "prompt": "According to BG 16.12, how do demoniac people pursue their desires?",
+      "prompt": "In the purport to BG 16.8, what philosophical error is highlighted?",
       "choices": [
-        "They are peaceful through independent material processes",
-        "Bound by desires accumulating wealth through unrighteous means",
-        "They are kind through independent material processes",
-        "They are wise through independent material processes"
+        "Mistaking devotion for emotion",
+        "Denying causality and purpose",
+        "Overemphasizing ritual practice",
+        "Equating discipline with fear"
       ],
       "correctIndex": 1,
-      "feedback": "Asuras trapped in asha-pasha-shatair baddhah (bound by hundreds of ropes of hope) resort to anyayena artha-sanchayan (wealth accumulation through injustice). The trap: rationalizing exploitation as business savvy or competition. Why this matters: The false path is consequentialism-ends justifying means. Real understanding recognizes artha (wealth) pursued through adharma creates karmic debt-apparent success built on exploitation collapses; sustainable prosperity requires righteous means (dharma-yukta upaya), not clever manipulation.",
-      "verseLabel": "BG 16.12",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/12/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada highlights denial of causality and purpose. When creation is treated as accidental, responsibility dissolves and selfish action appears justified.",
+      "verseLabel": "BG 16.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/8/"
     },
     {
       "id": "bg16-q9",
-      "prompt": "In BG 16.13-15, what is the mentality of demoniac people?",
+      "prompt": "According to BG 16.9, what is the social effect of demoniac vision?",
       "choices": [
-        "Liberation and worldly philosophical idle meaningless speculation",
-        "I slew enemies shall slay more am enjoyer",
-        "Spiritual growth and worldly philosophical idle meaningless speculation",
-        "Service to others through independent material processes"
+        "Compassionate reform",
+        "Stable prosperity",
+        "Destructive activity",
+        "Neutral coexistence"
       ],
-      "correctIndex": 1,
-      "feedback": "The asura thinks \"idam adya maya labdham\" (I got this today), \"manye mam\" (I consider myself), aham ishvarah (I am controller)-complete self-delusion. The trap: equating wealth accumulation with divine blessing or validation. Why this matters: The false path is prosperity gospel thinking success proves righteousness. Real understanding recognizes material gain doesn't indicate spiritual advancement-dictators and criminals prosper temporarily; true fulfillment comes from bhakti not bank balance.",
-      "verseLabel": "BG 16.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/13/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krsna states that demoniac vision results in destructive works. Harm arises not only from cruelty but from false philosophies acted upon.",
+      "verseLabel": "BG 16.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/9/"
     },
     {
       "id": "bg16-q10",
-      "prompt": "In the purport to BG 16.13-15, what social ideology does Srila Prabhupada critique as demoniac?",
+      "prompt": "According to BG 16.10, what combination traps demoniac persons?",
       "choices": [
-        "Compassion for all beings reflects spiritual advancement and divine nature",
-        "That dominating and exploiting others demonstrates strength and evolutionary fitness",
-        "Cooperation and service lead to genuine prosperity for all participants",
-        "Considering others' welfare creates sustainable harmonious civilization always"
+        "Pride, lust, and anger",
+        "Knowledge, charity, and austerity",
+        "Detachment, humility, and fear",
+        "Faith, service, and surrender"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada identifies asura mentality-\"hatosi (I killed), hanidhye (I will kill)\"-glorifying dominance as strength. The trap: rationalizing exploitation through social Darwinism or \"survival of fittest.\" Why this matters: The false path is competitive zero-sum thinking. Real understanding recognizes true strength is self-control not other-control-exploiting weak creates karmic bondage; elevating others through service demonstrates actual power rooted in spiritual security not material insecurity.",
-      "verseLabel": "BG 16.14",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/14/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Krsna identifies pride, lust, and anger as a binding trio. Together they distort judgment and intensify self-centered action.",
+      "verseLabel": "BG 16.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/10/"
     },
     {
       "id": "bg16-q11",
-      "prompt": "According to BG 16.19-20, what is Krishna's response to persistent demoniac mentality?",
+      "prompt": "In the purport to BG 16.10, what psychological pattern is warned against?",
       "choices": [
-        "Liberation and worldly philosophical idle speculation",
-        "He casts them into demoniac wombs repeatedly",
-        "Spiritual abode and worldly philosophical speculation",
-        "Heaven and worldly philosophical idle speculation"
+        "Self-correction through feedback",
+        "Escalation of desire through entitlement",
+        "Temporary emotional weakness",
+        "Regulated ambition in service"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna states tan aham dviShatah kruran (those hateful cruel), kshipamy ajasram (I hurl repeatedly) into asurishv eva yonishu (demoniac wombs)-active divine response to persistent perversity. The trap: thinking all souls automatically progress regardless of choices. Why this matters: The false path is karmic fatalism denying agency. Real understanding recognizes repeated asura mentality creates trajectory toward darkness-Krishna doesn't arbitrarily condemn but honors free will; souls choosing pride, anger, exploitation receive matching births enabling those qualities.",
-      "verseLabel": "BG 16.19",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/19/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada warns that unchecked desire escalates through entitlement. Success feeds pride, pride feeds anger, and the cycle tightens bondage.",
+      "verseLabel": "BG 16.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/10/"
     },
     {
       "id": "bg16-q12",
-      "prompt": "In BG 16.21, what are the three gates of hell?",
+      "prompt": "According to BG 16.11-12, how do demoniac persons relate to desire?",
       "choices": [
-        "They do not exist through independent material",
-        "Lust anger and greed must be abandoned",
-        "Virtues and worldly philosophical idle speculation",
-        "Knowledge and worldly philosophical idle speculation"
+        "They restrain it carefully",
+        "They see it as endless",
+        "They aim to exhaust it",
+        "They sublimate it spiritually"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna identifies tri-vidham narakasyedam dvaram (threefold gate of hell)-kama (lust), krodha (anger), lobha (greed) as nashana matmanah (destructive of self). The trap: thinking these are manageable personality quirks. Why this matters: The false path is normalizing destructive passions. Real understanding recognizes these three synergize-lust frustrated becomes anger, anger seeks revenge through greed; together they systematically destroy discernment, relationships, and spiritual opportunity-avoiding hell requires actively dismantling this triad.",
-      "verseLabel": "BG 16.21",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/21/",
-      "verdict": "Correct"
+      "feedback": "Krsna says demoniac persons see desire as endless. This belief normalizes excess and removes any inner braking mechanism.",
+      "verseLabel": "BG 16.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/11/"
     },
     {
       "id": "bg16-q13",
-      "prompt": "In the purport to BG 16.22, what false spiritual approach does Srila Prabhupada warn against?",
+      "prompt": "In the purport to BG 16.11-12, what false hope sustains demoniac life?",
       "choices": [
-        "Liberation requires abandoning three gates (lust, anger, greed) through discipline",
-        "Spiritual realization comes from inner guidance rejecting external scriptural authority",
-        "That progress demands following shastra-vidhana (scriptural injunctions) systematically always",
-        "That param gatim (supreme destination) reached through regulated devotional practice"
+        "Future liberation without discipline",
+        "Permanent satisfaction through accumulation",
+        "Eventual moral awakening",
+        "Automatic divine forgiveness"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains abandoning tri-vidha naraka-dvara enables shreya atmanah (welfare of self) through shastra guidance-not autonomous intuition. The trap: thinking \"follow your heart\" suffices spiritually. Why this matters: The false path is spiritual individualism divorcing personal practice from revealed knowledge. Real understanding recognizes mind conditioned by kama-krodha-lobha can't self-correct-shastra provides external standard checking internal distortion; rejecting scriptural authority leaves one vulnerable to rationalized delusion.",
-      "verseLabel": "BG 16.22",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/22/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada explains that demoniac life rests on the hope that accumulation will finally satisfy. This hope drives endless striving without fulfillment.",
+      "verseLabel": "BG 16.11-12",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/11/"
     },
     {
       "id": "bg16-q14",
-      "prompt": "According to BG 16.23, what should guide one's conduct?",
+      "prompt": "According to BG 16.13-15, how do demoniac persons view themselves?",
       "choices": [
-        "Personal desire and worldly philosophical speculation",
-        "Scriptures determine authority for proper actions",
-        "Impulse primarily and worldly philosophical speculation",
-        "Passion and worldly philosophical idle speculation"
+        "As dependent servants",
+        "As accountable stewards",
+        "As supreme controllers",
+        "As temporary caretakers"
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna declares shastra-vidhanoktam (as enjoined by scripture) as pramanam (authority) determining kartavyakarma (duty)-not personal preference. The trap: thinking sincere intentions justify any action. Why this matters: The false path is situational ethics where expedience trumps principle. Real understanding recognizes shastra codifies dharma transcending individual circumstance-following scriptural standards protects from rationalized exploitation; ignoring revealed knowledge isn't freedom but vulnerability to passion's deception.",
-      "verseLabel": "BG 16.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/23/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krsna shows the demoniac mentality declaring 'I am the lord.' This identity displaces humility and invites conflict with reality itself.",
+      "verseLabel": "BG 16.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/13/"
     },
     {
       "id": "bg16-q15",
-      "prompt": "In the purport to BG 16.24, what misconception about shastra does Srila Prabhupada address?",
+      "prompt": "In the purport to BG 16.13-15, what root illusion is identified?",
       "choices": [
-        "Scriptural injunctions lead to sukha siddhi perfection param gatim goal",
-        "That mechanical ritual compliance suffices without cultivating actual divine qualities",
-        "That shastra-vidhana scriptural regulation determines kartavya duty objectively definitely",
-        "Ignoring revealed texts prevents knowing right action from wrong action"
+        "Mistaking effort for grace",
+        "Confusing ownership with stewardship",
+        "Equating power with virtue",
+        "Rejecting temporary authority"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada clarifies shastra aims at cultivating daivi sampat (divine qualities)-not external conformity alone. The trap: performing rituals while maintaining demoniac mentality. Why this matters: The false path is religious formalism-outward piety masking inward corruption. Real understanding recognizes scriptural practices are means to character transformation; chanting without abandoning pride, charity without overcoming greed, pilgrimage with persistent lust-all futile because cultivation of divine nature is the actual goal.",
-      "verseLabel": "BG 16.24",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/24/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada identifies confusion of ownership with stewardship. When one forgets the real owner, exploitation appears justified.",
+      "verseLabel": "BG 16.13-15",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/13/"
     },
     {
       "id": "bg16-q16",
-      "prompt": "How does Chapter 16 distinguish divine nature from demoniac?",
+      "prompt": "According to BG 16.16, what is the result of demoniac arrogance?",
       "choices": [
-        "Strength vs weakness through independent material processes",
-        "Cosmic dharma alignment vs selfish indulgence and arrogance",
-        "Knowledge vs ignorance through independent material processes",
-        "Rituals vs non-rituals through independent material processes"
+        "Rapid liberation",
+        "Mental delusion",
+        "Social dominance",
+        "Temporary peace"
       ],
       "correctIndex": 1,
-      "feedback": "Daivi sampat aligns consciousness with rita (cosmic order)-abhaya (fearlessness), dama (self-control), dana (charity) harmonize individual with universal dharma. Asuri sampat centers on ahamkara (false ego)-dambha (pride), krodha (anger), lobha (greed) create opposition to natural law. The trap: thinking distinction is arbitrary cultural preference. Real understanding recognizes divine qualities reflect reality's structure; demoniac qualities fight it-one flows with truth toward liberation, other struggles against it into bondage.",
-      "verseLabel": "BG 16.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/25/",
-      "verdict": "Correct"
+      "feedback": "Krsna states that arrogance leads to delusion. Confidence divorced from truth collapses discernment.",
+      "verseLabel": "BG 16.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/16/"
     },
     {
       "id": "bg16-q17",
-      "prompt": "How does Chapter 16 help in spiritual development?",
+      "prompt": "In the purport to BG 16.16, what is the hidden danger of arrogance?",
       "choices": [
-        "It condemns people through independent material processes",
-        "Identifying qualities to cultivate and reject with assessment",
-        "It divides people through independent material processes",
-        "It is judgmental primarily through independent material processes"
+        "Loss of reputation",
+        "Resistance to correction",
+        "Material instability",
+        "Temporary discomfort"
       ],
       "correctIndex": 1,
-      "feedback": "Chapter 16 functions as spiritual diagnostic-mapping daivi sampat (divine) and asuri sampat (demoniac) enables self-examination. The trap: thinking this teaching judges others rather than transforms self. Why this matters: The false path is using spiritual knowledge for condemnation not cultivation. Real understanding applies these categories introspectively-where do I manifest pride, anger, exploitation? Where fearlessness, compassion, self-control? Honest self-assessment using this framework enables conscious character development toward liberation.",
-      "verseLabel": "BG 16.26",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/26/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada warns that arrogance resists correction. When feedback is rejected, delusion becomes self-sealing.",
+      "verseLabel": "BG 16.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/16/"
     },
     {
       "id": "bg16-q18",
-      "prompt": "In the purport to BG 16.1-3, what superficial approach to spirituality does Srila Prabhupada critique?",
+      "prompt": "According to BG 16.18, against whom are demoniac persons envious?",
       "choices": [
-        "That divine qualities require systematic cultivation through association and practice",
-        "That positive thinking and self-affirmation suffice without actual character transformation",
-        "That fearlessness, purity, knowledge develop through disciplined spiritual engagement",
-        "That scripture study and devotee association gradually cultivate divine nature"
+        "Only rival competitors",
+        "The Supreme and His devotees",
+        "Political authorities",
+        "Family members alone"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada emphasizes daivi sampat requires sad-acharya-seva (service to genuine acharya), shastra-vichara (scriptural inquiry)-not mental gymnastics alone. The trap: thinking visualization or affirmations replace actual practice. Why this matters: The false path is self-help spirituality without discipline. Real understanding recognizes abhaya (fearlessness) comes from Krishna shelter not self-talk; dama (self-control) through regulative principles not positive mantras-transformation requires external engagement changing behavior, not internal imagination maintaining comfort.",
-      "verseLabel": "BG 16.27",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/27/",
-      "verdict": "Correct"
+      "feedback": "Krsna states that demoniac persons are envious of the Supreme and His devotees. Envy extends upward toward divine authority itself.",
+      "verseLabel": "BG 16.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/18/"
     },
     {
       "id": "bg16-q19",
-      "prompt": "According to Chapter 16, what is the promised outcome for cultivating divine nature?",
+      "prompt": "In the purport to BG 16.18, what makes envy spiritually lethal?",
       "choices": [
-        "Confusion and worldly philosophical idle speculation",
-        "Liberation in Krishna's abode and freedom",
-        "Bondage and worldly philosophical idle speculation",
-        "Suffering and worldly philosophical idle speculation"
+        "It blocks enjoyment",
+        "It attacks the source of guidance",
+        "It causes social isolation",
+        "It reduces intelligence temporarily"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna promises daivi sampat leads to vimokshaya (liberation)-those developing abhaya, sattva-samshuddi, jnana-yoga-vyavasthiti attain param gatim (supreme destination). The trap: thinking destination is arbitrary or grace-based alone. Why this matters: The false path is theological passivity expecting salvation despite character. Real understanding recognizes qualities determine destination-fearlessness, purity, knowledge naturally align consciousness with Vaikuntha's frequency; pride, anger, greed attune to hellish realms-cultivation of divine nature is practical preparation for eternal residence.",
-      "verseLabel": "BG 16.28",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/28/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada explains that envy attacks the source of guidance itself. When guidance is hated, liberation becomes inaccessible.",
+      "verseLabel": "BG 16.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/18/"
     },
     {
       "id": "bg16-q20",
-      "prompt": "According to Chapter 16, what prevents the demoniac from spiritual progress?",
+      "prompt": "According to BG 16.19-20, what consequence awaits persistent demoniac life?",
       "choices": [
-        "Bad luck and worldly philosophical speculation",
-        "Ego delusion ignorance and stubborn dharma refusal",
-        "Fate and worldly philosophical idle speculation",
-        "Others' actions and worldly philosophical speculation"
+        "Gradual moral reform",
+        "Repeated degraded births",
+        "Neutral rebirth only",
+        "Immediate annihilation"
       ],
       "correctIndex": 1,
-      "feedback": "Asuras trapped by moha (delusion), ahamkara (ego), ajnana (ignorance) refuse shastra-vidhana creating self-perpetuating cycle. The trap: externalizing responsibility for spiritual stagnation. Why this matters: The false path is victim mentality blaming circumstances. Real understanding recognizes demoniac mentality is volitional-rejecting guidance, rationalizing exploitation, maintaining pride are choices; freedom requires acknowledging these patterns and deliberately adopting daivi sampat through humility and scriptural submission.",
-      "verseLabel": "BG 16.29",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/29/",
-      "verdict": "Correct"
+      "feedback": "Krsna describes repeated demoniac births leading further away from Him. Degradation is progressive, not random.",
+      "verseLabel": "BG 16.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/19/"
     },
     {
       "id": "bg16-q21",
-      "prompt": "How does understanding Chapter 16 enable practical spiritual transformation?",
+      "prompt": "According to BG 16.21, what are the three gates leading to hell?",
       "choices": [
-        "By condemning others as demoniac while considering oneself naturally divine",
-        "By identifying specific qualities to cultivate and reject through daily self-examination",
-        "Through intellectual categorization without actual character development or practice",
-        "By feeling guilty about demoniac tendencies without taking corrective action"
+        "Fear, doubt, and pride",
+        "Lust, anger, and greed",
+        "Ignorance, inertia, and sleep",
+        "Envy, pride, and illusion"
       ],
       "correctIndex": 1,
-      "feedback": "Chapter 16 provides operational framework-daily assess whether actions manifest abhaya or dambha, dama or krodha, dana or lobha. Then consciously choose daivi sampat cultivation. The trap: using this teaching for judgment not growth. Real transformation requires: (1) honest self-inventory against scriptural standard, (2) identifying specific demoniac patterns present, (3) systematically replacing through devotional practice and sadhu-sanga. Knowledge becomes power when applied introspectively for character reconstruction.",
-      "verseLabel": "BG 16.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/1/",
-      "verdict": "Correct"
+      "feedback": "Krsna names lust, anger, and greed as the three gates leading to hell. These traits dismantle self-restraint and ethical judgment.",
+      "verseLabel": "BG 16.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/21/"
     },
     {
       "id": "bg16-q22",
-      "prompt": "In the purport to BG 16.7-11, what modern worldview does Srila Prabhupada identify as asuri?",
+      "prompt": "In the purport to BG 16.21, what practical instruction is given?",
       "choices": [
-        "That cosmos has ishvara (controller), operates through yajna (sacrifice) principle",
-        "That universe is apratishtham (baseless), morality is cultural construct without absolute reference",
-        "That world manifests Krishna's energy, dharma reflects cosmic order objectively",
-        "That human values derive from shastra revelation establishing transcendent standards"
+        "Suppress desire by force",
+        "Reject all ambition completely",
+        "Regulate and redirect impulses",
+        "Ignore desire until old age"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada identifies secular humanism-declaring no ishvara, no absolute dharma, jagat asatya apratishtham (world unreal baseless)-as quintessential asura darshana. The trap: thinking moral intuition suffices without transcendent grounding. Why this matters: The false path is ethical relativism-if no ishvara establishes dharma, morality reduces to preference or power; \"good\" becomes whatever culture or individual decides. Real ethics require absolute reference-Krishna as source establishes immutable dharma beyond negotiation.",
-      "verseLabel": "BG 16.8",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/8/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Prabhupada advises regulation and redirection, not violent suppression. Controlled engagement under guidance dismantles the gates to degradation.",
+      "verseLabel": "BG 16.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/21/"
     },
     {
       "id": "bg16-q23",
-      "prompt": "How do the three gates of hell (16.21) relate to cultivating divine qualities (16.1-3)?",
+      "prompt": "According to BG 16.22, what is the result of avoiding these three gates?",
       "choices": [
-        "They are unrelated teachings addressing different topics without connection",
-        "Abandoning kama krodha lobha enables abhaya dama dana development",
-        "One must cultivate divine first, then three gates automatically disappear effortlessly",
-        "Gates of hell are external obstacles, divine qualities internal achievements"
+        "Social approval",
+        "Gradual self-realization",
+        "Material prosperity",
+        "Temporary relief"
       ],
       "correctIndex": 1,
-      "feedback": "Liberation path is two-fold: nivritti (renunciation of kama-krodha-lobha) and pravritti (cultivation of abhaya-dama-dana)-negative and positive. The trap: thinking one alone suffices. Why this matters: Simply avoiding lust/anger/greed creates void; simply attempting fearlessness/self-control/charity while harboring three gates fails-they must work together. Successful transformation requires simultaneously abandoning demoniac tendencies while actively developing divine qualities through devotional practice.",
-      "verseLabel": "BG 16.21",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/21/",
-      "verdict": "Correct"
+      "feedback": "Krsna states that avoiding lust, anger, and greed allows the soul to work toward self-realization. Freedom begins with disciplined restraint.",
+      "verseLabel": "BG 16.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/22/"
     },
     {
       "id": "bg16-q24",
-      "prompt": "How does Chapter 16's emphasis on shastra (16.23-24) connect to its teaching on divine/demoniac qualities?",
+      "prompt": "Synthesis (BG 16): What most clearly separates divine from demoniac psychology?",
       "choices": [
-        "Scripture is irrelevant; qualities develop through natural evolution and personal growth",
-        "Shastra provides objective standard revealing which qualities lead to moksha vs bondage",
-        "Scriptural rules create rigid moralism preventing authentic expression of inner nature",
-        "Divine qualities come first, then scripture study; not the reverse order"
+        "External morality alone",
+        "Submission to divine authority",
+        "Social success or failure",
+        "Emotional sensitivity"
       ],
       "correctIndex": 1,
-      "feedback": "Shastra functions as mirror and map-mirror showing whether actions manifest daivi or asuri sampat honestly; map showing systematic path cultivating divine while abandoning demoniac. The trap: thinking inner guidance alone suffices. Why this matters: Mind conditioned by kama-krodha-lobha rationalizes demoniac behavior as virtue-pride as confidence, anger as justice, greed as ambition. Shastra provides external objective standard checking self-deception, directing transformation toward actual liberation not imagined freedom.",
-      "verseLabel": "BG 16.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/23/",
-      "verdict": "Correct"
+      "feedback": "Across the chapter, divine nature submits to divine authority, while demoniac nature replaces authority with ego. This single divide explains the downstream differences in behavior and destiny.",
+      "verseLabel": "BG 16",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/1/"
     },
     {
       "id": "bg16-q25",
-      "prompt": "How do Chapter 16's teachings on divine/demoniac qualities (16.1-5), three gates of hell (16.21), and scriptural authority (16.23-24) work together to guide spiritual practice?",
+      "prompt": "In the purport to BG 16.23-24, what final standard does Krsna establish for determining right and wrong?",
       "choices": [
-        "They present contradictory approaches requiring choosing between moralism, renunciation, or obedience",
-        "Understanding divine/demoniac provides diagnostic; abandoning three gates creates space; shastra guides systematic cultivation",
-        "Divine qualities are innate gifts; gates are external obstacles; scripture optional for naturally pious",
-        "Teachings are theoretical philosophy without practical application to daily spiritual life"
+        "Personal conscience alone",
+        "Social consensus",
+        "Scriptural authority",
+        "Pragmatic success"
       ],
-      "correctIndex": 1,
-      "feedback": "Chapter 16 presents integrated liberation technology: (1) Divine/demoniac mapping enables honest self-assessment-where am I now? (2) Three gates identification (kama-krodha-lobha) pinpoints specific obstacles blocking progress-what must I abandon? (3) Scriptural authority provides both objective standard preventing rationalization and systematic method cultivating daivi sampat. Together: diagnostic reveals condition, renunciation removes impediments, shastra directs transformation. Not competing approaches but synergistic process-know where you are, identify what blocks, follow revealed path from bondage to freedom through character reconstruction in devotional context.",
-      "verseLabel": "BG 16.24",
-      "verseUrl": "https://vedabase.io/en/library/bg/16/24/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krsna concludes that scripture is the standard for knowing what should and should not be done. Rejecting scripture reopens the demoniac path, while accepting it anchors divine life.",
+      "verseLabel": "BG 16.23-24",
+      "verseUrl": "https://vedabase.io/en/library/bg/16/23/"
     }
   ]
 }

@@ -11,16 +11,15 @@
       "id": "bg12-q1",
       "prompt": "In BG 12.1, what is Arjuna's question to Krishna?",
       "choices": [
-        "Strategy of war and tactics through independent material processes",
         "Is devotion to your personal form superior to impersonal meditation?",
-        "About rituals and practices from worldly philosophical speculation",
-        "About politics and governance from worldly philosophical speculation"
+        "Should one pursue ritualistic duties for material success?",
+        "Is political leadership a sign of spiritual advancement?",
+        "Is impersonal meditation the highest path for all seekers?"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Arjuna's question in Chapter 12 addresses the central controversy in spiritual life: Is devotion to Krishna's personal form superior to meditation on the unmanifested, impersonal Absolute? This isn't academic philosophy--it reflects the practical confusion faced by seekers who hear conflicting teachings. Some gurus emphasize impersonal meditation; others teach bhakti. Arjuna, having witnessed the universal form in Chapter 11, now seeks clarity on which approach leads most directly to the goal. His question demonstrates spiritual maturity: instead of assuming all paths are equal, he asks Krishna to reveal the most effective means.",
       "verseLabel": "BG 12.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/1/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/1/"
     },
     {
       "id": "bg12-q2",
@@ -34,8 +33,7 @@
       "correctIndex": 1,
       "feedback": "Prabhupada emphasizes that Krishna's answer demolishes the false equality doctrine. When the Supreme Person declares that those who worship His personal form 'are most perfect in yoga,' this isn't one opinion among many--it's authoritative revelation. The false path lies in thinking all approaches are equal despite Krishna's explicit teaching. Why this matters: Modern spiritual syncretism claims 'all paths lead to the same goal,' but Krishna Himself distinguishes between personal devotion and impersonal meditation, declaring bhakti superior. Those who worship the impersonal eventually reach Krishna, but they travel a more difficult route. The direct path is always superior to the indirect one, even if both arrive eventually at the same destination.",
       "verseLabel": "BG 12.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/2/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/2/"
     },
     {
       "id": "bg12-q3",
@@ -49,8 +47,7 @@
       "correctIndex": 1,
       "feedback": "Prabhupada reveals the psychological difficulty: conditioned souls are persons, and forcing oneself to meditate on an impersonal void contradicts our inherent nature. The jiva is eternally a person, and attempting to become impersonal creates enormous internal resistance. The false path assumes that impersonal meditation represents 'higher' spirituality, but Prabhupada shows it's actually unnatural. Why this matters: People torture themselves with impersonal meditation techniques--trying to empty the mind, dissolve personality, merge into formlessness--because they've been taught this is advanced spirituality. But Krishna reveals this is 'more troublesome for embodied beings.' Personal devotion works with our nature rather than against it, making the spiritual path joyful rather than austere.",
       "verseLabel": "BG 12.3",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/3/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/3/"
     },
     {
       "id": "bg12-q4",
@@ -64,8 +61,7 @@
       "correctIndex": 1,
       "feedback": "Krishna acknowledges that those devoted to the impersonal Brahman do eventually reach Him, but He emphasizes 'the path is less direct' (kleso 'dhikataras tesham). This teaching balances truth with compassion: Krishna doesn't condemn impersonalists but reveals their path's inefficiency. Why this matters: Sectarian religionists might claim impersonalists never reach God, while relativists claim all paths are equal. Krishna rejects both extremes. Impersonal meditation is a valid spiritual path--it purifies consciousness and leads eventually to realization--but it's the long route. The devotee reaches Krishna directly; the impersonalist arrives eventually after much struggle. This hierarchical understanding doesn't invalidate the impersonal path but shows its limitations compared to direct personal devotion.",
       "verseLabel": "BG 12.5",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/5/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/5/"
     },
     {
       "id": "bg12-q5",
@@ -79,8 +75,7 @@
       "correctIndex": 1,
       "feedback": "Prabhupada clarifies that 'renouncing all actions to Krishna' doesn't mean inactivity but transforming consciousness while working. The false path lies in thinking spiritual perfection requires abandoning duties and becoming inactive. True renunciation is internal--offering the fruits of work to Krishna while continuing to act. Why this matters: People misunderstand renunciation as physical withdrawal from activity, leading them to abandon responsibilities or seek escape from the world. But Krishna teaches karma-yoga: work without attachment to results, offering everything to Him. This path is 'easiest' because it doesn't require external renunciation (giving up family, career, possessions) but internal surrender--transforming ordinary work into devotional service. The householder can practice this path as effectively as the monk.",
       "verseLabel": "BG 12.6",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/6/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/6/"
     },
     {
       "id": "bg12-q6",
@@ -94,8 +89,7 @@
       "correctIndex": 1,
       "feedback": "Krishna provides a graduated approach: if spontaneous devotion isn't possible, practice yoga discipline systematically. This teaching prevents discouragement--those who can't immediately fix their minds on Krishna shouldn't abandon the goal but should practice steadily. The path accommodates different levels of advancement. Why this matters: Spiritual life isn't all-or-nothing. Many seekers abandon the path because they can't immediately control their minds perfectly. But Krishna offers a step-by-step process: if pure devotion is difficult, practice abhyasa-yoga (systematic meditation); if that's too hard, work in Krishna's service; if even that seems impossible, give up attachment to results. These graduated stages ensure that everyone, regardless of qualification, has an accessible entry point into spiritual life.",
       "verseLabel": "BG 12.7",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/7/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/7/"
     },
     {
       "id": "bg12-q7",
@@ -109,8 +103,7 @@
       "correctIndex": 1,
       "feedback": "Prabhupada outlines Krishna's educational methodology: spiritual advancement follows natural stages. If one cannot fix the mind in samadhi, practice systematic meditation. If meditation is too difficult, perform work for Krishna. If even that seems impossible, cultivate detachment from results. The false path is expecting immediate perfection or dismissing preliminary practices as unnecessary. Why this matters: Spiritual pride leads people to attempt advanced practices they're unqualified for, resulting in frustration and abandonment of the path. Or they despise 'lower' practices like seva and karma-yoga, seeking only 'high' meditation. But Krishna teaches that each stage prepares for the next. Work offered to Krishna purifies consciousness, making meditation possible; meditation deepens devotion. The ladder has rungs for a reason--each one supports ascent to the next.",
       "verseLabel": "BG 12.8",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/8/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/8/"
     },
     {
       "id": "bg12-q8",
@@ -124,8 +117,7 @@
       "correctIndex": 1,
       "feedback": "Krishna identifies the core principle underlying all spiritual practices: detachment from the fruits of action (sarva-karma-phala-tyaga). Whether one practices meditation, worship, service, or renunciation, the essential transformation is internal--shifting from 'I am the enjoyer of results' to 'I work for Krishna's satisfaction.' This teaching unifies all yogas. Why this matters: People get lost in debates about which practice is best--meditation or worship? karma or jnana?--missing the underlying principle. Krishna reveals that the method matters less than the consciousness. Work performed for personal gain keeps one bound; the same work offered to Krishna liberates. This is why karma-yoga done with the right consciousness can equal or exceed advanced meditation done with material motivation. The quality of surrender matters more than the technique employed.",
       "verseLabel": "BG 12.11",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/11/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/11/"
     },
     {
       "id": "bg12-q9",
@@ -139,8 +131,7 @@
       "correctIndex": 1,
       "feedback": "Krishna establishes a hierarchy: knowledge (jnana) is foundational, but meditation (dhyana) transforms knowledge into direct experience. Beyond meditation lies renunciation of fruit (tyaga), which brings immediate peace. This progression moves from intellectual understanding to experiential realization to transcendental peace. Why this matters: Armchair philosophers accumulate scriptural knowledge without transformation. They can quote verses but remain unchanged. Krishna teaches that knowledge must progress to practice--meditation that applies knowledge--and ultimately to detachment that transcends even practice. The goal isn't erudition but liberation. One verse lived in meditation surpasses volumes memorized without application.",
       "verseLabel": "BG 12.12",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/12/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/12/"
     },
     {
       "id": "bg12-q10",
@@ -154,8 +145,7 @@
       "correctIndex": 1,
       "feedback": "Prabhupada explains that 'hating no living being' means seeing everyone's eternal relationship with Krishna, not sentimental tolerance of all behavior. The devotee distinguishes between the eternal soul (deserving compassion) and temporary material activities (which may require opposition). The false path is thinking spiritual compassion means passive acceptance of evil or that loving all souls means approving all actions. Why this matters: Immature spiritualists confuse non-hatred with non-discrimination, thinking devotees must accept all behavior without judgment. But Arjuna fights demons while maintaining spiritual vision. The devotee opposes adharma vigorously while internally seeing even enemies as Krishna's misguided children. This vision produces appropriate action combined with internal compassion--firmness without hatred, strength without malice.",
       "verseLabel": "BG 12.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/13/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/13/"
     },
     {
       "id": "bg12-q11",
@@ -169,8 +159,7 @@
       "correctIndex": 1,
       "feedback": "The devotee fixed in Krishna consciousness (yukta) remains internally undisturbed by material dualities--joy/sorrow, gain/loss, honor/dishonor. This equanimity isn't stoic repression but transcendental stability. When consciousness is anchored in Krishna, external circumstances become like waves on the ocean surface--visible but not affecting the depths. Why this matters: Conditioned souls seek happiness by controlling external circumstances, becoming perpetual slaves to situation. A promotion brings joy; criticism brings devastation. But the devotee's happiness is independent of material flux because it flows from connection with Krishna. This doesn't mean emotional numbness but proper perspective--external events are temporary and ultimately under Krishna's control. Why be disturbed by His arrangement?",
       "verseLabel": "BG 12.15",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/15/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/15/"
     },
     {
       "id": "bg12-q12",
@@ -184,8 +173,7 @@
       "correctIndex": 1,
       "feedback": "Prabhupada reveals that freedom from fear, anger, sorrow and desire doesn't come through repression but through re-engagement. When consciousness is absorbed in Krishna, material emotions naturally subside because their causes--identification with body, attachment to outcomes--dissolve. The false path is thinking spirituality requires forcing oneself to feel nothing. Why this matters: Impersonalists and stoics try to eliminate emotions through suppression, creating inner tension and eventual explosion. But Krishna consciousness offers positive engagement: fear transforms into reverence, anger into indignation at offenses to devotees, desire into aspiration for Krishna's service. Emotions aren't destroyed but purified and redirected. The devotee doesn't become an emotionless robot but a person whose emotional life is spiritualized.",
       "verseLabel": "BG 12.16",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/16/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/16/"
     },
     {
       "id": "bg12-q13",
@@ -199,8 +187,7 @@
       "correctIndex": 1,
       "feedback": "Krishna describes the devotee as sama-duhkha-sukha (equal in distress and happiness), neither grieving nor rejoicing excessively over material circumstances. This equanimity stems from understanding that all situations are temporary and ultimately arranged by Krishna for purification. The devotee sees both favorable and unfavorable circumstances as Krishna's mercy. Why this matters: Material existence is inherently dualistic--pleasure always contains seeds of pain, gain inevitably leads to loss. Those who rejoice excessively in good fortune must suffer proportionally when fortune reverses. But the devotee who maintains internal equilibrium experiences neither extreme high nor low. This isn't cold detachment but mature spiritual vision recognizing that Krishna's arrangement transcends temporary material classifications of 'good' and 'bad.'",
       "verseLabel": "BG 12.17",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/17/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/17/"
     },
     {
       "id": "bg12-q14",
@@ -214,8 +201,7 @@
       "correctIndex": 1,
       "feedback": "Prabhupada emphasizes the personal reciprocation: Krishna doesn't maintain cold neutrality but responds to devotion with love. Those who cultivate the qualities described in Chapter 12--compassion, equanimity, detachment, devotion--don't just attain liberation; they gain Krishna's personal affection (ativa me priya). The false path is thinking God loves everyone equally without reciprocation. Why this matters: Impersonalists claim God's love is uniform and impersonal, like sunshine falling equally on all. But Krishna reveals He has preferences--He especially loves those who love Him. This isn't favoritism but reciprocation. The sun gives light equally, but those who turn toward it receive more benefit. Similarly, Krishna reciprocates with those who cultivate devotion. Spiritual life isn't earning something from an indifferent deity but developing a relationship with Someone who personally appreciates and loves His devotees.",
       "verseLabel": "BG 12.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/12/20/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/12/20/"
     },
     {
       "id": "bg12-q15",

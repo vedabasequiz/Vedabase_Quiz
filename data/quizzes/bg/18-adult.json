@@ -5,382 +5,357 @@
   "audience": "adult",
   "title": "Bhagavad Gita - Chapter 18 (Adult) | 25Q",
   "difficulty": "medium-hard",
-  "publishedOn": "2026-01-28",
+  "publishedOn": "2026-02-01",
   "questions": [
     {
       "id": "bg18-q1",
-      "prompt": "In BG 18.1, what does Arjuna ask at the beginning of the final chapter?",
+      "prompt": "In BG 18.1, what distinction does Arjuna ask Krishna to clarify?",
       "choices": [
-        "About victory and worldly philosophical speculation alone",
-        "To clearly explain sannyasa (renunciation) and tyaga (relinquishment)",
-        "War tactics and worldly philosophical speculation alone",
-        "Political strategy and worldly philosophical speculation alone"
+        "Knowledge and action",
+        "Renunciation and renounced order",
+        "Devotion and meditation",
+        "Body and soul"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna's question is strategic-after 17 chapters, he seeks final clarity distinguishing sannyasa (renunciation order) from tyaga (relinquishment of fruit-desire). The trap: treating these as synonyms or unrelated paths. Why this matters: The false path is confusion about renunciation-some think sannyasa means abandoning all action; others think tyaga is mere mental detachment. Real understanding: Krishna will explain sannyasa means renouncing actions born of desire; tyaga means performing duty without attachment to results-both culminate in bhakti.",
+      "feedback": "Arjuna asks Krishna to clearly explain the difference between sannyasa (renounced order) and tyaga (renunciation of results). The chapter begins by correcting common confusion about what true renunciation actually means.",
       "verseLabel": "BG 18.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/1/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/18/1/"
     },
     {
       "id": "bg18-q2",
-      "prompt": "In the purport to BG 18.2, what misconception about renunciation does Srila Prabhupada refute?",
+      "prompt": "According to BG 18.2, how do learned persons generally define true renunciation?",
       "choices": [
-        "That sannyasa means formally taking renounced order through institutional initiation",
-        "That sannyasa means giving up only karma-kanda rituals while continuing dharmic duties",
-        "That renunciation means complete cessation of all activities including devotional service",
-        "That tyaga means offering fruits to Krishna while sannyasa means mental detachment"
+        "Giving up all prescribed duties",
+        "Giving up all action completely",
+        "Giving up fruitive desire in action",
+        "Giving up scriptural authority"
       ],
       "correctIndex": 2,
-      "feedback": "Srila Prabhupada explains sannyasa means renouncing kamya-karma (activities with fruit-desire) NOT renouncing devotional duties; tyaga means relinquishing attachment/fruit-expectation. The trap: impersonalist sannyasa advocating complete inaction as liberation. Why this matters: The false path is mayavadi renunciation-claiming all activity is maya, one should cease action entirely. Real sadhana: Krishna consciousness isn't inaction but action without selfish desire-bhakti-yoga purifies through engaged devotion, not withdrawal into vacancy. Gita advocates nishkama-karma (desireless action) culminating in bhakti, not cessation of service.",
+      "feedback": "Krishna states that true tyaga means giving up attachment to the fruits of work, not abandoning work itself. This distinction prevents confusing inactivity with spiritual advancement.",
       "verseLabel": "BG 18.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/2/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/18/2/"
     },
     {
       "id": "bg18-q3",
-      "prompt": "In BG 18.3, what do some wise men teach?",
+      "prompt": "In the purport to BG 18.2, what false conclusion does Prabhupada warn against?",
       "choices": [
-        "every actions are evil through independent material processes",
-        "every action is tainted by desire; one should abandon it",
-        "Action is consistently good through independent material processes",
-        "not work and worldly philosophical speculation alone entirely"
+        "Thinking action itself is bondage",
+        "Thinking duty supports devotion",
+        "Thinking work purifies intention",
+        "Thinking discipline steadies the mind"
       ],
-      "correctIndex": 1,
-      "feedback": "Some Sankhya philosophers argue all karma is dosha-yukta (faulty)-even sattvic action binds through subtle ego-identification with doership. The trap: taking this analysis as prescription for total inaction. Why this matters: The false path is philosophical nihilism-using Sankhya's analysis of action's imperfection to justify renouncing prescribed duties. Real discrimination: While all material action has some defect, abandoning dharma creates greater bondage; performing duty without attachment (nishkama-karma) purifies consciousness enabling transcendence. Krishna refutes complete withdrawal-proper tyaga means acting without fruit-desire, not abandoning action itself.",
-      "verseLabel": "BG 18.3",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/3/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Prabhupada warns against the false idea that all action is bondage. The danger is rejecting prescribed duty instead of rejecting selfish motivation, which leads to laziness rather than liberation.",
+      "verseLabel": "BG 18.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/2/"
     },
     {
       "id": "bg18-q4",
-      "prompt": "In the purport to BG 18.5, what does Srila Prabhupada explain about yajna-dana-tapas (sacrifice-charity-austerity)?",
+      "prompt": "According to BG 18.3, what mistake do some renunciants make?",
       "choices": [
-        "That these purify consciousness and should never be renounced even by sannyasis",
-        "That advanced souls transcend these preliminary practices entering pure spontaneous devotion",
-        "That yajna-dana-tapas are karma-kanda rituals for materialistic people seeking heavenly rewards",
-        "That renunciation means abandoning external rituals to focus purely on internal meditation"
+        "They overemphasize devotion",
+        "They abandon duty out of fear",
+        "They reject action as impure",
+        "They follow scripture strictly"
       ],
-      "correctIndex": 0,
-      "feedback": "Srila Prabhupada explains yajna-dana-tapas are pavitrani (purifying) for mahatmanam api (even great souls)-must never be abandoned. The trap: premature transcendence-thinking advanced devotion means stopping prescribed practices. Why this matters: The false path is sahajiya spirituality-claiming spontaneous bhava makes discipline unnecessary. Real understanding: Yajna-dana-tapas systematically purify subtle conditioning-even elevated consciousness benefits from structured sadhana. Cannot bypass discipline claiming advanced realization-that's projection not actual transcendence. Must continue prescribed practices throughout life as purification and example-perfection includes discipline not abandonment. Therefore maintain yajna-dana-tapas with bhakti-bhava transforming obligation into devotional offering, not discarding as 'preliminary.'",
-      "verseLabel": "BG 18.4",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/4/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krishna explains that some people give up work entirely, considering it faulty. This is identified as an incomplete understanding that ignores purification through regulated action.",
+      "verseLabel": "BG 18.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/3/"
     },
     {
       "id": "bg18-q5",
-      "prompt": "According to BG 18.6, what is the superior path?",
+      "prompt": "According to BG 18.4-6, which actions should never be abandoned?",
       "choices": [
-        "Pretend renunciation and worldly philosophical speculation alone",
-        "Work without fruit-desire; offer it to the Lord",
-        "Inaction and worldly philosophical speculation alone entirely",
-        "Selfish action and worldly philosophical speculation alone"
+        "Rituals for material gain",
+        "Charity, sacrifice, and austerity",
+        "Occupational work only",
+        "Meditation and silence"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna establishes hierarchy: yajna-dana-tapas (sacrifice-charity-austerity) purify even great souls-never abandon these. The trap: thinking advanced renunciation means stopping all ritual/charitable activities. Why this matters: The false path is premature renunciation-abandoning external dharma before internal purification. Real progression: Perform yajna-dana-tapas without fruit-desire; these systematically purify consciousness. Path isn't renouncing duties but renouncing selfish motivation within duties. Therefore karma-yoga isn't preliminary stage to abandon but foundation supporting bhakti-devotional service includes prescribed duties performed for Krishna, not cessation of all activity.",
+      "feedback": "Krishna states that charity, sacrifice, and austerity should always be performed, but without attachment. These purify even great souls when offered properly.",
       "verseLabel": "BG 18.6",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/6/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/18/6/"
     },
     {
       "id": "bg18-q6",
-      "prompt": "In BG 18.7, what characterizes true renunciation?",
+      "prompt": "Synthesis (BG 18.1-6): What is Krishna redefining as true renunciation?",
       "choices": [
-        "Hatred of work through independent material processes",
-        "Performing duty without attachment; unaffected by results",
-        "Avoiding action and worldly philosophical speculation alone",
-        "Desiring fruits and worldly philosophical speculation alone"
+        "Stopping all action",
+        "Rejecting responsibility",
+        "Giving up results, not duty",
+        "Withdrawing from society"
       ],
-      "correctIndex": 1,
-      "feedback": "True tyaga means performing niyata-karma (prescribed duty) without raga-dvesha (attachment-aversion) or phala-kamana (fruit-desire). The trap: thinking renunciation means choosing which duties to perform based on preference. Why this matters: The false path is selective dharma-doing only pleasant duties while avoiding difficult ones under guise of detachment. Real sadhana: Perform all prescribed duties regardless of personal inclination-neither attracted to pleasant results nor averse to unpleasant-offering everything to Krishna. This transforms karma (binding action) into karma-yoga (liberating devotion). Renunciation isn't choosing inaction but transcending motivation within action.",
-      "verseLabel": "BG 18.7",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/7/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krishna reframes renunciation as inner detachment from results, not abandonment of prescribed work. This synthesis prevents confusing irresponsibility with spirituality.",
+      "verseLabel": "BG 18.1-6",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/6/"
     },
     {
       "id": "bg18-q7",
-      "prompt": "In the purport to BG 18.9, what does Srila Prabhupada explain distinguishes tyaga (proper relinquishment) from false renunciation?",
+      "prompt": "According to BG 18.7, what kind of renunciation is considered in the mode of ignorance?",
       "choices": [
-        "That tyaga means performing niyata-karma (prescribed duty) without phala-asha (fruit-expectation)",
-        "That all renunciation is ultimately illusion since action is inevitable in material existence",
-        "That tyaga means minimizing duties to bare necessities while maximizing meditation time",
-        "That proper renunciation requires formal sannyasa initiation from qualified spiritual master"
+        "Giving up work due to fear or illusion",
+        "Giving up results while serving Krishna",
+        "Performing duty without attachment",
+        "Rejecting sinful activity"
       ],
       "correctIndex": 0,
-      "feedback": "Srila Prabhupada distinguishes sattvic tyaga: performing niyata-karma (duty according to shastra) without phala-asha (desire for results)-this is real relinquishment. The trap: confusing renunciation with inaction or minimal action. Why this matters: The false path is escapist renunciation-reducing duties thinking less activity equals more spirituality. Real tyaga: Fully engage in prescribed duties WITH detachment from fruits-action level remains robust, desire level drops to zero. It's psychological transformation not behavioral reduction. Cannot achieve tyaga through doing less but through desiring less WHILE acting fully. Therefore authentic renunciation means maximum engagement (duty) with minimum attachment (fruit-desire)-reversed formula of rajasic action (maximum desire with convenient duty-avoidance).",
-      "verseLabel": "BG 18.8",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/8/",
-      "verdict": "Correct"
+      "feedback": "Renunciation motivated by fear, illusion, or misunderstanding is tamasic. It abandons duty without purification and leads to degradation, not freedom.",
+      "verseLabel": "BG 18.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/7/"
     },
     {
       "id": "bg18-q8",
-      "prompt": "According to BG 18.9, what is truly renounced?",
+      "prompt": "According to BG 18.9, what defines renunciation in the mode of goodness?",
       "choices": [
-        "The body and worldly philosophical speculation alone",
-        "The desire for the fruit; not the action itself",
-        "every work and worldly philosophical speculation alone",
-        "Thought and mind through independent material processes"
+        "Giving up all pleasure",
+        "Performing duty without attachment",
+        "Avoiding responsibility entirely",
+        "Rejecting all scripture"
       ],
       "correctIndex": 1,
-      "feedback": "Summarizing 18.7-8: rajasic tyaga avoids unpleasant duties from bodily concern/aversion; tamasic tyaga abandons prescribed duties from delusion/laziness. Neither attains tyaga-phala (fruit of renunciation). The trap: thinking avoiding difficult duties equals detachment. Why this matters: The false path is rationalized avoidance-abandoning challenging responsibilities claiming spiritual renunciation while actually driven by comfort-seeking or delusion. Real tyaga: Performing ALL prescribed duties (pleasant/unpleasant) without attachment to results-this sattvic tyaga purifies toward liberation. Cannot cherry-pick dharma; must fulfill responsibilities transcending preference, offering all to Krishna as seva not strategic self-interest.",
+      "feedback": "Sattvic renunciation means performing prescribed duty as obligation, without attachment to success or failure. This is the recommended platform for devotion.",
       "verseLabel": "BG 18.9",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/9/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/18/9/"
     },
     {
       "id": "bg18-q9",
-      "prompt": "In BG 18.11, what is stated about karma yoga?",
+      "prompt": "In the purport to BG 18.9, what subtle danger remains even in sattvic renunciation?",
       "choices": [
-        "It is ineffective through independent material processes",
-        "Though imperfect, work for the Lord purifies the heart",
-        "Actions are useless through independent material processes",
-        "No fruit comes through independent material processes"
+        "Attachment to laziness",
+        "Pride in moral superiority",
+        "Rejection of all action",
+        "Dependence on ignorance"
       ],
       "correctIndex": 1,
-      "feedback": "Even imperfect karma-yoga purifies when performed for Krishna. The trap: perfectionism paralysis-refusing to act until perfectly detached. Why this matters: The false path is spiritual procrastination-waiting for complete qualification before beginning devotional service. Real sadhana: Begin with current capacity-sincere offering of imperfect action purifies consciousness gradually. Krishna accepts bhava (devotional intent) over mechanical perfection. Process itself transforms practitioner-through repeated offering, attachment naturally diminishes. Therefore start bhakti-yoga now despite imperfections, not after achieving some impossible standard of flawless renunciation.",
-      "verseLabel": "BG 18.11",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/11/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada warns that even goodness can bind through pride and self-satisfaction. Without bhakti, refined renunciation can still reinforce ego rather than dissolve it.",
+      "verseLabel": "BG 18.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/9/"
     },
     {
       "id": "bg18-q10",
-      "prompt": "In the purport to BG 18.12, what does Srila Prabhupada explain about the threefold fruits of action?",
+      "prompt": "According to BG 18.11, why is complete renunciation of action impossible for the embodied soul?",
       "choices": [
-        "That sattvic work gives svarga, rajasic gives human birth, tamasic gives hell",
-        "That work without Krishna consciousness gives desirable/undesirable/mixed results perpetuating samsara",
-        "That all work inevitably produces good fruit if performed sincerely with effort",
-        "That fruits depend purely on external circumstances like time and place"
+        "Action is enforced by society",
+        "Action is imposed by nature",
+        "Action is optional by will",
+        "Action belongs only to Krishna"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains anishta (undesirable)-ishta (desirable)-mishrita (mixed) fruits perpetuate material bondage-even good results bind through enjoyment/attachment. The trap: seeking sattvic fruit as spiritual goal. Why this matters: The false path is upgraded materialism-pursuing piety/heaven/happiness within samsara calling it spirituality. Real tyaga: Offer ALL action to Krishna without desiring any result-this transcends threefold fruits entirely. Only bhakti-yoga liberates-karma-yoga without Krishna consciousness may elevate to higher planets but cannot grant moksha. Must transcend fruit-desire itself, not just pursue better fruits.",
-      "verseLabel": "BG 18.12",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/12/",
-      "verdict": "Correct"
+      "feedback": "Krishna explains that embodied beings cannot stop acting because the modes of nature compel activity. The solution is purified action, not denial of action.",
+      "verseLabel": "BG 18.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/11/"
     },
     {
       "id": "bg18-q11",
-      "prompt": "According to BG 18.13-14, what are the five factors in action?",
+      "prompt": "According to BG 18.12, what is the result for one who has not renounced the fruits of work?",
       "choices": [
-        "Three exist and worldly philosophical speculation alone",
-        "Body, doer, senses, effort, and divine providence work together",
-        "primarily two and worldly philosophical speculation alone",
-        "Countless factors and worldly philosophical speculation alone"
+        "Liberation by effort",
+        "No reaction at all",
+        "Threefold karmic results",
+        "Immediate devotion"
       ],
-      "correctIndex": 1,
-      "feedback": "Five factors-adhishthana (body-locus), karta (doer-ego), karana (instruments-senses), cheshta (efforts-pranas), daivam (providence-Supersoul)-combine producing action. The trap: false independence-believing 'I alone determine results.' Why this matters: The false path is egotistic agency-ignoring divine sanction, material conditions, and instrumental causes. Real understanding: Success requires harmony of all five-proper body, purified doership-sense, focused effort, Krishna's sanction. Cannot control all factors; must depend on daivam (divine will). Therefore offer action to Krishna recognizing He orchestrates total field-this humility enables grace. Arrogance produces frustration; surrender produces cooperation with Supreme arrangement.",
-      "verseLabel": "BG 18.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/13/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Those attached to results receive threefold outcomes after death: desirable, undesirable, or mixed. Renouncing results frees one from these chains.",
+      "verseLabel": "BG 18.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/12/"
     },
     {
       "id": "bg18-q12",
-      "prompt": "In BG 18.15, what determines the fruits of action?",
+      "prompt": "In BG 18.13-14, what five factors does Krishna identify behind all action?",
       "choices": [
-        "Luck alone and worldly philosophical speculation",
-        "The nature of knowledge, action agent",
-        "primarily effort and worldly philosophical speculation",
-        "Random chance and worldly philosophical speculation"
+        "Time, fate, desire, ego, body",
+        "Body, doer, senses, effort, Supersoul",
+        "Mind, intelligence, faith, karma, society",
+        "Nature alone acting independently"
       ],
       "correctIndex": 1,
-      "feedback": "Guna determines action's nature-sattva produces sattvic action (duty-based, detached), rajas produces rajasic action (fruit-driven, agitated), tamas produces tamasic action (deluded, harmful). The trap: thinking mode-transcendence happens through willpower alone. Why this matters: The false path is naive voluntarism-believing one can instantly perform sattvic action while consciousness remains rajasic/tamasic. Real sadhana: Systematically cultivate sattva through prescribed means-sattvic association, food, activities-this gradually transforms consciousness enabling natural sattvic action. Cannot bypass guna-purification; must elevate from tamas to rajas to sattva to transcendence. Process requires patience-sudden jumps create artificial spirituality, not genuine transformation.",
-      "verseLabel": "BG 18.15",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/15/",
-      "verdict": "Correct"
+      "feedback": "Krishna lists five causes: body, doer, senses, effort, and Supersoul. This framework dismantles the illusion of independent doership.",
+      "verseLabel": "BG 18.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/14/"
     },
     {
       "id": "bg18-q13",
-      "prompt": "In the purport to BG 18.20-22, what false understanding about knowledge does Srila Prabhupada refute?",
+      "prompt": "In the purport to BG 18.14, what illusion does Prabhupada directly challenge?",
       "choices": [
-        "That sattvic knowledge sees unity in diversity through Paramatma vision",
-        "That all knowledge systems are equally valid paths to truth regardless",
-        "That rajasic knowledge focuses on diversity while tamasic knowledge is confused delusion",
-        "That knowledge develops through threefold stages from tamas to rajas to sattva"
+        "Faith is subjective",
+        "Doership is independent",
+        "Effort is unnecessary",
+        "Nature is unreal"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada distinguishes: sattvic jnana sees eka-bhava (oneness-in-Brahman) pervading all bodies; rajasic sees prithak-prithak (separateness-multiple independent entities); tamasic sees tuccha (insignificant-bodily identification only). The trap: epistemological relativism-claiming all viewpoints equally valid. Why this matters: The false path is knowledge pluralism-treating sattvic Vedantic vision and tamasic materialism as cultural preferences. Real discrimination: Knowledge has hierarchy-sattvic knowledge reveals reality (Paramatma connecting all beings); rajasic knowledge fragments reality; tamasic knowledge obscures reality. Must cultivate sattvic jnana through shastra-guru-sadhu pramana, not validate ignorance as 'alternative perspective.'",
-      "verseLabel": "BG 18.16",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/16/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada emphasizes that the false ego imagines itself the sole doer. Recognizing multiple causes, especially the Supersoul, dissolves pride and supports surrender.",
+      "verseLabel": "BG 18.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/14/"
     },
     {
       "id": "bg18-q14",
-      "prompt": "In the purport to BG 18.26-28, what does Srila Prabhupada explain about the three types of workers (karta)?",
+      "prompt": "According to BG 18.15, what determines whether an action is sinful or not?",
       "choices": [
-        "That sattvic worker is mukta-sanga (free from attachment) and anahankara (without false ego)",
-        "That all workers are equally bound by material nature regardless of consciousness quality",
-        "That only formal sannyasis can be sattvic workers while householders remain rajasic",
-        "That threefold worker classification is theoretical analysis without practical application"
+        "Public opinion",
+        "Personal intention alone",
+        "Scriptural guidance",
+        "Material success"
       ],
-      "correctIndex": 0,
-      "feedback": "Srila Prabhupada explains sattvic karta is mukta-sanga (free from material association-attachment to results), anahankara (without false ego-'I am doer'), dhryutsaha-samanvita (endued with determination-enthusiasm), performing duty siddhi-asiddhyor nirvikara (unaffected by success-failure). The trap: thinking guna-transformation happens automatically with time. Why this matters: The false path is passive spirituality-waiting for purification without examining actual doership-quality. Real sadhana: Consciously cultivate sattvic karta through self-observation-am I attached to results? Do I claim credit? Am I disturbed by outcomes? Must deliberately transcend rajasic agency (fruit-driven) and tamasic agency (deluded-lazy) toward sattvic (duty-focused-steady). This requires active self-transformation not drift. Therefore study these characteristics, apply to actual work, progressively embody sattvic doership through bhakti-infused karma-this purifies agent enabling eventual transcendence to Krishna-dasa identity.",
-      "verseLabel": "BG 18.17",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/17/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krishna states that scripture determines what is duty and what is sin. This guards against moral relativism based on emotion or social approval.",
+      "verseLabel": "BG 18.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/15/"
     },
     {
       "id": "bg18-q15",
-      "prompt": "In BG 18.18, what is rajasic action?",
+      "prompt": "Synthesis (BG 18.11-15): What is Krishna dismantling in this section?",
       "choices": [
-        "Pure and selfless through independent material processes",
-        "Performed with ego-effort-desire for fruit; causes disturbance",
-        "Without attachment and worldly philosophical speculation alone",
-        "Harmonious and worldly philosophical speculation alone"
+        "The need for effort",
+        "The illusion of independent doership",
+        "The value of discipline",
+        "The authority of scripture"
       ],
       "correctIndex": 1,
-      "feedback": "Rajasic karma: performed with ahankara (ego-'I am doer'), bahulayasa (excessive effort-strain), iccha (desire for fruit). Creates disturbance-within self (anxiety/attachment) and externally (others affected by selfish pursuit). The trap: glorifying struggle as spirituality. Why this matters: The false path is achievement spirituality-measuring advancement by effort-intensity or results-accumulation. Real understanding: Rajasic striving strengthens false ego even in religious context-'I am great renunciate/devotee/scholar.' Must transition from rajasic effortfulness to sattvic equilibrium-acting from duty not desire, offering to Krishna not building ego. Peaceful action indicates progress; agitated action indicates passion-mode dominance requiring purification.",
-      "verseLabel": "BG 18.18",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/18/",
-      "verdict": "Correct"
+      "feedback": "Krishna systematically dismantles the myth of independent agency. Action occurs through multiple causes under divine supervision, which reframes responsibility and humility.",
+      "verseLabel": "BG 18.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/15/"
     },
     {
       "id": "bg18-q16",
-      "prompt": "What does BG 18.19 teach about tamasic action?",
+      "prompt": "According to BG 18.17, who is not bound even when killing occurs?",
       "choices": [
-        "Highly virtuous and worldly philosophical speculation alone",
-        "Performed in delusion without regard for consequence",
-        "Pure and noble through independent material processes",
-        "Brings peace and worldly philosophical speculation alone"
+        "One acting violently",
+        "One free from egoistic doership",
+        "One acting emotionally",
+        "One ignoring scripture"
       ],
       "correctIndex": 1,
-      "feedback": "Tamasic karma: moha (delusion)-performed without understanding purpose/consequence; apeksha (disregard)-ignoring dharma-adharma; anavasthita (careless)-without proper knowledge; creates vinasha (destruction)-harms self/others. The trap: rationalizing harmful action through spiritual language. Why this matters: The false path is antinomian spirituality-claiming transcendence of ethics justifies violating dharma. Real understanding: Liberation requires following dharma in sattva, not abandoning dharma in tamas. Cannot justify harmful action as 'beyond duality'-that's tamasic delusion not transcendence. Must perform prescribed duties carefully considering consequences, following shastra-vidhi, avoiding harm-this sattvic care protects from tamasic degradation pretending to be freedom.",
-      "verseLabel": "BG 18.19",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/19/",
-      "verdict": "Correct"
+      "feedback": "Krishna explains that one who acts without egoistic identification and in alignment with duty is not bound, even when action appears severe.",
+      "verseLabel": "BG 18.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/17/"
     },
     {
       "id": "bg18-q17",
-      "prompt": "According to BG 18.20-22, what are the different types of doers?",
+      "prompt": "In the purport to BG 18.17, what dangerous misreading does Prabhupada warn against?",
       "choices": [
-        "every doers are equal through material processes",
-        "Sattvic doer is dedicated and steady",
-        "No difference and worldly philosophical speculation",
-        "primarily one type through independent material processes"
+        "Using duty as excuse for violence",
+        "Claiming non-responsibility for harmful acts",
+        "Following scripture strictly",
+        "Acting under authority"
       ],
       "correctIndex": 1,
-      "feedback": "Threefold karta (doer): sattvic is mukta-sanga-anahankara (free from attachment-ego), dhryutsaha-samanvita (endued with determination-enthusiasm), performing duty steadily regardless of success-failure; rajasic is sakta (attached to fruits), labdhakankshi (desiring gain), full of greed-pride-impurity; tamasic is ayukta (undisciplined), prakrita (vulgar), stabdha (stubborn), performing action through fraud-laziness. The trap: identifying with rajasic/tamasic patterns while claiming spirituality. Why this matters: The false path is unconscious doership-acting from impure motivation while rationalizing as duty. Real sadhana: Examine who is acting-is doer attached, greedy, stubborn? Must cultivate sattvic karta through deliberate purification-this transforms actor not just action.",
-      "verseLabel": "BG 18.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/20/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada warns against fatalism: claiming that because modes act, one bears no responsibility. True understanding removes ego, not accountability.",
+      "verseLabel": "BG 18.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/17/"
     },
     {
       "id": "bg18-q18",
-      "prompt": "In the purport to BG 18.36-39, what misconception about happiness does Srila Prabhupada refute?",
+      "prompt": "According to BG 18.18, what three factors drive action?",
       "choices": [
-        "That sattvic happiness begins bitter (discipline) but ends nectarean (self-realization)",
-        "That all happiness is equally valid since subjective experience determines value",
-        "That rajasic happiness from sense contact gives temporary pleasure but ends in distress",
-        "That tamasic happiness from sleep-laziness-intoxication deludes consciousness from beginning to end"
+        "Knowledge, action, and actor",
+        "Faith, hope, and desire",
+        "Mind, body, and soul",
+        "Time, fate, and karma"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada distinguishes: sattvic sukha is vishad-iva (poison-like initially-requires tapas) but amrita-upamam (nectar-like ultimately-atma-buddhi-prasada from self-knowledge); rajasic is vishaya-indriya-samyogat (sense-contact) giving immediate pleasure but pariname visham-iva (poison-like in consequence-creates bondage); tamasic is nidralasya-pramadottham (sleep-laziness-intoxication) deluding from adyantam (beginning to end). The trap: happiness relativism-claiming all pleasure equally valid. Why this matters: The false path is hedonic equivalence-treating sattvic discipline and tamasic intoxication as preference differences. Real discrimination: Happiness has hierarchy determined by consequence-sattvic leads to liberation, rajasic to bondage, tamasic to degradation. Must accept initial difficulty of sattvic cultivation for ultimate freedom, not pursue immediate rajasic/tamasic pleasure perpetuating suffering.",
-      "verseLabel": "BG 18.26",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/26/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Krishna identifies knowledge, action, and the doer as the threefold impetus behind work. Each is later analyzed by the modes.",
+      "verseLabel": "BG 18.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/18/"
     },
     {
       "id": "bg18-q19",
-      "prompt": "What does BG 18.31-32 teach about intelligence?",
+      "prompt": "According to BG 18.19, what characterizes knowledge in the mode of goodness?",
       "choices": [
-        "every are equal through independent material processes",
-        "Sattvic intelligence distinguishes paths; rajasic-tamasic confuses them",
-        "No difference and worldly philosophical speculation alone",
-        "Intelligence is single through independent material processes"
+        "Seeing one undivided reality",
+        "Seeing only difference",
+        "Seeing no consequence",
+        "Seeing only matter"
       ],
-      "correctIndex": 1,
-      "feedback": "Threefold buddhi (intelligence): sattvic distinguishes pravritti-nivritti (engagement-withdrawal), kartavya-akartavya (duty-non-duty), bhaya-abhaya (fear-fearlessness), bandha-moksha (bondage-liberation) properly through shastra-yukti; rajasic confuses dharma-adharma through desires-rationalizations; tamasic considers adharma as dharma being covered by tamas. The trap: trusting rajasic/tamasic buddhi making spiritual decisions. Why this matters: The false path is deluded certainty-confidently choosing adharma thinking it's dharma because buddhi is clouded. Real sadhana: Don't trust personal intelligence alone-consult shastra-guru-sadhu for dharma-discrimination. Rajasic buddhi rationalizes desire as duty; tamasic buddhi inverts values completely. Must cultivate sattvic intelligence through association-study-reflection, not rely on conditioned mind pretending to be discrimination.",
-      "verseLabel": "BG 18.31",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/31/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Sattvic knowledge sees one spiritual reality underlying diversity. It supports harmony without denying individual responsibility.",
+      "verseLabel": "BG 18.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/19/"
     },
     {
       "id": "bg18-q20",
-      "prompt": "According to BG 18.40-48, what are the duties based on birth?",
+      "prompt": "In the purport to BG 18.20, what limitation of sattvic knowledge is highlighted?",
       "choices": [
-        "No duties differ through independent material processes",
-        "Four classes exist based on qualities and occupation",
-        "every do same work through independent material processes",
-        "No order exists through independent material processes"
+        "It rejects unity",
+        "It denies individuality",
+        "It still lacks devotion",
+        "It produces ignorance"
       ],
-      "correctIndex": 1,
-      "feedback": "Varnashrama-dharma assigns duties according to guna-karma (qualities-activities)-not birth alone but psychological-occupational nature. Brahmanas (intellectual-priestly), kshatriyas (administrative-martial), vaishyas (economic-productive), shudras (service-labor)-each has prescribed duties suited to svabhava (inherent nature). The trap: thinking one path fits all or duties are arbitrary social constructs. Why this matters: The false path is dharma-relativism-rejecting varnashrama as cultural accident rather than psychological-spiritual necessity. Real understanding: Different natures require different sadhanas-intellectual types need jnana-emphasis, active types need karma-emphasis. Cannot impose uniform path ignoring svabhava. Therefore find one's actual guna-determined nature, perform corresponding dharma with bhakti-this is personalized spirituality respecting psycho-physical reality, not forcing artificial uniformity.",
-      "verseLabel": "BG 18.40",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/40/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Prabhupada notes that even sattvic knowledge is incomplete without devotion to the Supreme. Knowledge alone does not grant liberation.",
+      "verseLabel": "BG 18.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/20/"
     },
     {
       "id": "bg18-q21",
-      "prompt": "In the purport to BG 18.49-51, what does Srila Prabhupada explain about achieving siddhi (perfection) through sva-dharma?",
+      "prompt": "According to BG 18.41, how are duties determined?",
       "choices": [
-        "That perfection comes by performing own prescribed duty without attachment offering to Krishna",
-        "That sva-dharma is temporary stage to transcend eventually abandoning all material duties",
-        "That perfection requires renouncing householder duties to adopt formal sannyasa order",
-        "That sva-dharma varies by personal preference so one should follow internal inclinations"
+        "By birth alone",
+        "By natural qualities and work",
+        "By social demand",
+        "By personal preference"
       ],
-      "correctIndex": 0,
-      "feedback": "Srila Prabhupada explains sva-dharma-nishtha (being fixed in one's prescribed duty) leads to siddhi (perfection) by offering all to Krishna-yajna-arthat-karmano'nyatra (work for yajna purpose else bondage). The trap: spiritual restlessness-constantly seeking different paths thinking current position inadequate. Why this matters: The false path is dharma-shopping-abandoning actual duties pursuing exotic practices. Real sadhana: Accept current position as Krishna's arrangement-purify consciousness THERE through bhakti. Brahmana shouldn't envy kshatriya action; grhastha shouldn't artificially adopt sannyasa. Better sva-dharma imperfectly performed than para-dharma (another's duty) perfectly imitated-authenticity matters more than prestige. Therefore work through actual nature-position toward transcendence, not abandon reality for fantasy. Perfection comes through transformed consciousness in one's actual dharma, not through adopted roles.",
-      "verseLabel": "BG 18.49",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/49/",
-      "verdict": "Correct"
+      "correctIndex": 1,
+      "feedback": "Krishna explains that duties arise from one's qualities and activities, not merely birth. This preserves functional order without rigid fatalism.",
+      "verseLabel": "BG 18.41",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/41/"
     },
     {
       "id": "bg18-q22",
-      "prompt": "In the purport to BG 18.54, what does Srila Prabhupada explain about brahma-bhuta (self-realized) state?",
+      "prompt": "In the purport to BG 18.41, what misuse does Prabhupada explicitly reject?",
       "choices": [
-        "That brahma-bhuta means established in Brahman experiencing sama-darshana (equal vision)",
-        "That brahma-bhuta automatically grants prema-bhakti without further cultivation or surrender",
-        "That brahma-bhuta is prasannatma (joyful self) beyond material duality and lamentation",
-        "That brahma-bhuta develops into para-bhakti through hearing-chanting about Krishna"
+        "Determining duty by qualification",
+        "Freezing duty by birth identity",
+        "Following social order",
+        "Serving according to nature"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains brahma-bhuta (established in Brahman-transcending bodily identification) is NOT final goal but preliminary qualification-prasannatma (joyful self), na shochati na kankshati (neither laments nor desires material), sama-sarvesu (equal to all beings). The trap: mistaking brahma-bhuta for perfection. Why this matters: The false path is impersonal finality-achieving brahma-nirvana (liberation from material identification) then stopping, considering devotion sentimental. Real understanding: Brahma-bhuta is platform FROM WHICH bhakti begins-18.54 continues 'mad-bhaktim labhate param' (attains supreme devotion to Me). Impersonal liberation clears ground; bhakti is actual cultivation. Cannot bypass devotion claiming Brahman-realization suffices-that's incomplete understanding stopping at nirvishesha (formless) missing supreme personal aspect. Must proceed from brahma-bhuta to Krishna-bhakti for complete perfection.",
-      "verseLabel": "BG 18.54",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/54/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada rejects rigid birth-based caste claims divorced from qualification. Duty must align with actual qualities and work.",
+      "verseLabel": "BG 18.41",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/41/"
     },
     {
       "id": "bg18-q23",
-      "prompt": "According to BG 18.55, what is the highest path to Krishna?",
+      "prompt": "According to BG 18.46, what perfects a person through work?",
       "choices": [
-        "Study alone and worldly philosophical speculation alone",
-        "Through devotion one knows Me entering eternal abode",
-        "Meditation primarily and worldly philosophical speculation alone",
-        "Rituals and worldly philosophical speculation alone entirely"
+        "Material excellence",
+        "Personal satisfaction",
+        "Worshiping the Supreme through duty",
+        "Public recognition"
       ],
-      "correctIndex": 1,
-      "feedback": "BG 18.55 declares bhaktya mam abhijanati (through devotion alone one truly knows Me)-yavan yash chasmi tattvatah (who I am in truth). Only bhakti enables yato mam tattvato jnatva (knowing Me in reality) then visate tad-anantaram (enters into Me immediately). The trap: thinking jnana or karma alone sufficient for Krishna-realization. Why this matters: The false path is non-devotional spirituality-pursuing liberation through knowledge or action without bhakti. Real understanding: Jnana reveals Brahman (impersonal aspect); karma purifies consciousness; but only bhakti reveals Krishna's personal svarupa (form-qualities-pastimes) and grants entrance into transcendental seva. Cannot know Supreme Person through impersonal means-requires personal relationship. Therefore bhakti isn't one path among many but THE path to highest realization-Krishna Himself accessible only through devotion.",
-      "verseLabel": "BG 18.55",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/55/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krishna teaches that one attains perfection by worshiping the Supreme through one's own duty. This integrates work, devotion, and purpose.",
+      "verseLabel": "BG 18.46",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/46/"
     },
     {
       "id": "bg18-q24",
-      "prompt": "In BG 18.62, what is the final instruction to Arjuna?",
+      "prompt": "In the purport to BG 18.66, what misunderstanding does Prabhupada directly correct?",
       "choices": [
-        "Ignore Krishna and worldly philosophical speculation alone",
-        "Seek refuge in Krishna; surrender in every respect",
-        "Follow your own path through independent material processes",
-        "Disregard scripture and worldly philosophical speculation alone"
+        "Surrender means irresponsibility",
+        "Devotion replaces all discipline",
+        "Surrender cancels moral duty",
+        "Surrender denies free will"
       ],
-      "correctIndex": 1,
-      "feedback": "BG 18.62-63 instructs tam eva sharanam gaccha sarva-bhavena (take shelter of Him alone with all your being)-this complete surrender grants tat-prasadat param-shantim (supreme peace from His grace) and sthanam-avapsyasi (eternal abode). The trap: partial surrender maintaining independence in some life areas. Why this matters: The false path is compartmentalized spirituality-'Krishna for spiritual matters, I decide everything else.' Real sharanagati (surrender): sarva-bhavena means total-every thought-word-action oriented to Krishna. Not partial delegation but complete dependence. This isn't loss of selfhood but finding true self in relationship with Supreme-individual personality perfected through love not annihilated through merging. Therefore hold nothing back-surrender all plans-attachments-identifications; this total offering paradoxically grants perfect fulfillment, not diminishment.",
-      "verseLabel": "BG 18.62",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/62/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Prabhupada clarifies that surrender does not mean irresponsibility. It means acting fully under Krishna's order, not abandoning ethical or scriptural responsibility.",
+      "verseLabel": "BG 18.66",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/66/"
     },
     {
       "id": "bg18-q25",
-      "prompt": "How does Chapter 18 synthesize the entire Bhagavad-gita teaching into complete realization?",
+      "prompt": "Final Synthesis (BG 18.66): What is Krishna's ultimate instruction?",
       "choices": [
-        "Presents isolated techniques without unified framework or complete integration",
-        "Complete arc from sannyasa-tyaga through guna-mapping culminating in total surrender",
-        "Recommends choosing either karma-yoga or jnana-yoga or bhakti-yoga based on preference",
-        "Focuses purely on philosophical analysis without practical application to spiritual life"
+        "Abandon all action",
+        "Follow intuition alone",
+        "Surrender fully and act under His order",
+        "Seek impersonal liberation"
       ],
-      "correctIndex": 1,
-      "feedback": "Chapter 18 is Gita's crescendo synthesizing everything: (1) FOUNDATION: Distinguishes sannyasa-tyaga-proper renunciation isn't abandoning action but relinquishing selfish desire within action (18.1-12). (2) ANALYSIS: Presents comprehensive threefold framework-knowledge (20-22), action (23-25), doer (26-28), intelligence (29-32), determination (33-35), happiness (36-39) all analyzed through sattva-rajas-tamas showing systematic guna-purification path. (3) INTEGRATION: Varnashrama-dharma (41-48) provides personalized sadhana respecting svabhava-each person's duty suited to nature. (4) TRANSCENDENCE: Brahma-bhuta state (54) transcends gunas but isn't final-leads to para-bhakti (supreme devotion). (5) CULMINATION: Sarva-dharman parityajya mam ekam sharanam vraja (18.66)-abandon all varieties of dharma, surrender to Me alone-Krishna guarantees mokshayishyami (I shall liberate) from all papa (sin). Arc: Threefold analysis elevates through sattva; brahma-bhuta transcends gunas; but perfection comes through complete surrender to Krishna-bhakti subsumes and completes all yoga paths. Final teaching: Not impersonal merging or renunciation but personal devotional surrender to Supreme Person-this is Gita's conclusion integrating karma-jnana-bhakti into unified sadhana culminating in Krishna-prapti (attaining Krishna) in eternal Goloka-dhama.",
-      "verseLabel": "BG 18.1-78",
-      "verseUrl": "https://vedabase.io/en/library/bg/18/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krishna's final instruction is complete surrender: abandoning independent conceptions of duty and taking shelter of Him while acting under His direction. This concludes the Gita with obedience, not abstraction.",
+      "verseLabel": "BG 18.66",
+      "verseUrl": "https://vedabase.io/en/library/bg/18/66/"
     }
   ]
 }

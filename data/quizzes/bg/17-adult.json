@@ -5,382 +5,357 @@
   "audience": "adult",
   "title": "Bhagavad Gita - Chapter 17 (Adult) | 25Q",
   "difficulty": "medium-hard",
-  "publishedOn": "2026-01-28",
+  "publishedOn": "2026-02-01",
   "questions": [
     {
       "id": "bg17-q1",
-      "prompt": "In BG 17.1, what does Arjuna ask Krishna?",
+      "prompt": "In BG 17.1, what question does Arjuna raise about faith and worship?",
       "choices": [
-        "Battle strategy and worldly philosophical speculation alone",
-        "Those who disregard scripture but worship with shraddha?",
-        "About politics and worldly philosophical speculation alone",
-        "About trade and worldly philosophical speculation alone"
+        "Whether all worship gives the same result",
+        "Whether faith without scripture counts",
+        "Whether ritual defeats knowledge always",
+        "Whether devotion cancels right conduct"
       ],
       "correctIndex": 1,
-      "feedback": "Arjuna asks about those who shastra-vidhim utsrijya (disregarding scriptural injunctions) worship with shraddha (faith)-what is their position? The trap: thinking sincere intention alone suffices spiritually. Why this matters: The false path is faith divorced from knowledge. Real understanding recognizes shraddha must be directed by shastra-undirected faith becomes superstition or sentimentalism; scripture channels devotion toward actual truth not imagined spirituality.",
+      "feedback": "Arjuna asks about those who worship with faith but without scriptural direction. The chapter will test not only sincerity, but the quality and source of faith.",
       "verseLabel": "BG 17.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/1/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/17/1/"
     },
     {
       "id": "bg17-q2",
-      "prompt": "In the purport to BG 17.2-3, what misconception does Srila Prabhupada refute about faith?",
+      "prompt": "According to BG 17.2, how does Krsna classify faith?",
       "choices": [
-        "That shraddha arises from sattva, rajas, or tamas according to one's guna",
-        "That all faiths are equally valid paths leading to the same ultimate destination",
-        "That nature of worship reflects consciousness cultivated through material association",
-        "That one's shraddha determines what deities or practices one is attracted to"
+        "As one uniform spiritual force",
+        "According to the three modes",
+        "According to outward ritual form",
+        "According to social inheritance only"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains shraddha is tri-vidha (threefold) according to gunas-sattva leads to devatas, rajas to yakshas/rakshasas, tamas to pretas/bhutas; destinations differ radically. The trap: sentimental pluralism claiming all worship reaches same goal. Why this matters: The false path is religious relativism denying qualitative distinctions. Real understanding recognizes faith in Krishna consciousness (sattva) liberates; faith in demigods for material gain (rajas) binds; faith in ghosts/spirits (tamas) degrades-choose wisely.",
+      "feedback": "Krsna explains that faith corresponds to the three modes of material nature. Faith is real, but it often reflects conditioning rather than transcendence.",
       "verseLabel": "BG 17.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/2/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/17/2/"
     },
     {
       "id": "bg17-q3",
-      "prompt": "In BG 17.4, what characterizes those in sattvic faith?",
+      "prompt": "In the purport to BG 17.2, what false conclusion is corrected about sincerity?",
       "choices": [
-        "Based on desire through independent material processes",
-        "Worship demigods in sattva; demons in rajas; spirits",
-        "Impure desire and worldly philosophical speculation alone",
-        "Lust-driven and worldly philosophical speculation alone entirely"
+        "Sincerity guarantees transcendence",
+        "Sincerity is always hypocrisy",
+        "Sincerity destroys karma instantly",
+        "Sincerity rejects all discipline"
       ],
-      "correctIndex": 1,
-      "feedback": "Sattvika purusha (those in goodness) worship devatas (demigods), rajasas worship yakshas-rakshasas (demons), tamasas worship pretas-bhutas (ghosts/spirits). The trap: thinking object of worship doesn't matter if faith is sincere. Why this matters: The false path is devotional indifference. Real understanding recognizes worship directs consciousness-sattvic worship elevates toward brahman; rajasic binds in sense gratification; tamasic degrades into darkness. What you worship determines where you go.",
-      "verseLabel": "BG 17.4",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/4/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Prabhupada corrects the idea that sincerity alone guarantees spiritual elevation. Faith must be educated and purified; otherwise sincere worship can still remain within the modes.",
+      "verseLabel": "BG 17.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/2/"
     },
     {
       "id": "bg17-q4",
-      "prompt": "In the purport to BG 17.5-6, what false asceticism does Srila Prabhupada critique?",
+      "prompt": "According to BG 17.3, what is the link between faith and a person's nature?",
       "choices": [
-        "That regulated tapasya according to shastra purifies consciousness systematically",
-        "That extreme self-torture and unauthorized austerities demonstrate spiritual advancement",
-        "That disciplined body-mind-speech control constitutes genuine tapas",
-        "That austerity performed without ego-display leads to actual purification"
+        "Faith is separate from character",
+        "Faith follows family ritual only",
+        "A person is shaped by faith",
+        "Faith appears only after moksa"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada warns against ashastra-vihitam (not enjoined in scripture) tapas performed with dambha (pride), ahamkara (ego), showing off-torturing sharira-stham bhuta-gramam (bodily elements) and Paramatma within. The trap: equating suffering with spirituality. Why this matters: The false path is ascetic exhibitionism-fasting contests, extreme deprivation for recognition. Real tapas follows shastra, purifies consciousness without harming body; self-torture is tamasic delusion not spiritual progress.",
-      "verseLabel": "BG 17.5",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/5/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krsna states that a person's faith reflects their nature. Faith is not neutral; it shapes identity, behavior, and direction.",
+      "verseLabel": "BG 17.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/3/"
     },
     {
       "id": "bg17-q5",
-      "prompt": "According to BG 17.4, what characterizes tamasic faith?",
+      "prompt": "According to BG 17.4, how does worship differ across the modes?",
       "choices": [
-        "Leading to truth through independent material processes",
-        "Worship of pretas and bhutas - spirits in ignorance",
-        "Enlightening and worldly philosophical speculation alone entirely",
-        "Beneficial and worldly philosophical speculation alone entirely"
+        "All worship targets one object",
+        "Modes shape the worshiped object",
+        "Only intellect decides worship",
+        "Worship ignores conditioning"
       ],
       "correctIndex": 1,
-      "feedback": "Those in tamo-guna worship pretas (ghosts) and bhuta-gana (spirits)-seeking material harm or petty powers through dark forces. The trap: dismissing this as harmless folk practice or cultural tradition. Why this matters: The false path is occultism-seances, spirit channeling, black magic-treating tamas as neutral spirituality. Real understanding recognizes engaging ghosts/spirits degrades consciousness toward hellish realms; sattvic worship of Supreme elevates-direction matters absolutely.",
-      "verseLabel": "BG 17.6",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/6/",
-      "verdict": "Correct"
+      "feedback": "Krsna explains that worship follows the modes: sattvic worship gods, rajasic worship power, and tamasic worship spirits. The object reveals the worshiper's consciousness.",
+      "verseLabel": "BG 17.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/4/"
     },
     {
       "id": "bg17-q6",
-      "prompt": "In the purport to BG 17.7-10, what modern misconception does Srila Prabhupada address about food?",
+      "prompt": "Synthesis (BG 17.1-4): What determines the spiritual value of faith-based practice?",
       "choices": [
-        "That sattvic food increases ayuh (life), sattva (purity), bala (strength), arogya (health)",
-        "That diet is merely physical nutrition with no effect on consciousness or spiritual progress",
-        "That rajasic food creates katu (bitter), amla (sour), lavana (salty) disturbance",
-        "That tamasic food includes yata-yamam (stale), gata-rasam (tasteless), puti (putrid) items"
+        "Intensity of belief alone",
+        "Mode-shaped faith guided by authority",
+        "Ritual complexity and tradition",
+        "Popularity and social approval"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains ahara (food) directly affects consciousness-sattvic ahara supports sattva-guna enabling spiritual practice; rajasic creates rajas (agitation); tamasic produces tamas (lethargy/delusion). The trap: thinking diet is purely physiological. Why this matters: The false path is nutritional reductionism. Real understanding recognizes food nourishes subtle body-eating meat, stale, intoxicated foods literally absorbs those qualities into consciousness; prasadam elevates. You are what you eat, spiritually.",
-      "verseLabel": "BG 17.7",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/7/",
-      "verdict": "Correct"
+      "feedback": "The opening establishes that faith is real but conditioned. Its value depends on purification through proper authority, not mere intensity or cultural form.",
+      "verseLabel": "BG 17.1-4",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/2/"
     },
     {
       "id": "bg17-q7",
-      "prompt": "In the purport to BG 17.11-13, what false understanding of yajna does Srila Prabhupada critique?",
+      "prompt": "In the purport to BG 17.5-6, what is the key sign of demoniac austerity?",
       "choices": [
-        "That sattvic yajna performed as duty (kartavya) without phala-desire liberates",
-        "That sacrifice performed for material gains or recognition constitutes genuine spirituality",
-        "That deshakala-patrabhih (proper place, time, person) determines yajna's effectiveness",
-        "That yajna without shraddha, without proper mantra or offering is tamasic"
+        "Scriptural restraint and humility",
+        "Self-torture that ignores Supersoul",
+        "Steady fasting for purification",
+        "Austerity offered with devotion"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains sattvic yajna is nishkama (desireless)-performed as kartavya (duty) per vidhi-dishtah (scriptural ordinance) without phala-prepsuna (fruit desire). Rajasic yajna seeks dambhartham (ostentation) or phala (reward). The trap: thinking ritual with selfish motive equals spirituality. Why this matters: The false path is transactional religion-sacrificing for profit, fame, or favor is business not bhakti. Real yajna purifies ego through selfless offering; rajasic yajna strengthens ego through religious exhibitionism.",
-      "verseLabel": "BG 17.8",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/8/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada highlights a dangerous counterfeit: austerity that harms the body and disregards the Lord within. It looks intense, but it strengthens ignorance and ego.",
+      "verseLabel": "BG 17.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/6/"
     },
     {
       "id": "bg17-q8",
-      "prompt": "According to BG 17.11, what defines sattvic sacrifice?",
+      "prompt": "In the purport to BG 17.5-6, what false-path mistake is directly warned against?",
       "choices": [
-        "For personal gain through independent material processes",
-        "Performed as duty according to scripture without desire",
-        "For show and worldly philosophical speculation alone",
-        "Selfish and worldly philosophical speculation alone entirely"
+        "Calling self-torture spiritual strength",
+        "Rejecting all austerity as useless",
+        "Preferring comfort over discipline",
+        "Avoiding regulation in devotion"
       ],
-      "correctIndex": 1,
-      "feedback": "Sattvic yajna done vidhi-dishtah (according to injunction), kartavyam (as duty), without phala-prepsuna (desiring fruit)-pure offering without expectation. The trap: seeking spiritual merit or heavenly reward from sacrifice. Why this matters: The false path is conditional devotion-'I'll worship if You give me...' Real sattvic yajna is unconditional-performed because it's dharma regardless of outcome; this nishkama-karma purifies consciousness of selfish motivation, enabling actual spiritual progress beyond transaction.",
-      "verseLabel": "BG 17.11",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/11/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Prabhupada warns against glorifying self-inflicted suffering as spirituality. Such practices inflate ego and damage both body and consciousness.",
+      "verseLabel": "BG 17.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/6/"
     },
     {
       "id": "bg17-q9",
-      "prompt": "In BG 17.12, what is rajasic sacrifice?",
+      "prompt": "According to BG 17.7, how does Krsna classify food?",
       "choices": [
-        "Pure and virtuous through independent material processes",
-        "Performed for fame, honor, or with ostentation",
-        "Without expectation and worldly philosophical speculation alone",
-        "Selfless and worldly philosophical speculation alone"
+        "By personal taste alone",
+        "By economic availability",
+        "By the three modes",
+        "By local tradition only"
       ],
-      "correctIndex": 1,
-      "feedback": "Rajasic yajna performed abhisandhayadambhartham (with aim for reward or ostentation)-seeking puja (worship), pratishtha (fame), material benefit. The trap: thinking religious display equals spiritual advancement. Why this matters: The false path is performative piety-grand rituals for social credit, charity for recognition. Real spirituality transforms ego; rajasic spirituality inflates it. Sattvic yajna purifies through humility; rajasic yajna pollutes through pride-same external act, opposite internal effect based on motivation.",
-      "verseLabel": "BG 17.12",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/12/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Krsna classifies food according to the modes. Diet influences consciousness and tends to reinforce the mode in which one lives.",
+      "verseLabel": "BG 17.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/7/"
     },
     {
       "id": "bg17-q10",
-      "prompt": "In the purport to BG 17.13, what false sacrifice does Srila Prabhupada identify?",
+      "prompt": "According to BG 17.8, what characterizes sattvic food?",
       "choices": [
-        "Yajna performed vidhi-dishtah (according to ordinance) with proper shraddha",
-        "Sacrifice without shraddha, without mantra, without offerings, violating dharma",
-        "Yajna given to qualified brahmanas at proper time and place systematically",
-        "Sacrifice performed as kartavya (duty) without seeking reward or recognition"
+        "Very bitter and painful",
+        "Stale and decomposed",
+        "Wholesome and life-sustaining",
+        "Exciting but harmful later"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada identifies tamasic yajna-avidhi-purvakam (without proper process), shraddha-virahitam (devoid of faith), no mantras, no dakshina (offerings), no annam (food distribution). The trap: thinking ritual form suffices without proper execution. Why this matters: The false path is spiritual negligence-haphazard rituals, no mantras, prohibited items, expecting results. Real yajna follows shastra precisely; tamasic yajna ignores procedure expecting magic-worse than not performing because creates offense not merit.",
-      "verseLabel": "BG 17.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/13/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Sattvic food promotes health, satisfaction, and longevity. It supports clarity and steadiness useful for spiritual practice.",
+      "verseLabel": "BG 17.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/8/"
     },
     {
       "id": "bg17-q11",
-      "prompt": "According to BG 17.14-15, what is sattvic austerity?",
+      "prompt": "According to BG 17.9-10, what distinguishes rajasic and tamasic food?",
       "choices": [
-        "Painful and forced through independent material processes",
-        "Discipline of body-mind-speech without desire for results",
-        "Seeking reward and worldly philosophical speculation alone",
-        "Ego-driven and worldly philosophical speculation alone"
+        "Flavor and price signals",
+        "Family rule and custom",
+        "Effect on mind and body",
+        "Geographic origin only"
       ],
-      "correctIndex": 1,
-      "feedback": "Sattvic tapas includes sharira (body), vak (speech), manas (mind) discipline-worship of devatas-brahmanas-gurus, shauca (cleanliness), arjava (straightforwardness), brahmacharya-ahimsa-performed without phala-prepsuna (fruit desire). The trap: thinking austerity must be dramatic display. Why this matters: The false path is ascetic theater. Real tapas is daily discipline-regulated eating/sleeping, truthful speech, pure thought-performed steadily without fanfare; this builds spiritual strength. Rajasic tapas performs extreme acts for attention; sattvic tapas cultivates steady virtue privately.",
-      "verseLabel": "BG 17.14",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/14/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Rajasic food agitates, and tamasic food degrades. The distinction lies in effect on consciousness, not preference or culture.",
+      "verseLabel": "BG 17.9-10",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/10/"
     },
     {
       "id": "bg17-q12",
-      "prompt": "In BG 17.16, what is rajasic austerity?",
+      "prompt": "According to BG 17.11, what defines sacrifice in the mode of goodness?",
       "choices": [
-        "Pure and spiritual through independent material processes",
-        "Austerity performed for fame, honor, or to deceive; unstable",
-        "Bringing stability and worldly philosophical speculation alone",
-        "Without ego and worldly philosophical speculation alone"
+        "Done for prestige and praise",
+        "Done as duty, no reward",
+        "Done reluctantly under pressure",
+        "Done secretly for advantage"
       ],
       "correctIndex": 1,
-      "feedback": "Rajasic tapas performed satkara-mana-pujartham (for honor, prestige, worship), dambhena (with hypocrisy)-chala (temporary), asthiram (unstable). The trap: spiritual practices for social status. Why this matters: The false path is religious careerism-austerity as resume builder, charity for publicity, meditation for celebrity. Real tapas transforms consciousness; rajasic tapas cultivates image. When motivation is recognition not realization, practice becomes obstacle-strengthening ego rather than dissolving it.",
-      "verseLabel": "BG 17.16",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/16/",
-      "verdict": "Correct"
+      "feedback": "Sattvic sacrifice is done as duty, without desire for reward. Intention purifies the act.",
+      "verseLabel": "BG 17.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/11/"
     },
     {
       "id": "bg17-q13",
-      "prompt": "In the purport to BG 17.19, what extreme practice does Srila Prabhupada warn against?",
+      "prompt": "In the purport to BG 17.11-12, what misuse of sacrifice is exposed?",
       "choices": [
-        "Regulated tapasya following shastra under guru guidance with proper balance",
-        "Self-torture, extreme fasting, body mutilation performed from delusion to harm others",
-        "Disciplined austerity of body, speech, mind cultivating divine qualities steadily",
-        "Measured asceticism that purifies without damaging physical or mental health"
+        "Sacrifice as a bargain for gain",
+        "Sacrifice as duty without reward",
+        "Sacrifice offered for purification",
+        "Sacrifice guided by authority"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada warns against mudha-grahenatmanah (foolish conception of self) tapas-self-torture, extreme starvation, body-mutilation to control others or cause harm. The trap: equating pain with piety. Why this matters: The false path is masochistic asceticism. Real tapas follows shastra-measured discipline purifying consciousness; tamasic tapas tortures body from moha (delusion), often with black magic intent. Paramatma resides in body-harming it is himsa (violence) against Supreme within.",
-      "verseLabel": "BG 17.17",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/17/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Prabhupada warns against treating sacrifice as a transaction with God. When results dominate, the act becomes rajasic or tamasic rather than purifying.",
+      "verseLabel": "BG 17.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/12/"
     },
     {
       "id": "bg17-q14",
-      "prompt": "According to BG 17.20-22, what are the three types of charity?",
+      "prompt": "According to BG 17.14-16, what is austerity of body, speech, and mind?",
       "choices": [
-        "No difference exists through independent material processes",
-        "Sattvic given to worthy without expectation; rajasic for return",
-        "Equally valuable and worldly philosophical speculation alone",
-        "One standard primarily through independent material processes"
+        "Extreme physical endurance",
+        "Aligned conduct, words, thought",
+        "Withdrawal from all society",
+        "Rejection of all regulation"
       ],
       "correctIndex": 1,
-      "feedback": "Sattvic danam given desha-kale cha patre (proper place, time, person), anapekshya (without expectation), kartavya (as duty). Rajasic given pratyupakarartha (for return) or phalam (fruit). Tamasic given adesha-kale (wrong place-time), apatrebhyah (unworthy), avajnaya (disrespectfully). The trap: thinking all charity equally meritorious. Why this matters: The false path is indiscriminate giving. Real dana requires discrimination-supporting worthy causes advances dharma; funding vice enables degradation; giving for return is transaction not charity.",
-      "verseLabel": "BG 17.18",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/18/",
-      "verdict": "Correct"
+      "feedback": "True austerity harmonizes behavior, speech, and mind. It is constructive discipline, not repression or display.",
+      "verseLabel": "BG 17.14-16",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/14/"
     },
     {
       "id": "bg17-q15",
-      "prompt": "In the purport to BG 17.23-27, what is the significance of Om Tat Sat?",
+      "prompt": "According to BG 17.17, what makes austerity sattvic?",
       "choices": [
-        "Arbitrary sounds and worldly philosophical speculation alone",
-        "Om designates Supreme; Tat signifies transcendence; Sat denotes existence",
-        "Meaningless syllables through independent material processes alone",
-        "Cultural tradition and worldly philosophical speculation alone"
+        "Intensity alone is enough",
+        "Only public recognition matters",
+        "Steady practice, no honor-seeking",
+        "Done only by renunciants"
       ],
-      "correctIndex": 1,
-      "feedback": "Srila Prabhupada explains Om is Brahman's designation, Tat indicates 'that' (transcendent), Sat means 'eternal existence'-together indicating param brahma (Supreme Absolute Truth). The trap: treating sacred syllables as superstition. Why this matters: The false path is spiritual materialism ignoring transcendent content. Real understanding recognizes Om Tat Sat invokes Supreme Reality-chanting these sabdas (sounds) connects consciousness to tattva (truth) they represent; not magic formula but conscious alignment with Absolute.",
-      "verseLabel": "BG 17.19",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/19/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Sattvic austerity is steady, sincere, and free from desire for recognition. Motive determines quality.",
+      "verseLabel": "BG 17.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/17/"
     },
     {
       "id": "bg17-q16",
-      "prompt": "What does BG 17.20 teach about tamasic charity?",
+      "prompt": "In the purport to BG 17.18, what is the subtle trap in rajasic austerity?",
       "choices": [
-        "Highly virtuous and worldly philosophical speculation alone",
-        "Given at wrong time-place to unworthy person; disrespectfully",
-        "Pure giving and worldly philosophical speculation alone",
-        "Truly generous and worldly philosophical speculation alone"
+        "Seeking honor while calling it tapasya",
+        "Rejecting tapasya as outdated",
+        "Avoiding comfort for devotion",
+        "Keeping speech truthful and kind"
       ],
-      "correctIndex": 1,
-      "feedback": "Krishna teaches tri-vidha (threefold) division based on gunas-sattvic shraddha-ahara-yajna-tapas-dana leads to sattva-guna elevation; rajasic creates rajas; tamasic produces tamas. Each category (faith, food, sacrifice, austerity, charity) reflects and reinforces one's consciousness. The trap: thinking externals don't affect internals. Why this matters: The false path is spiritual carelessness. Real practice requires discrimination-choosing sattvic food, sattvic charity, sattvic tapas systematically cultivates sattva-guna; mixed practice produces mixed results. What you worship, eat, sacrifice, practice, give-determines who you become.",
-      "verseLabel": "BG 17.20",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/20/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Prabhupada stresses the trap: austerity performed to gain respect. It may look spiritual, but it feeds prestige and remains unstable in result.",
+      "verseLabel": "BG 17.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/18/"
     },
     {
       "id": "bg17-q17",
-      "prompt": "According to BG 17.22, what is the result of sattvic action?",
+      "prompt": "According to BG 17.19, what is the fate of tamasic austerity?",
       "choices": [
-        "Leads to bondage through independent material processes",
-        "Duty performed without attachment; one attains spiritual perfection",
-        "Creates suffering and worldly philosophical speculation alone",
-        "Brings impurity and worldly philosophical speculation alone"
+        "Permanent spiritual elevation",
+        "Temporary piety and clarity",
+        "Suffering and degradation",
+        "Immediate liberation"
       ],
-      "correctIndex": 1,
-      "feedback": "Sattvic action done niyatam (regulated), sangam tyaktva (abandoning attachment), phalam (fruit) not desired-this elevates to shuddha-sattva (pure goodness) toward mukti (liberation). The trap: thinking action itself causes bondage. Why this matters: The false path is escapism-avoiding duty seeking liberation through inaction. Real freedom comes through nishkama-karma-performing duty with detachment transforms karma-bandhana (bondage of action) into karma-yoga (yoga of action); same act, different consciousness, opposite result.",
-      "verseLabel": "BG 17.22",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/22/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Tamasic austerity leads to harm and degradation. It neither purifies nor liberates.",
+      "verseLabel": "BG 17.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/19/"
     },
     {
       "id": "bg17-q18",
-      "prompt": "In the purport to BG 17.23-24, what misconception about Om Tat Sat does Srila Prabhupada address?",
+      "prompt": "According to BG 17.20, what characterizes charity in the mode of goodness?",
       "choices": [
-        "That yajna-dana-tapas performed with Om Tat Sat dedication reaches Supreme Brahman",
-        "That sacred syllables are mechanical formulas working automatically without bhava (devotion)",
-        "That three terms indicate param brahma (Supreme Absolute Truth) beyond material existence",
-        "That activities sanctified by Om Tat Sat transcend guna-influence toward transcendence"
+        "Given for public praise",
+        "Given properly, no return",
+        "Given under pressure only",
+        "Given to degrade others"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada clarifies Om Tat Sat isn't magic spell-requires shraddha-bhakti (faithful devotion) toward param brahma (Supreme). Chanting sounds without consciousness of tattva (reality) they represent is mechanical ritual. The trap: treating mantras as vending machines. Why this matters: The false path is mantra materialism. Real practice engages consciousness-Om invokes Absolute, Tat indicates transcendence, Sat affirms eternal existence; together directing awareness to Krishna beyond gunas. Sound with consciousness transforms; sound without consciousness remains noise.",
-      "verseLabel": "BG 17.23",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/23/",
-      "verdict": "Correct"
+      "feedback": "Sattvic charity is given as duty, without expectation, and with discernment of place, time, and recipient.",
+      "verseLabel": "BG 17.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/20/"
     },
     {
       "id": "bg17-q19",
-      "prompt": "What is the practical value of understanding the three modes in Chapter 17?",
+      "prompt": "In the purport to BG 17.20-22, what principle governs charity's quality?",
       "choices": [
-        "It is philosophical primarily through independent material processes",
-        "One can identify and transcend lower tendencies; cultivate higher ones",
-        "It has no application through independent material processes",
-        "It is abstract through independent material processes alone"
+        "Quantity alone decides merit",
+        "Emotion alone decides virtue",
+        "Consciousness and discrimination",
+        "Public approval is decisive"
       ],
-      "correctIndex": 1,
-      "feedback": "Chapter 17 provides practical diagnostic-assess shraddha, ahara, yajna, tapas, dana by guna-quality. Sattvic practices systematically cultivate sattva; rajasic strengthen rajas; tamasic degrade into tamas. The trap: thinking self-assessment is judgmental. Why this matters: The false path is spiritual blindness. Real progress requires honest evaluation-is my worship sattvic (Supreme), rajasic (demigods for gain), tamasic (ghosts/spirits)? Is diet sattvic, rajasic, tamasic? Daily choices determine trajectory. This knowledge empowers conscious cultivation of sattva toward transcendence.",
-      "verseLabel": "BG 17.24",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/24/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Prabhupada emphasizes that motive and awareness govern charity. Charity without discrimination can degrade rather than uplift.",
+      "verseLabel": "BG 17.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/22/"
     },
     {
       "id": "bg17-q20",
-      "prompt": "According to Chapter 17, how should one choose their path?",
+      "prompt": "In the purport to BG 17.23, what is the practical role of om tat sat?",
       "choices": [
-        "Follow anyone and worldly philosophical speculation alone",
-        "Choose sattvic practices; they lead to eternal benefit",
-        "Follow pleasure and worldly philosophical speculation alone",
-        "Follow what others do through independent material processes"
+        "A charm for material success",
+        "A sanctifier of spiritual acts",
+        "A code for social morality",
+        "A sound with no meaning"
       ],
       "correctIndex": 1,
-      "feedback": "Krishna's prescription is clear: choose sattvic shraddha-ahara-yajna-tapas-dana deliberately. These systematically elevate guna from tamas -> rajas -> sattva -> nirguna (transcendence). The trap: drifting with conditioning. Why this matters: The false path is spiritual passivity-accepting inherited patterns unexamined. Real sadhana requires agency-consciously adopting sattvic food, sattvic worship, sattvic charity despite conditioning. This volitional cultivation of sattva-guna is preliminary purification enabling eventual transcendence beyond all gunas to shuddha-bhakti.",
-      "verseLabel": "BG 17.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada presents om tat sat as a spiritual designation that connects sacrifice, austerity, and charity to the Supreme, protecting one from fruitive or ego-centered practice.",
+      "verseLabel": "BG 17.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/23/"
     },
     {
       "id": "bg17-q21",
-      "prompt": "How does Chapter 17's threefold analysis of faith relate to Krishna's earlier teachings on gunas?",
+      "prompt": "According to BG 17.24-25, how should sacrifice, austerity, and charity be performed?",
       "choices": [
-        "It contradicts guna teachings through independent material processes entirely",
-        "It shows shraddha operates within guna-framework reflecting consciousness level",
-        "Faith is independent from gunas through independent material processes",
-        "Gunas are irrelevant to faith through independent material processes"
+        "For quick material benefit",
+        "As ritual without meaning",
+        "As offering to the Supreme",
+        "As social custom only"
       ],
-      "correctIndex": 1,
-      "feedback": "Chapter 17 applies guna-theory (Ch14) to shraddha specifically-faith isn't beyond gunas but expresses through them. Sattvika shraddha worships devatas/Supreme, rajasika seeks material rewards, tamasika engages darkness. Understanding this prevents romanticizing blind faith; all shraddha isn't equal. Real advancement requires cultivating sattvic faith through knowledge-association, elevating consciousness from rajas/tamas. Faith within gunas is material; transcendent bhakti goes beyond all three.",
-      "verseLabel": "BG 17.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Acts performed with reference to the Absolute are offered to the Supreme and gain spiritual value. Without that connection, practice tends to remain within the modes.",
+      "verseLabel": "BG 17.24-25",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/25/"
     },
     {
       "id": "bg17-q22",
-      "prompt": "In the purport to BG 17.28, what does Srila Prabhupada teach about activities without faith?",
+      "prompt": "According to BG 17.26-27, what does sat indicate in spiritual life?",
       "choices": [
-        "That shraddha-less sacrifice-charity-austerity still accumulates some spiritual merit easily",
-        "That actions without faith in Krishna are asat bringing no benefit",
-        "That mechanical performance of duty generates karma-phala in svarga (heaven) eventually",
-        "That faithless yajna-dana-tapas purify consciousness through habitual repetition alone"
+        "Material permanence and stability",
+        "Enduring reality linked to devotion",
+        "Neutrality beyond all action",
+        "Social morality and reputation"
       ],
       "correctIndex": 1,
-      "feedback": "Srila Prabhupada emphasizes shraddha-virahitam (without faith) action is asat (not eternal), naiveha (not here), na pretya (not hereafter)-bears no lasting fruit. The trap: thinking religious actions accumulate merit automatically. Why this matters: The false path is faithless ritual. Real benefit requires shraddha directed toward param brahma-ritualistic performance without devotional consciousness is asat (temporary), produces no transcendent result. Faith connects action to eternal; faithlessness keeps action material.",
-      "verseLabel": "BG 17.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
-      "verdict": "Correct"
+      "feedback": "Sat refers to enduring spiritual existence and proper conduct directed toward the Supreme. It points to what lasts beyond temporary mood and fashion.",
+      "verseLabel": "BG 17.26-27",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/27/"
     },
     {
       "id": "bg17-q23",
-      "prompt": "How does Chapter 17 provide practical guidance for spiritual discrimination in daily life?",
+      "prompt": "In the purport to BG 17.28, why are acts without faith called asat?",
       "choices": [
-        "It teaches abstract philosophy without practical application to daily choices",
-        "It maps guna-quality across faith, food, sacrifice, austerity, charity for self-assessment",
-        "It focuses only on ritualistic rules without consciousness transformation",
-        "Theory dominates without connection to actual spiritual practice or progress"
+        "They are sinful by default",
+        "They lack lasting spiritual result",
+        "They are always materially harmful",
+        "They must be hidden from others"
       ],
       "correctIndex": 1,
-      "feedback": "Chapter 17 is operational manual-provides guna-mapping for assessing every aspect of spiritual life. Before eating: sattvic, rajasic, tamasic? Before charity: proper recipient, time, place? Before worship: sattvic deity or rajasic demigod? This framework enables moment-by-moment discrimination. Real spiritual life is conscious choice based on knowledge; unconscious drift follows conditioning. This teaching empowers deliberate cultivation of sattva-guna systematically through informed daily decisions.",
-      "verseLabel": "BG 17.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
-      "verdict": "Correct"
+      "feedback": "Prabhupada explains that acts without faith in the Supreme are asat: they do not yield lasting spiritual benefit, regardless of external effort or impressive form.",
+      "verseLabel": "BG 17.28",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/28/"
     },
     {
       "id": "bg17-q24",
-      "prompt": "How does Om Tat Sat (17.23) function as integrating principle for Chapter 17's teachings?",
+      "prompt": "Synthesis (BG 17): Which option best states the chapter's core warning?",
       "choices": [
-        "As arbitrary formula unrelated to chapter's guna-analysis framework",
-        "As transcendent reference point ensuring actions transcend guna-limitations toward Absolute",
-        "Merely cultural mantra without philosophical significance for spiritual practice",
-        "Mechanical sound automatically purifying actions regardless of consciousness or motivation"
+        "Discipline reduces spiritual freedom",
+        "Sincerity sanctifies all practice",
+        "Faith must be purified and directed",
+        "Ritual complexity guarantees success"
       ],
-      "correctIndex": 1,
-      "feedback": "Om Tat Sat provides vertical axis-while guna-analysis (sattva-rajas-tamas) shows horizontal differentiation, Om Tat Sat points upward toward param brahma beyond all gunas. Without this transcendent reference, sattvic practices remain within material nature. Om Tat Sat dedication transforms sattvic action into bhakti-directing worship, austerity, charity toward Absolute not just elevated material platform. Integration: know gunas (horizontal), transcend through Om Tat Sat (vertical) toward Krishna.",
-      "verseLabel": "BG 17.25",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/25/",
-      "verdict": "Correct"
+      "correctIndex": 2,
+      "feedback": "Chapter 17 warns that sincerity without proper guidance can remain bound by the modes. Faith must be purified by authority, motive, and devotion.",
+      "verseLabel": "BG 17",
+      "verseUrl": "https://vedabase.io/en/library/bg/17/"
     },
     {
       "id": "bg17-q25",
-      "prompt": "How do Chapter 17's teachings on threefold faith (17.2-4), threefold food (17.7-10), threefold sacrifice (17.11-13), threefold austerity (17.14-19), and threefold charity (17.20-22) work together to guide spiritual practice?",
+      "prompt": "Synthesis (BG 17.23-28): What is the decisive difference between sat and asat practice?",
       "choices": [
-        "Five unrelated teachings requiring choosing which category to emphasize primarily",
-        "Comprehensive guna-mapping showing faith determines food affecting capacity for sacrifice-austerity-charity",
-        "Theoretical philosophy without practical implications for daily spiritual life or sadhana",
-        "Contradictory approaches to spirituality requiring personal interpretation or selection"
+        "How difficult the practice feels",
+        "Whether it pleases society",
+        "Connection to the Supreme Truth",
+        "Whether it uses many rituals"
       ],
-      "correctIndex": 1,
-      "feedback": "Chapter 17 presents integrated system: (1) Shraddha (faith) establishes consciousness-level determining what you worship. (2) Ahara (food) reinforces that guna-sattvic food supports sattvic consciousness. (3) Yajna (sacrifice) channels energy-sattvic yajna purifies accumulated karma. (4) Tapas (austerity) disciplines body-mind-speech-sattvic tapas builds spiritual strength. (5) Dana (charity) distributes resources-sattvic dana advances dharma. These aren't isolated but synergistic: sattvic faith -> sattvic food -> capacity for sattvic yajna -> strength for sattvic tapas -> discrimination for sattvic dana. Result: systematic cultivation of sattva-guna. Final step: Om Tat Sat dedication transcends sattva toward nirguna-bhakti-pure devotion beyond material nature.",
+      "correctIndex": 2,
+      "feedback": "The closing section makes the decisive test: practice becomes sat when it is anchored in the Supreme (om tat sat) and done with real faith. Otherwise it is asat, lacking enduring spiritual value.",
       "verseLabel": "BG 17.28",
-      "verseUrl": "https://vedabase.io/en/library/bg/17/28/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/17/28/"
     }
   ]
 }

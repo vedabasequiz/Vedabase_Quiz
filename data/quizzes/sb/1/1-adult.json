@@ -6,7 +6,7 @@
   "title": "Srimad Bhagavatam - Canto 1 Chapter 1 | Adult Quiz (25Q)",
   "audience": "adult",
   "difficulty": "medium-hard",
-  "publishedOn": "2026-01-29",
+  "publishedOn": "2026-02-02T10:44:20",
   "questionCount": 25,
   "questions": [
     {
@@ -233,7 +233,9 @@
       "verseLabel": "SB 1.1.13",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/13/",
       "source": "purport",
-      "tags": ["synthesis"]
+      "tags": [
+        "synthesis"
+      ]
     },
     {
       "id": "sb1-1-16",
@@ -369,7 +371,9 @@
       "verseLabel": "SB 1.1 Summary",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/",
       "source": "translation",
-      "tags": ["synthesis"]
+      "tags": [
+        "synthesis"
+      ]
     },
     {
       "id": "sb1-1-25",
@@ -385,7 +389,9 @@
       "verseLabel": "SB 1.1 Summary",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/",
       "source": "translation",
-      "tags": ["synthesis"]
+      "tags": [
+        "synthesis"
+      ]
     }
   ]
 }

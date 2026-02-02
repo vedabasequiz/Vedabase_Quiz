@@ -5,157 +5,157 @@
   "audience": "kids",
   "title": "Bhagavad Gita - Chapter 1 (Kids) | 10Q",
   "difficulty": "easy",
-  "publishedOn": "2026-01-29",
+  "publishedOn": "2026-02-01",
   "questions": [
     {
-      "id": "bg1-q1-kids",
-      "prompt": "King Dhritarastra cannot see the battlefield himself. What does he ask Sanjaya to tell him about?",
+      "id": "bg1-q1",
+      "source": "purport",
+      "prompt": "In BG 1.1, why is Kuruksetra called a special place?",
       "choices": [
-        "What the soldiers are eating for meals",
-        "What his own sons are doing at the battle",
-        "Why the horses are tired and resting",
-        "What day it is on the calendar"
+        "It is a holy place",
+        "It is a busy city",
+        "It is a forest camp",
+        "It is near the sea"
       ],
-      "correctIndex": 1,
-      "feedback": "The king wants to know what his own sons are doing now that they have gathered.",
+      "correctIndex": 0,
+      "feedback": "Kuruksetra is a holy place. This means what is right is supported there, and Krsna is guiding events.",
       "verseLabel": "BG 1.1",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/1/"
     },
     {
-      "id": "bg1-q1p-kids",
-      "prompt": "Why is King Dhritarastra described as blind in Srila Prabhupada's explanation?",
+      "id": "bg1-q2",
+      "source": "translation",
+      "prompt": "In BG 1.1, what does Dhritarastra ask Sanjaya?",
       "choices": [
-        "Only because his eyes cannot see physical things around him",
-        "Because he cannot see with his eyes or understand spiritual truth",
-        "Because he is very old and weak in his body",
-        "Only because he needs Sanjaya to help him always"
+        "What is happening on the battlefield",
+        "Who is cooking food",
+        "Where the river is",
+        "When the rain will come"
       ],
-      "correctIndex": 1,
-      "feedback": "Dhritarastra cannot see with his eyes, and his love for his sons makes him forget what is right.",
-      "verseLabel": "BG 1.1 Purport",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Dhritarastra asks what his sons and the Pandavas are doing. He feels worried about what will happen next.",
+      "verseLabel": "BG 1.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/1/"
     },
     {
-      "id": "bg1-q2-kids",
-      "prompt": "When Duryodhana sees the Pandava army, who does he go to speak with?",
+      "id": "bg1-q3",
+      "source": "translation",
+      "prompt": "In BG 1.14, what do Krsna and Arjuna do before the battle?",
       "choices": [
-        "His father the king to ask for advice",
-        "His teacher Dronacarya to talk about the battle",
-        "His brother Duhsasana to share his feelings",
-        "Lord Krsna to ask for help and protection"
+        "They blow conchshells loudly",
+        "They cook food together",
+        "They build a house",
+        "They swim in water"
       ],
-      "correctIndex": 1,
-      "feedback": "Duryodhana goes to his teacher Dronacarya after seeing the Pandava army arranged for battle.",
-      "verseLabel": "BG 1.2",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/2/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Krsna and Arjuna blow their conchshells. The strong sound gives courage and hope to their side.",
+      "verseLabel": "BG 1.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/14/"
     },
     {
-      "id": "bg1-q2p-kids",
-      "prompt": "Srila Prabhupada explains that Krsna's conchshell and the Pandavas' conchshells have special names. What does this tell us?",
+      "id": "bg1-q4",
+      "source": "translation",
+      "prompt": "In BG 1.20, what does Arjuna do after seeing the Kaurava army?",
       "choices": [
-        "These are just regular items that someone named much later",
-        "Only rich people can have named possessions and special items",
-        "Even Krsna's conchshell is eternal and special in the spiritual world",
-        "Names are just made up for fun in the stories"
+        "He lifts his bow",
+        "He falls asleep",
+        "He runs away",
+        "He starts singing"
       ],
-      "correctIndex": 2,
-      "feedback": "Krsna's conchshell is eternal and special, just like Him. Everything connected to Krsna is eternal and real.",
-      "verseLabel": "BG 1.14 Purport",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/14/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Arjuna lifts his bow and prepares to speak. He is brave and ready to understand the situation.",
+      "verseLabel": "BG 1.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/20/"
     },
     {
-      "id": "bg1-q3-kids",
-      "prompt": "Why does Grandfather Bhisma blow his mighty conchshell?",
+      "id": "bg1-q5",
+      "source": "translation",
+      "prompt": "In BG 1.21-1.22, what does Arjuna ask Krsna to do?",
       "choices": [
-        "To frighten the Pandavas and make them run away scared",
-        "To cheer up Duryodhana and make him feel better and confident",
-        "To signal that it is time to eat the meal now",
-        "To call all the soldiers to gather for a meeting together"
+        "Place the chariot between the armies",
+        "Take him home right away",
+        "Give him a new bow",
+        "Stop the war immediately"
       ],
-      "correctIndex": 1,
-      "feedback": "Bhisma blows his conchshell loudly to cheer up Duryodhana and give him courage.",
-      "verseLabel": "BG 1.12",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/12/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Arjuna asks Krsna to place the chariot between the armies. Krsna kindly helps him.",
+      "verseLabel": "BG 1.21-1.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/21/"
     },
     {
-      "id": "bg1-q4-kids",
-      "prompt": "After Bhisma blows his conchshell, what do the Pandavas do?",
+      "id": "bg1-q6",
+      "source": "translation",
+      "prompt": "In BG 1.26, whom does Arjuna see on both sides?",
       "choices": [
-        "They run away from the battlefield in fear and confusion",
-        "They blow many conchshells at the same time together",
-        "They stay completely silent without making any sound at all",
-        "They immediately charge forward to begin the battle"
+        "Family members and teachers",
+        "Wild animals",
+        "Only strangers",
+        "Peaceful monks"
       ],
-      "correctIndex": 1,
-      "feedback": "The Pandavas respond by blowing many conchshells together, showing their strength and confidence.",
-      "verseLabel": "BG 1.13",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/13/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Arjuna sees many relatives and teachers. This shows he has a caring and gentle heart.",
+      "verseLabel": "BG 1.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/26/"
     },
     {
-      "id": "bg1-q4p-kids",
-      "prompt": "According to Srila Prabhupada, why is Arjuna's sadness about his relatives a problem?",
+      "id": "bg1-q7",
+      "source": "translation",
+      "prompt": "In BG 1.27, how does Arjuna feel after seeing his relatives?",
       "choices": [
-        "Because sadness is always wrong in all situations and should never happen",
-        "Because he thinks his relatives are only bodies and forgets their eternal souls",
-        "Because warriors should never care about anyone according to spiritual teaching",
-        "Because feeling sad makes you completely weak forever according to spiritual teaching"
+        "He feels very sad",
+        "He feels very proud",
+        "He feels very hungry",
+        "He feels very sleepy"
       ],
-      "correctIndex": 1,
-      "feedback": "Arjuna thinks his relatives are only bodies and forgets they are eternal souls. This confuses him about what is right.",
-      "verseLabel": "BG 1.28 Purport",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/28/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Arjuna feels sad because he cares about his family. It is okay to feel this way.",
+      "verseLabel": "BG 1.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/27/"
     },
     {
-      "id": "bg1-q5p-kids",
-      "prompt": "Srila Prabhupada explains that Arjuna sees bad signs around him. What is really happening?",
+      "id": "bg1-q8",
+      "source": "purport",
+      "prompt": "Why does Arjuna feel sad when he sees his family on both sides?",
       "choices": [
-        "Real ghosts and demons are appearing everywhere on the field at all",
-        "His confused and attached mind makes him see bad signs",
-        "The gods are truly angry and sending warnings to him",
-        "Nothing at all is happening and he is just lying"
+        "Because he cares about them",
+        "Because he wants to win prizes",
+        "Because he feels bored",
+        "Because he is hungry"
       ],
-      "correctIndex": 1,
-      "feedback": "Arjuna's attachment to his relatives confuses his mind. His confused thinking makes him see bad signs everywhere.",
-      "verseLabel": "BG 1.30 Purport",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/30/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Arjuna feels sad because he loves and cares for his family. Krsna will help him understand what to do.",
+      "verseLabel": "BG 1.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/27/"
     },
     {
-      "id": "bg1-q6p-kids",
-      "prompt": "Srila Prabhupada explains that Arjuna talks about giving up the kingdom. What is the problem with Arjuna's thinking?",
+      "id": "bg1-q9",
+      "source": "translation",
+      "prompt": "In BG 1.28, what happens to Arjuna's body?",
       "choices": [
-        "He truly wants to give up everything and serve Krsna purely with complete devotion",
-        "He sounds like he is giving up, but is really just attached to relatives' bodies",
-        "He is completely correct and should immediately leave the battle and go away now",
-        "He has achieved perfect spiritual understanding already and knows everything completely now"
+        "His limbs become weak",
+        "His armor becomes heavier",
+        "His hair grows longer",
+        "His feet become taller"
       ],
-      "correctIndex": 1,
-      "feedback": "Arjuna sounds spiritual, but he is really attached to his family. Doing your duty is better than running away.",
-      "verseLabel": "BG 1.32-35 Purport",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/32-35/",
-      "verdict": "Correct"
+      "correctIndex": 0,
+      "feedback": "Arjuna says his limbs are weak. Krsna is nearby and will guide him.",
+      "verseLabel": "BG 1.28",
+      "verseUrl": "https://vedabase.io/en/library/bg/1/28/"
     },
     {
-      "id": "bg1-q10-kids",
-      "prompt": "At the end of Chapter 1, what is Arjuna's condition?",
+      "id": "bg1-q10",
+      "source": "translation",
+      "prompt": "In BG 1.46, what does Arjuna do at the end of Chapter 1?",
       "choices": [
-        "He is excited and ready to fight with all his great strength",
-        "He stands with his weapons ready to begin the battle courageously",
-        "He is so sad and confused that he sits down and cannot continue",
-        "He prepares to accept his fate courageously without any fear whatsoever"
+        "He sits down sadly",
+        "He starts fighting",
+        "He laughs loudly",
+        "He runs into the forest"
       ],
-      "correctIndex": 2,
-      "feedback": "Arjuna is so upset that he puts down his weapons and sits in the chariot, unable to do anything.",
+      "correctIndex": 0,
+      "feedback": "Krsna will now help Arjuna understand what to do.",
       "verseLabel": "BG 1.46",
-      "verseUrl": "https://vedabase.io/en/library/bg/1/46/",
-      "verdict": "Correct"
+      "verseUrl": "https://vedabase.io/en/library/bg/1/46/"
     }
   ]
 }

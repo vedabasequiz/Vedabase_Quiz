@@ -407,8 +407,21 @@ export default function QuizClient({ quiz }) {
         }
       `}</style>
 
+
       <div style={{ opacity: 0.8, marginBottom: 18, lineHeight: 1.4, fontSize: 14 }}>
-        {quiz.publishedOn ? `Published: ${quiz.publishedOn}` : ""}
+        {quiz.publishedOn
+          ? (() => {
+              const date = new Date(quiz.publishedOn);
+              // Format as 'Month Day, Year' (e.g., 'February 2, 2026')
+              const formatted = date.toLocaleDateString("en-US", {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+                timeZone: "America/Chicago"
+              });
+              return `Published: ${formatted}`;
+            })()
+          : ""}
       </div>
 
       {submitted ? (
@@ -587,22 +600,7 @@ export default function QuizClient({ quiz }) {
                         {choice}
                         {submitted && cIdx === r.correctIndex && (
                           <span
-                            style={{
-                              display: "inline-flex",
-                              alignItems: "center",
-                              justifyContent: "center",
-                              width: 28,
-                              height: 28,
-                              marginLeft: 8,
-                              borderRadius: "50%",
-                              background: "#2f7d32",
-                              color: "#fff",
-                              fontWeight: 900,
-                              fontSize: "1.5em",
-                              boxShadow: "0 1px 4px rgba(47,125,50,0.18)",
-                              border: "2px solid #1e6a28",
-                              verticalAlign: "middle"
-                            }}
+                            className="quiz-correct-checkmark"
                             aria-label="Correct answer"
                           >
                             ✓

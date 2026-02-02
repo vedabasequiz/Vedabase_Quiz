@@ -11,10 +11,10 @@
       "id": "bg9-q1",
       "prompt": "In BG 9.1, what principle does Krishna describe as the most confidential knowledge?",
       "choices": [
-        "Karma-kanda rituals are the highest knowledge.",
+        "Ethical conduct alone is the highest dharma.",
         "Direct devotional service to Krishna (bhakti) is the most confidential knowledge.",
         "Impersonal Brahman realization is the ultimate goal.",
-        "Ethical conduct alone is the highest dharma."
+        "Karma-kanda rituals are the highest knowledge."
       ],
       "correctIndex": 1,
       "feedback": "Krishna reveals that bhakti, or pure devotional service, is the most confidential knowledge, the king of education, and the purest path. This knowledge is not only theoretical but is meant to be realized and practiced. By understanding and embracing bhakti, one attains the highest benefit in spiritual life. The purport emphasizes that this knowledge is rarely bestowed and is the essence of all Vedic wisdom.",
@@ -26,11 +26,11 @@
       "prompt": "According to BG 9.2, what are the benefits of this knowledge?",
       "choices": [
         "It brings only temporary relief from distress.",
-        "It frees one from sin and brings eternal happiness.",
         "It leads to confusion about spiritual life.",
-        "It is only for intellectuals, not for practical transformation."
+        "It is only for intellectuals, not for practical transformation.",
+        "It frees one from sin and brings eternal happiness."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "This knowledge purifies the heart, destroys sinful reactions, and brings lasting peace and happiness. Krishna calls it the king of education because it is directly experienced and easy to practice. The purport explains that by applying this knowledge, one becomes joyful and free from material anxieties. It is transformative and accessible to all who sincerely take it up.",
       "verseLabel": "BG 9.2",
       "verseUrl": "https://vedabase.io/en/library/bg/9/2/"
@@ -39,12 +39,12 @@
       "id": "bg9-q3",
       "prompt": "In the purport to BG 9.3, what warning does Srila Prabhupada give about rejecting this confidential knowledge?",
       "choices": [
-        "Rejecting Krishna's teachings leads to severe karmic punishment.",
         "Those without faith in this knowledge return to material birth and death.",
+        "Doubting Krishna's words creates insurmountable obstacles to future spiritual practice.",
         "Rejection of knowledge causes immediate loss of all material opulence.",
-        "Doubting Krishna's words creates insurmountable obstacles to future spiritual practice."
+        "Rejecting Krishna's teachings leads to severe karmic punishment."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Srila Prabhupada explains that those who lack faith in this most confidential knowledge cannot attain Krishna and must return to the cycle of birth and death. The purport warns that faithlessness is a great obstacle on the spiritual path. Only by accepting Krishna's words with faith can one transcend material existence. This verse highlights the importance of trust in the process of bhakti.",
       "verseLabel": "BG 9.3",
       "verseUrl": "https://vedabase.io/en/library/bg/9/3/"
@@ -53,12 +53,12 @@
       "id": "bg9-q4",
       "prompt": "In the purport to BG 9.4, what false conclusion does Srila Prabhupada warn against about Krishna's unmanifested form?",
       "choices": [
-        "Krishna has no personal form and is only an impersonal energy.",
-        "Krishna's unmanifested form means He is perceivable only through material senses.",
+        "Krishna manifests everywhere physically in every atom.",
         "Krishna's form is material and subject to birth and death.",
-        "Krishna manifests everywhere physically in every atom."
+        "Krishna has no personal form and is only an impersonal energy.",
+        "Krishna's unmanifested form means He is perceivable only through material senses."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna pervades everything by His energies, yet He always remains a distinct, personal being. The purport cautions against the impersonalist view that Krishna loses His individuality. Instead, Krishna is simultaneously present everywhere and yet remains the Supreme Person. This understanding is crucial for proper spiritual realization.",
       "verseLabel": "BG 9.4",
       "verseUrl": "https://vedabase.io/en/library/bg/9/4/"
@@ -81,12 +81,12 @@
       "id": "bg9-q6",
       "prompt": "According to BG 9.6, what analogy does Krishna use to describe His relationship to the world?",
       "choices": [
-        "The world is like pearls strung on a thread.",
-        "The world is like air resting in space.",
+        "The world is like a tree rooted in the earth.",
         "The world is like a lotus in water.",
-        "The world is like a tree rooted in the earth."
+        "The world is like air resting in space.",
+        "The world is like pearls strung on a thread."
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna compares the world to air resting in space, illustrating that everything exists within Him. The purport elaborates that although all beings are within Krishna, He is not limited by them. This analogy deepens our appreciation of Krishna's all-pervading nature.",
       "verseLabel": "BG 9.6",
       "verseUrl": "https://vedabase.io/en/library/bg/9/6/"
@@ -96,11 +96,11 @@
       "prompt": "According to BG 9.7, what happens to all living beings at the end of the universe?",
       "choices": [
         "They merge into Krishna's body and lose individuality forever.",
+        "They remain in their current forms eternally.",
         "They are annihilated and never return.",
-        "They are absorbed into Krishna's material nature and are reborn at the next creation.",
-        "They remain in their current forms eternally."
+        "They are absorbed into Krishna's material nature and are reborn at the next creation."
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "At the end of the universe, all living beings are absorbed into Krishna's material nature and are reborn at the next creation. The purport explains that this is a cyclical process governed by Krishna's will. Individual souls do not lose their identity but await the next creation. This knowledge helps us understand the temporary nature of material existence.",
       "verseLabel": "BG 9.7",
       "verseUrl": "https://vedabase.io/en/library/bg/9/7/"
@@ -109,12 +109,12 @@
       "id": "bg9-q8",
       "prompt": "According to BG 9.8, what does Krishna do at the beginning of each cycle of creation?",
       "choices": [
-        "He creates all living beings again by His will.",
         "He remains inactive and lets nature act independently.",
         "He destroys all living beings.",
+        "He creates all living beings again by His will.",
         "He merges all souls into Himself permanently."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna creates all living beings again at the start of each cosmic cycle. The purport clarifies that creation and dissolution are under Krishna's control, not random or automatic. This demonstrates Krishna's supreme authority over the universe.",
       "verseLabel": "BG 9.8",
       "verseUrl": "https://vedabase.io/en/library/bg/9/8/"
@@ -123,12 +123,12 @@
       "id": "bg9-q9",
       "prompt": "According to BG 9.9, how does Krishna remain in relation to His creation?",
       "choices": [
-        "He is bound by the results of His actions.",
-        "He remains detached and unaffected by creation.",
         "He is controlled by material nature.",
-        "He is forced to create by karma."
+        "He is forced to create by karma.",
+        "He is bound by the results of His actions.",
+        "He remains detached and unaffected by creation."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krishna remains completely detached and unaffected by His creative activities. The purport explains that although Krishna is the creator, He is never entangled in the results of creation. This detachment is a sign of His transcendence and supreme position.",
       "verseLabel": "BG 9.9",
       "verseUrl": "https://vedabase.io/en/library/bg/9/9/"
@@ -137,12 +137,12 @@
       "id": "bg9-q10",
       "prompt": "According to BG 9.10, who directs material nature?",
       "choices": [
-        "Material nature acts independently, with no higher controller.",
-        "Material nature is managed by the demigods alone, without Krishna's involvement.",
         "Krishna, as the Supreme Lord, directs material nature through His energies, yet remains transcendental.",
+        "Material nature is managed by the demigods alone, without Krishna's involvement.",
+        "Material nature acts independently, with no higher controller.",
         "Material nature is random and has no order or purpose."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Krishna explains that although material nature appears to act automatically, it is actually working under His direction. He remains transcendental and is never affected by the workings of material energy. The purport emphasizes that Krishna is the ultimate controller, and understanding this helps us see the personal hand of the Lord behind all natural phenomena.",
       "verseLabel": "BG 9.10",
       "verseUrl": "https://vedabase.io/en/library/bg/9/10/"
@@ -151,12 +151,12 @@
       "id": "bg9-q11",
       "prompt": "According to BG 9.11, what mistake do foolish people make about Krishna?",
       "choices": [
-        "They accept Krishna as the Supreme Personality of Godhead.",
-        "They think Krishna is an ordinary human being.",
         "They worship Krishna with devotion.",
-        "They understand Krishna's transcendental nature."
+        "They accept Krishna as the Supreme Personality of Godhead.",
+        "They understand Krishna's transcendental nature.",
+        "They think Krishna is an ordinary human being."
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Foolish people think Krishna is an ordinary human being, not recognizing His divinity. The purport explains that such misunderstanding is due to lack of knowledge and faith. Recognizing Krishna's transcendental nature is essential for spiritual advancement.",
       "verseLabel": "BG 9.11",
       "verseUrl": "https://vedabase.io/en/library/bg/9/11/"
@@ -165,12 +165,12 @@
       "id": "bg9-q12",
       "prompt": "According to BG 9.12, what happens to those who are bewildered by material nature?",
       "choices": [
-        "They attain liberation quickly.",
         "Their hopes and knowledge are frustrated.",
         "They become great devotees.",
-        "They realize Krishna's supreme position."
+        "They realize Krishna's supreme position.",
+        "They attain liberation quickly."
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Those bewildered by material nature have their hopes and knowledge frustrated. The purport notes that such persons are deluded by maya and cannot understand Krishna's true position. Only by taking shelter of Krishna can one overcome this bewilderment.",
       "verseLabel": "BG 9.12",
       "verseUrl": "https://vedabase.io/en/library/bg/9/12/"
@@ -179,12 +179,12 @@
       "id": "bg9-q13",
       "prompt": "According to BG 9.13-14, what are the qualities of mahatmas (great souls)?",
       "choices": [
-        "They are always engaged in devotional service, chanting and glorifying Krishna.",
-        "They perform severe austerities and renounce all action.",
         "They are defined by birth in high families and strict ritual observance.",
-        "They seek liberation through impersonal meditation only."
+        "They perform severe austerities and renounce all action.",
+        "They seek liberation through impersonal meditation only.",
+        "They are always engaged in devotional service, chanting and glorifying Krishna."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Mahatmas are always engaged in devotional service, chanting and glorifying Krishna. The purport describes their qualities: they are not deluded, always absorbed in Krishna, and serve Him with determination. Such souls are rare and are favored by Krishna.",
       "verseLabel": "BG 9.13-14",
       "verseUrl": "https://vedabase.io/en/library/bg/9/13/"
@@ -193,12 +193,12 @@
       "id": "bg9-q14",
       "prompt": "According to BG 9.15, what warning does Srila Prabhupada give about jnana-yajna (cultivation of knowledge)?",
       "choices": [
-        "Knowledge cultivation without devotion leads to dry speculation and impersonalism.",
-        "Knowledge is unnecessary for those engaged in devotional service.",
         "Philosophical study distracts from emotional connection with Krishna.",
-        "Knowledge alone automatically produces devotion."
+        "Knowledge cultivation without devotion leads to dry speculation and impersonalism.",
+        "Knowledge alone automatically produces devotion.",
+        "Knowledge is unnecessary for those engaged in devotional service."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Knowledge without devotion leads to impersonalism and speculation. The purport warns that jnana-yajna, or cultivation of knowledge, must be accompanied by devotion to avoid dry speculation. True knowledge culminates in loving service to Krishna.",
       "verseLabel": "BG 9.15",
       "verseUrl": "https://vedabase.io/en/library/bg/9/15/"
@@ -207,12 +207,12 @@
       "id": "bg9-q16",
       "prompt": "According to BG 9.16, how does Krishna describe His relationship to Vedic rituals and offerings?",
       "choices": [
-        "He is the ritual, the sacrifice, the offering, the mantra, the butter, the fire, and the act of offering itself.",
         "He is only the witness and not involved in rituals or offerings.",
-        "He is pleased only by elaborate rituals performed by priests.",
-        "He is indifferent to all Vedic rituals and their results."
+        "He is indifferent to all Vedic rituals and their results.",
+        "He is the ritual, the sacrifice, the offering, the mantra, the butter, the fire, and the act of offering itself.",
+        "He is pleased only by elaborate rituals performed by priests."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna is present in all aspects of Vedic rituals and offerings. The purport explains that Krishna is both the object and the recipient of all sacrifices. Recognizing this helps one perform rituals with proper understanding and devotion.",
       "verseLabel": "BG 9.16",
       "verseUrl": "https://vedabase.io/en/library/bg/9/16/"
@@ -222,9 +222,9 @@
       "prompt": "According to BG 9.17, how does Krishna describe His relationship to the universe?",
       "choices": [
         "He is the father, mother, maintainer, and the goal of all knowledge; He is also the sacred Om and the Vedas themselves.",
-        "He is only the witness and not involved in creation or maintenance.",
         "He is pleased only by elaborate sacrifices performed by priests.",
-        "He is indifferent to all Vedic rituals and their results."
+        "He is indifferent to all Vedic rituals and their results.",
+        "He is only the witness and not involved in creation or maintenance."
       ],
       "correctIndex": 0,
       "feedback": "Krishna is the source, support, and goal of all beings and knowledge. The purport elaborates that Krishna is the father, mother, maintainer, and the sacred Om. This comprehensive role highlights His all-encompassing nature.",
@@ -235,12 +235,12 @@
       "id": "bg9-q18",
       "prompt": "According to BG 9.18, what is Krishna's relationship to the universe?",
       "choices": [
-        "He is the goal, sustainer, witness, abode, shelter, and friend of all beings.",
+        "He is indifferent to all beings and their actions.",
         "He is only the witness and not involved in the universe.",
         "He is pleased only by elaborate sacrifices performed by priests.",
-        "He is indifferent to all beings and their actions."
+        "He is the goal, sustainer, witness, abode, shelter, and friend of all beings."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krishna is the goal, sustainer, witness, abode, shelter, and friend of all beings. The purport explains that Krishna is intimately connected with every living entity, providing shelter and guidance. This relationship is the foundation of spiritual life.",
       "verseLabel": "BG 9.18",
       "verseUrl": "https://vedabase.io/en/library/bg/9/18/"
@@ -250,8 +250,8 @@
       "prompt": "According to BG 9.19, how does Krishna describe His control over the natural world?",
       "choices": [
         "He sends rain, heat, and withholds them as He desires, yet remains transcendental and unaffected by material nature.",
-        "He is bound by material laws.",
         "He is the controller of only the spiritual world.",
+        "He is bound by material laws.",
         "Nature functions independently of Krishna."
       ],
       "correctIndex": 0,
@@ -263,12 +263,12 @@
       "id": "bg9-q20",
       "prompt": "According to BG 9.20-21, what is the result of Vedic ritual worship aimed at material elevation?",
       "choices": [
-        "It brings temporary heavenly enjoyment only.",
-        "It guarantees liberation regardless of motive.",
+        "It is completely useless and should be rejected.",
         "It is superior to devotional service.",
-        "It is completely useless and should be rejected."
+        "It brings temporary heavenly enjoyment only.",
+        "It guarantees liberation regardless of motive."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Vedic rituals for material gain bring only temporary results, not liberation. The purport explains that such rituals may elevate one to heavenly planets, but the results are temporary and do not lead to ultimate freedom. Only devotional service grants liberation.",
       "verseLabel": "BG 9.20-21",
       "verseUrl": "https://vedabase.io/en/library/bg/9/20/"
@@ -291,12 +291,12 @@
       "id": "bg9-q23",
       "prompt": "According to BG 9.23-25, what determines the destination of worshipers?",
       "choices": [
+        "Worshiping ancestors leads to liberation from material existence.",
         "Those who worship demigods go to demigods, ancestors to ancestors, ghosts to ghosts, and Krishna's devotees come to Him.",
         "All worshipers ultimately reach Krishna regardless of their object of worship.",
-        "Worshiping ancestors leads to liberation from material existence.",
         "Ghost worshipers automatically attain Krishna by default."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "The object of worship determines one's destination. The purport explains that those who worship demigods go to demigods, ancestors to ancestors, and Krishna's devotees come to Him. This principle underscores the importance of choosing one's object of worship wisely.",
       "verseLabel": "BG 9.23-25",
       "verseUrl": "https://vedabase.io/en/library/bg/9/23/"
@@ -305,10 +305,10 @@
       "id": "bg9-q24",
       "prompt": "According to BG 9.26, what does Krishna accept from His devotees?",
       "choices": [
-        "Only elaborate rituals performed by qualified priests.",
+        "Nothing at all from anyone.",
         "Even a leaf, flower, fruit, or water offered with devotion.",
-        "Only costly offerings and sacrifices.",
-        "Nothing at all from anyone."
+        "Only elaborate rituals performed by qualified priests.",
+        "Only costly offerings and sacrifices."
       ],
       "correctIndex": 1,
       "feedback": "Krishna accepts even the simplest offering if made with devotion. The purport emphasizes that Krishna is pleased not by the value of the offering, but by the devotion with which it is made. This makes spiritual life accessible to everyone.",
@@ -321,8 +321,8 @@
       "choices": [
         "Offer all activities, food, sacrifices, and austerities to Krishna.",
         "Only ritualistic sacrifices performed by priests are accepted by Krishna.",
-        "Material results should be enjoyed personally before offering anything to Krishna.",
-        "Renunciation of all work is the only way to attain Krishna."
+        "Renunciation of all work is the only way to attain Krishna.",
+        "Material results should be enjoyed personally before offering anything to Krishna."
       ],
       "correctIndex": 0,
       "feedback": "Krishna instructs to offer everything to Him to become free from karma. The purport explains that by dedicating all actions and their results to Krishna, one becomes free from the bondage of karma. This is the essence of karma-yoga in devotion.",
@@ -333,12 +333,12 @@
       "id": "bg9-q26",
       "prompt": "According to BG 9.29, how does Krishna describe His relationship with all living beings?",
       "choices": [
+        "He ignores those who are materially conditioned.",
         "He is equal to all, but reciprocates especially with those who serve Him with devotion.",
-        "He favors only those born in high families.",
         "He is partial to those who perform elaborate rituals.",
-        "He ignores those who are materially conditioned."
+        "He favors only those born in high families."
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krishna is equal to all, but especially reciprocates with His devotees. The purport clarifies that Krishna does not favor anyone, but those who serve Him with devotion receive special attention. This is due to the loving relationship between the Lord and His devotee.",
       "verseLabel": "BG 9.29",
       "verseUrl": "https://vedabase.io/en/library/bg/9/29/"
@@ -347,12 +347,12 @@
       "id": "bg9-q27",
       "prompt": "According to BG 9.30-34, what is Krishna's view of even those who are considered sinful but worship Him with devotion?",
       "choices": [
-        "They are quickly transformed into righteous persons and should be considered saintly.",
+        "Sinful persons must first undergo severe penance before being accepted by Krishna.",
         "They are forever condemned and cannot attain Krishna.",
-        "Only those who are already pure can approach Krishna.",
-        "Sinful persons must first undergo severe penance before being accepted by Krishna."
+        "They are quickly transformed into righteous persons and should be considered saintly.",
+        "Only those who are already pure can approach Krishna."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Even those considered sinful, if devoted, quickly become righteous and are to be regarded as saintly. The purport explains that Krishna's mercy is so great that anyone who sincerely worships Him is transformed. This verse encourages everyone to take up devotional service, regardless of their past."
     }
   ]

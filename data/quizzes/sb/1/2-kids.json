@@ -10,13 +10,13 @@
       "id": "sb1-2-kids-01",
       "prompt": "1. What is the real test of a bona fide spiritual master according to SB 1.2.2?",
       "choices": [
-        "He knows all the scriptures by heart",
         "He can cure the disciple from material diseases like lust and anger",
-        "He is very famous with many followers",
-        "He belongs to an old, traditional family"
+        "He belongs to an old, traditional family",
+        "He knows all the scriptures by heart",
+        "He is very famous with many followers"
       ],
-      "correctIndex": 1,
-      "feedback": "Right! A true guru is like a doctor who can actually cure you. Knowing medicine books isn't enough—the doctor must make you healthy! A real guru helps you become free from bad things like greed and anger.",
+      "correctIndex": 0,
+      "feedback": "Right! A true guru is like a doctor who can actually cure you. Knowing medicine books isn't enough\u2014the doctor must make you healthy! A real guru helps you become free from bad things like greed and anger.",
       "verseLabel": "SB 1.2.2",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/2/"
     },
@@ -25,12 +25,12 @@
       "prompt": "2. What happens when we keep hearing about Krishna?",
       "choices": [
         "Nothing changes in our hearts",
+        "We become magical wizards",
         "Devotional service grows and material desires decrease",
-        "We get bored and tired",
-        "We become magical wizards"
+        "We get bored and tired"
       ],
-      "correctIndex": 1,
-      "feedback": "Yes! It's like cleaning your room—the more you clean, the cleaner it gets! Hearing about Krishna makes our hearts cleaner and cleaner, and we want less material stuff and more Krishna!",
+      "correctIndex": 2,
+      "feedback": "Yes! It's like cleaning your room\u2014the more you clean, the cleaner it gets! Hearing about Krishna makes our hearts cleaner and cleaner, and we want less material stuff and more Krishna!",
       "verseLabel": "SB 1.2.3",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/3/"
     },
@@ -38,12 +38,12 @@
       "id": "sb1-2-kids-03",
       "prompt": "3. According to SB 1.2.6, what is the highest dharma (duty) for everyone?",
       "choices": [
+        "Being popular with friends",
         "Getting good grades in school",
-        "Following rules that lead to pure devotional service to Krishna",
         "Making lots of money",
-        "Being popular with friends"
+        "Following rules that lead to pure devotional service to Krishna"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Perfect! The best dharma is that which helps us love and serve Krishna purely. Even if we do other good things, if they don't help us love Krishna more, they're not the highest goal!",
       "verseLabel": "SB 1.2.6",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/6/"
@@ -52,13 +52,13 @@
       "id": "sb1-2-kids-04",
       "prompt": "4. What must someone who wants liberation do according to SB 1.2.7?",
       "choices": [
-        "Travel to many holy places",
         "Inquire about the Absolute Truth from someone who knows it",
+        "Give up talking to everyone",
         "Read books all by themselves",
-        "Give up talking to everyone"
+        "Travel to many holy places"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct! We can't figure out spiritual truths just by ourselves. We need to learn from someone who really knows—like learning math from a teacher who understands it, not by guessing!",
+      "correctIndex": 0,
+      "feedback": "Correct! We can't figure out spiritual truths just by ourselves. We need to learn from someone who really knows\u2014like learning math from a teacher who understands it, not by guessing!",
       "verseLabel": "SB 1.2.7",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/7/"
     },
@@ -66,12 +66,12 @@
       "id": "sb1-2-kids-05",
       "prompt": "5. When we fully hear and chant about Krishna, what three things happen (SB 1.2.8)?",
       "choices": [
-        "We get rich, famous, and powerful",
-        "The knot of false ego is cut, doubts disappear, and karma ends",
+        "Nothing special happens",
         "We become invisible and can fly",
-        "Nothing special happens"
+        "We get rich, famous, and powerful",
+        "The knot of false ego is cut, doubts disappear, and karma ends"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Amazing! Three big things happen: (1) we stop thinking 'I am this body,' (2) our confusions go away, and (3) we stop having to come back to this material world. Hearing about Krishna is super powerful!",
       "verseLabel": "SB 1.2.8",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/8/"
@@ -80,12 +80,12 @@
       "id": "sb1-2-kids-06",
       "prompt": "6. What does 'unmotivated' devotional service mean in SB 1.2.9?",
       "choices": [
-        "Being lazy and not trying hard",
-        "Serving Krishna without wanting anything back for ourselves",
         "Not having any reasons for what we do",
-        "Serving only when we feel like it"
+        "Serving only when we feel like it",
+        "Being lazy and not trying hard",
+        "Serving Krishna without wanting anything back for ourselves"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Exactly! It means loving Krishna just to make Him happy, not to get toys, money, or even to feel good ourselves. It's like loving your mom not for gifts, but just because you love her!",
       "verseLabel": "SB 1.2.9",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/9/"
@@ -94,13 +94,13 @@
       "id": "sb1-2-kids-07",
       "prompt": "7. How do our desires become satisfied according to SB 1.2.10?",
       "choices": [
+        "By stopping all desires completely",
         "By getting everything we want materially",
         "By rendering loving service to Krishna",
-        "By stopping all desires completely",
         "By sleeping all day"
       ],
-      "correctIndex": 1,
-      "feedback": "Yes! It's like when you're really thirsty—drinking water satisfies you, but drinking sand doesn't! Our soul is thirsty for Krishna, so serving Him satisfies us, but material things leave us still wanting more.",
+      "correctIndex": 2,
+      "feedback": "Yes! It's like when you're really thirsty\u2014drinking water satisfies you, but drinking sand doesn't! Our soul is thirsty for Krishna, so serving Him satisfies us, but material things leave us still wanting more.",
       "verseLabel": "SB 1.2.10",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/10/"
     },
@@ -108,13 +108,13 @@
       "id": "sb1-2-kids-08",
       "prompt": "8. What is the complete meaning of 'dharma' according to SB 1.2.11?",
       "choices": [
-        "Just following rules we're told",
+        "Going to temple on Sundays",
         "Our relationship with and service to the Lord",
         "Being nice to people",
-        "Going to temple on Sundays"
+        "Just following rules we're told"
       ],
       "correctIndex": 1,
-      "feedback": "Right! Dharma isn't just rules—it's about our eternal relationship with Krishna and how we serve Him. It's like the difference between doing chores because Mom said so versus helping because you love your family!",
+      "feedback": "Right! Dharma isn't just rules\u2014it's about our eternal relationship with Krishna and how we serve Him. It's like the difference between doing chores because Mom said so versus helping because you love your family!",
       "verseLabel": "SB 1.2.11",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/11/"
     },
@@ -122,10 +122,10 @@
       "id": "sb1-2-kids-09",
       "prompt": "9. To understand the science of God, whom should we learn from (SB 1.2.12)?",
       "choices": [
-        "Anyone with a college degree",
+        "Popular YouTube influencers",
         "Someone who has seen the truth face to face (tattva-darsi)",
         "Professional teachers who teach for money",
-        "Popular YouTube influencers"
+        "Anyone with a college degree"
       ],
       "correctIndex": 1,
       "feedback": "Perfect! We need a teacher who has actually realized the truth, not just read about it in books. It's like learning to swim from someone who can swim, not someone who only read about swimming!",
@@ -137,12 +137,12 @@
       "prompt": "10. According to SB 1.2.13, the Absolute Truth has how many features?",
       "choices": [
         "Only one: the impersonal light",
-        "Three: Brahman, Paramatma, and Bhagavan",
         "Hundreds of different forms",
+        "Three: Brahman, Paramatma, and Bhagavan",
         "No features at all"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct! It's like looking at the sun—you can see the sunshine (Brahman), the sun reflected in water (Paramatma), or the sun planet itself (Bhagavan/Krishna). They're all the same sun but seen differently. Krishna is the complete understanding!",
+      "correctIndex": 2,
+      "feedback": "Correct! It's like looking at the sun\u2014you can see the sunshine (Brahman), the sun reflected in water (Paramatma), or the sun planet itself (Bhagavan/Krishna). They're all the same sun but seen differently. Krishna is the complete understanding!",
       "verseLabel": "SB 1.2.13",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/13/"
     },
@@ -150,13 +150,13 @@
       "id": "sb1-2-kids-11",
       "prompt": "11. What is the main qualification for hearing about Krishna according to SB 1.2.17?",
       "choices": [
-        "Being super smart and educated",
         "Having a faithful heart (sraddha)",
-        "Being born in a special family",
-        "Giving up everything first"
+        "Giving up everything first",
+        "Being super smart and educated",
+        "Being born in a special family"
       ],
-      "correctIndex": 1,
-      "feedback": "Yes! Faith is like opening a door—you need to trust a little to let Krishna in. Smart people without faith can't understand, but faithful hearts can learn even if they're not super educated!",
+      "correctIndex": 0,
+      "feedback": "Yes! Faith is like opening a door\u2014you need to trust a little to let Krishna in. Smart people without faith can't understand, but faithful hearts can learn even if they're not super educated!",
       "verseLabel": "SB 1.2.17",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/17/"
     },
@@ -166,8 +166,8 @@
       "choices": [
         "Nothing special",
         "He becomes seated in our heart and removes our material desires",
-        "He gets angry at us",
-        "He hides from us"
+        "He hides from us",
+        "He gets angry at us"
       ],
       "correctIndex": 1,
       "feedback": "Wonderful! Krishna personally enters our heart and cleans out the bad stuff! We make a small effort to hear, and Krishna does the big work of purifying us. That's His amazing mercy!",
@@ -178,13 +178,13 @@
       "id": "sb1-2-kids-13",
       "prompt": "13. What sequence does SB 1.2.24 teach about purification?",
       "choices": [
-        "Give up everything first, then approach Krishna",
+        "Material happiness first, spiritual life later",
         "Hear faithfully, develop attachment to Krishna, then detachment from matter naturally follows",
         "Study alone, then meditate, then maybe hear",
-        "Material happiness first, spiritual life later"
+        "Give up everything first, then approach Krishna"
       ],
       "correctIndex": 1,
-      "feedback": "Exactly! It's like getting a new favorite toy—you naturally stop playing with the old broken one! When we hear about Krishna and start loving Him, we naturally lose interest in material stuff. We don't have to force it!",
+      "feedback": "Exactly! It's like getting a new favorite toy\u2014you naturally stop playing with the old broken one! When we hear about Krishna and start loving Him, we naturally lose interest in material stuff. We don't have to force it!",
       "verseLabel": "SB 1.2.24",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/24/"
     },
@@ -192,13 +192,13 @@
       "id": "sb1-2-kids-14",
       "prompt": "14. According to SB 1.2.26, what is the real purpose of maintaining our body?",
       "choices": [
+        "To become famous and important",
         "To enjoy as much as possible",
         "To realize our relationship with Krishna",
-        "To become famous and important",
         "To accumulate wealth"
       ],
-      "correctIndex": 1,
-      "feedback": "Right! Our body is like a vehicle to take us to Krishna. Even animals eat, sleep, and defend—humans should use their body for the special purpose of understanding God! That's what makes human life valuable.",
+      "correctIndex": 2,
+      "feedback": "Right! Our body is like a vehicle to take us to Krishna. Even animals eat, sleep, and defend\u2014humans should use their body for the special purpose of understanding God! That's what makes human life valuable.",
       "verseLabel": "SB 1.2.26",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/26/"
     },
@@ -206,13 +206,13 @@
       "id": "sb1-2-kids-15",
       "prompt": "15. What is the biggest misconception that devotional service removes (SB 1.2.30)?",
       "choices": [
-        "The idea that Krishna has a form",
         "The idea that 'I am this body' and 'this is mine'",
+        "The idea that we should try hard",
         "The belief in good and evil",
-        "The idea that we should try hard"
+        "The idea that Krishna has a form"
       ],
-      "correctIndex": 1,
-      "feedback": "Perfect! The root problem is thinking 'I AM this body' and 'this stuff is MINE.' When we serve Krishna, we realize 'I'm not this body; I'm Krishna's eternal servant' and 'everything belongs to Krishna.' This understanding fixes everything else! It's like fixing the root of a tree—all the branches get healthy!",
+      "correctIndex": 0,
+      "feedback": "Perfect! The root problem is thinking 'I AM this body' and 'this stuff is MINE.' When we serve Krishna, we realize 'I'm not this body; I'm Krishna's eternal servant' and 'everything belongs to Krishna.' This understanding fixes everything else! It's like fixing the root of a tree\u2014all the branches get healthy!",
       "verseLabel": "SB 1.2.30",
       "verseUrl": "https://vedabase.io/en/library/sb/1/2/30/"
     }

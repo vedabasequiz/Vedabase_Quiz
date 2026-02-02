@@ -11,12 +11,12 @@
       "id": "bg17-q1",
       "prompt": "In BG 17.1, what question does Arjuna raise about faith and worship?",
       "choices": [
+        "Whether devotion cancels right conduct",
         "Whether faith without scripture counts",
         "Whether all worship gives the same result",
-        "Whether ritual defeats knowledge always",
-        "Whether devotion cancels right conduct"
+        "Whether ritual defeats knowledge always"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Arjuna asks about those who worship with faith but without scriptural direction. The chapter will test not only sincerity, but the quality and source of faith.",
       "verseLabel": "BG 17.1",
       "verseUrl": "https://vedabase.io/en/library/bg/17/1/"
@@ -25,12 +25,12 @@
       "id": "bg17-q2",
       "prompt": "According to BG 17.2, how does Krsna classify faith?",
       "choices": [
-        "According to the three modes",
-        "As one uniform spiritual force",
         "According to social inheritance only",
-        "According to outward ritual form"
+        "As one uniform spiritual force",
+        "According to outward ritual form",
+        "According to the three modes"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krsna explains that faith corresponds to the three modes of material nature. Faith is real, but it often reflects conditioning rather than transcendence.",
       "verseLabel": "BG 17.2",
       "verseUrl": "https://vedabase.io/en/library/bg/17/2/"
@@ -39,10 +39,10 @@
       "id": "bg17-q3",
       "prompt": "In the purport to BG 17.2, what false conclusion is corrected about sincerity?",
       "choices": [
-        "Sincerity is always hypocrisy",
         "Sincerity rejects all discipline",
+        "Sincerity destroys karma instantly",
         "Sincerity guarantees transcendence",
-        "Sincerity destroys karma instantly"
+        "Sincerity is always hypocrisy"
       ],
       "correctIndex": 2,
       "feedback": "Prabhupada corrects the idea that sincerity alone guarantees spiritual elevation. Faith must be educated and purified; otherwise sincere worship can still remain within the modes.",
@@ -53,12 +53,12 @@
       "id": "bg17-q4",
       "prompt": "According to BG 17.3, what is the link between faith and a person's nature?",
       "choices": [
-        "Faith is separate from character",
-        "Faith follows family ritual only",
         "Faith appears only after moksa",
-        "A person is shaped by faith"
+        "A person is shaped by faith",
+        "Faith is separate from character",
+        "Faith follows family ritual only"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "feedback": "Krsna states that a person's faith reflects their nature. Faith is not neutral; it shapes identity, behavior, and direction.",
       "verseLabel": "BG 17.3",
       "verseUrl": "https://vedabase.io/en/library/bg/17/3/"
@@ -67,12 +67,12 @@
       "id": "bg17-q5",
       "prompt": "According to BG 17.4, how does worship differ across the modes?",
       "choices": [
+        "Only intellect decides worship",
         "Modes shape the worshiped object",
         "Worship ignores conditioning",
-        "All worship targets one object",
-        "Only intellect decides worship"
+        "All worship targets one object"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krsna explains that worship follows the modes: sattvic worship gods, rajasic worship power, and tamasic worship spirits. The object reveals the worshiper's consciousness.",
       "verseLabel": "BG 17.4",
       "verseUrl": "https://vedabase.io/en/library/bg/17/4/"
@@ -83,10 +83,10 @@
       "choices": [
         "Popularity and social approval",
         "Intensity of belief alone",
-        "Mode-shaped faith guided by authority",
-        "Ritual complexity and tradition"
+        "Ritual complexity and tradition",
+        "Mode-shaped faith guided by authority"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "The opening establishes that faith is real but conditioned. Its value depends on purification through proper authority, not mere intensity or cultural form.",
       "verseLabel": "BG 17.1-4",
       "verseUrl": "https://vedabase.io/en/library/bg/17/2/"
@@ -95,12 +95,12 @@
       "id": "bg17-q7",
       "prompt": "In the purport to BG 17.5-6, what is the key sign of demoniac austerity?",
       "choices": [
-        "Self-torture that ignores Supersoul",
+        "Scriptural restraint and humility",
         "Austerity offered with devotion",
         "Steady fasting for purification",
-        "Scriptural restraint and humility"
+        "Self-torture that ignores Supersoul"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Prabhupada highlights a dangerous counterfeit: austerity that harms the body and disregards the Lord within. It looks intense, but it strengthens ignorance and ego.",
       "verseLabel": "BG 17.6",
       "verseUrl": "https://vedabase.io/en/library/bg/17/6/"
@@ -109,12 +109,12 @@
       "id": "bg17-q8",
       "prompt": "In the purport to BG 17.5-6, what false-path mistake is directly warned against?",
       "choices": [
-        "Avoiding regulation in devotion",
-        "Preferring comfort over discipline",
         "Rejecting all austerity as useless",
-        "Calling self-torture spiritual strength"
+        "Preferring comfort over discipline",
+        "Calling self-torture spiritual strength",
+        "Avoiding regulation in devotion"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "feedback": "Prabhupada warns against glorifying self-inflicted suffering as spirituality. Such practices inflate ego and damage both body and consciousness.",
       "verseLabel": "BG 17.6",
       "verseUrl": "https://vedabase.io/en/library/bg/17/6/"
@@ -123,12 +123,12 @@
       "id": "bg17-q9",
       "prompt": "According to BG 17.7, how does Krsna classify food?",
       "choices": [
+        "By local tradition only",
         "By the three modes",
         "By economic availability",
-        "By personal taste alone",
-        "By local tradition only"
+        "By personal taste alone"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krsna classifies food according to the modes. Diet influences consciousness and tends to reinforce the mode in which one lives.",
       "verseLabel": "BG 17.7",
       "verseUrl": "https://vedabase.io/en/library/bg/17/7/"
@@ -137,12 +137,12 @@
       "id": "bg17-q10",
       "prompt": "According to BG 17.8, what characterizes sattvic food?",
       "choices": [
-        "Stale and decomposed",
-        "Exciting but harmful later",
+        "Wholesome and life-sustaining",
         "Very bitter and painful",
-        "Wholesome and life-sustaining"
+        "Stale and decomposed",
+        "Exciting but harmful later"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "feedback": "Sattvic food promotes health, satisfaction, and longevity. It supports clarity and steadiness useful for spiritual practice.",
       "verseLabel": "BG 17.8",
       "verseUrl": "https://vedabase.io/en/library/bg/17/8/"
@@ -151,10 +151,10 @@
       "id": "bg17-q11",
       "prompt": "According to BG 17.9-10, what distinguishes rajasic and tamasic food?",
       "choices": [
-        "Family rule and custom",
+        "Flavor and price signals",
         "Effect on mind and body",
-        "Geographic origin only",
-        "Flavor and price signals"
+        "Family rule and custom",
+        "Geographic origin only"
       ],
       "correctIndex": 1,
       "feedback": "Rajasic food agitates, and tamasic food degrades. The distinction lies in effect on consciousness, not preference or culture.",
@@ -165,12 +165,12 @@
       "id": "bg17-q12",
       "prompt": "According to BG 17.11, what defines sacrifice in the mode of goodness?",
       "choices": [
-        "Done for prestige and praise",
-        "Done reluctantly under pressure",
         "Done secretly for advantage",
-        "Done as duty, no reward"
+        "Done reluctantly under pressure",
+        "Done as duty, no reward",
+        "Done for prestige and praise"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "feedback": "Sattvic sacrifice is done as duty, without desire for reward. Intention purifies the act.",
       "verseLabel": "BG 17.11",
       "verseUrl": "https://vedabase.io/en/library/bg/17/11/"
@@ -179,12 +179,12 @@
       "id": "bg17-q13",
       "prompt": "In the purport to BG 17.11-12, what misuse of sacrifice is exposed?",
       "choices": [
+        "Sacrifice as duty without reward",
         "Sacrifice as a bargain for gain",
         "Sacrifice guided by authority",
-        "Sacrifice as duty without reward",
         "Sacrifice offered for purification"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Prabhupada warns against treating sacrifice as a transaction with God. When results dominate, the act becomes rajasic or tamasic rather than purifying.",
       "verseLabel": "BG 17.12",
       "verseUrl": "https://vedabase.io/en/library/bg/17/12/"
@@ -193,12 +193,12 @@
       "id": "bg17-q14",
       "prompt": "According to BG 17.14-16, what is austerity of body, speech, and mind?",
       "choices": [
-        "Withdrawal from all society",
-        "Extreme physical endurance",
         "Aligned conduct, words, thought",
-        "Rejection of all regulation"
+        "Rejection of all regulation",
+        "Withdrawal from all society",
+        "Extreme physical endurance"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "True austerity harmonizes behavior, speech, and mind. It is constructive discipline, not repression or display.",
       "verseLabel": "BG 17.14-16",
       "verseUrl": "https://vedabase.io/en/library/bg/17/14/"
@@ -207,12 +207,12 @@
       "id": "bg17-q15",
       "prompt": "According to BG 17.17, what makes austerity sattvic?",
       "choices": [
-        "Only public recognition matters",
         "Steady practice, no honor-seeking",
+        "Only public recognition matters",
         "Done only by renunciants",
         "Intensity alone is enough"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Sattvic austerity is steady, sincere, and free from desire for recognition. Motive determines quality.",
       "verseLabel": "BG 17.17",
       "verseUrl": "https://vedabase.io/en/library/bg/17/17/"
@@ -221,12 +221,12 @@
       "id": "bg17-q16",
       "prompt": "In the purport to BG 17.18, what is the subtle trap in rajasic austerity?",
       "choices": [
-        "Rejecting tapasya as outdated",
         "Seeking honor while calling it tapasya",
         "Keeping speech truthful and kind",
-        "Avoiding comfort for devotion"
+        "Avoiding comfort for devotion",
+        "Rejecting tapasya as outdated"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Prabhupada stresses the trap: austerity performed to gain respect. It may look spiritual, but it feeds prestige and remains unstable in result.",
       "verseLabel": "BG 17.18",
       "verseUrl": "https://vedabase.io/en/library/bg/17/18/"
@@ -235,12 +235,12 @@
       "id": "bg17-q17",
       "prompt": "According to BG 17.19, what is the fate of tamasic austerity?",
       "choices": [
-        "Suffering and degradation",
-        "Temporary piety and clarity",
+        "Immediate liberation",
         "Permanent spiritual elevation",
-        "Immediate liberation"
+        "Temporary piety and clarity",
+        "Suffering and degradation"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Tamasic austerity leads to harm and degradation. It neither purifies nor liberates.",
       "verseLabel": "BG 17.19",
       "verseUrl": "https://vedabase.io/en/library/bg/17/19/"
@@ -249,10 +249,10 @@
       "id": "bg17-q18",
       "prompt": "According to BG 17.20, what characterizes charity in the mode of goodness?",
       "choices": [
-        "Given for public praise",
+        "Given under pressure only",
         "Given to degrade others",
         "Given properly, no return",
-        "Given under pressure only"
+        "Given for public praise"
       ],
       "correctIndex": 2,
       "feedback": "Sattvic charity is given as duty, without expectation, and with discernment of place, time, and recipient.",
@@ -263,12 +263,12 @@
       "id": "bg17-q19",
       "prompt": "In the purport to BG 17.20-22, what principle governs charity's quality?",
       "choices": [
-        "Quantity alone decides merit",
-        "Consciousness and discrimination",
         "Emotion alone decides virtue",
-        "Public approval is decisive"
+        "Public approval is decisive",
+        "Consciousness and discrimination",
+        "Quantity alone decides merit"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Prabhupada emphasizes that motive and awareness govern charity. Charity without discrimination can degrade rather than uplift.",
       "verseLabel": "BG 17.22",
       "verseUrl": "https://vedabase.io/en/library/bg/17/22/"
@@ -278,11 +278,11 @@
       "prompt": "In the purport to BG 17.23, what is the practical role of om tat sat?",
       "choices": [
         "A charm for material success",
+        "A code for social morality",
         "A sanctifier of spiritual acts",
-        "A sound with no meaning",
-        "A code for social morality"
+        "A sound with no meaning"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Prabhupada presents om tat sat as a spiritual designation that connects sacrifice, austerity, and charity to the Supreme, protecting one from fruitive or ego-centered practice.",
       "verseLabel": "BG 17.23",
       "verseUrl": "https://vedabase.io/en/library/bg/17/23/"
@@ -291,12 +291,12 @@
       "id": "bg17-q21",
       "prompt": "According to BG 17.24-25, how should sacrifice, austerity, and charity be performed?",
       "choices": [
-        "As social custom only",
-        "For quick material benefit",
+        "As offering to the Supreme",
         "As ritual without meaning",
-        "As offering to the Supreme"
+        "As social custom only",
+        "For quick material benefit"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "feedback": "Acts performed with reference to the Absolute are offered to the Supreme and gain spiritual value. Without that connection, practice tends to remain within the modes.",
       "verseLabel": "BG 17.24-25",
       "verseUrl": "https://vedabase.io/en/library/bg/17/25/"
@@ -305,12 +305,12 @@
       "id": "bg17-q22",
       "prompt": "According to BG 17.26-27, what does sat indicate in spiritual life?",
       "choices": [
+        "Enduring reality linked to devotion",
         "Social morality and reputation",
         "Neutrality beyond all action",
-        "Material permanence and stability",
-        "Enduring reality linked to devotion"
+        "Material permanence and stability"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "feedback": "Sat refers to enduring spiritual existence and proper conduct directed toward the Supreme. It points to what lasts beyond temporary mood and fashion.",
       "verseLabel": "BG 17.26-27",
       "verseUrl": "https://vedabase.io/en/library/bg/17/27/"
@@ -319,12 +319,12 @@
       "id": "bg17-q23",
       "prompt": "In the purport to BG 17.28, why are acts without faith called asat?",
       "choices": [
-        "They are always materially harmful",
         "They lack lasting spiritual result",
+        "They must be hidden from others",
         "They are sinful by default",
-        "They must be hidden from others"
+        "They are always materially harmful"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Prabhupada explains that acts without faith in the Supreme are asat: they do not yield lasting spiritual benefit, regardless of external effort or impressive form.",
       "verseLabel": "BG 17.28",
       "verseUrl": "https://vedabase.io/en/library/bg/17/28/"
@@ -333,12 +333,12 @@
       "id": "bg17-q24",
       "prompt": "Synthesis (BG 17): Which option best states the chapter's core warning?",
       "choices": [
+        "Discipline reduces spiritual freedom",
         "Sincerity sanctifies all practice",
         "Ritual complexity guarantees success",
-        "Faith must be purified and directed",
-        "Discipline reduces spiritual freedom"
+        "Faith must be purified and directed"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "Chapter 17 warns that sincerity without proper guidance can remain bound by the modes. Faith must be purified by authority, motive, and devotion.",
       "verseLabel": "BG 17",
       "verseUrl": "https://vedabase.io/en/library/bg/17/"
@@ -348,11 +348,11 @@
       "prompt": "Synthesis (BG 17.23-28): What is the decisive difference between sat and asat practice?",
       "choices": [
         "Whether it uses many rituals",
+        "How difficult the practice feels",
         "Whether it pleases society",
-        "Connection to the Supreme Truth",
-        "How difficult the practice feels"
+        "Connection to the Supreme Truth"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "The closing section makes the decisive test: practice becomes sat when it is anchored in the Supreme (om tat sat) and done with real faith. Otherwise it is asat, lacking enduring spiritual value.",
       "verseLabel": "BG 17.28",
       "verseUrl": "https://vedabase.io/en/library/bg/17/28/"

@@ -11,8 +11,8 @@
       "id": "bg18-q1",
       "prompt": "In BG 18.1, what distinction does Arjuna ask Krishna to clarify?",
       "choices": [
-        "Knowledge and action",
         "Body and soul",
+        "Knowledge and action",
         "Renunciation and renounced order",
         "Devotion and meditation"
       ],
@@ -26,11 +26,11 @@
       "prompt": "According to BG 18.2, how do learned persons generally define true renunciation?",
       "choices": [
         "Giving up all prescribed duties",
+        "Giving up all action completely",
         "Giving up scriptural authority",
-        "Giving up fruitive desire in action",
-        "Giving up all action completely"
+        "Giving up fruitive desire in action"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "Krishna states that true tyaga means giving up attachment to the fruits of work, not abandoning work itself. This distinction prevents confusing inactivity with spiritual advancement.",
       "verseLabel": "BG 18.2",
       "verseUrl": "https://vedabase.io/en/library/bg/18/2/"
@@ -39,12 +39,12 @@
       "id": "bg18-q3",
       "prompt": "In the purport to BG 18.2, what false conclusion does Prabhupada warn against?",
       "choices": [
-        "Thinking discipline steadies the mind",
-        "Thinking action itself is bondage",
         "Thinking work purifies intention",
-        "Thinking duty supports devotion"
+        "Thinking duty supports devotion",
+        "Thinking action itself is bondage",
+        "Thinking discipline steadies the mind"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Prabhupada warns against the false idea that all action is bondage. The danger is rejecting prescribed duty instead of rejecting selfish motivation, which leads to laziness rather than liberation.",
       "verseLabel": "BG 18.2",
       "verseUrl": "https://vedabase.io/en/library/bg/18/2/"
@@ -53,12 +53,12 @@
       "id": "bg18-q4",
       "prompt": "According to BG 18.3, what mistake do some renunciants make?",
       "choices": [
-        "They overemphasize devotion",
         "They follow scripture strictly",
         "They reject action as impure",
-        "They abandon duty out of fear"
+        "They abandon duty out of fear",
+        "They overemphasize devotion"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Krishna explains that some people give up work entirely, considering it faulty. This is identified as an incomplete understanding that ignores purification through regulated action.",
       "verseLabel": "BG 18.3",
       "verseUrl": "https://vedabase.io/en/library/bg/18/3/"
@@ -68,8 +68,8 @@
       "prompt": "According to BG 18.4-6, which actions should never be abandoned?",
       "choices": [
         "Charity, sacrifice, and austerity",
-        "Rituals for material gain",
         "Occupational work only",
+        "Rituals for material gain",
         "Meditation and silence"
       ],
       "correctIndex": 0,
@@ -81,12 +81,12 @@
       "id": "bg18-q6",
       "prompt": "Synthesis (BG 18.1-6): What is Krishna redefining as true renunciation?",
       "choices": [
-        "Giving up results, not duty",
-        "Rejecting responsibility",
+        "Withdrawing from society",
         "Stopping all action",
-        "Withdrawing from society"
+        "Rejecting responsibility",
+        "Giving up results, not duty"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krishna reframes renunciation as inner detachment from results, not abandonment of prescribed work. This synthesis prevents confusing irresponsibility with spirituality.",
       "verseLabel": "BG 18.1-6",
       "verseUrl": "https://vedabase.io/en/library/bg/18/6/"
@@ -95,12 +95,12 @@
       "id": "bg18-q7",
       "prompt": "According to BG 18.7, what kind of renunciation is considered in the mode of ignorance?",
       "choices": [
+        "Rejecting sinful activity",
         "Giving up work due to fear or illusion",
-        "Giving up results while serving Krishna",
         "Performing duty without attachment",
-        "Rejecting sinful activity"
+        "Giving up results while serving Krishna"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Renunciation motivated by fear, illusion, or misunderstanding is tamasic. It abandons duty without purification and leads to degradation, not freedom.",
       "verseLabel": "BG 18.7",
       "verseUrl": "https://vedabase.io/en/library/bg/18/7/"
@@ -109,10 +109,10 @@
       "id": "bg18-q8",
       "prompt": "According to BG 18.9, what defines renunciation in the mode of goodness?",
       "choices": [
-        "Avoiding responsibility entirely",
-        "Performing duty without attachment",
         "Giving up all pleasure",
-        "Rejecting all scripture"
+        "Performing duty without attachment",
+        "Rejecting all scripture",
+        "Avoiding responsibility entirely"
       ],
       "correctIndex": 1,
       "feedback": "Sattvic renunciation means performing prescribed duty as obligation, without attachment to success or failure. This is the recommended platform for devotion.",
@@ -123,12 +123,12 @@
       "id": "bg18-q9",
       "prompt": "In the purport to BG 18.9, what subtle danger remains even in sattvic renunciation?",
       "choices": [
-        "Attachment to laziness",
         "Rejection of all action",
         "Pride in moral superiority",
+        "Attachment to laziness",
         "Dependence on ignorance"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Prabhupada warns that even goodness can bind through pride and self-satisfaction. Without bhakti, refined renunciation can still reinforce ego rather than dissolve it.",
       "verseLabel": "BG 18.9",
       "verseUrl": "https://vedabase.io/en/library/bg/18/9/"
@@ -137,12 +137,12 @@
       "id": "bg18-q10",
       "prompt": "According to BG 18.11, why is complete renunciation of action impossible for the embodied soul?",
       "choices": [
-        "Action belongs only to Krishna",
         "Action is imposed by nature",
-        "Action is enforced by society",
-        "Action is optional by will"
+        "Action is optional by will",
+        "Action belongs only to Krishna",
+        "Action is enforced by society"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna explains that embodied beings cannot stop acting because the modes of nature compel activity. The solution is purified action, not denial of action.",
       "verseLabel": "BG 18.11",
       "verseUrl": "https://vedabase.io/en/library/bg/18/11/"
@@ -151,12 +151,12 @@
       "id": "bg18-q11",
       "prompt": "According to BG 18.12, what is the result for one who has not renounced the fruits of work?",
       "choices": [
+        "Threefold karmic results",
         "Liberation by effort",
         "No reaction at all",
-        "Immediate devotion",
-        "Threefold karmic results"
+        "Immediate devotion"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "feedback": "Those attached to results receive threefold outcomes after death: desirable, undesirable, or mixed. Renouncing results frees one from these chains.",
       "verseLabel": "BG 18.12",
       "verseUrl": "https://vedabase.io/en/library/bg/18/12/"
@@ -165,10 +165,10 @@
       "id": "bg18-q12",
       "prompt": "In BG 18.13-14, what five factors does Krishna identify behind all action?",
       "choices": [
-        "Mind, intelligence, faith, karma, society",
         "Time, fate, desire, ego, body",
+        "Nature alone acting independently",
         "Body, doer, senses, effort, Supersoul",
-        "Nature alone acting independently"
+        "Mind, intelligence, faith, karma, society"
       ],
       "correctIndex": 2,
       "feedback": "Krishna lists five causes: body, doer, senses, effort, and Supersoul. This framework dismantles the illusion of independent doership.",
@@ -180,11 +180,11 @@
       "prompt": "In the purport to BG 18.14, what illusion does Prabhupada directly challenge?",
       "choices": [
         "Effort is unnecessary",
+        "Doership is independent",
         "Faith is subjective",
-        "Nature is unreal",
-        "Doership is independent"
+        "Nature is unreal"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "feedback": "Prabhupada emphasizes that the false ego imagines itself the sole doer. Recognizing multiple causes, especially the Supersoul, dissolves pride and supports surrender.",
       "verseLabel": "BG 18.14",
       "verseUrl": "https://vedabase.io/en/library/bg/18/14/"
@@ -193,12 +193,12 @@
       "id": "bg18-q14",
       "prompt": "According to BG 18.15, what determines whether an action is sinful or not?",
       "choices": [
-        "Scriptural guidance",
-        "Public opinion",
         "Material success",
-        "Personal intention alone"
+        "Scriptural guidance",
+        "Personal intention alone",
+        "Public opinion"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krishna states that scripture determines what is duty and what is sin. This guards against moral relativism based on emotion or social approval.",
       "verseLabel": "BG 18.15",
       "verseUrl": "https://vedabase.io/en/library/bg/18/15/"
@@ -207,12 +207,12 @@
       "id": "bg18-q15",
       "prompt": "Synthesis (BG 18.11-15): What is Krishna dismantling in this section?",
       "choices": [
-        "The illusion of independent doership",
         "The authority of scripture",
-        "The need for effort",
-        "The value of discipline"
+        "The value of discipline",
+        "The illusion of independent doership",
+        "The need for effort"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna systematically dismantles the myth of independent agency. Action occurs through multiple causes under divine supervision, which reframes responsibility and humility.",
       "verseLabel": "BG 18.15",
       "verseUrl": "https://vedabase.io/en/library/bg/18/15/"
@@ -221,9 +221,9 @@
       "id": "bg18-q16",
       "prompt": "According to BG 18.17, who is not bound even when killing occurs?",
       "choices": [
-        "One ignoring scripture",
-        "One acting emotionally",
         "One acting violently",
+        "One acting emotionally",
+        "One ignoring scripture",
         "One free from egoistic doership"
       ],
       "correctIndex": 3,
@@ -235,12 +235,12 @@
       "id": "bg18-q17",
       "prompt": "In the purport to BG 18.17, what dangerous misreading does Prabhupada warn against?",
       "choices": [
-        "Claiming non-responsibility for harmful acts",
+        "Acting under authority",
         "Following scripture strictly",
         "Using duty as excuse for violence",
-        "Acting under authority"
+        "Claiming non-responsibility for harmful acts"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Prabhupada warns against fatalism: claiming that because modes act, one bears no responsibility. True understanding removes ego, not accountability.",
       "verseLabel": "BG 18.17",
       "verseUrl": "https://vedabase.io/en/library/bg/18/17/"
@@ -249,12 +249,12 @@
       "id": "bg18-q18",
       "prompt": "According to BG 18.18, what three factors drive action?",
       "choices": [
-        "Mind, body, and soul",
         "Knowledge, action, and actor",
         "Time, fate, and karma",
+        "Mind, body, and soul",
         "Faith, hope, and desire"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna identifies knowledge, action, and the doer as the threefold impetus behind work. Each is later analyzed by the modes.",
       "verseLabel": "BG 18.18",
       "verseUrl": "https://vedabase.io/en/library/bg/18/18/"
@@ -263,12 +263,12 @@
       "id": "bg18-q19",
       "prompt": "According to BG 18.19, what characterizes knowledge in the mode of goodness?",
       "choices": [
-        "Seeing no consequence",
-        "Seeing only difference",
+        "Seeing one undivided reality",
         "Seeing only matter",
-        "Seeing one undivided reality"
+        "Seeing only difference",
+        "Seeing no consequence"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "feedback": "Sattvic knowledge sees one spiritual reality underlying diversity. It supports harmony without denying individual responsibility.",
       "verseLabel": "BG 18.19",
       "verseUrl": "https://vedabase.io/en/library/bg/18/19/"
@@ -277,12 +277,12 @@
       "id": "bg18-q20",
       "prompt": "In the purport to BG 18.20, what limitation of sattvic knowledge is highlighted?",
       "choices": [
-        "It produces ignorance",
-        "It denies individuality",
         "It still lacks devotion",
-        "It rejects unity"
+        "It produces ignorance",
+        "It rejects unity",
+        "It denies individuality"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Prabhupada notes that even sattvic knowledge is incomplete without devotion to the Supreme. Knowledge alone does not grant liberation.",
       "verseLabel": "BG 18.20",
       "verseUrl": "https://vedabase.io/en/library/bg/18/20/"
@@ -291,12 +291,12 @@
       "id": "bg18-q21",
       "prompt": "According to BG 18.41, how are duties determined?",
       "choices": [
-        "By social demand",
         "By natural qualities and work",
+        "By personal preference",
         "By birth alone",
-        "By personal preference"
+        "By social demand"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna explains that duties arise from one's qualities and activities, not merely birth. This preserves functional order without rigid fatalism.",
       "verseLabel": "BG 18.41",
       "verseUrl": "https://vedabase.io/en/library/bg/18/41/"
@@ -305,9 +305,9 @@
       "id": "bg18-q22",
       "prompt": "In the purport to BG 18.41, what misuse does Prabhupada explicitly reject?",
       "choices": [
-        "Serving according to nature",
-        "Determining duty by qualification",
         "Following social order",
+        "Determining duty by qualification",
+        "Serving according to nature",
         "Freezing duty by birth identity"
       ],
       "correctIndex": 3,
@@ -319,12 +319,12 @@
       "id": "bg18-q23",
       "prompt": "According to BG 18.46, what perfects a person through work?",
       "choices": [
-        "Worshiping the Supreme through duty",
-        "Material excellence",
+        "Public recognition",
         "Personal satisfaction",
-        "Public recognition"
+        "Worshiping the Supreme through duty",
+        "Material excellence"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna teaches that one attains perfection by worshiping the Supreme through one's own duty. This integrates work, devotion, and purpose.",
       "verseLabel": "BG 18.46",
       "verseUrl": "https://vedabase.io/en/library/bg/18/46/"
@@ -333,9 +333,9 @@
       "id": "bg18-q24",
       "prompt": "In the purport to BG 18.66, what misunderstanding does Prabhupada directly correct?",
       "choices": [
-        "Surrender cancels moral duty",
-        "Surrender denies free will",
         "Devotion replaces all discipline",
+        "Surrender denies free will",
+        "Surrender cancels moral duty",
         "Surrender means irresponsibility"
       ],
       "correctIndex": 3,
@@ -348,11 +348,11 @@
       "prompt": "Final Synthesis (BG 18.66): What is Krishna's ultimate instruction?",
       "choices": [
         "Abandon all action",
-        "Surrender fully and act under His order",
         "Follow intuition alone",
+        "Surrender fully and act under His order",
         "Seek impersonal liberation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna's final instruction is complete surrender: abandoning independent conceptions of duty and taking shelter of Him while acting under His direction. This concludes the Gita with obedience, not abstraction.",
       "verseLabel": "BG 18.66",
       "verseUrl": "https://vedabase.io/en/library/bg/18/66/"

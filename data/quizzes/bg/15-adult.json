@@ -13,8 +13,8 @@
       "choices": [
         "A tree with sideways roots and upward branches",
         "An inverted banyan, roots up, branches down",
-        "A banyan with roots and branches level",
-        "A normal banyan, roots below, branches above"
+        "A normal banyan, roots below, branches above",
+        "A banyan with roots and branches level"
       ],
       "correctIndex": 1,
       "feedback": "Krsna compares the material world to an inverted banyan tree, with roots upward and branches downward. The image emphasizes that this world is dependent on a higher source and is a reflection, not the original reality.",
@@ -25,12 +25,12 @@
       "id": "bg15-q2",
       "prompt": "According to BG 15.2, what role do the modes of nature and fruitive work play in the expansion of the banyan tree?",
       "choices": [
-        "Time alone expands both roots and branches",
         "Bhakti grows branches; detachment grows roots",
-        "Modes feed branches; karma grows the roots",
-        "Modes cut branches; jnana cuts the roots"
+        "Modes cut branches; jnana cuts the roots",
+        "Time alone expands both roots and branches",
+        "Modes feed branches; karma grows the roots"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "Krsna explains that the branches are nourished by the three modes of material nature, while the roots grow through fruitive activities. This shows how modes and karma together sustain bondage.",
       "verseLabel": "BG 15.2",
       "verseUrl": "https://vedabase.io/en/library/bg/15/2/"
@@ -39,12 +39,12 @@
       "id": "bg15-q3",
       "prompt": "In the purport to BG 15.1, what essential point does Srila Prabhupada stress about the banyan-tree analogy?",
       "choices": [
-        "It is poetry, not philosophical teaching",
-        "It proves matter is final and self-sufficient",
         "It is a perverted reflection, not the original",
-        "It is the spiritual world in literal form"
+        "It proves matter is final and self-sufficient",
+        "It is the spiritual world in literal form",
+        "It is poetry, not philosophical teaching"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Prabhupada emphasizes that the banyan tree represents a perverted reflection of reality. Mistaking the reflection for the original leads one to cling to material complexity instead of seeking the true source.",
       "verseLabel": "BG 15.1",
       "verseUrl": "https://vedabase.io/en/library/bg/15/1/"
@@ -53,12 +53,12 @@
       "id": "bg15-q4",
       "prompt": "According to BG 15.3, what is said about perceiving the true form, beginning, and end of the banyan tree?",
       "choices": [
-        "Its form is obvious because it is the soul",
         "Ritual alone reveals its complete structure",
         "Its foundation is seen clearly in this world",
-        "Its true form and limits are not seen here"
+        "Its true form and limits are not seen here",
+        "Its form is obvious because it is the soul"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "feedback": "Krsna states that the true form of the tree, along with its beginning and end, is not perceived here. This underlines the inadequacy of material perception for understanding ultimate reality.",
       "verseLabel": "BG 15.3",
       "verseUrl": "https://vedabase.io/en/library/bg/15/3/"
@@ -67,12 +67,12 @@
       "id": "bg15-q5",
       "prompt": "According to BG 15.3-4, what action should one take regarding the banyan tree, and by what means?",
       "choices": [
-        "Balance it by regulated enjoyment and virtue",
         "Cut it with detachment and seek the abode",
-        "Study it deeply by speculative reasoning",
-        "Ignore it until it fades by time alone"
+        "Ignore it until it fades by time alone",
+        "Balance it by regulated enjoyment and virtue",
+        "Study it deeply by speculative reasoning"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krsna instructs that the tree should be cut down with the weapon of detachment, after which one should seek the supreme abode. Detachment removes false shelter so true shelter can be found.",
       "verseLabel": "BG 15.3-4",
       "verseUrl": "https://vedabase.io/en/library/bg/15/4/"
@@ -81,12 +81,12 @@
       "id": "bg15-q6",
       "prompt": "In the purport to BG 15.4, which attitude best illustrates the false form of detachment that Srila Prabhupada warns against?",
       "choices": [
-        "I renounce outwardly but plan enjoyment inside",
         "I follow rules to gain steadiness and clarity",
-        "I avoid prestige so devotion stays central",
-        "I reduce indulgence to serve Krsna better"
+        "I renounce outwardly but plan enjoyment inside",
+        "I reduce indulgence to serve Krsna better",
+        "I avoid prestige so devotion stays central"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Prabhupada warns against superficial detachment that hides continued desire for enjoyment. Such renunciation changes appearance but not the center of identity, leaving bondage intact.",
       "verseLabel": "BG 15.4",
       "verseUrl": "https://vedabase.io/en/library/bg/15/4/"
@@ -95,12 +95,12 @@
       "id": "bg15-q7",
       "prompt": "According to BG 15.5, which qualities characterize those who reach the eternal destination?",
       "choices": [
-        "Free from false prestige, steady beyond duality",
-        "Strong in ritual skill and austere pride",
         "Rich in honor, learning, and refined comfort",
-        "Powerful in politics with social protection"
+        "Free from false prestige, steady beyond duality",
+        "Powerful in politics with social protection",
+        "Strong in ritual skill and austere pride"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krsna lists freedom from false prestige and illusion, detachment, and steadiness beyond dualities. The emphasis is purification of identity, not elevation within material hierarchy.",
       "verseLabel": "BG 15.5",
       "verseUrl": "https://vedabase.io/en/library/bg/15/5/"
@@ -109,12 +109,12 @@
       "id": "bg15-q8",
       "prompt": "In BG 15.6, what is said about the supreme abode in relation to light and return?",
       "choices": [
-        "It lasts only for one cosmic age",
-        "It equals heaven gained by pious work",
         "It depends on sun; return is guaranteed",
-        "It is self-luminous; return does not occur"
+        "It equals heaven gained by pious work",
+        "It is self-luminous; return does not occur",
+        "It lasts only for one cosmic age"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "feedback": "The supreme abode requires no sun, moon, or fire, and one who reaches it never returns. This distinguishes eternal shelter from temporary elevation.",
       "verseLabel": "BG 15.6",
       "verseUrl": "https://vedabase.io/en/library/bg/15/6/"
@@ -123,12 +123,12 @@
       "id": "bg15-q9",
       "prompt": "According to BG 15.7, what is the constitutional position of the jiva, and what struggle does it face in material nature?",
       "choices": [
-        "A product of matter, struggling only with the body",
         "A non-self, produced by ignorance and words",
+        "A fragmental part, struggling with mind and senses",
         "An equal controller, struggling by imagination alone",
-        "A fragmental part, struggling with mind and senses"
+        "A product of matter, struggling only with the body"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "feedback": "The jiva is an eternal fragmental part of Krsna and struggles with the six senses, including the mind. The struggle arises from misidentification, not from loss of existence.",
       "verseLabel": "BG 15.7",
       "verseUrl": "https://vedabase.io/en/library/bg/15/7/"
@@ -137,12 +137,12 @@
       "id": "bg15-q10",
       "prompt": "In the purport to BG 15.7, which distinction prevents the mistaken idea that the jiva becomes the Supreme?",
       "choices": [
-        "Dissolves into Brahman and loses individuality",
-        "Is created in time and therefore not real",
         "Becomes supreme by perfecting knowledge alone",
-        "Same quality, never the Lord's unlimited quantity"
+        "Same quality, never the Lord's unlimited quantity",
+        "Is created in time and therefore not real",
+        "Dissolves into Brahman and loses individuality"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "feedback": "Prabhupada stresses that although the jiva shares spiritual quality with Krsna, it never becomes the unlimited whole. Confusing part with controller blocks surrender.",
       "verseLabel": "BG 15.7",
       "verseUrl": "https://vedabase.io/en/library/bg/15/7/"
@@ -151,12 +151,12 @@
       "id": "bg15-q11",
       "prompt": "According to BG 15.8, how does the living entity transition from one body to another?",
       "choices": [
-        "Dissolves into matter, then reforms as a new self",
-        "Transfers by rituals performed by others only",
         "Carries mind and senses, like air carries scent",
+        "Transfers by rituals performed by others only",
+        "Dissolves into matter, then reforms as a new self",
         "Loses all continuity and becomes a new being"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "The soul carries mind and senses to the next body, just as air carries aromas. This explains continuity of desire and conditioning across lifetimes.",
       "verseLabel": "BG 15.8",
       "verseUrl": "https://vedabase.io/en/library/bg/15/8/"
@@ -166,11 +166,11 @@
       "prompt": "In the purport to BG 15.8, what practical lesson is emphasized for spiritual advancement?",
       "choices": [
         "Memory loss cancels the effects of practice",
-        "Conditioning follows the soul; purify inner habits",
+        "Mind cannot be trained, so effort is minor",
         "External conduct alone determines future progress",
-        "Mind cannot be trained, so effort is minor"
+        "Conditioning follows the soul; purify inner habits"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Prabhupada emphasizes that desires and conditioning follow the soul, so purification must be internal. Otherwise the same identity is simply transferred to a new body.",
       "verseLabel": "BG 15.8",
       "verseUrl": "https://vedabase.io/en/library/bg/15/8/"
@@ -179,12 +179,12 @@
       "id": "bg15-q13",
       "prompt": "According to BG 15.9, how does the living entity attempt to enjoy the material world?",
       "choices": [
-        "By shutting down experience as the final goal",
         "Through mind and senses, tasting sense objects",
         "By remaining untouched by any perception",
-        "By spiritual bliss alone, beyond all perception"
+        "By spiritual bliss alone, beyond all perception",
+        "By shutting down experience as the final goal"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "The jiva attempts to enjoy sense objects through the mind and senses. This mechanism explains how enjoyment-seeking reinforces bondage.",
       "verseLabel": "BG 15.9",
       "verseUrl": "https://vedabase.io/en/library/bg/15/9/"
@@ -193,12 +193,12 @@
       "id": "bg15-q14",
       "prompt": "According to BG 15.10, who can truly understand the soul's presence and departure?",
       "choices": [
-        "Those seeking material gain as their goal",
         "Those with sharp logic and debating skill",
         "Those indifferent to discipline and practice",
-        "Those with eyes of knowledge, not the foolish"
+        "Those with eyes of knowledge, not the foolish",
+        "Those seeking material gain as their goal"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "feedback": "Krsna explains that those with eyes of knowledge can understand these truths, while the foolish cannot. Purified perception, not argument, is required.",
       "verseLabel": "BG 15.10",
       "verseUrl": "https://vedabase.io/en/library/bg/15/10/"
@@ -207,12 +207,12 @@
       "id": "bg15-q15",
       "prompt": "In the purport to BG 15.10-11, what false assumption about spiritual vision is rejected?",
       "choices": [
-        "Hearing guides understanding and conviction slowly",
-        "Regulation supports clarity and seriousness",
+        "Discipline helps devotional steadiness over time",
         "Realization is automatic without purification or method",
-        "Discipline helps devotional steadiness over time"
+        "Hearing guides understanding and conviction slowly",
+        "Regulation supports clarity and seriousness"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Prabhupada rejects the idea that realization is cheap or automatic. Genuine vision follows purification, method, and submissive hearing.",
       "verseLabel": "BG 15.11",
       "verseUrl": "https://vedabase.io/en/library/bg/15/11/"
@@ -221,12 +221,12 @@
       "id": "bg15-q16",
       "prompt": "According to BG 15.12, what is the source of the splendor of the sun, moon, and fire?",
       "choices": [
-        "Their splendor is independent by natural law",
         "Their splendor comes from Krsna",
-        "Their splendor arises only from sacrifice",
-        "Their splendor comes only from demigods"
+        "Their splendor comes only from demigods",
+        "Their splendor is independent by natural law",
+        "Their splendor arises only from sacrifice"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krsna states that the splendor of sun, moon, and fire comes from Him. Visible power is traced back to its personal source.",
       "verseLabel": "BG 15.12",
       "verseUrl": "https://vedabase.io/en/library/bg/15/12/"
@@ -235,12 +235,12 @@
       "id": "bg15-q17",
       "prompt": "According to BG 15.13, how does Krsna sustain the universe?",
       "choices": [
-        "He enters planets and supports them by His energy",
         "He sustains by constant destruction and reset",
         "He stays distant and uninvolved after creation",
-        "He delegates all maintenance to demigods"
+        "He delegates all maintenance to demigods",
+        "He enters planets and supports them by His energy"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krsna explains that He enters and sustains the worlds through His energy. Maintenance is ongoing dependence, not independence.",
       "verseLabel": "BG 15.13",
       "verseUrl": "https://vedabase.io/en/library/bg/15/13/"
@@ -249,8 +249,8 @@
       "id": "bg15-q18",
       "prompt": "According to BG 15.14, what role does Krsna describe Himself as playing within living beings?",
       "choices": [
-        "The ego that generates pride and rivalry",
         "The mind that produces imagination and doubt",
+        "The ego that generates pride and rivalry",
         "Digestive fire that processes four kinds of food",
         "The senses that create attachment and craving"
       ],
@@ -264,9 +264,9 @@
       "prompt": "According to BG 15.15, what comes from Krsna, and what is the Vedas' ultimate purpose?",
       "choices": [
         "Remembrance, knowledge, forgetfulness; to know Him",
+        "Ritual success; to gain heaven and merit",
         "Liberation alone; to negate personality",
-        "Ethics and prosperity; to regulate society",
-        "Ritual success; to gain heaven and merit"
+        "Ethics and prosperity; to regulate society"
       ],
       "correctIndex": 0,
       "feedback": "Krsna says remembrance, knowledge, and forgetfulness come from Him, and that all the Vedas aim to know Him. He is both their source and conclusion.",
@@ -279,8 +279,8 @@
       "choices": [
         "The soul resumes work by the Lord's sanction and guidance",
         "The soul remembers everything and needs no help",
-        "Nature alone directs intelligence and memory",
-        "Activity is random and has no continuity"
+        "Activity is random and has no continuity",
+        "Nature alone directs intelligence and memory"
       ],
       "correctIndex": 0,
       "feedback": "Prabhupada explains that although the soul forgets past details, it resumes activity under the Lord's sanction, receiving intelligence as needed.",
@@ -292,11 +292,11 @@
       "prompt": "According to BG 15.16, what two categories of living beings are identified?",
       "choices": [
         "Renounced and householders",
-        "Fallible and infallible",
         "Liberated and condemned",
-        "Learned and unlearned"
+        "Learned and unlearned",
+        "Fallible and infallible"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krsna identifies two categories of beings: fallible and infallible. This prepares the ground for identifying the Supreme beyond both.",
       "verseLabel": "BG 15.16",
       "verseUrl": "https://vedabase.io/en/library/bg/15/16/"
@@ -305,9 +305,9 @@
       "id": "bg15-q22",
       "prompt": "According to BG 15.17, who is described as the Supreme Person?",
       "choices": [
+        "A demigod who manages one universe temporarily",
         "The combined jivas acting as one controller",
         "An impersonal absolute that does not act",
-        "A demigod who manages one universe temporarily",
         "The Lord who enters and sustains all worlds"
       ],
       "correctIndex": 3,
@@ -319,12 +319,12 @@
       "id": "bg15-q23",
       "prompt": "In the purport to BG 15.18, what mistaken stopping-point is explicitly rejected?",
       "choices": [
-        "Impersonal realization as final, minimizing the Person",
         "Service as essential for fulfillment",
-        "Devotion as the mature conclusion of knowledge",
-        "Surrender as necessary for liberation"
+        "Surrender as necessary for liberation",
+        "Impersonal realization as final, minimizing the Person",
+        "Devotion as the mature conclusion of knowledge"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Prabhupada warns against stopping at impersonal realization. Chapter 15 insists that the Supreme Person is the ultimate conclusion of knowledge.",
       "verseLabel": "BG 15.18",
       "verseUrl": "https://vedabase.io/en/library/bg/15/18/"
@@ -333,10 +333,10 @@
       "id": "bg15-q24",
       "prompt": "Synthesis (BG 15.1-6): What is the correct movement from diagnosis to cure?",
       "choices": [
+        "Reject all action and remain inactive as the cure",
         "Balance the modes so the reflection becomes stable",
-        "Study the reflection until satisfaction naturally arises",
         "Diagnose the reflection, cut false shelter, seek the abode",
-        "Reject all action and remain inactive as the cure"
+        "Study the reflection until satisfaction naturally arises"
       ],
       "correctIndex": 2,
       "feedback": "The chapter diagnoses the material world as an inverted reflection and prescribes the cure: cut false shelter through detachment and seek the original abode beyond it.",
@@ -347,12 +347,12 @@
       "id": "bg15-q25",
       "prompt": "In the purport to BG 15.20, what does Srila Prabhupada define as true fulfillment?",
       "choices": [
-        "Conclude correctly about Krsna and serve Him in bhakti",
+        "Rise beyond good and evil by indifference",
         "Perfect material duty as the final goal",
         "Win debates and gain philosophical prestige",
-        "Rise beyond good and evil by indifference"
+        "Conclude correctly about Krsna and serve Him in bhakti"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Prabhupada explains that fulfillment means arriving at the right conclusion about Krsna and acting on it through devotion, which completes knowledge and ends the search for false shelter.",
       "verseLabel": "BG 15.20",
       "verseUrl": "https://vedabase.io/en/library/bg/15/20/"

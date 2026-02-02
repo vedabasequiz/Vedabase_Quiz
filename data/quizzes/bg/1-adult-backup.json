@@ -11,12 +11,12 @@
       "id": "bg1-q1",
       "prompt": "In BG 1.1, what does Dhritarastra ask Sanjaya to describe?",
       "choices": [
-        "The outcome of the Kuruksetra war",
-        "The military strategies of both sides",
+        "Why Krsna chose to side with the Pandavas",
         "What his sons and the sons of Pandu did after assembling",
-        "Why Krsna chose to side with the Pandavas"
+        "The military strategies of both sides",
+        "The outcome of the Kuruksetra war"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Dhritarastra's question reveals his anxiety and attachment. He asks what his sons and the sons of Pandu are doing after assembling for battle, indicating concern rather than neutrality.",
       "verseLabel": "BG 1.1",
       "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
@@ -26,12 +26,12 @@
       "id": "bg1-q2",
       "prompt": "Why is Dhritarastra described as blind in the purport to BG 1.1?",
       "choices": [
-        "Only to describe his physical condition",
         "To symbolize his lack of military knowledge",
         "To indicate both physical blindness and spiritual ignorance",
+        "Only to describe his physical condition",
         "To emphasize his dependence on Sanjaya"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Srila Prabhupada explains that Dhritarastra's blindness is both physical and spiritual. His attachment to his sons prevents clear moral and spiritual vision.",
       "verseLabel": "BG 1.1",
       "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
@@ -41,12 +41,12 @@
       "id": "bg1-q3",
       "prompt": "Srila Prabhupada explains in the purport to BG 1.1 that Kuruksetra is a dharmaksetra (place of pilgrimage). Why is this significant for understanding the battle?",
       "choices": [
-        "It merely indicates historical accuracy of the location",
         "It suggests the battle was fought for religious tourism development",
         "It reveals that the Supreme Lord desired the battle to take place in a sacred setting, indicating divine sanction",
+        "It merely indicates historical accuracy of the location",
         "It means both sides were equally righteous and divinely favored"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Srila Prabhupada explains that Kuruksetra's status as a place of pilgrimage from Vedic times is significant because the Supreme Lord desired the battle to take place on a sacred field. This is not random geography but divine arrangement. Why this matters: Understanding that even warfare can be divinely sanctioned when aligned with dharma helps us transcend the simplistic view that all violence is equally sinful. The other options fail because they either reduce the significance to mere historical detail, misunderstand the purpose of pilgrimage sites, or wrongly assume both sides had equal divine support despite moral differences.",
       "verseLabel": "BG 1.1",
       "verseUrl": "https://vedabase.io/en/library/bg/1/1/",
@@ -56,12 +56,12 @@
       "id": "bg1-q4",
       "prompt": "In BG 1.2, what does Sanjaya first describe to Dhritarastra?",
       "choices": [
-        "Arjuna's fear",
-        "Duryodhana approaching Dronacarya",
         "Bhisma blowing his conch",
-        "The armies preparing weapons"
+        "The armies preparing weapons",
+        "Arjuna's fear",
+        "Duryodhana approaching Dronacarya"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Sanjaya begins by describing Duryodhana approaching his teacher Drona, setting the stage for revealing Duryodhana's inner anxiety.",
       "verseLabel": "BG 1.2",
       "verseUrl": "https://vedabase.io/en/library/bg/1/2/",
@@ -71,12 +71,12 @@
       "id": "bg1-q4",
       "prompt": "In BG 1.2, what does Sanjaya first describe to Dhritarastra?",
       "choices": [
-        "Arjuna's fear",
         "Duryodhana approaching Dronacarya",
+        "The armies preparing weapons",
         "Bhisma blowing his conch",
-        "The armies preparing weapons"
+        "Arjuna's fear"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Sanjaya begins by describing Duryodhana approaching his teacher Drona, setting the stage for revealing Duryodhana's inner anxiety.",
       "verseLabel": "BG 1.2",
       "verseUrl": "https://vedabase.io/en/library/bg/1/2/",
@@ -86,10 +86,10 @@
       "id": "bg1-q5",
       "prompt": "Why does Duryodhana approach Dronacarya in BG 1.2?",
       "choices": [
+        "To receive final military instructions",
         "To seek blessings",
-        "To boast confidently about his army",
         "To subtly express insecurity and seek reassurance",
-        "To receive final military instructions"
+        "To boast confidently about his army"
       ],
       "correctIndex": 2,
       "feedback": "The purport explains that Duryodhana's speech reveals fear. Though outwardly confident, he seeks reassurance from his teacher.",
@@ -101,12 +101,12 @@
       "id": "bg1-q6",
       "prompt": "Srila Prabhupada explains in the purport to BG 1.3 that Duryodhana's diplomatic behavior toward Dronacarya is motivated by what?",
       "choices": [
-        "Genuine respect and gratitude for his teacher's lifelong service",
         "A diplomatic attempt to point out the teacher's mistake in training the enemy",
-        "Simple military protocol requiring students to address commanders before battle",
-        "Fear that Drona will immediately abandon the Kaurava side"
+        "Fear that Drona will immediately abandon the Kaurava side",
+        "Genuine respect and gratitude for his teacher's lifelong service",
+        "Simple military protocol requiring students to address commanders before battle"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Srila Prabhupada reveals Duryodhana's psychological manipulation: his diplomatic words mask an accusation. By praising the Pandavas' military arrangement, he subtly blames Dronacarya for training them so well, implying the teacher created his own opponents. This is not gratitude but veiled criticism. Why this matters: Recognizing how envy disguises itself as diplomacy protects us from similar duplicity in our own dealings. The false path here is assuming all formal respect is genuine when it may conceal resentment. Understanding this helps us see through superficial piety that masks deeper antagonism.",
       "verseLabel": "BG 1.3",
       "verseUrl": "https://vedabase.io/en/library/bg/1/3/",
@@ -118,10 +118,10 @@
       "choices": [
         "Numerical strength only",
         "Weapons and armor",
-        "Leadership and commanders",
-        "Divine support"
+        "Divine support",
+        "Leadership and commanders"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "Duryodhana lists prominent commanders to assert strength, yet his detailed comparison betrays insecurity rather than confidence.",
       "verseLabel": "BG 1.3-1.6",
       "verseUrl": "https://vedabase.io/en/library/bg/1/3/",
@@ -133,10 +133,10 @@
       "choices": [
         "Numerical strength only",
         "Weapons and armor",
-        "Leadership and commanders",
-        "Divine support"
+        "Divine support",
+        "Leadership and commanders"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "Duryodhana lists prominent commanders to assert strength, yet his detailed comparison betrays insecurity rather than confidence.",
       "verseLabel": "BG 1.3-1.6",
       "verseUrl": "https://vedabase.io/en/library/bg/1/3/",
@@ -147,11 +147,11 @@
       "prompt": "In the purport to BG 1.10, Srila Prabhupada explains Duryodhana's assessment of military strength. What psychological trap does Duryodhana fall into?",
       "choices": [
         "He correctly estimates both armies as equal and proceeds rationally",
-        "He counts only numerical strength while ignoring divine protection on the Pandava side",
+        "He depends entirely on astrology rather than military analysis",
         "He overestimates his own army due to pride and underestimates the Pandavas entirely",
-        "He depends entirely on astrology rather than military analysis"
+        "He counts only numerical strength while ignoring divine protection on the Pandava side"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Srila Prabhupada explains that Duryodhana focused on measurable military assets while remaining blind to the crucial factor: Krsna's presence with the Pandavas. He thought the Pandavas' army was limited and his own unlimited, but failed to account for transcendental protection. This is the materialist's trap - calculating only what can be counted while dismissing divine intervention. Why this matters: Modern people similarly rely on quantifiable resources (money, connections, degrees) while neglecting spiritual strength. The false path of pure materialism ignores that success ultimately depends on divine will, not material accumulation alone.",
       "verseLabel": "BG 1.10",
       "verseUrl": "https://vedabase.io/en/library/bg/1/10/",
@@ -161,10 +161,10 @@
       "id": "bg1-q9",
       "prompt": "Why does Bhisma blow his conchshell loudly in BG 1.12?",
       "choices": [
-        "To declare the start of battle",
-        "To encourage Duryodhana",
         "To frighten the Pandavas",
-        "To signal divine approval"
+        "To encourage Duryodhana",
+        "To signal divine approval",
+        "To declare the start of battle"
       ],
       "correctIndex": 1,
       "feedback": "Bhisma's conchshell is blown specifically to cheer Duryodhana, whose confidence was shaken.",
@@ -176,12 +176,12 @@
       "id": "bg1-q9",
       "prompt": "Why does Bhisma blow his conchshell loudly in BG 1.12?",
       "choices": [
-        "To declare the start of battle",
         "To encourage Duryodhana",
         "To frighten the Pandavas",
-        "To signal divine approval"
+        "To signal divine approval",
+        "To declare the start of battle"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Bhisma's conchshell is blown specifically to cheer Duryodhana, whose confidence was shaken.",
       "verseLabel": "BG 1.12",
       "verseUrl": "https://vedabase.io/en/library/bg/1/12/",
@@ -191,12 +191,12 @@
       "id": "bg1-q10",
       "prompt": "How does the Pandava army respond to Bhisma's conchshell?",
       "choices": [
-        "With silence",
-        "With fear",
         "With a unified blowing of conchshells",
-        "By charging immediately"
+        "By charging immediately",
+        "With fear",
+        "With silence"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "The Pandavas respond with many conchshells, symbolizing confidence and unity under divine guidance.",
       "verseLabel": "BG 1.13",
       "verseUrl": "https://vedabase.io/en/library/bg/1/13/",
@@ -206,12 +206,12 @@
       "id": "bg1-q11",
       "prompt": "In the purport to BG 1.14, Srila Prabhupada describes the names of the conchshells blown by the Pandavas and Krsna. What is the significance of these transcendental names?",
       "choices": [
-        "They are merely poetic decorations added by later authors",
-        "They indicate that the conchshells were manufactured items with brand names",
         "They represent the transcendental nature of everything connected with Krsna, eternally existing in spiritual variety",
-        "They prove the Pandavas were wealthier than commonly assumed"
+        "They are merely poetic decorations added by later authors",
+        "They prove the Pandavas were wealthier than commonly assumed",
+        "They indicate that the conchshells were manufactured items with brand names"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Srila Prabhupada explains that the conchshells' transcendental names are not material designations but indicate eternal spiritual variety. Because Krsna and His associates are beyond material contamination, even their weapons and paraphernalia have eternal existence in the spiritual world. This challenges the impersonalist notion that variety exists only in the material realm. Why this matters: Understanding that transcendental variety is eternal protects us from the false path of impersonalism, which wrongly concludes that the Absolute must be formless and without variety. Material variety is temporary and illusory, but spiritual variety is eternal and real.",
       "verseLabel": "BG 1.14",
       "verseUrl": "https://vedabase.io/en/library/bg/1/14/",
@@ -222,11 +222,11 @@
       "prompt": "Why does Arjuna ask Krsna to place the chariot between the armies in BG 1.21-1.22?",
       "choices": [
         "To negotiate peace",
-        "To observe who is present for battle",
         "To intimidate the enemy",
-        "To delay the war"
+        "To delay the war",
+        "To observe who is present for battle"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Arjuna wants to see who has assembled, revealing the personal relationships that soon overwhelm him.",
       "verseLabel": "BG 1.21-1.22",
       "verseUrl": "https://vedabase.io/en/library/bg/1/21/",
@@ -236,12 +236,12 @@
       "id": "bg1-q12",
       "prompt": "Why does Arjuna ask Krsna to place the chariot between the armies in BG 1.21-1.22?",
       "choices": [
-        "To negotiate peace",
-        "To observe who is present for battle",
         "To intimidate the enemy",
-        "To delay the war"
+        "To delay the war",
+        "To negotiate peace",
+        "To observe who is present for battle"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Arjuna wants to see who has assembled, revealing the personal relationships that soon overwhelm him.",
       "verseLabel": "BG 1.21-1.22",
       "verseUrl": "https://vedabase.io/en/library/bg/1/21/",
@@ -251,12 +251,12 @@
       "id": "bg1-q13",
       "prompt": "What emotional change overtakes Arjuna after seeing his relatives in BG 1.26?",
       "choices": [
-        "Anger",
+        "Detachment",
         "Excitement",
-        "Compassion mixed with lamentation",
-        "Detachment"
+        "Anger",
+        "Compassion mixed with lamentation"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "Arjuna's compassion becomes entangled with bodily attachment, leading to confusion rather than clarity.",
       "verseLabel": "BG 1.26",
       "verseUrl": "https://vedabase.io/en/library/bg/1/26/",
@@ -281,12 +281,12 @@
       "id": "bg1-q15",
       "prompt": "Srila Prabhupada warns in the purport to BG 1.28 against a particular misunderstanding of compassion. What false path does he identify?",
       "choices": [
-        "That all violence is spiritually equal regardless of motive or duty",
         "That compassion should be shown only to animals and not to humans",
         "That warfare in self-defense is always forbidden in spiritual life",
-        "That sentiment alone, without knowledge, is sufficient for spiritual advancement"
+        "That sentiment alone, without knowledge, is sufficient for spiritual advancement",
+        "That all violence is spiritually equal regardless of motive or duty"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "feedback": "Srila Prabhupada explains that Arjuna's compassion, though appearing virtuous, is actually sentiment based on bodily identification without spiritual knowledge. Compassion must be guided by understanding of the soul's eternal nature and one's prescribed duty; otherwise it becomes mere sentimentality that obstructs dharma. Why this matters: Many seekers mistake emotional sentimentality for genuine spiritual compassion, leading to confusion about duty and inaction when action is required. True compassion considers the eternal welfare of the soul, not temporary bodily comfort. The other options misrepresent Prabhupada's teaching, which is not absolute pacifism but transcendental discrimination.",
       "verseLabel": "BG 1.28",
       "verseUrl": "https://vedabase.io/en/library/bg/1/28/",
@@ -296,9 +296,9 @@
       "id": "bg1-q16",
       "prompt": "In BG 1.29, what physical symptom does Arjuna mention first as his composure breaks?",
       "choices": [
-        "His throat becomes dry",
-        "His body trembles",
         "His mind becomes steady",
+        "His body trembles",
+        "His throat becomes dry",
         "His weapons slip from his hands"
       ],
       "correctIndex": 1,
@@ -311,12 +311,12 @@
       "id": "bg1-q16",
       "prompt": "In BG 1.29, what physical symptom does Arjuna mention first as his composure breaks?",
       "choices": [
+        "His weapons slip from his hands",
         "His throat becomes dry",
         "His body trembles",
-        "His mind becomes steady",
-        "His weapons slip from his hands"
+        "His mind becomes steady"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Arjuna describes his body trembling, showing that his inner confusion has begun to overwhelm even his physical stability. This represents complete loss of control.",
       "verseLabel": "BG 1.29",
       "verseUrl": "https://vedabase.io/en/library/bg/1/29/",
@@ -326,12 +326,12 @@
       "id": "bg1-q17",
       "prompt": "In BG 1.30, which sign of distress does Arjuna specifically mention?",
       "choices": [
-        "His vision becomes cloudy and he cannot stand",
+        "He becomes proud of his skill",
         "He hears auspicious omens from the sky",
-        "He feels eager to fight",
-        "He becomes proud of his skill"
+        "His vision becomes cloudy and he cannot stand",
+        "He feels eager to fight"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Arjuna reports clouded vision and inability to stand, indicating deep agitation rather than readiness for duty. The physical paralysis mirrors spiritual blindness.",
       "verseLabel": "BG 1.30",
       "verseUrl": "https://vedabase.io/en/library/bg/1/30/",
@@ -341,10 +341,10 @@
       "id": "bg1-q18",
       "prompt": "In the purport to BG 1.30, Srila Prabhupada explains the cause of Arjuna's inauspicious omens and distress. What does he identify as the root problem?",
       "choices": [
-        "Arjuna is physically exhausted from the journey to Kuruksetra",
+        "Arjuna has been cursed by Bhisma for opposing him",
         "Arjuna is experiencing legitimate premonitions of defeat",
         "Arjuna is bewildered by illusion (maya) due to material affection",
-        "Arjuna has been cursed by Bhisma for opposing him"
+        "Arjuna is physically exhausted from the journey to Kuruksetra"
       ],
       "correctIndex": 2,
       "feedback": "Srila Prabhupada clearly states that Arjuna is bewildered by illusion on account of material affection for his family members. The inauspicious omens Arjuna perceives are not objective supernatural warnings but subjective manifestations of his confused mental state. When consciousness is clouded by attachment, even neutral circumstances appear ominous. Why this matters: We often mistake our own psychological projections for external reality. Material attachment distorts perception, making us see obstacles where none truly exist from a spiritual perspective. The false path is trusting emotional interpretation over transcendental guidance when they conflict.",
@@ -357,9 +357,9 @@
       "prompt": "In BG 1.31, what conclusion does Arjuna draw about fighting his own people?",
       "choices": [
         "He sees no good in killing his own kinsmen",
-        "He believes victory will surely bring joy",
         "He thinks it is required for heavenly promotion",
-        "He says it will increase family prosperity"
+        "He says it will increase family prosperity",
+        "He believes victory will surely bring joy"
       ],
       "correctIndex": 0,
       "feedback": "Arjuna says he foresees no good in killing his own kinsmen, showing that emotion has begun to outweigh his sense of duty. Yet this reasoning is incomplete without understanding the eternal nature of the soul.",
@@ -371,12 +371,12 @@
       "id": "bg1-q19",
       "prompt": "In BG 1.31, what conclusion does Arjuna draw about fighting his own people?",
       "choices": [
-        "He sees no good in killing his own kinsmen",
+        "He says it will increase family prosperity",
         "He believes victory will surely bring joy",
-        "He thinks it is required for heavenly promotion",
-        "He says it will increase family prosperity"
+        "He sees no good in killing his own kinsmen",
+        "He thinks it is required for heavenly promotion"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Arjuna says he foresees no good in killing his own kinsmen, showing that emotion has begun to outweigh his sense of duty. Yet this reasoning is incomplete without understanding the eternal nature of the soul.",
       "verseLabel": "BG 1.31",
       "verseUrl": "https://vedabase.io/en/library/bg/1/31/",
@@ -387,9 +387,9 @@
       "prompt": "In BG 1.32-1.35, what does Arjuna question the value of, if it requires killing relatives?",
       "choices": [
         "Only a kingdom",
-        "Only personal fame",
+        "Only religious rituals",
         "A kingdom, happiness, and even life itself",
-        "Only religious rituals"
+        "Only personal fame"
       ],
       "correctIndex": 2,
       "feedback": "Arjuna argues that kingdom, happiness, and even life itself are worthless if obtained by killing those for whom these things would have meaning. This reflects his confusion about dharmic action.",
@@ -401,10 +401,10 @@
       "id": "bg1-q21",
       "prompt": "Srila Prabhupada explains in the purport to BG 1.32-35 a critical distinction about renunciation. What warning does he give regarding Arjuna's reasoning?",
       "choices": [
-        "Arjuna's desire to renounce the kingdom is genuine spiritual detachment to be praised",
+        "Renouncing battle would immediately qualify Arjuna for liberation",
         "Arjuna's renunciation is based on bodily attachment disguised as selflessness",
-        "Any form of renunciation is inherently superior to material engagement",
-        "Renouncing battle would immediately qualify Arjuna for liberation"
+        "Arjuna's desire to renounce the kingdom is genuine spiritual detachment to be praised",
+        "Any form of renunciation is inherently superior to material engagement"
       ],
       "correctIndex": 1,
       "feedback": "Srila Prabhupada reveals the subtle trap: Arjuna speaks of renouncing kingdom and pleasures, which sounds spiritual, but his motivation is material attachment to relatives' bodies. This is not genuine renunciation but attachment masquerading as detachment. True renunciation means acting without attachment to results while fulfilling one's duty, not avoiding duty due to emotional attachment. Why this matters: Many people confuse running away from responsibility with spiritual renunciation. The false path of sentimental renunciation based on bodily affection differs fundamentally from genuine Krsna consciousness, which engages everything in service regardless of emotional preference. Prabhupada warns against this confusion throughout his purports.",
@@ -418,8 +418,8 @@
       "choices": [
         "Ignorance",
         "Sin",
-        "Famine",
-        "Public criticism"
+        "Public criticism",
+        "Famine"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna says sin will overcome them if they slay such aggressors, and he questions how happiness could come from killing kinsmen. This is his material analysis, lacking transcendental knowledge.",
@@ -431,12 +431,12 @@
       "id": "bg1-q22",
       "prompt": "In BG 1.36, what does Arjuna fear will overcome him if he kills the sons of Dhritarastra?",
       "choices": [
+        "Public criticism",
         "Ignorance",
         "Sin",
-        "Famine",
-        "Public criticism"
+        "Famine"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Arjuna says sin will overcome them if they slay such aggressors, and he questions how happiness could come from killing kinsmen. This is his material analysis, lacking transcendental knowledge.",
       "verseLabel": "BG 1.36",
       "verseUrl": "https://vedabase.io/en/library/bg/1/36/",
@@ -446,12 +446,12 @@
       "id": "bg1-q23",
       "prompt": "In BG 1.37-1.38, what reason does Arjuna give for why he should NOT fight, even if the others are greedy?",
       "choices": [
-        "Because the Pandavas are weaker",
         "Because those who can see the crime should avoid sinful acts",
+        "Because he has no skill in battle",
         "Because war is never allowed in Vedic culture",
-        "Because he has no skill in battle"
+        "Because the Pandavas are weaker"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Arjuna argues that even if others, overtaken by greed, see no fault, those who can see the crime in destroying a family should not participate in sin. This shows moral sensitivity but lacks understanding of transcendental duty.",
       "verseLabel": "BG 1.37-1.38",
       "verseUrl": "https://vedabase.io/en/library/bg/1/37-38/",
@@ -461,12 +461,12 @@
       "id": "bg1-q24",
       "prompt": "In the purport to BG 1.41-42, Srila Prabhupada describes Arjuna's argument about varna-sankara (unwanted population). What does Prabhupada reveal about the logic Arjuna employs?",
       "choices": [
-        "Arjuna's argument is entirely original and unprecedented in Vedic thought",
-        "Arjuna draws on remembered teachings from great authorities to support his position",
         "Arjuna invents his social theories purely from personal speculation",
-        "Arjuna quotes direct instructions from Krsna received earlier"
+        "Arjuna quotes direct instructions from Krsna received earlier",
+        "Arjuna draws on remembered teachings from great authorities to support his position",
+        "Arjuna's argument is entirely original and unprecedented in Vedic thought"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Srila Prabhupada notes that Arjuna is recalling what he has heard from authorities regarding the social consequences of family destruction and the problem of unwanted progeny. Arjuna's arguments are not baseless sentiment - they reflect scriptural learning about social stability. However, Prabhupada's point is subtle: Arjuna applies this knowledge incorrectly to his present circumstance. Why this matters: Even correct scriptural understanding can be misapplied when one lacks discrimination about situational duties. The false path is mechanical application of rules without understanding transcendental context. This warns against rigid fundamentalism that ignores the guidance of realized souls.",
       "verseLabel": "BG 1.41-42",
       "verseUrl": "https://vedabase.io/en/library/bg/1/41-42/",
@@ -477,11 +477,11 @@
       "prompt": "In BG 1.39, what does Arjuna say happens when a dynasty is destroyed?",
       "choices": [
         "The family's wealth increases",
-        "The eternal family tradition is vanquished and irreligion develops",
+        "Everyone automatically becomes renounced",
         "The kingdom becomes peaceful",
-        "Everyone automatically becomes renounced"
+        "The eternal family tradition is vanquished and irreligion develops"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Arjuna warns that destruction of the dynasty destroys family tradition, and the rest of the family becomes involved in irreligion. He understands social consequences but cannot see spiritual reality.",
       "verseLabel": "BG 1.39",
       "verseUrl": "https://vedabase.io/en/library/bg/1/39/",
@@ -491,9 +491,9 @@
       "id": "bg1-q25",
       "prompt": "In BG 1.39, what does Arjuna say happens when a dynasty is destroyed?",
       "choices": [
-        "The family's wealth increases",
-        "The eternal family tradition is vanquished and irreligion develops",
         "The kingdom becomes peaceful",
+        "The eternal family tradition is vanquished and irreligion develops",
+        "The family's wealth increases",
         "Everyone automatically becomes renounced"
       ],
       "correctIndex": 1,
@@ -506,12 +506,12 @@
       "id": "bg1-q26",
       "prompt": "In BG 1.40, what consequence does Arjuna describe when irreligion becomes prominent in the family?",
       "choices": [
-        "The warriors become more powerful",
         "The women of the family become polluted and unwanted progeny arises",
         "The family gains religious merit",
-        "The elders become free from responsibility"
+        "The elders become free from responsibility",
+        "The warriors become more powerful"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Arjuna links prominent irreligion to degradation in family life and to the rise of unwanted progeny (varna-sankara). His analysis, though perceptive, is still bound by materialistic perspective.",
       "verseLabel": "BG 1.40",
       "verseUrl": "https://vedabase.io/en/library/bg/1/40/",
@@ -521,12 +521,12 @@
       "id": "bg1-q27",
       "prompt": "In BG 1.41, why do the ancestors of corrupt families fall down, according to Arjuna?",
       "choices": [
-        "Because they are defeated in battle",
         "Because offerings of food and water to them are stopped",
-        "Because they lose their property",
-        "Because they abandon their teachers"
+        "Because they are defeated in battle",
+        "Because they abandon their teachers",
+        "Because they lose their property"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Arjuna says the ancestors fall down when the family becomes corrupt, because the traditional offerings of food and water are no longer performed. This reveals Arjuna's concern for proper ritualistic and familial duties.",
       "verseLabel": "BG 1.41",
       "verseUrl": "https://vedabase.io/en/library/bg/1/41/",
@@ -536,12 +536,12 @@
       "id": "bg1-q28",
       "prompt": "In BG 1.42, what broader damage does Arjuna say results from destroying family tradition?",
       "choices": [
-        "Only temple worship decreases",
         "Only the army becomes weaker",
         "Community projects and family welfare activities are devastated",
+        "Only temple worship decreases",
         "Trade and farming permanently stop"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Arjuna warns that the breakdown of tradition damages society broadly, ruining community projects and family welfare activities. His argument demonstrates understanding of social consequences across generations.",
       "verseLabel": "BG 1.42",
       "verseUrl": "https://vedabase.io/en/library/bg/1/42/",
@@ -551,12 +551,12 @@
       "id": "bg1-q29",
       "prompt": "In BG 1.43, what does Arjuna say he has heard by disciplic succession?",
       "choices": [
-        "That war always purifies everyone",
-        "That those whose family traditions are destroyed dwell always in hell",
+        "That teachers should never fight",
         "That victory is guaranteed for the Pandavas",
-        "That teachers should never fight"
+        "That war always purifies everyone",
+        "That those whose family traditions are destroyed dwell always in hell"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Arjuna appeals to what he has heard in disciplic succession: those who destroy family traditions dwell always in hell. He attempts to establish his argument on scriptural authority, but lacks discriminative understanding.",
       "verseLabel": "BG 1.43",
       "verseUrl": "https://vedabase.io/en/library/bg/1/43/",
@@ -566,12 +566,12 @@
       "id": "bg1-q30",
       "prompt": "In BG 1.44, what does Arjuna call 'strange' about the situation?",
       "choices": [
-        "That everyone is well trained",
         "That they are driven by desire for royal happiness and ready to kill kinsmen",
-        "That Krsna is present on the battlefield",
-        "That the Pandavas are outnumbered"
+        "That everyone is well trained",
+        "That the Pandavas are outnumbered",
+        "That Krsna is present on the battlefield"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Arjuna is shocked that desire for royal happiness can push people into preparing greatly sinful acts like killing their own relatives. He fails to understand that Dharma transcends material considerations.",
       "verseLabel": "BG 1.44",
       "verseUrl": "https://vedabase.io/en/library/bg/1/44/",
@@ -581,12 +581,12 @@
       "id": "bg1-q31",
       "prompt": "In BG 1.45, what does Arjuna say would be better for him personally?",
       "choices": [
-        "To win the kingdom and rule peacefully",
-        "To be killed unarmed and unresisting by the sons of Dhritarastra",
         "To retreat and become king elsewhere",
-        "To fight only with Bhisma and Drona"
+        "To fight only with Bhisma and Drona",
+        "To be killed unarmed and unresisting by the sons of Dhritarastra",
+        "To win the kingdom and rule peacefully"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Arjuna says it would be better if the sons of Dhritarastra killed him while he is unarmed and not resisting, rather than he killing them. This extreme statement shows how deeply lamentation has gripped him.",
       "verseLabel": "BG 1.45",
       "verseUrl": "https://vedabase.io/en/library/bg/1/45/",
@@ -596,12 +596,12 @@
       "id": "bg1-q32",
       "prompt": "In BG 1.46, what does Sanjaya report as Arjuna's condition after speaking?",
       "choices": [
+        "He orders Krsna to drive back immediately",
         "He becomes fearless and lifts his bow",
         "He begins negotiating peace with Duryodhana",
-        "He casts aside bow and arrows and sits down, overwhelmed with grief",
-        "He orders Krsna to drive back immediately"
+        "He casts aside bow and arrows and sits down, overwhelmed with grief"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "feedback": "Sanjaya states that Arjuna puts down his bow and arrows and sits on the chariot, overwhelmed with grief, showing collapse under illusion. This marks the culmination of material reasoning without spiritual knowledge.",
       "verseLabel": "BG 1.46",
       "verseUrl": "https://vedabase.io/en/library/bg/1/46/",
@@ -611,12 +611,12 @@
       "id": "bg1-q33",
       "prompt": "In the purport to BG 1.46, Srila Prabhupada makes a crucial observation about Arjuna's final state. What is the most important point he emphasizes?",
       "choices": [
-        "That Arjuna's grief proves he is unqualified to receive transcendental knowledge",
         "That lamentation and confusion are natural preconditions for receiving spiritual instruction",
         "That Arjuna should have fought without waiting for Krsna's teaching",
+        "That Arjuna's grief proves he is unqualified to receive transcendental knowledge",
         "That sitting down in the chariot represents the highest form of renunciation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Srila Prabhupada explains that Arjuna's breakdown is not disqualifying but preparatory. His grief, confusion, and surrender create the perfect condition for receiving transcendental knowledge. Without this crisis, Arjuna would have relied on his own material intelligence. The entire First Chapter demonstrates how material reasoning, even when sophisticated and morally sensitive, inevitably leads to paralysis without divine guidance. Why this matters: Many reject spiritual inquiry during personal crisis, thinking they must resolve problems first. The false path is believing we must be emotionally stable before approaching transcendence. Prabhupada shows that acknowledging our helplessness is precisely when we become qualified for genuine spiritual instruction, as Arjuna demonstrates in the next chapter.",
       "verseLabel": "BG 1.46",
       "verseUrl": "https://vedabase.io/en/library/bg/1/46/",

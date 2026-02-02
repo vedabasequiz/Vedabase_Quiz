@@ -11,12 +11,12 @@
       "id": "bg6-q1",
       "prompt": "In BG 6.1, what distinguishes a true sannyasi from one who merely abstains from activities?",
       "choices": [
-        "Complete withdrawal from all duties and social responsibilities",
-        "Performing prescribed duties without attachment to results",
+        "Accepting formal vows and wearing traditional renunciate dress",
         "Abandoning family life regardless of spiritual advancement",
-        "Accepting formal vows and wearing traditional renunciate dress"
+        "Complete withdrawal from all duties and social responsibilities",
+        "Performing prescribed duties without attachment to results"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "The verse teaches that real renunciation is internal detachment while engaged in duty, not external abandonment of work. One who works without selfish attachment is already a renunciant.",
       "verseLabel": "BG 6.1",
       "verseUrl": "https://vedabase.io/en/library/bg/6/1/",
@@ -26,12 +26,12 @@
       "id": "bg6-q2",
       "prompt": "In the purport to BG 6.1, what false path does Srila Prabhupada warn against regarding renunciation?",
       "choices": [
-        "Abandoning work before purifying consciousness through selfless service",
-        "Remaining in household life instead of taking formal sannyasa",
         "Performing duties while maintaining family relationships and obligations",
-        "Accepting guidance from spiritual teachers rather than acting independently"
+        "Remaining in household life instead of taking formal sannyasa",
+        "Accepting guidance from spiritual teachers rather than acting independently",
+        "Abandoning work before purifying consciousness through selfless service"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Srila Prabhupada warns that artificially renouncing work before achieving detachment leads to frustration and failure. Real renunciation develops through karma-yoga (selfless action), not premature withdrawal. Why this matters: Many seek escape from duties while still attached to results, creating a false spiritual life. The psychological trap is thinking external withdrawal equals internal purification. True progress comes through working without attachment, not abandoning responsibility.",
       "verseLabel": "BG 6.1",
       "verseUrl": "https://vedabase.io/en/library/bg/6/1/",
@@ -56,12 +56,12 @@
       "id": "bg6-q4",
       "prompt": "In BG 6.3, what distinguishes the beginning practitioner from the advanced yogi?",
       "choices": [
-        "The beginner uses work without attachment as the means; the advanced has attained cessation",
         "The beginner meditates occasionally during spare time; the advanced meditates constantly",
-        "The beginner needs a qualified teacher for guidance; the advanced practices independently",
-        "The beginner focuses on ethical behavior; the advanced transcends all moral codes"
+        "The beginner focuses on ethical behavior; the advanced transcends all moral codes",
+        "The beginner uses work without attachment as the means; the advanced has attained cessation",
+        "The beginner needs a qualified teacher for guidance; the advanced practices independently"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "For one beginning yoga, work done without attachment is the means. For one already elevated to yoga, cessation of material activities is the sign. The path progresses from active detachment to natural transcendence.",
       "verseLabel": "BG 6.3",
       "verseUrl": "https://vedabase.io/en/library/bg/6/3/",
@@ -71,12 +71,12 @@
       "id": "bg6-q5",
       "prompt": "According to BG 6.4, when is one said to be established in yoga?",
       "choices": [
-        "When one masters advanced meditation techniques and physical postures",
-        "When one renounces all sense objects and desires for them",
         "When one withdraws from society and lives in complete isolation",
-        "When one achieves supernatural powers through yogic practice"
+        "When one achieves supernatural powers through yogic practice",
+        "When one renounces all sense objects and desires for them",
+        "When one masters advanced meditation techniques and physical postures"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "One is established in yoga when attachment to both sense objects and the desire for results of action ceases. This is internal detachment, not merely external withdrawal.",
       "verseLabel": "BG 6.4",
       "verseUrl": "https://vedabase.io/en/library/bg/6/4/",
@@ -87,11 +87,11 @@
       "prompt": "In BG 6.5, how does the mind function as both friend and enemy?",
       "choices": [
         "As friend when focused on material success and achievement; as enemy when spiritual",
-        "As friend when controlled by purified intelligence; as enemy when left uncontrolled",
         "As friend in youth when sharp and clear; as enemy in old age when becoming dull",
+        "As friend when controlled by purified intelligence; as enemy when left uncontrolled",
         "As friend when educated through scripture study; as enemy when remaining ignorant"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "For one who has conquered the mind, it is the best friend. For one who has failed to do so, the mind remains the greatest enemy. The same faculty either elevates or degrades based on one's mastery.",
       "verseLabel": "BG 6.5",
       "verseUrl": "https://vedabase.io/en/library/bg/6/5/",
@@ -102,11 +102,11 @@
       "prompt": "In the purport to BG 6.5, what psychological trap does Srila Prabhupada identify about the material mind?",
       "choices": [
         "The mind can be completely destroyed through intense meditation practice and effort",
-        "The uncontrolled mind perpetually seeks sense gratification and drags one down materially",
         "The mind is inherently evil and must be replaced entirely by pure spirit",
-        "The mind functions identically for all people regardless of training or purification"
+        "The mind functions identically for all people regardless of training or purification",
+        "The uncontrolled mind perpetually seeks sense gratification and drags one down materially"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Srila Prabhupada explains that the material mind is absorbed in sensory thought and must be engaged in Krishna consciousness. An uncontrolled mind acts like an enemy, constantly pulling consciousness toward material enjoyment and away from spiritual realization. Why this matters: Simply trying to suppress the mind fails. The solution is engagement - giving the mind the higher taste of Krishna consciousness. The false path is thinking the mind itself is the problem, when the real issue is lack of higher engagement.",
       "verseLabel": "BG 6.5",
       "verseUrl": "https://vedabase.io/en/library/bg/6/5/",
@@ -117,9 +117,9 @@
       "prompt": "According to BG 6.6, what characterizes one who has conquered the mind versus one who has not?",
       "choices": [
         "The conquered mind brings steady self-realization; the unconquered brings struggle",
-        "The conquered mind produces supernatural abilities; the unconquered produces weakness",
         "The conquered mind requires no further practice; the unconquered needs constant effort",
-        "The conquered mind becomes emotionless; the unconquered remains emotionally reactive"
+        "The conquered mind becomes emotionless; the unconquered remains emotionally reactive",
+        "The conquered mind produces supernatural abilities; the unconquered produces weakness"
       ],
       "correctIndex": 0,
       "feedback": "For one who has conquered the mind, the Supersoul is already reached and one is peaceful. But for one whose mind is unconquered, the Supersoul is difficult to reach and one remains in enmity with oneself.",
@@ -132,11 +132,11 @@
       "prompt": "In BG 6.7, what dualities does the self-realized person transcend?",
       "choices": [
         "Knowledge and ignorance, wisdom and complete foolishness",
-        "Heat and cold, happiness and distress, honor and dishonor",
         "Rich and poor, healthy and sick, young and old",
-        "Success and failure, victory and defeat, gain and loss"
+        "Success and failure, victory and defeat, gain and loss",
+        "Heat and cold, happiness and distress, honor and dishonor"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "The self-controlled person who has conquered the mind remains steady and peaceful in heat and cold, happiness and distress, honor and dishonor. These are the primary dualities that test spiritual steadiness.",
       "verseLabel": "BG 6.7",
       "verseUrl": "https://vedabase.io/en/library/bg/6/7/",
@@ -146,12 +146,12 @@
       "id": "bg6-q10",
       "prompt": "In the purport to BG 6.8, why does Srila Prabhupada warn against merely theoretical knowledge?",
       "choices": [
-        "Because theoretical knowledge alone without realization is insufficient for liberation",
         "Because reading books distracts from practical meditation and yogic exercises",
         "Because understanding philosophy leads to pride and spiritual arrogance",
-        "Because knowledge must be completely abandoned for pure devotional feeling"
+        "Because knowledge must be completely abandoned for pure devotional feeling",
+        "Because theoretical knowledge alone without realization is insufficient for liberation"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Srila Prabhupada explains that jnana (knowledge) and vijnana (realization) must combine. One must not only understand the philosophy intellectually but also realize it through direct experience. Why this matters: Many accumulate information without transformation. The psychological trap is confusing intellectual understanding with actual spiritual advancement. The false path is remaining in theory while lacking practical realization through yoga practice.",
       "verseLabel": "BG 6.8",
       "verseUrl": "https://vedabase.io/en/library/bg/6/8/",
@@ -162,11 +162,11 @@
       "prompt": "In BG 6.9, what quality of vision distinguishes the most elevated person?",
       "choices": [
         "Seeing all people as spiritually equal regardless of all external behavior patterns",
-        "Equal vision toward the well-wisher, friend, enemy, envious, pious, and sinner equally",
         "Ability to see the aura and spiritual advancement level of all beings",
+        "Equal vision toward the well-wisher, friend, enemy, envious, pious, and sinner equally",
         "Recognizing one's own superiority while remaining humble externally toward others"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "The person who is impartial toward the honest well-wisher, friends, enemies, the envious, the pious and the sinners is considered to be most elevated. This equal vision transcends superficial categorization.",
       "verseLabel": "BG 6.9",
       "verseUrl": "https://vedabase.io/en/library/bg/6/9/",
@@ -177,11 +177,11 @@
       "prompt": "In the purport to BG 6.10, what false conception of yoga does Srila Prabhupada correct?",
       "choices": [
         "That yoga requires expensive equipment and specialized training facilities for practice",
+        "That yoga produces immediate results without sustained practice over extended time",
         "That yoga can be practiced successfully in crowded cities with full social engagements",
-        "That yoga practice is only for those born in brahminical families and traditions",
-        "That yoga produces immediate results without sustained practice over extended time"
+        "That yoga practice is only for those born in brahminical families and traditions"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Srila Prabhupada explains that Arjuna rejected this yoga system as impractical. Real yoga requires retiring to a secluded place, not trying to meditate amid material engagements. Why this matters: Modern 'yoga' often ignores these fundamental requirements, creating a diluted version. The false path is thinking yoga means occasional meditation while maintaining full material engagement. The warning is that without meeting the actual conditions, one cannot achieve the real results.",
       "verseLabel": "BG 6.10",
       "verseUrl": "https://vedabase.io/en/library/bg/6/10/",
@@ -191,12 +191,12 @@
       "id": "bg6-q13",
       "prompt": "According to BG 6.11-12, what are the specific requirements for the yoga seat and practice?",
       "choices": [
-        "Any comfortable location with cushions and support for extended sitting",
         "A firm seat of kusha grass, deerskin, and cloth in a sacred place",
+        "Any comfortable location with cushions and support for extended sitting",
         "A professionally designed meditation room with proper lighting and temperature",
         "An elevated platform visible to others to inspire collective practice"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "The practitioner should sit on a firm seat in a sacred place, neither too high nor too low, covered with kusha grass, deerskin, and cloth. These specific requirements create proper conditions for deep meditation.",
       "verseLabel": "BG 6.11-12",
       "verseUrl": "https://vedabase.io/en/library/bg/6/11/",
@@ -206,12 +206,12 @@
       "id": "bg6-q14",
       "prompt": "In BG 6.13-14, how should the yogi position the body and focus the vision?",
       "choices": [
-        "Sitting erect with closed eyes, visualizing the transcendental form of the Lord intently",
         "Sitting still with steady body, head, and neck in straight line, gazing at tip",
-        "Lying comfortably in shavasana posture while observing the breath flow naturally and easily",
-        "Walking meditation while maintaining continuous awareness of each single step taken forward"
+        "Sitting erect with closed eyes, visualizing the transcendental form of the Lord intently",
+        "Walking meditation while maintaining continuous awareness of each single step taken forward",
+        "Lying comfortably in shavasana posture while observing the breath flow naturally and easily"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "The yogi should sit with body, head, and neck erect in a straight line, remaining steady and unmoving, gazing at the tip of the nose without looking in any other direction.",
       "verseLabel": "BG 6.13-14",
       "verseUrl": "https://vedabase.io/en/library/bg/6/13/",
@@ -221,12 +221,12 @@
       "id": "bg6-q15",
       "prompt": "In the purport to BG 6.15, what false conception of yogic perfection does Srila Prabhupada address?",
       "choices": [
-        "That yogic perfection means developing eight mystic powers and siddhis for material benefit and gain",
-        "That perfection requires complete abandonment of all activity and all relationships with others",
         "That yogic trance state alone without devotion guarantees spiritual liberation from material bondage",
-        "That perfection comes through physical exercises rather than consciousness purification and transformation"
+        "That perfection comes through physical exercises rather than consciousness purification and transformation",
+        "That yogic perfection means developing eight mystic powers and siddhis for material benefit and gain",
+        "That perfection requires complete abandonment of all activity and all relationships with others"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Srila Prabhupada explains that the real perfection is reaching Krishna's abode, not acquiring mystic powers. Many yogis become diverted by siddhis (powers) and lose sight of the actual goal. Why this matters: The warning is that powers can become obstacles rather than aids. The psychological trap is being satisfied with intermediate attainments instead of the supreme goal. True yoga culminates in reaching the spiritual world, not in material abilities.",
       "verseLabel": "BG 6.15",
       "verseUrl": "https://vedabase.io/en/library/bg/6/15/",
@@ -236,12 +236,12 @@
       "id": "bg6-q16",
       "prompt": "In BG 6.16, what extremes prevent yoga practice from being successful?",
       "choices": [
-        "Too much study or complete ignorance of scripture and teachings",
         "Excessive or insufficient eating, sleeping, working, and taking recreation",
         "Too much solitude or constant social engagement with others",
+        "Too much study or complete ignorance of scripture and teachings",
         "Extreme asceticism or complete material indulgence in sense pleasure"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Yoga is not possible for one who eats too much or too little, sleeps too much or too little, or works too much or not enough. Balance in these activities is essential.",
       "verseLabel": "BG 6.16",
       "verseUrl": "https://vedabase.io/en/library/bg/6/16/",
@@ -253,8 +253,8 @@
       "choices": [
         "That any eating or sleeping disqualifies one from yoga practice",
         "That artificial fasting and sleep deprivation without purification cause disturbance",
-        "That only those born as brahmanas can properly regulate eating and sleeping",
-        "That regulated habits are less important than intensity of meditation"
+        "That regulated habits are less important than intensity of meditation",
+        "That only those born as brahmanas can properly regulate eating and sleeping"
       ],
       "correctIndex": 1,
       "feedback": "Srila Prabhupada warns that one cannot artificially fast or curtail sleep without proper spiritual advancement. Forced austerity without purification creates physical and mental disturbance rather than progress. Why this matters: Many practitioners harm themselves through extreme practices before achieving internal purity. The false path is imposing external austerity before internal transformation. Real yoga develops naturally through bhakti-yoga, not through artificial suppression.",
@@ -266,9 +266,9 @@
       "id": "bg6-q18",
       "prompt": "According to BG 6.17, what is the result of regulated yoga practice?",
       "choices": [
-        "Development of perfect memory and intellectual capacity",
-        "Yoga destroys all material suffering and distress",
         "Gradual reduction in the need for food and sleep",
+        "Yoga destroys all material suffering and distress",
+        "Development of perfect memory and intellectual capacity",
         "Ability to remain absorbed in trance indefinitely"
       ],
       "correctIndex": 1,
@@ -281,12 +281,12 @@
       "id": "bg6-q19",
       "prompt": "In the purport to BG 6.18-19, what warning does Srila Prabhupada give about artificial meditation?",
       "choices": [
-        "That meditation without proper diet and exercise cannot succeed at all",
         "That forcing the mind into silence without proper engagement creates frustration",
+        "That modern people lack the genetic capacity for traditional meditation",
         "That meditation should only be attempted in sacred locations with guidance",
-        "That modern people lack the genetic capacity for traditional meditation"
+        "That meditation without proper diet and exercise cannot succeed at all"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Srila Prabhupada explains that the mind must be positively engaged, not artificially suppressed. The lamp metaphor shows natural steadiness, not forced stillness. Why this matters: Many try to achieve mental silence through force rather than proper engagement in Krishna consciousness. The false path is mechanical meditation without devotion. The psychological trap is thinking suppression equals transcendence. Real steadiness comes from absorption in the Supreme.",
       "verseLabel": "BG 6.18-19",
       "verseUrl": "https://vedabase.io/en/library/bg/6/18/",
@@ -296,12 +296,12 @@
       "id": "bg6-q20",
       "prompt": "According to BG 6.20-21, how does the perfected yogi experience happiness?",
       "choices": [
+        "Through complete unconsciousness and absence of all perception",
         "Through continued but purified engagement with material sense objects",
-        "In transcendental bliss beyond the senses, perceived through purified intelligence",
         "By remembering past material enjoyments from a detached perspective",
-        "Through complete unconsciousness and absence of all perception"
+        "In transcendental bliss beyond the senses, perceived through purified intelligence"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "In the stage where the mind is restrained, one experiences happiness beyond the material senses through purified intelligence. This transcendental bliss is so superior that one never departs from it.",
       "verseLabel": "BG 6.20-21",
       "verseUrl": "https://vedabase.io/en/library/bg/6/20/",
@@ -311,9 +311,9 @@
       "id": "bg6-q21",
       "prompt": "In the purport to BG 6.20-23, what psychological trap does Srila Prabhupada warn about regarding happiness?",
       "choices": [
-        "Seeking happiness through external achievements and acquisitions",
-        "Believing that material happiness and spiritual happiness are equivalent",
         "Pursuing yoga for mystic powers rather than divine realization",
+        "Believing that material happiness and spiritual happiness are equivalent",
+        "Seeking happiness through external achievements and acquisitions",
         "Thinking happiness comes through suppression of all desires"
       ],
       "correctIndex": 1,
@@ -326,12 +326,12 @@
       "id": "bg6-q22",
       "prompt": "According to BG 6.24, what must accompany yoga practice for it to succeed?",
       "choices": [
-        "Natural talent and favorable birth in a spiritually advanced family",
         "Uncompromising determination and complete mental renunciation of desires born of speculation",
         "Supernatural faith and belief in miraculous divine intervention without effort",
+        "Natural talent and favorable birth in a spiritually advanced family",
         "Advanced intellectual understanding of all yogic philosophy and techniques"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "One should practice yoga with determination and faith, without deviation, renouncing all material desires born of mental speculation. Success requires both firm resolve and complete renunciation.",
       "verseLabel": "BG 6.24",
       "verseUrl": "https://vedabase.io/en/library/bg/6/24/",
@@ -341,12 +341,12 @@
       "id": "bg6-q23",
       "prompt": "In the purport to BG 6.25, what false expectation does Srila Prabhupada correct about mind control?",
       "choices": [
-        "That the mind can be controlled quickly through weekend retreats",
         "That mind control develops gradually through patient practice, not suddenly",
-        "That only renunciates in monasteries can achieve mental steadiness",
-        "That the mind remains perpetually uncontrollable in the material world"
+        "That the mind can be controlled quickly through weekend retreats",
+        "That the mind remains perpetually uncontrollable in the material world",
+        "That only renunciates in monasteries can achieve mental steadiness"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Srila Prabhupada emphasizes that mind control is gradual and requires patience. The trap is expecting immediate results and becoming discouraged when progress seems slow. Why this matters: Many abandon spiritual practice when instant transformation doesn't occur. The false path is seeking quick fixes through intense but unsustained efforts. Real success comes through steady, patient, daily practice under proper guidance.",
       "verseLabel": "BG 6.25",
       "verseUrl": "https://vedabase.io/en/library/bg/6/25/",
@@ -356,10 +356,10 @@
       "id": "bg6-q24",
       "prompt": "According to BG 6.26, what should one do when the mind wanders during meditation?",
       "choices": [
-        "Accept the distraction as natural and observe without making any judgment",
+        "Analyze carefully why the mind wandered to prevent all future occurrences",
         "Bring the mind back under control and fix it steadily on the Supreme",
-        "Pause the practice session and return when concentration naturally improves",
-        "Analyze carefully why the mind wandered to prevent all future occurrences"
+        "Accept the distraction as natural and observe without making any judgment",
+        "Pause the practice session and return when concentration naturally improves"
       ],
       "correctIndex": 1,
       "feedback": "Wherever the mind wanders due to its flickering and unsteady nature, one should certainly withdraw it and bring it back under the control of the Self. This is the constant work of the practitioner.",
@@ -371,10 +371,10 @@
       "id": "bg6-q25",
       "prompt": "How do BG 6.30-32 synthesize the vision of the perfected yogi regarding the Self and others?",
       "choices": [
-        "Seeing the individual soul's independence while respecting diversity in paths",
-        "Perceiving the Supersoul in all beings and treating all suffering as oneself",
         "Recognizing gradations of spiritual advancement among all practitioners",
-        "Understanding the ultimate illusion of all individual existence in matter"
+        "Perceiving the Supersoul in all beings and treating all suffering as oneself",
+        "Understanding the ultimate illusion of all individual existence in matter",
+        "Seeing the individual soul's independence while respecting diversity in paths"
       ],
       "correctIndex": 1,
       "feedback": "For one who sees the Supersoul everywhere and everything in relation to the Supreme, Krishna is never lost, nor is such a person ever lost to Krishna. One who sees all beings' happiness and distress as one's own is considered the most perfect yogi. This is the synthesis of transcendental vision: seeing unity in the Supreme while feeling compassion for all beings equally.",

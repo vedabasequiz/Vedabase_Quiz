@@ -12,12 +12,12 @@
       "source": "translation",
       "prompt": "In BG 2.1, how does Krsna respond when He sees Arjuna overwhelmed?",
       "choices": [
-        "He praises Arjuna's kindness",
         "He speaks compassionately and instructs",
         "He stays silent and waits",
-        "He leaves the battlefield"
+        "He leaves the battlefield",
+        "He praises Arjuna's kindness"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krsna is compassionate, but He begins correcting Arjuna and preparing to guide him.",
       "verseLabel": "BG 2.1",
       "verseUrl": "https://vedabase.io/en/library/bg/2/1/"
@@ -27,12 +27,12 @@
       "source": "translation",
       "prompt": "In BG 2.2-2.3, what does Krsna criticize Arjuna for?",
       "choices": [
-        "Forgetting his bow skills",
-        "Speaking wisely but acting weakly",
         "Insulting respected elders",
-        "Ignoring battle formations"
+        "Ignoring battle formations",
+        "Forgetting his bow skills",
+        "Speaking wisely but acting weakly"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krsna points out a mismatch: Arjuna's words sound wise, but his behavior is weak.",
       "verseLabel": "BG 2.2-2.3",
       "verseUrl": "https://vedabase.io/en/library/bg/2/2/"
@@ -42,12 +42,12 @@
       "source": "translation",
       "prompt": "In BG 2.7, why does Arjuna ask Krsna to guide him?",
       "choices": [
-        "He wants to avoid fighting",
         "He accepts Krsna as teacher",
-        "He wants a quick victory",
-        "He hopes to delay war"
+        "He hopes to delay war",
+        "He wants to avoid fighting",
+        "He wants a quick victory"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Arjuna admits his confusion and accepts Krsna as his guide and teacher.",
       "verseLabel": "BG 2.7",
       "verseUrl": "https://vedabase.io/en/library/bg/2/7/"
@@ -57,12 +57,12 @@
       "source": "translation",
       "prompt": "In BG 2.11, what mistake does Krsna say Arjuna is making?",
       "choices": [
-        "Grieving for temporary bodies",
         "Ignoring the rules of war",
+        "Grieving for temporary bodies",
         "Doubting the Pandavas' strength",
         "Refusing to hear advice"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krsna explains that wise people do not grieve for the temporary body.",
       "verseLabel": "BG 2.11",
       "verseUrl": "https://vedabase.io/en/library/bg/2/11/"
@@ -72,12 +72,12 @@
       "source": "translation",
       "prompt": "In BG 2.13, what does Krsna teach about the soul and the body?",
       "choices": [
+        "The body becomes eternal",
         "The soul changes with age",
-        "The soul stays the same",
         "The body never changes",
-        "The body becomes eternal"
+        "The soul stays the same"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krsna teaches that the body changes, but the soul remains the same person throughout.",
       "verseLabel": "BG 2.13",
       "verseUrl": "https://vedabase.io/en/library/bg/2/13/"
@@ -87,12 +87,12 @@
       "source": "translation",
       "prompt": "In BG 2.14, what causes happiness and distress in this world?",
       "choices": [
-        "Contact of senses with objects",
         "Only fate and luck",
         "Only past karma",
-        "Only other people's actions"
+        "Only other people's actions",
+        "Contact of senses with objects"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krsna explains that pleasure and pain come from sense contact and do not last.",
       "verseLabel": "BG 2.14",
       "verseUrl": "https://vedabase.io/en/library/bg/2/14/"
@@ -102,12 +102,12 @@
       "source": "translation",
       "prompt": "In BG 2.15, who is considered fit for liberation?",
       "choices": [
-        "One steady in pain and joy",
-        "One famous in society",
+        "One silent all day",
         "One rich in possessions",
-        "One silent all day"
+        "One steady in pain and joy",
+        "One famous in society"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krsna says a steady person who tolerates pleasure and pain becomes spiritually qualified.",
       "verseLabel": "BG 2.15",
       "verseUrl": "https://vedabase.io/en/library/bg/2/15/"
@@ -117,12 +117,12 @@
       "source": "purport",
       "prompt": "In BG 2.16-2.17, what is the main difference between body and soul?",
       "choices": [
-        "Body ends, soul continues",
-        "Body is pure, soul is not",
+        "Soul ends with body",
         "Soul depends on body",
-        "Soul ends with body"
+        "Body ends, soul continues",
+        "Body is pure, soul is not"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krsna explains that the body is temporary, while the soul is eternal and unchanged.",
       "verseLabel": "BG 2.16-2.17",
       "verseUrl": "https://vedabase.io/en/library/bg/2/17/"
@@ -133,9 +133,9 @@
       "prompt": "In BG 2.20, which statement about the soul is correct?",
       "choices": [
         "The soul is eternal always",
-        "The soul is born and dies",
+        "The soul fades with time",
         "The soul can be destroyed",
-        "The soul fades with time"
+        "The soul is born and dies"
       ],
       "correctIndex": 0,
       "feedback": "Krsna teaches that the soul is never born and never dies.",
@@ -147,12 +147,12 @@
       "source": "purport",
       "prompt": "In BG 2.22, what does Krsna compare changing bodies to?",
       "choices": [
-        "Changing old clothes for new",
-        "Changing seasons in nature",
         "Changing houses in life",
-        "Changing moods every day"
+        "Changing old clothes for new",
+        "Changing moods every day",
+        "Changing seasons in nature"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krsna compares the soul changing bodies to a person changing clothes.",
       "verseLabel": "BG 2.22",
       "verseUrl": "https://vedabase.io/en/library/bg/2/22/"
@@ -162,12 +162,12 @@
       "source": "translation",
       "prompt": "In BG 2.31, why does Krsna say Arjuna should fight?",
       "choices": [
-        "It is his duty as ksatriya",
-        "It will bring him enjoyment",
         "It will end all problems",
-        "It will make him famous"
+        "It is his duty as ksatriya",
+        "It will make him famous",
+        "It will bring him enjoyment"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krsna reminds Arjuna that fighting is his responsibility as a warrior.",
       "verseLabel": "BG 2.31",
       "verseUrl": "https://vedabase.io/en/library/bg/2/31/"
@@ -177,12 +177,12 @@
       "source": "purport",
       "prompt": "In BG 2.33, what does Krsna warn if Arjuna avoids his duty?",
       "choices": [
-        "He will lose honor and respect",
         "He will gain peace quickly",
-        "He will become spiritually perfect",
-        "He will avoid all reactions"
+        "He will avoid all reactions",
+        "He will lose honor and respect",
+        "He will become spiritually perfect"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krsna warns that avoiding duty leads to dishonor and unwanted results.",
       "verseLabel": "BG 2.33",
       "verseUrl": "https://vedabase.io/en/library/bg/2/33/"
@@ -192,12 +192,12 @@
       "source": "translation",
       "prompt": "In BG 2.38, what attitude does Krsna recommend in action?",
       "choices": [
-        "Equal in gain and loss",
-        "Attached to winning only",
         "Afraid of failure always",
-        "Angry at opponents"
+        "Angry at opponents",
+        "Equal in gain and loss",
+        "Attached to winning only"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krsna advises acting without attachment, staying steady in success and failure.",
       "verseLabel": "BG 2.38",
       "verseUrl": "https://vedabase.io/en/library/bg/2/38/"
@@ -222,12 +222,12 @@
       "source": "purport",
       "prompt": "Synthesis: What main lesson is Arjuna beginning to learn in Chapter 2?",
       "choices": [
+        "Running away brings peace",
         "Soul is eternal, do duty",
-        "Winning is the highest goal",
         "Family emotion is final truth",
-        "Running away brings peace"
+        "Winning is the highest goal"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Arjuna begins learning that the soul is eternal and that duty should be done with steadiness.",
       "verseLabel": "BG 2 Summary",
       "verseUrl": "https://vedabase.io/en/library/bg/2/"

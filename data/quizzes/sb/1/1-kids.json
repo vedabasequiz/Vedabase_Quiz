@@ -10,12 +10,12 @@
       "id": "sb1-1-kids-01",
       "prompt": "1. Who does the Bhagavatam say is the original cause of everything?",
       "choices": [
-        "Lord Krishna, the son of Vasudeva",
+        "Nature itself",
         "Brahma, the first created being",
-        "The sun god",
-        "Nature itself"
+        "Lord Krishna, the son of Vasudeva",
+        "The sun god"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Yes! Krishna is the original source of everything. Even Brahma, who creates within the universe, got his knowledge from Krishna. Krishna is supreme!",
       "verseLabel": "SB 1.1.1",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
@@ -24,12 +24,12 @@
       "id": "sb1-1-kids-02",
       "prompt": "2. How did Brahma get Vedic knowledge?",
       "choices": [
+        "He read it in ancient books",
         "He figured it out by thinking really hard",
         "Krishna put it directly into his heart",
-        "He read it in ancient books",
         "He learned it from other gods"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Correct! Brahma didn't figure it out himself. Krishna put the knowledge right into Brahma's heart. Real spiritual knowledge comes from Krishna, not from our own guessing!",
       "verseLabel": "SB 1.1.1",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
@@ -38,12 +38,12 @@
       "id": "sb1-1-kids-03",
       "prompt": "3. The Bhagavatam says it completely rejects what kind of religion?",
       "choices": [
-        "Religion practiced to get money or enjoy ourselves",
-        "Any religion with rituals",
         "Religion practiced by children",
+        "Any religion with rituals",
+        "Religion practiced to get money or enjoy ourselves",
         "Religion that involves chanting"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Exactly! The Bhagavatam rejects religion done for selfish reasons like getting rich or having fun. Real religion means loving Krishna without wanting anything back!",
       "verseLabel": "SB 1.1.2",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
@@ -52,13 +52,13 @@
       "id": "sb1-1-kids-04",
       "prompt": "4. Who can understand the highest truth according to SB 1.1.2?",
       "choices": [
-        "Only the smartest people with many degrees",
-        "People who are pure in heart and not envious",
+        "People born in religious families",
         "Only very old people with lots of experience",
-        "People born in religious families"
+        "People who are pure in heart and not envious",
+        "Only the smartest people with many degrees"
       ],
-      "correctIndex": 1,
-      "feedback": "Right! What matters is having a pure, kind heart without jealousy—not how smart you are or what family you're from. Even kids can understand if their hearts are pure!",
+      "correctIndex": 2,
+      "feedback": "Right! What matters is having a pure, kind heart without jealousy\u2014not how smart you are or what family you're from. Even kids can understand if their hearts are pure!",
       "verseLabel": "SB 1.1.2",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
     },
@@ -66,12 +66,12 @@
       "id": "sb1-1-kids-05",
       "prompt": "5. The Bhagavatam is compared to what kind of fruit?",
       "choices": [
-        "A perfectly ripe mango from the Vedic tree",
         "The ripened fruit from the tree of Vedic knowledge",
         "A green banana that needs time to ripen",
+        "A perfectly ripe mango from the Vedic tree",
         "An apple from a magic garden"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Yes! It's the perfectly ripe, sweet fruit from the Vedic knowledge tree. It's the very best, most delicious part! And it came from Sukadeva Gosvami's lips, making it even more tasty!",
       "verseLabel": "SB 1.1.3",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/3/"
@@ -80,13 +80,13 @@
       "id": "sb1-1-kids-06",
       "prompt": "6. Why were the sages performing a thousand-year sacrifice at Naimisaranya?",
       "choices": [
-        "To become famous and powerful",
+        "To defeat their enemies",
         "To please the Lord and His devotees",
         "To get material wealth",
-        "To defeat their enemies"
+        "To become famous and powerful"
       ],
       "correctIndex": 1,
-      "feedback": "Perfect! They wanted to make Krishna and His devotees happy—not to get stuff for themselves. That's what real devotional service means!",
+      "feedback": "Perfect! They wanted to make Krishna and His devotees happy\u2014not to get stuff for themselves. That's what real devotional service means!",
       "verseLabel": "SB 1.1.4",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/4/"
     },
@@ -94,13 +94,13 @@
       "id": "sb1-1-kids-07",
       "prompt": "7. Suta Gosvami studied the scriptures in what way?",
       "choices": [
-        "All by himself without any help",
-        "Under proper guidance from qualified teachers",
         "By listening to public speakers in parks",
-        "Through magical dreams"
+        "All by himself without any help",
+        "Through magical dreams",
+        "Under proper guidance from qualified teachers"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct! Suta learned from real teachers who knew the truth. We can't learn spiritual things just by reading alone—we need a qualified guru to guide us!",
+      "correctIndex": 3,
+      "feedback": "Correct! Suta learned from real teachers who knew the truth. We can't learn spiritual things just by reading alone\u2014we need a qualified guru to guide us!",
       "verseLabel": "SB 1.1.6",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/6/"
     },
@@ -108,13 +108,13 @@
       "id": "sb1-1-kids-08",
       "prompt": "8. What special quality made Suta Gosvami's teachers give him all their knowledge?",
       "choices": [
-        "He was the smartest student",
         "He was humble and submissive to his teachers",
         "He paid them lots of money",
-        "He performed severe austerities"
+        "He performed severe austerities",
+        "He was the smartest student"
       ],
-      "correctIndex": 1,
-      "feedback": "Yes! Suta was humble and respectful to his spiritual masters. That's the secret—being a good listener and showing respect opens the door to real knowledge!",
+      "correctIndex": 0,
+      "feedback": "Yes! Suta was humble and respectful to his spiritual masters. That's the secret\u2014being a good listener and showing respect opens the door to real knowledge!",
       "verseLabel": "SB 1.1.8",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/8/"
     },
@@ -122,13 +122,13 @@
       "id": "sb1-1-kids-09",
       "prompt": "9. How does the Bhagavatam describe people in Kali-yuga (our age)?",
       "choices": [
-        "Smart, peaceful, and happy",
+        "Physically strong and healthy",
         "Short-lived, quarrelsome, lazy, and always disturbed",
         "Spiritually advanced and saintly",
-        "Physically strong and healthy"
+        "Smart, peaceful, and happy"
       ],
       "correctIndex": 1,
-      "feedback": "Right! The Bhagavatam is honest—people in Kali-yuga have many problems. But don't worry! Krishna gives us an easy solution: hearing and chanting His holy names!",
+      "feedback": "Right! The Bhagavatam is honest\u2014people in Kali-yuga have many problems. But don't worry! Krishna gives us an easy solution: hearing and chanting His holy names!",
       "verseLabel": "SB 1.1.10",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/10/"
     },
@@ -136,13 +136,13 @@
       "id": "sb1-1-kids-10",
       "prompt": "10. Even unconsciously chanting Krishna's name can do what?",
       "choices": [
-        "Give you magical powers",
         "Free you from birth and death immediately",
-        "Make you rich and famous",
-        "Nothing at all"
+        "Give you magical powers",
+        "Nothing at all",
+        "Make you rich and famous"
       ],
-      "correctIndex": 1,
-      "feedback": "Amazing but true! Even accidentally saying Krishna's name is so powerful it can free us from birth and death. The holy name is not ordinary sound—it's Krishna Himself!",
+      "correctIndex": 0,
+      "feedback": "Amazing but true! Even accidentally saying Krishna's name is so powerful it can free us from birth and death. The holy name is not ordinary sound\u2014it's Krishna Himself!",
       "verseLabel": "SB 1.1.14",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/14/"
     },
@@ -150,12 +150,12 @@
       "id": "sb1-1-kids-11",
       "prompt": "11. Who can purify us faster: the Ganges river or pure devotees of Krishna?",
       "choices": [
-        "The Ganges purifies instantly",
         "Pure devotees purify immediately; the Ganges takes longer",
         "Both take the same amount of time",
-        "Neither can purify fallen souls"
+        "Neither can purify fallen souls",
+        "The Ganges purifies instantly"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Correct! Pure devotees are even more powerful than the holy Ganges. Why? Because devotees have Krishna in their hearts, while the Ganges only touched His feet. Association with devotees is super valuable!",
       "verseLabel": "SB 1.1.15",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/15/"
@@ -164,13 +164,13 @@
       "id": "sb1-1-kids-12",
       "prompt": "12. Who enjoys hearing about Krishna at every moment?",
       "choices": [
-        "Those who have developed a loving taste for Krishna",
+        "Only demigods in heaven",
         "Only very old sages",
         "People suffering from problems",
-        "Only demigods in heaven"
+        "Those who have developed a loving taste for Krishna"
       ],
-      "correctIndex": 0,
-      "feedback": "Yes! When you develop a taste for Krishna, hearing about Him becomes the sweetest thing ever—like your favorite dessert! You'll want to hear more and more!",
+      "correctIndex": 3,
+      "feedback": "Yes! When you develop a taste for Krishna, hearing about Him becomes the sweetest thing ever\u2014like your favorite dessert! You'll want to hear more and more!",
       "verseLabel": "SB 1.1.19",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/19/"
     },
@@ -178,10 +178,10 @@
       "id": "sb1-1-kids-13",
       "prompt": "13. When Krishna appeared on earth, what did His human-like form allow Him to do?",
       "choices": [
-        "Hide from everyone completely",
+        "Avoid helping anyone",
         "Perform superhuman acts while looking like a human",
         "Prove He was not actually God",
-        "Avoid helping anyone"
+        "Hide from everyone completely"
       ],
       "correctIndex": 1,
       "feedback": "Perfect! Krishna looked like a human boy so we could love Him as a friend, but He did superhuman things (like lifting mountains!) to show He's God. Best of both!",
@@ -193,11 +193,11 @@
       "prompt": "14. How did the sages say they met Suta Gosvami?",
       "choices": [
         "By their own careful planning",
-        "By the will of Providence (Krishna's arrangement)",
+        "Because Suta wanted to visit them",
         "By pure accident with no reason",
-        "Because Suta wanted to visit them"
+        "By the will of Providence (Krishna's arrangement)"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Right! They recognized Krishna arranged the meeting. When we're sincere about learning about Krishna, He helps us find the right teacher. Providence means Krishna's loving plan!",
       "verseLabel": "SB 1.1.22",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/22/"
@@ -207,12 +207,12 @@
       "prompt": "15. After Krishna left this world, the sages asked an important question: where did dharma (religious principles) go for shelter?",
       "choices": [
         "Dharma disappeared completely",
-        "Dharma went to live in temples only",
-        "Dharma needs shelter in a person—Krishna Himself or His devotees",
-        "Dharma is just rules that don't need anyone"
+        "Dharma needs shelter in a person\u2014Krishna Himself or His devotees",
+        "Dharma is just rules that don't need anyone",
+        "Dharma went to live in temples only"
       ],
-      "correctIndex": 2,
-      "feedback": "Excellent! Dharma is not just rules—it needs a person to shelter it. When Krishna was present, dharma was with Him. After He left, dharma takes shelter in the Bhagavatam and in pure devotees who teach it. That's why we need gurus and scripture!",
+      "correctIndex": 1,
+      "feedback": "Excellent! Dharma is not just rules\u2014it needs a person to shelter it. When Krishna was present, dharma was with Him. After He left, dharma takes shelter in the Bhagavatam and in pure devotees who teach it. That's why we need gurus and scripture!",
       "verseLabel": "SB 1.1.23",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/23/"
     }

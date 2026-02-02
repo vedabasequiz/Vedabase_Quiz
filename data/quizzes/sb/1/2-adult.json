@@ -1,360 +1,426 @@
 {
   "id": "sb-1-2-adult",
+  "scripture": "sb",
+  "canto": 1,
+  "chapter": 2,
   "title": "Srimad Bhagavatam - Canto 1 Chapter 2 | Adult Quiz (25Q)",
   "audience": "adult",
   "difficulty": "medium-hard",
+  "publishedOn": "2026-02-02",
   "questionCount": 25,
-  "publishedOn": "2026-01-29",
   "questions": [
     {
       "id": "sb1-2-01",
-      "prompt": "1. In SB 1.2.2, what is the ultimate test of a bona fide spiritual master according to Suta Gosvami?",
+      "prompt": "In SB 1.2.1, what do the sages of Naimisaranya ask Suta to explain?",
       "choices": [
-        "He can cure people of material diseases",
-        "He possesses all the revealed scriptures in his mind",
-        "He can cure the disciple of the material disease (lust, anger, etc.)",
-        "He belongs to a recognized sampradaya only"
+        "The best duty for all humanity",
+        "The genealogy of ancient kings",
+        "The rituals for heavenly promotion",
+        "The cosmic ages and their lengths"
       ],
-      "correctIndex": 2,
-      "feedback": "Correct. The verse states: 'He alone is a bona fide spiritual master who can cure his disciple from the material disease.' The purport clarifies the 'material disease' as lust, anger, greed, illusion, etc. A guru may have scriptural knowledge, but if he cannot guide disciples to purify their hearts, the knowledge is ineffective. Why this matters: This guards against mistaking academic credentials or institutional affiliation for authentic spiritual authority. The proof of the guru is in the transformation of disciples. Modern spiritual marketplaces often sell credentials and charisma, but the chapter insists on therapeutic effectiveness—can the guru actually cure the disciple's material disease? This sets a rigorous empirical standard for evaluating spiritual teachers.",
-      "verseLabel": "SB 1.2.2",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/2/"
+      "correctIndex": 0,
+      "feedback": "The sages request the essence: the best duty (dharma) for all people. The chapter begins by focusing on universal spiritual benefit, not sectarian detail. This frames the discussion around what truly satisfies the self, especially in Kali-yuga. The question sets up the Bhagavatam emphasis on devotion as the highest path.",
+      "verseLabel": "SB 1.2.1",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/1/",
+      "source": "translation"
     },
     {
       "id": "sb1-2-02",
-      "prompt": "2. According to SB 1.2.3, what happens when a devotee continuously hears about Vaasudeva?",
+      "prompt": "According to SB 1.2.2, what is the highest dharma for all humanity?",
       "choices": [
-        "They attain material prosperity and health",
-        "Devotional service becomes established in the heart, and lust, desire, and hankering diminish",
-        "They gain supernatural powers immediately",
-        "They become indifferent to spiritual and material life equally"
+        "Charity and public welfare work",
+        "Unmotivated devotion to the Lord",
+        "Ritual sacrifice for material gains",
+        "Strict vows and severe austerities"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse says continuous hearing about Vaasudeva establishes devotional service (bhakti-yoga) in the heart and proportionately cuts down material lust, desire, and hankering. The purport emphasizes this is a gradual, proportionate process—like a diseased person recovering under medical treatment. This is crucial medical realism: the cure for material disease is not instantaneous but depends on continuous application of the remedy (hearing). Why this matters: Unrealistic expectations of instant transformation lead to disillusionment and abandonment of the process. The verse provides sober, realistic expectations while guaranteeing efficacy through consistent application. This protects against both magical thinking and cynical dismissal.",
-      "verseLabel": "SB 1.2.3",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/3/"
+      "feedback": "SB 1.2.2 defines topmost dharma as devotion to Adhoksaja, performed without motive and without interruption. The standard is not external ritual, but steady inner devotion. The verse also says this devotion should fully satisfy the self. A key Bhagavatam test is whether a practice produces real, lasting spiritual satisfaction.",
+      "verseLabel": "SB 1.2.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/2/",
+      "source": "translation"
     },
     {
       "id": "sb1-2-03",
-      "prompt": "3. In SB 1.2.6, what is the highest dharma (occupational duty) for all humanity?",
+      "prompt": "In SB 1.2.3, what is said to arise quickly from devotional service?",
       "choices": [
-        "Performing Vedic fire sacrifices correctly",
-        "That which leads to pure devotional service to the transcendent Lord",
-        "Following one's varna-ashrama duties strictly",
-        "Renouncing all activities and meditating in seclusion"
+        "Knowledge and detachment",
+        "Success in business and family life",
+        "Relief from all physical suffering",
+        "Mystic powers and subtle perception"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse defines the highest dharma as 'that which leads to devotional service (bhakti) to the transcendent Lord.' The critical qualifier is 'ahaituki' (causeless) and 'apratihatā' (uninterrupted). The purport explains that activities which do not lead to transcendental loving service are considered inferior, even if executed perfectly according to scriptural injunction. This is a revolutionary redefinition of dharma—not as rule-following per se, but as rule-following with the specific criterion of whether it cultivates bhakti. A person performing apparently lower activities with devotional motive is superior to one mechanically executing higher duties without devotion. This challenges religious fundamentalism that fetishizes external compliance over internal transformation.",
-      "verseLabel": "SB 1.2.6",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/6/"
+      "correctIndex": 0,
+      "feedback": "SB 1.2.3 teaches that genuine bhakti quickly produces jnana (real knowledge) and vairagya (detachment). This is a diagnostic: when devotion is sincere, wisdom and disinterest in lower goals naturally follow. It also corrects the idea that dry knowledge must come first. In the Bhagavatam method, devotion purifies the mind to see clearly.",
+      "verseLabel": "SB 1.2.3",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/3/",
+      "source": "translation"
     },
     {
       "id": "sb1-2-04",
-      "prompt": "4. SB 1.2.7 states that the living entity desiring liberation must do what?",
+      "prompt": "In SB 1.2.4, what makes even careful work ultimately wasted?",
       "choices": [
-        "Renounce all activities and retire to the forest",
-        "Inquire about the Absolute Truth without any other engagement",
-        "Perform prescribed Vedic rituals daily",
-        "Study all philosophical systems comparatively"
+        "It is difficult and exhausting",
+        "It fails to awaken taste for hearing",
+        "It is performed without wages",
+        "It is done outside social duty"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse commands: 'Inquire about the Absolute Truth submissively from one who knows the Absolute Truth.' This is presented as the exclusive activity ('must try to do only this'). The purport emphasizes that this inquiry must be conducted under proper guidance, not independently. Why this matters: This verse establishes epistemological exclusivity—inquiry about the Absolute Truth is not one option among many but the only truly necessary engagement. This challenges the modern assumption that various pursuits (career, family, hobbies, plus some spirituality) constitute a balanced life. The verse argues that from the perspective of actual self-interest, only inquiry into the Absolute Truth is non-optional. Everything else is either instrumental to this or a distraction from it.",
-      "verseLabel": "SB 1.2.7",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/7/"
+      "feedback": "The purport explains that work, even if done expertly, is ultimately wasted if it does not awaken attraction to hearing about the Lord. This warns against external accomplishment without inner transformation. The Bhagavatam judges success by spiritual awakening, not by worldly outcomes. If the heart does not turn toward hearing, the core purpose is missed.",
+      "verseLabel": "SB 1.2.4",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/4/",
+      "source": "purport"
     },
     {
       "id": "sb1-2-05",
-      "prompt": "5. According to SB 1.2.8, what happens when the living entity is fully engaged in hearing and chanting about the Lord?",
+      "prompt": "In SB 1.2.5, what should one do when full satisfaction is not attained?",
       "choices": [
-        "Material attachments remain but are managed better",
-        "The knot in the heart (false ego) is cut, all doubts are cleared, and karmic reactions are nullified",
-        "One gains temporary peace but must repeat the process",
-        "One becomes indifferent to good and evil actions"
+        "Inquire into atma-tattva",
+        "Enforce stricter social norms",
+        "Adopt new ritual routines",
+        "Improve material conditions"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse describes a three-fold result: (1) the knot in the heart (false ego identifying with matter) is cut; (2) all doubts are cleared; (3) the chain of karmic reactions is terminated. The purport explains these three are interconnected—the knot of false identification creates doubt, and both perpetuate karmic bondage. This verse presents the complete cure, not symptom management. False ego is the root disease, doubt is its cognitive manifestation, and karma is its perpetuating mechanism. Hearing and chanting address all three simultaneously. This is not piecemeal self-help but ontological transformation—the dissolution of false identity, epistemic certainty through realized knowledge, and liberation from action-reaction chains. No material process offers this comprehensive cure.",
-      "verseLabel": "SB 1.2.8",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/8/"
+      "correctIndex": 0,
+      "feedback": "SB 1.2.5 redirects dissatisfaction toward inquiry into atma-tattva, the science of the self and God. It is not a call to endless adjustments in material arrangements. The verse ties real satisfaction to spiritual understanding. It also implies humility: seek the real cause and remedy rather than blaming external circumstances.",
+      "verseLabel": "SB 1.2.5",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/5/",
+      "source": "translation"
     },
     {
       "id": "sb1-2-06",
-      "prompt": "6. In SB 1.2.9, what does it mean that devotional service manifests 'unmotivated'?",
+      "prompt": "According to SB 1.2.6, what is the key test of true religion?",
       "choices": [
-        "The devotee is lazy and performs service irregularly",
-        "Service is performed without desire for material gain or liberation",
-        "Service happens accidentally without intention",
-        "The devotee has no particular reason for serving"
+        "It creates social unity and harmony",
+        "It increases wealth and reputation",
+        "It enforces strict external purity",
+        "It produces devotion to Adhoksaja"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. 'Unmotivated' (ahaituki) means free from material motives—neither seeking economic gain, sense pleasure, liberation, nor any personal return. The purport contrasts this with karmis (seeking enjoyment), jnanis (seeking liberation), and yogis (seeking powers), all of whom have ulterior motives. Pure devotion is causeless—it does not depend on what the devotee will receive. Why this matters: This teaching exposes sophisticated forms of selfishness disguised as spirituality. Many approach God as a wish-fulfilling tree or emergency resource. Even the desire for liberation can be a refined form of sense gratification—wanting to end suffering for oneself. Pure bhakti transcends all such calculations, serving for the Lord's pleasure alone. This is the litmus test of authenticity.",
-      "verseLabel": "SB 1.2.9",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/9/"
+      "correctIndex": 3,
+      "feedback": "The purport clarifies that true religion is not defined by external markers like wealth, prestige, or even social harmony. The real test is whether dharma produces devotion to the Lord. This corrects a common false path: treating religion as culture or morality without surrender. The Bhagavatam keeps the focus on transformation of the heart.",
+      "verseLabel": "SB 1.2.6",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/6/",
+      "source": "purport"
     },
     {
       "id": "sb1-2-07",
-      "prompt": "7. SB 1.2.10 states that life's desires become fully satisfied by what?",
+      "prompt": "In SB 1.2.7, devotional service must be free from what?",
       "choices": [
-        "Acquiring sufficient material wealth and security",
-        "Achieving mystical powers through yoga practice",
-        "Rendering loving service to the Personality of Godhead (devotional service)",
-        "Merging into the impersonal Brahman effulgence"
+        "Any discipline or rules",
+        "All social duties and obligations",
+        "Any discussion of philosophy",
+        "Material desire and fruitive aims"
       ],
-      "correctIndex": 2,
-      "feedback": "Correct. The verse says the living entity's desires are 'gradually satisfied by rendering service to the Personality of Godhead.' The key insight is that material desires are not satisfied by material fulfillment (which only increases them) but by spiritual engagement. The purport explains this paradox: the living entity is constitutionally a servant; when serving the Lord, the self is satisfied. When serving matter, it remains frustrated. This is a crucial psychological and ontological teaching: desires are not the problem; misdirected service is. The modern approach—either indulging desires or attempting to extinguish them through renunciation—is rejected. The Bhagavatam's alternative is redirection: engage the desire nature in devotional service, and it becomes satisfied naturally. This is why devotional service alone can fully satisfy.",
-      "verseLabel": "SB 1.2.10",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/10/"
+      "correctIndex": 3,
+      "feedback": "SB 1.2.7 states that bhakti must be free from ulterior motive and covered desires. Devotion is not a tool for personal gain. It also shows bhakti is not anti-intellectual; rather, it must be pure in intention. The Bhagavatam repeatedly exposes spirituality that is really disguised self-interest.",
+      "verseLabel": "SB 1.2.7",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/7/",
+      "source": "translation"
     },
     {
       "id": "sb1-2-08",
-      "prompt": "8. According to SB 1.2.11, what is the complete meaning of 'dharma' as presented in the Bhagavatam?",
+      "prompt": "According to SB 1.2.8, what is an immediate result of pure devotion?",
       "choices": [
-        "Following religious rules without questioning",
-        "That which describes the relationship with and service to the Lord of all living entities (bhagavat-dharma)",
-        "Ethical behavior based on social consensus",
-        "One's occupational duty in society"
+        "Expertise in elaborate rituals",
+        "Immediate satisfaction of the mind",
+        "Mastery of complex metaphysics",
+        "Fame among spiritualists"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse states that Bhagavatam dharma describes the relationship (sambandha) with and service to the Lord of all living beings. The purport explains that while dharma is often translated as religion, its complete meaning involves the eternal relationship between living entities and the Supreme Lord. This is bhagavat-dharma—the dharma or eternal function of the living being in relation to Bhagavan. Why this matters: Most religious systems focus on ethical codes or rituals, but the Bhagavatam insists dharma's essence is relational—reconnecting the living entity with its source. Rules and rituals are instrumental; the relationship is fundamental. This shifts the entire spiritual paradigm from duty-based to love-based, from obligation to ontological fulfillment.",
-      "verseLabel": "SB 1.2.11",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/11/"
+      "feedback": "SB 1.2.8 teaches that pure devotional service brings immediate satisfaction to the self. This is a test of whether the heart is connecting to its proper object, the Lord. The verse also corrects the idea that only long-term achievement matters. When devotion is real, the soul feels relief because it is acting in its natural function.",
+      "verseLabel": "SB 1.2.8",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/8/",
+      "source": "translation"
     },
     {
       "id": "sb1-2-09",
-      "prompt": "9. In SB 1.2.12, what must one do to understand the science of God?",
+      "prompt": "In SB 1.2.9, what is emphasized about approaching the Lord?",
       "choices": [
-        "Study many books and attend academic lectures",
-        "Learn directly from one who has seen the truth face to face (tattva-darsi)",
-        "Meditate alone in isolation for many years",
-        "Perform intense physical austerities"
+        "The Lord is reached by harsh austerity",
+        "The Lord is controlled by ritual experts",
+        "The Lord is pleased by sincere devotion",
+        "The Lord is known by speculation alone"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse instructs one to learn from a 'tattva-darsi'—one who has seen the truth. The purport emphasizes that spiritual realization cannot be acquired from professional teachers who make a business of education, but only from those who have realized the truth themselves. This epistemological principle recurs: transcendental knowledge requires a realized teacher, not merely an informed one. Book learning and logic alone cannot convey realization. Why this matters: This guards against mistaking academic qualification for spiritual authority. University degrees in religious studies do not qualify one to teach the science of God if personal realization is absent. Conversely, a realized soul may have minimal formal education but can transmit authentic knowledge because they have 'seen' the truth directly. The student must evaluate the teacher's realization, not credentials.",
-      "verseLabel": "SB 1.2.12",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/12/"
+      "correctIndex": 2,
+      "feedback": "The purport emphasizes that the Lord responds to devotion and sincerity. This undermines the prideful path of trying to control God through technique. It also confronts the habit of treating spiritual life like a self-directed project. The Lord is a person, and surrender is the real means of approach.",
+      "verseLabel": "SB 1.2.9",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/9/",
+      "source": "purport"
     },
     {
       "id": "sb1-2-10",
-      "prompt": "10. SB 1.2.13 describes a realized soul (tattva-darsi) as one who sees what?",
+      "prompt": "According to SB 1.2.10, what is the root cause of all miseries?",
       "choices": [
-        "Only the formless aspect of the Absolute",
-        "The Absolute Truth in three features: Brahman, Paramatma, and Bhagavan",
-        "Material nature as the ultimate reality",
-        "All religions as equally valid paths"
+        "Lack of wealth and facilities",
+        "Insufficient moral education",
+        "Conflict between social groups",
+        "Ignorance of our real identity"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. This famous verse states: 'Learned transcendentalists who know the Absolute Truth call this nondual substance Brahman, Paramatma, or Bhagavan.' The purport explains these are not three separate truths but three features of the One Absolute Truth, realized according to the level of the knower. This verse is crucial for understanding Vedic ontology and resolving apparent contradictions in scripture. Different schools emphasize different features, but the complete vision sees all three as aspects of one reality: Brahman (the impersonal all-pervading aspect), Paramatma (the localized Supersoul aspect), and Bhagavan (the personal Supreme Personality aspect). The Bhagavatam will establish Bhagavan as the complete realization, with Brahman and Paramatma as partial.",
-      "verseLabel": "SB 1.2.13",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/13/"
+      "correctIndex": 3,
+      "feedback": "The purport explains that miseries persist because the soul forgets its identity and relationship with the Lord. Material adjustments cannot solve a spiritual disease. This is why the Bhagavatam prescribes hearing and devotion as medicine. Without self-knowledge, even good intentions remain trapped in the same cycle.",
+      "verseLabel": "SB 1.2.10",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/10/",
+      "source": "purport"
     },
     {
       "id": "sb1-2-11",
-      "prompt": "11. Based on the purport to SB 1.2.13, which realization of the Absolute Truth is most complete?",
+      "prompt": "In SB 1.2.11, what is the main aim of all Vedic knowledge?",
       "choices": [
-        "Brahman (impersonal effulgence), as it encompasses everything",
-        "Paramatma (Supersoul), as it is present in every heart",
-        "Bhagavan (Supreme Personality), as it includes the other two features",
-        "All three are equally complete"
+        "To perfect material prosperity",
+        "To provide social organization",
+        "To produce ethical citizens",
+        "To know the Absolute Truth"
       ],
-      "correctIndex": 2,
-      "feedback": "Correct. The purport explains that Brahman realization is the preliminary stage, Paramatma is the middle stage, and Bhagavan realization is the complete understanding. Those who realize Bhagavan automatically realize Brahman and Paramatma, but not vice versa. This establishes a hierarchy of realization, not mere difference in perspective. Why this matters: This teaching guards against false egalitarianism in spiritual paths. Not all realizations are equally complete. Impersonalists realize only the effulgence, yogis realize the indwelling witness, but devotees realize the source of both—the Personality who possesses both the all-pervading energy and the localized presence. This is not sectarianism but graduated comprehension. One who knows the sun planet knows both the sunshine and its presence in reflection.",
-      "verseLabel": "SB 1.2.13",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/13/"
+      "correctIndex": 3,
+      "feedback": "SB 1.2.11 establishes the goal of Vedic study: to know the Absolute Truth. This prevents scripture from becoming merely cultural or academic. The Bhagavatam presses for the central question of ultimate reality. Everything else is secondary and must serve that end.",
+      "verseLabel": "SB 1.2.11",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/11/",
+      "source": "translation"
     },
     {
       "id": "sb1-2-12",
-      "prompt": "12. In SB 1.2.17, what is the primary qualification needed for one to hear transcendental narrations about the Lord?",
+      "type": "synthesis",
+      "prompt": "Synthesis: Across SB 1.2.11-1.2.12, how is the Absolute Truth understood in progressive realization?",
       "choices": [
-        "High intellectual capacity and education",
-        "A faithful heart (sraddha-anvita)",
-        "Complete material renunciation first",
-        "Birth in a brahmana family"
+        "As social duty, then moral virtue",
+        "As Brahman, Paramatma, and Bhagavan",
+        "As ritualism, then material heaven",
+        "As voidism, then impersonal silence"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse specifies 'sraddhanvitah'—one with a faithful heart. The purport emphasizes that faith (sraddha) is the basic qualification for spiritual life, more fundamental than intelligence, birth, or renunciation. This is profound: faith is not blind acceptance but a predisposition of trust toward transcendental subject matter. Why this matters: Modern epistemology often opposes faith and reason, privileging doubt as intellectually sophisticated. The Bhagavatam reverses this, making faith the precondition for understanding. Without faith, hearing becomes a critical exercise rather than a receptive opening. This doesn't mean gullibility—the verse assumes discriminative intelligence—but it insists that transcendental truth cannot be forced open by hostile skepticism; it must be approached with provisional trust that matures into realized knowledge. Faith is the seed; realization is the fruit.",
-      "verseLabel": "SB 1.2.17",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/17/"
+      "feedback": "SB 1.2.11 presents the Absolute Truth as realized in three features: Brahman, Paramatma, and Bhagavan. SB 1.2.12 highlights Bhagavan as complete realization, possessing all opulences. The point is depth, not contradiction: partial realization should not be treated as final. The chapter trains the reader to move toward the fullest conclusion, the Supreme Person, which supports genuine devotion.",
+      "verseLabel": "SB 1.2.11-12",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/11/",
+      "source": "translation",
+      "tags": [
+        "synthesis"
+      ]
     },
     {
       "id": "sb1-2-13",
-      "prompt": "13. According to SB 1.2.18, what happens when a faithful devotee regularly hears about Krishna?",
+      "prompt": "In SB 1.2.12, what distinguishes Bhagavan realization?",
       "choices": [
-        "Krishna becomes seated in the heart, cutting through material desires",
-        "The devotee gains only temporary happiness",
-        "The devotee develops mystic powers",
-        "Nothing happens without ritual and austerity"
+        "It denies personal relationships",
+        "It rejects all form as illusion",
+        "It includes all opulences fully",
+        "It depends on material qualification"
       ],
-      "correctIndex": 0,
-      "feedback": "Correct. The verse says Krishna becomes seated in the heart and cuts through all material desires and doubts. This describes the practical mechanics of purification through hearing. Krishna's presence in the heart is not metaphorical but a literal spiritual fact—His causeless mercy manifests as internal guidance and purification. The purport explains that as one hears faithfully, Krishna gradually removes anarthas (unwanted things) from the heart. Why this matters: This reveals the essential asymmetry of bhakti—the devotee makes a small effort (faithful hearing), and Krishna reciprocates with disproportionate mercy (internal purification). This is not earning salvation through works but invoking grace through receptivity. The devotee cannot purify the heart by sheer willpower, but sincere hearing invites Krishna to perform the purification. This guards against both false independence (I can purify myself) and false despair (I'm too fallen to be purified).",
-      "verseLabel": "SB 1.2.18",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/18/"
+      "correctIndex": 2,
+      "feedback": "The purport presents Bhagavan as the complete realization of the Absolute Truth, possessing all opulences. This exposes the weakness of impersonal conclusions that deny personality. The chapter trains the mind to accept the Supreme Person as ultimate. Without that acceptance, devotion collapses into abstraction.",
+      "verseLabel": "SB 1.2.12",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/12/",
+      "source": "purport"
     },
     {
       "id": "sb1-2-14",
-      "prompt": "14. In SB 1.2.19, what does the devotee become freed from as Krishna is established in the heart?",
+      "prompt": "According to SB 1.2.13, what is the best way to know the Absolute Truth?",
       "choices": [
-        "All philosophical doubts and material karma only",
-        "Rajas (passion) and tamas (ignorance), becoming fixed in sattva (goodness)",
-        "All modes of nature completely and immediately",
-        "Physical disease and material poverty"
+        "Independent reasoning and debate alone",
+        "Severe austerity without devotion",
+        "Hearing submissively from realized souls",
+        "Studying many paths and combining them"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse says the devotee is 'freed from rajas and tamas' and 'becomes fixed in sattva-guna (the mode of goodness).' This indicates a progressive purification, not instant transcendence. The purport explains this is an intermediate stage on the path to pure goodness (suddha-sattva), which transcends even material goodness. Why this matters: This provides a realistic roadmap, preventing both complacency and discouragement. Beginners in bhakti are not immediately free from all material conditioning, but they do experience progressive purification—first eliminating gross passion and ignorance, becoming steady in goodness. From this platform, further purification leads to transcendental goodness (visuddha-sattva). This graduated teaching prevents magical thinking while maintaining confidence in the process.",
-      "verseLabel": "SB 1.2.19",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/19/"
+      "correctIndex": 2,
+      "feedback": "The purport defends the descending process: hear from realized devotees in parampara. This is an epistemology of humility, not intellectual conquest. It also protects against eclecticism that avoids surrender. Transcendental truth is received as mercy, not manufactured by the mind.",
+      "verseLabel": "SB 1.2.13",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/13/",
+      "source": "purport"
     },
     {
       "id": "sb1-2-15",
-      "prompt": "15. According to SB 1.2.20, when the devotee is situated in transcendental goodness, what happens?",
+      "prompt": "In SB 1.2.14, what practice is most beneficial in Kali-yuga?",
       "choices": [
-        "The devotee becomes famous and respected",
-        "The devotee realizes personal identity as eternal servant and attains lasting happiness",
-        "The devotee merges into Brahman effulgence",
-        "The devotee gains supernatural powers"
+        "Hearing and chanting about the Lord",
+        "Pilgrimage to many sacred rivers",
+        "Complex meditation in full solitude",
+        "Elaborate sacrifices with expert priests"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse says the devotee 'knows his own self and the Supreme Lord' and 'attains unflinching happiness.' This is self-realization paired with God-realization—not merger but relational understanding. The purport explains that in this stage, one understands both the constitutional position of the self (eternal servant) and the position of the Lord (eternal master). This double realization produces lasting happiness because the ontological confusion is resolved. Why this matters: Many spiritual paths promise either self-knowledge or God-knowledge, but rarely both in clear relationship. The Bhagavatam insists on both: knowing oneself as qualitatively one with but quantitatively different from God, and understanding the eternal relationship of service. This prevents both complete identification (Mayavada) and complete separation (dualism), establishing personalistic theistic non-dualism.",
-      "verseLabel": "SB 1.2.20",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/20/"
+      "correctIndex": 0,
+      "feedback": "SB 1.2.14 highlights the practical process for this age: hearing and chanting. The Bhagavatam is realistic about Kali-yuga limitations and offers a method that is both accessible and powerful. This defeats the pride of thinking only elite practices count. The verse points to devotion as the age-appropriate sacrifice.",
+      "verseLabel": "SB 1.2.14",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/14/",
+      "source": "translation"
     },
     {
       "id": "sb1-2-16",
-      "prompt": "16. SB 1.2.21 states that devotional service (bhakti-yoga) causes what to disappear from the heart?",
+      "prompt": "In SB 1.2.15, what happens when one properly hears the Bhagavatam?",
       "choices": [
-        "Only fear and lamentation",
-        "The threefold miseries: pertaining to body/mind, other living entities, and natural disturbances",
-        "Material desires entirely without any practice",
-        "Confusion about varna-ashrama duties"
+        "One gains respect in society at once",
+        "One becomes materially successful quickly",
+        "The Lord cleanses desire from the heart",
+        "One learns perfect ritual technique"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse says bhakti-yoga causes the threefold miseries to disappear. The purport clarifies these as adhyatmika (miseries from body and mind), adhibhautika (miseries from other living beings), and adhidaivika (miseries from natural disturbances like earthquakes). Bhakti addresses the root of all suffering—separation from Krishna—and thus eliminates all derivative sufferings. This is crucial: the Bhagavatam doesn't promise elimination of external difficulties (disease, conflict, natural disasters may still occur), but it promises elimination of the suffering they cause. The devotee situated in Krishna consciousness transcends lamentation and fear because the self is understood as eternal and the Lord as all-good. External circumstances lose power to create existential suffering, though physical pain may temporarily occur. This is liberation within life, not escape from life.",
-      "verseLabel": "SB 1.2.21",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/21/"
+      "correctIndex": 2,
+      "feedback": "SB 1.2.15 teaches inner purification as the direct fruit of hearing. The Lord acts within the heart to remove contamination when hearing is sincere. This is a central Bhagavatam theme: devotion is transformation, not mere information. The verse also guards against treating hearing as entertainment.",
+      "verseLabel": "SB 1.2.15",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/15/",
+      "source": "translation",
+      "tags": [
+        "harder"
+      ]
     },
     {
       "id": "sb1-2-17",
-      "prompt": "17. In SB 1.2.22, what happens as bhakti becomes mature?",
+      "prompt": "In SB 1.2.16, what is described as the essence of all scriptures?",
       "choices": [
-        "One gains material powers and prosperity",
-        "Scientific knowledge of the self and Superself (Krishna) manifests",
-        "One becomes indifferent to spiritual and material life",
-        "One stops all activities and meditates constantly"
+        "Philosophical doubt and argument",
+        "Service to the Supreme Lord",
+        "Ritual purity and strict vows",
+        "Material charity and social work"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse says mature bhakti causes 'scientific knowledge of the self and the Absolute' to manifest. The term 'scientific' (tattva-jnanam) indicates this is not vague mystical feeling but precise, verifiable understanding. The purport explains this as direct realization of the relationship between the living entity and the Supreme Lord. Why this matters: This guards against reducing bhakti to sentimentalism or emotionalism. Authentic devotion produces knowledge—clear, distinct, precise understanding of reality. This knowledge is 'scientific' in being systematic, verifiable (by those who apply the method), and reproducible. The Bhagavatam refuses the false dichotomy between devotional feeling and philosophical understanding. Mature bhakti unites both—the heart and the head are simultaneously engaged and satisfied.",
-      "verseLabel": "SB 1.2.22",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/22/"
+      "feedback": "SB 1.2.16 reinforces the chapter's throughline: scripture culminates in devotion and service. It pushes back against reducing religion to moralism or ritualism. The Bhagavatam is not impressed by external detail if the heart does not surrender. The essence is loving service, not self-centered spirituality.",
+      "verseLabel": "SB 1.2.16",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/16/",
+      "source": "translation",
+      "tags": [
+        "harder"
+      ]
     },
     {
       "id": "sb1-2-18",
-      "prompt": "18. According to SB 1.2.23, what relationship does the Supersoul (Paramatma) have with the individual soul?",
+      "prompt": "In SB 1.2.17, what follows when lust and greed are removed?",
       "choices": [
-        "They are completely identical without distinction",
-        "Paramatma is a qualitatively similar yet quantitatively different companion to the individual soul",
-        "Paramatma is an illusion created by the individual soul's ignorance",
-        "Paramatma is simply a philosophical concept with no reality"
+        "Expertise in complex ritual rules",
+        "Mastery of mystic yoga powers",
+        "Automatic liberation without service",
+        "Firm goodness and peaceful mind"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse describes the Supersoul as a constant companion and witness who is qualitatively similar but quantitatively superior. The purport explains that both are qualitatively one (spiritual) but quantitatively different in power and position. The Paramatma is all-pervading and maintains both souls and matter, while the individual soul is localized and dependent. This is acintya-bhedabheda-tattva—inconceivable simultaneous oneness and difference. Why this matters: This doctrine navigates between absolute monism (which denies real distinction) and absolute dualism (which denies unity). The souls share the same spiritual quality but differ infinitely in quantity of power, knowledge, and being. This preserves both the intimacy of relationship (qualitative oneness allows loving exchange) and the necessity of hierarchy (quantitative difference prevents hubris and maintains devotional posture).",
-      "verseLabel": "SB 1.2.23",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/23/"
+      "correctIndex": 3,
+      "feedback": "SB 1.2.17 describes a psychological progression: as lust and greed fade, one becomes steady in goodness and satisfied within. This is purification of motive, not mere behavior management. The verse connects inner stability to devotion, not to repression. Real peace comes from replacing lower desires with higher taste.",
+      "verseLabel": "SB 1.2.17",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/17/",
+      "source": "translation",
+      "tags": [
+        "harder"
+      ]
     },
     {
       "id": "sb1-2-19",
-      "prompt": "19. SB 1.2.24 explains the path of gradual purification. Which sequence is correct?",
+      "prompt": "In SB 1.2.18, what becomes unbreakable for a sincere hearer?",
       "choices": [
-        "Hearing, liberation, knowledge, detachment",
-        "Hearing, attachment to Krishna, liberation, detachment from matter",
-        "Detachment, knowledge, attachment, liberation",
-        "Knowledge, detachment, hearing, attachment"
+        "Material ambition and discipline",
+        "Devotional service to the Lord",
+        "Speculative interest in many paths",
+        "Family ties and social identity"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse presents the sequence: faithful hearing → attachment to Krishna → liberation from material hankering → detachment from matter. This order is significant. The purport emphasizes that one does not first become detached and then develop attachment to Krishna; rather, attachment to Krishna automatically produces detachment from matter. This is the positive path of bhakti versus the negative path of jnana. Why this matters: Many spiritual paths emphasize renunciation as the prerequisite for spiritual life—first give up material attachments, then approach God. The Bhagavatam reverses this: first cultivate attachment to Krishna through hearing, and detachment from matter follows naturally. This is psychologically realistic. Forced renunciation creates repression; spontaneous detachment through higher taste creates genuine freedom. The verse establishes hearing (sravanam) as the beginning point, making the process accessible to all, not just ascetics.",
-      "verseLabel": "SB 1.2.24",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/24/"
+      "feedback": "SB 1.2.18 explains that regular hearing produces steady, irreversible devotion. This is an important standard: bhakti should become stable, not occasional. The verse also challenges the idea that spiritual life is mainly a lifestyle choice. It is meant to become the soul's fixed engagement.",
+      "verseLabel": "SB 1.2.18",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/18/",
+      "source": "translation",
+      "tags": [
+        "harder"
+      ]
     },
     {
       "id": "sb1-2-20",
-      "prompt": "20. In SB 1.2.26, what is the stated purpose of maintaining the body?",
+      "prompt": "In SB 1.2.19, what is a symptom of advanced devotion?",
       "choices": [
-        "To enjoy as many sense pleasures as possible",
-        "To inquire about the Absolute Truth and realize one's relationship with the Supreme",
-        "To accumulate wealth and secure one's descendants",
-        "To perform severe austerities and renounce all pleasure"
+        "Cessation of lamentation and illusion",
+        "Winning debates against opponents",
+        "Fame as a learned teacher",
+        "Perfect health and long life"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse says the body's purpose is 'for self-realization' and to 'know one's relationship with the Supreme.' The purport distinguishes this from the animalistic goal of sense gratification. Even animals maintain their bodies, eat, sleep, mate, and defend, so human life must have a higher purpose. That purpose is inquiry into ultimate truth and realization of one's eternal relationship with the Supreme Lord. Why this matters: This verse provides the philosophical foundation for why human life is precious and should not be wasted. The body is not the self, but it is the vehicle for self-realization. Neither hedonistic indulgence nor extreme ascetic punishment is appropriate; the body should be maintained as an instrument for spiritual inquiry. This balanced view rejects both materialism and false renunciation.",
-      "verseLabel": "SB 1.2.26",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/26/"
+      "correctIndex": 0,
+      "feedback": "SB 1.2.19 links devotion to clear spiritual vision: ignorance and confusion diminish. This is not merely emotional uplift; it is a change in perception and identity. The Bhagavatam expects tangible transformation: less illusion, less sorrow, and more stable knowledge. It also guards against prideful markers like prestige and argument.",
+      "verseLabel": "SB 1.2.19",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/19/",
+      "source": "translation",
+      "tags": [
+        "harder"
+      ]
     },
     {
       "id": "sb1-2-21",
-      "prompt": "21. According to SB 1.2.28, by what process can one be freed from material bondage?",
+      "prompt": "In SB 1.2.20, what does pure devotion give the devotee?",
       "choices": [
-        "By giving up all work and becoming completely inactive",
-        "By devotional service, which purifies the heart and cuts material bondage",
-        "By severe austerities and penance alone",
-        "By philosophical speculation about the Absolute"
+        "Control over other living beings",
+        "Permanent escape from all duty",
+        "Unrestricted enjoyment of senses",
+        "Direct experience of the Lord"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse explains that devotional service (bhakti-yoga) renders one eligible to understand the Absolute Truth, and through such understanding, one can be liberated from material bondage. The purport clarifies that this liberation comes through purification of the heart, which occurs through devotional service. This is a complete reversal of the jnana-marga (path of knowledge), which assumes knowledge leads to liberation. The Bhagavatam teaches that devotional service leads to knowledge, which leads to liberation. Why this matters: Many assume liberation requires giving up all activities. The Bhagavatam teaches that activities dedicated to the Lord (devotional service) are themselves the purifying agent. One need not abandon activity, but redirect it. This makes spiritual life accessible to householders and active people, not only renunciants.",
-      "verseLabel": "SB 1.2.28",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/28/"
+      "correctIndex": 3,
+      "feedback": "The purport emphasizes realization, not theory: devotion reveals the Lord. This is the opposite of dry speculation, which remains indirect. It also rejects the false renunciation mindset that sees duty as a burden rather than service. The Bhagavatam presents devotion as the most direct path to knowledge of God.",
+      "verseLabel": "SB 1.2.20",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/20/",
+      "source": "purport",
+      "tags": [
+        "harder"
+      ]
     },
     {
       "id": "sb1-2-22",
-      "prompt": "22. SB 1.2.29 states that self-realization is hindered by what?",
+      "prompt": "In SB 1.2.21, what should a serious seeker do first?",
       "choices": [
-        "Lack of formal education and training",
-        "Inattention while hearing about the Lord due to association with non-devotees",
-        "Insufficient ritual performance",
-        "Past sinful activities only"
+        "Serve a bona fide spiritual master",
+        "Wait for a mystical vision to come",
+        "Reject all work and responsibilities",
+        "Study many books without guidance"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse warns that inattention (pramada) in hearing about the Lord occurs due to association with non-devotees and those attached to women. The purport explains that bad association is the root cause of spiritual inattention. One may be hearing, but if the association is contaminated, the hearing becomes ineffective. Why this matters: This is a sober warning about the power of association (sanga). Association shapes consciousness more powerfully than abstract philosophy. One may intellectually accept Vedic teachings but if immersed in materialistic association, the teachings cannot take root. The verse specifically warns against two types of bad association: atheists/non-devotees (who deny or ignore the Absolute) and those absorbed in sexual association (who exemplify material entanglement). Protective association with devotees is therefore not optional sentimentality but epistemological necessity.",
-      "verseLabel": "SB 1.2.29",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/29/"
+      "correctIndex": 0,
+      "feedback": "SB 1.2.21 stresses the starting point: approach and serve a bona fide guru. The chapter is consistent that knowledge descends through mercy and discipline. This guards against self-authoring spirituality. Without guidance, one easily mistakes mental ideas for realization.",
+      "verseLabel": "SB 1.2.21",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/21/",
+      "source": "translation",
+      "tags": [
+        "harder"
+      ]
     },
     {
       "id": "sb1-2-23",
-      "prompt": "23. Based on SB 1.2.30, what is the ultimate misconception that devotional service removes?",
+      "prompt": "In SB 1.2.22, what qualifies a guru as bona fide?",
       "choices": [
-        "The idea that God has form and personality",
-        "The misconception that the body is the self",
-        "The belief that karma has consequences",
-        "The notion that spiritual life requires effort"
+        "Skilled in ritual wealth",
+        "Tolerance of all philosophies",
+        "Fixed in scripture and realization",
+        "Famous and widely followed"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The verse states that devotional service destroys the subtle body (linga) by destroying the misconception of 'I and mine,' meaning the false identification with body and possessions. The purport explains that 'I am this body' and 'This is mine' are the root illusions. Devotional service gradually erodes this false ego, revealing the true identity as eternal servant of Krishna. Why this matters: Many spiritual paths attack symptoms (anger, lust, greed) without addressing the root—false identification. The Bhagavatam goes to the source: when one knows 'I am not this body; I am eternal servant of Krishna,' all other misconceptions automatically dissolve. The body and possessions are then seen as Krishna's property, held in trust for His service, eliminating possessiveness and anxiety. This is not philosophy but therapeutic precision—addressing the disease at its root.",
-      "verseLabel": "SB 1.2.30",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/30/"
+      "correctIndex": 2,
+      "feedback": "The purport sets a clear standard: the teacher must be learned in scripture and established in realization. Popularity and charisma are not the Bhagavatam criteria. The point is epistemological: truth requires an authorized and realized transmitter. Otherwise, the seeker inherits confusion, not clarity.",
+      "verseLabel": "SB 1.2.22",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/22/",
+      "source": "purport",
+      "tags": [
+        "harder"
+      ]
     },
     {
       "id": "sb1-2-24",
-      "prompt": "24. Synthesizing Chapter 2's teachings on epistemology: what is the proper sequence for acquiring transcendental knowledge?",
+      "type": "synthesis",
+      "prompt": "Synthesis: Across SB 1.2.1-1.2.10, what does the chapter present as the best measure of dharma?",
       "choices": [
-        "Independent study → philosophical speculation → mystical experience → guru",
-        "Approaching a realized guru → submissive hearing → faithful application → realization → transformation",
-        "Ritual performance → moral purification → meditation → knowledge",
-        "Renunciation of world → severe austerity → merging in Brahman"
+        "Devotion that satisfies the self",
+        "Strict external purity and ritual skill",
+        "Social harmony and public reputation",
+        "Heavenly promotion through sacrifice"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. The chapter systematically presents this sequence: one must approach a realized guru (SB 1.2.12), hear submissively with faith (SB 1.2.16-17), apply the process faithfully (continuous hearing, SB 1.2.18), which leads to realization (SB 1.2.20-22), and culminates in transformation (SB 1.2.21-30). This opposes the ascending path (beginning with one's own effort and speculation). The descending path begins with receiving knowledge from authority, applying it submissively, and experiencing transformation through grace. Why this matters: Modern education trains the opposite—begin with doubt, analyze independently, accept only what you can verify. The chapter argues this works for material subjects but fails for transcendental truth. The Absolute cannot be forced to reveal Himself to hostile inquiry; He must be approached with submissive receptivity. This doesn't mean gullibility, but provisional trust in authorized sources, tested through sincere application.",
-      "verseLabel": "SB 1.2 Summary",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/"
+      "correctIndex": 0,
+      "feedback": "Across the early verses, the chapter measures dharma by its effect on the heart: unmotivated devotion that produces real satisfaction and taste for hearing. External markers can exist without transformation. The Bhagavatam insists that work and religion must awaken attraction to hearing about the Lord. This keeps dharma from becoming a social identity or a tool for gain.",
+      "verseLabel": "SB 1.2.1-10",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/2/",
+      "source": "translation",
+      "tags": [
+        "synthesis",
+        "harder"
+      ]
     },
     {
       "id": "sb1-2-25",
-      "prompt": "25. What is the ultimate argument for bhakti's supremacy over other paths presented in Chapter 2?",
+      "type": "synthesis",
+      "prompt": "Synthesis: According to SB 1.2.15-1.2.19, what sequence of transformation comes from hearing and chanting?",
       "choices": [
-        "Bhakti is easier and requires less effort than other paths",
-        "Bhakti alone satisfies the self, grants complete knowledge of the Absolute, and liberates from all suffering naturally through attachment to Krishna",
-        "Bhakti leads to material prosperity in this life",
-        "Bhakti is the oldest and most traditional path"
+        "Immediate liberation, then knowledge, then devotion",
+        "Material success, then ritual perfection, then detachment",
+        "Purification of heart, steady devotion, cessation of illusion",
+        "Social prestige, then debate skill, then realization"
       ],
-      "correctIndex": 1,
-      "feedback": "Correct. This synthesis question tests grasp of the chapter's cumulative argument. Bhakti's supremacy rests on three integrated points: (1) It alone satisfies the self's constitutional need to serve (SB 1.2.6-10), since the living entity is by nature a servant. (2) It grants complete knowledge—not just Brahman or Paramatma, but Bhagavan realization (SB 1.2.11-13, 20-22), including scientific knowledge of self and Absolute. (3) It liberates naturally through attraction (SB 1.2.24), not forced renunciation—one becomes detached from matter by attachment to Krishna, solving the practical problem of the heart's need for engagement. Other paths fail one or more of these tests: karma cannot satisfy (it's temporary), jnana cannot fully know (it stops at Brahman), and yoga is difficult (requiring withdrawal). Bhakti integrates satisfaction, knowledge, and liberation in a single, accessible process—hearing and chanting with faith—appropriate for fallen Kali-yuga souls. This is the chapter's masterstroke: demonstrating bhakti's supremacy not through sectarian claim but through philosophical necessity and practical efficacy.",
-      "verseLabel": "SB 1.2 Summary",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/2/"
+      "correctIndex": 2,
+      "feedback": "SB 1.2.15-19 describe a progression: sincere hearing and chanting purify the heart, which leads to steady devotional service. From that steadiness, ignorance and lamentation diminish, and spiritual clarity increases. The chapter presents inner change as the real evidence of progress. It also protects against mistaking external achievement for purification.",
+      "verseLabel": "SB 1.2.15-19",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/2/15/",
+      "source": "translation",
+      "tags": [
+        "synthesis",
+        "harder"
+      ]
     }
   ]
 }

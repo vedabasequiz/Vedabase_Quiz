@@ -12,12 +12,12 @@
       "source": "purport",
       "prompt": "In BG 1.1, why is Kuruksetra called a special place?",
       "choices": [
+        "It is near the sea",
         "It is a holy place",
         "It is a busy city",
-        "It is a forest camp",
-        "It is near the sea"
+        "It is a forest camp"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Kuruksetra is a holy place. This means what is right is supported there, and Krsna is guiding events.",
       "verseLabel": "BG 1.1",
       "verseUrl": "https://vedabase.io/en/library/bg/1/1/"
@@ -27,12 +27,12 @@
       "source": "translation",
       "prompt": "In BG 1.1, what does Dhritarastra ask Sanjaya?",
       "choices": [
-        "What is happening on the battlefield",
-        "Who is cooking food",
+        "When the rain will come",
         "Where the river is",
-        "When the rain will come"
+        "Who is cooking food",
+        "What is happening on the battlefield"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Dhritarastra asks what his sons and the Pandavas are doing. He feels worried about what will happen next.",
       "verseLabel": "BG 1.1",
       "verseUrl": "https://vedabase.io/en/library/bg/1/1/"
@@ -44,8 +44,8 @@
       "choices": [
         "They blow conchshells loudly",
         "They cook food together",
-        "They build a house",
-        "They swim in water"
+        "They swim in water",
+        "They build a house"
       ],
       "correctIndex": 0,
       "feedback": "Krsna and Arjuna blow their conchshells. The strong sound gives courage and hope to their side.",
@@ -57,12 +57,12 @@
       "source": "translation",
       "prompt": "In BG 1.20, what does Arjuna do after seeing the Kaurava army?",
       "choices": [
-        "He lifts his bow",
-        "He falls asleep",
         "He runs away",
+        "He falls asleep",
+        "He lifts his bow",
         "He starts singing"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Arjuna lifts his bow and prepares to speak. He is brave and ready to understand the situation.",
       "verseLabel": "BG 1.20",
       "verseUrl": "https://vedabase.io/en/library/bg/1/20/"
@@ -72,12 +72,12 @@
       "source": "translation",
       "prompt": "In BG 1.21-1.22, what does Arjuna ask Krsna to do?",
       "choices": [
-        "Place the chariot between the armies",
         "Take him home right away",
+        "Place the chariot between the armies",
         "Give him a new bow",
         "Stop the war immediately"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Arjuna asks Krsna to place the chariot between the armies. Krsna kindly helps him.",
       "verseLabel": "BG 1.21-1.22",
       "verseUrl": "https://vedabase.io/en/library/bg/1/21/"
@@ -88,9 +88,9 @@
       "prompt": "In BG 1.26, whom does Arjuna see on both sides?",
       "choices": [
         "Family members and teachers",
-        "Wild animals",
+        "Peaceful monks",
         "Only strangers",
-        "Peaceful monks"
+        "Wild animals"
       ],
       "correctIndex": 0,
       "feedback": "Arjuna sees many relatives and teachers. This shows he has a caring and gentle heart.",
@@ -103,9 +103,9 @@
       "prompt": "In BG 1.27, how does Arjuna feel after seeing his relatives?",
       "choices": [
         "He feels very sad",
-        "He feels very proud",
         "He feels very hungry",
-        "He feels very sleepy"
+        "He feels very sleepy",
+        "He feels very proud"
       ],
       "correctIndex": 0,
       "feedback": "Arjuna feels sad because he cares about his family. It is okay to feel this way.",
@@ -117,12 +117,12 @@
       "source": "purport",
       "prompt": "Why does Arjuna feel sad when he sees his family on both sides?",
       "choices": [
-        "Because he cares about them",
-        "Because he wants to win prizes",
         "Because he feels bored",
-        "Because he is hungry"
+        "Because he is hungry",
+        "Because he wants to win prizes",
+        "Because he cares about them"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Arjuna feels sad because he loves and cares for his family. Krsna will help him understand what to do.",
       "verseLabel": "BG 1.27",
       "verseUrl": "https://vedabase.io/en/library/bg/1/27/"
@@ -132,12 +132,12 @@
       "source": "translation",
       "prompt": "In BG 1.28, what happens to Arjuna's body?",
       "choices": [
-        "His limbs become weak",
-        "His armor becomes heavier",
+        "His feet become taller",
         "His hair grows longer",
-        "His feet become taller"
+        "His limbs become weak",
+        "His armor becomes heavier"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Arjuna says his limbs are weak. Krsna is nearby and will guide him.",
       "verseLabel": "BG 1.28",
       "verseUrl": "https://vedabase.io/en/library/bg/1/28/"
@@ -147,12 +147,12 @@
       "source": "translation",
       "prompt": "In BG 1.46, what does Arjuna do at the end of Chapter 1?",
       "choices": [
-        "He sits down sadly",
         "He starts fighting",
+        "He sits down sadly",
         "He laughs loudly",
         "He runs into the forest"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krsna will now help Arjuna understand what to do.",
       "verseLabel": "BG 1.46",
       "verseUrl": "https://vedabase.io/en/library/bg/1/46/"

@@ -14,8 +14,8 @@
       "choices": [
         "Arjuna feeling sad and confused",
         "Arjuna feeling angry and proud",
-        "Arjuna smiling happily",
-        "Arjuna ready to fight strongly"
+        "Arjuna ready to fight strongly",
+        "Arjuna smiling happily"
       ],
       "correctIndex": 0,
       "feedback": "Krsna sees that Arjuna is sad and confused. Krsna cares about him.",
@@ -27,12 +27,12 @@
       "source": "translation",
       "prompt": "In BG 2.2, what does Krsna ask Arjuna?",
       "choices": [
-        "Why he is acting weak",
         "Why he wants food",
+        "Why he is acting weak",
         "Why he is late",
         "Why he is smiling"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krsna asks why Arjuna is acting weak. He wants to help him become strong again.",
       "verseLabel": "BG 2.2",
       "verseUrl": "https://vedabase.io/en/library/bg/2/2/"
@@ -44,8 +44,8 @@
       "choices": [
         "Guide him as his teacher",
         "Leave the battlefield",
-        "Give him a new bow",
-        "End the war quickly"
+        "End the war quickly",
+        "Give him a new bow"
       ],
       "correctIndex": 0,
       "feedback": "Arjuna asks Krsna to guide him. He accepts Krsna as his teacher.",
@@ -57,12 +57,12 @@
       "source": "purport",
       "prompt": "Why is it good that Arjuna asks Krsna for guidance?",
       "choices": [
-        "Because Krsna knows what is right",
-        "Because Arjuna feels tired",
+        "Because others tell him to ask",
         "Because the battle is noisy",
-        "Because others tell him to ask"
+        "Because Arjuna feels tired",
+        "Because Krsna knows what is right"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krsna knows what is best. Asking a good teacher helps us learn.",
       "verseLabel": "BG 2.7",
       "verseUrl": "https://vedabase.io/en/library/bg/2/7/"
@@ -72,12 +72,12 @@
       "source": "translation",
       "prompt": "In BG 2.11, what does Krsna say about Arjuna's sadness?",
       "choices": [
-        "It is not needed",
-        "It is very good",
         "It is funny",
-        "It is exciting"
+        "It is not needed",
+        "It is exciting",
+        "It is very good"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krsna says Arjuna should not be sad like this. He will explain why.",
       "verseLabel": "BG 2.11",
       "verseUrl": "https://vedabase.io/en/library/bg/2/11/"
@@ -87,12 +87,12 @@
       "source": "translation",
       "prompt": "In BG 2.13, what happens to the soul as the body grows?",
       "choices": [
-        "The soul stays the same",
         "The soul becomes weak",
-        "The soul disappears",
-        "The soul gets smaller"
+        "The soul gets smaller",
+        "The soul stays the same",
+        "The soul disappears"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "The soul stays the same, even when the body changes.",
       "verseLabel": "BG 2.13",
       "verseUrl": "https://vedabase.io/en/library/bg/2/13/"
@@ -103,8 +103,8 @@
       "prompt": "In BG 2.14, what does Krsna say about happiness and sadness?",
       "choices": [
         "They come and go",
-        "They last forever",
         "They should be feared",
+        "They last forever",
         "They never change"
       ],
       "correctIndex": 0,
@@ -117,12 +117,12 @@
       "source": "purport",
       "prompt": "Why should we stay calm when happiness or sadness comes?",
       "choices": [
-        "Because they do not last",
         "Because they are scary",
-        "Because others say so",
-        "Because they are fun"
+        "Because they do not last",
+        "Because they are fun",
+        "Because others say so"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Happiness and sadness come and go. Staying calm helps us feel steady.",
       "verseLabel": "BG 2.14",
       "verseUrl": "https://vedabase.io/en/library/bg/2/14/"
@@ -132,12 +132,12 @@
       "source": "translation",
       "prompt": "In BG 2.20, what happens to the soul?",
       "choices": [
-        "The soul never dies",
         "The soul grows old",
-        "The soul breaks apart",
-        "The soul becomes tired"
+        "The soul becomes tired",
+        "The soul never dies",
+        "The soul breaks apart"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krsna explains that the soul never dies. This brings comfort.",
       "verseLabel": "BG 2.20",
       "verseUrl": "https://vedabase.io/en/library/bg/2/20/"
@@ -147,12 +147,12 @@
       "source": "translation",
       "prompt": "How does Chapter 2 help Arjuna?",
       "choices": [
-        "Krsna begins teaching him",
-        "The war stops",
         "Everyone leaves",
-        "The battle ends"
+        "The battle ends",
+        "The war stops",
+        "Krsna begins teaching him"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krsna begins teaching Arjuna and helping him understand. Arjuna is not alone.",
       "verseLabel": "BG 2.20",
       "verseUrl": "https://vedabase.io/en/library/bg/2/20/"

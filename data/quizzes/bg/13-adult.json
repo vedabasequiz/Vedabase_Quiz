@@ -11,12 +11,12 @@
       "id": "bg13-q1",
       "prompt": "In BG 13.1, what does Arjuna ask Krishna to explain?",
       "choices": [
-        "How sacrifices grant enjoyment in higher worlds",
-        "How to rule a kingdom without losing authority",
         "The field and the knower of the field",
+        "How to rule a kingdom without losing authority",
+        "How sacrifices grant enjoyment in higher worlds",
         "How to master pranayama as the only yoga"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Arjuna asks about ksetra (the field) and ksetra-jna (the knower of the field). This frames the chapter as disciplined discrimination between matter and consciousness. If this boundary is blurred, spiritual life turns into either bodily religiosity or abstract speculation. Clear categories are the doorway to liberation.",
       "verseLabel": "BG 13.1",
       "verseUrl": "https://vedabase.io/en/library/bg/13/1/"
@@ -25,12 +25,12 @@
       "id": "bg13-q2",
       "prompt": "According to BG 13.2, who is the knower of the field within the body?",
       "choices": [
+        "The gross body and its biological functions",
         "The subtle mind and its stream of thoughts",
-        "The individual soul within the body",
         "The senses working through the nervous system",
-        "The gross body and its biological functions"
+        "The individual soul within the body"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krishna states that the atma is the ksetra-jna, the conscious knower of the field. Body, mind, and senses are parts of the field, not the observer. This corrects the error of calling brain activity or sensory data the self. The knower remains distinct from what is known.",
       "verseLabel": "BG 13.2",
       "verseUrl": "https://vedabase.io/en/library/bg/13/2/"
@@ -39,9 +39,9 @@
       "id": "bg13-q3",
       "prompt": "In the purport to BG 13.2, what does Prabhupada stress about the 'knower of the field' across all bodies?",
       "choices": [
-        "Only human bodies contain a real knower",
-        "Each body has a different supreme knower",
         "The same individual soul occupies all bodies",
+        "Each body has a different supreme knower",
+        "Only human bodies contain a real knower",
         "The Supreme Knower is one in all bodies"
       ],
       "correctIndex": 3,
@@ -55,10 +55,10 @@
       "choices": [
         "Knowing the mind as the final self within",
         "Knowing how the body works through analysis",
-        "Knowing the senses as the true controller",
-        "Knowing both the field and the knower"
+        "Knowing both the field and the knower",
+        "Knowing the senses as the true controller"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "feedback": "Krishna states that understanding both ksetra and ksetra-jna is real knowledge. If one studies the field alone, one stays trapped in material analysis. If one speaks of spirit without identifying the field, one drifts into vague mysticism. Knowledge becomes liberating when the observer and the observed are clearly separated.",
       "verseLabel": "BG 13.3",
       "verseUrl": "https://vedabase.io/en/library/bg/13/3/"
@@ -67,12 +67,12 @@
       "id": "bg13-q5",
       "prompt": "According to BG 13.5, how does Krishna indicate the knowledge of the field has been described?",
       "choices": [
-        "By multiple sages in various Vedic writings",
-        "By denying scripture in favor of sensation",
+        "By argument alone without scriptural anchor",
         "By private intuition without any authority",
-        "By argument alone without scriptural anchor"
+        "By multiple sages in various Vedic writings",
+        "By denying scripture in favor of sensation"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna points to a consistent Vedic tradition describing the field. This protects the student from inventing private metaphysics. It also prevents cherry-picking one verse while ignoring the broader scriptural picture. A steady chain of authority anchors discrimination in revealed knowledge.",
       "verseLabel": "BG 13.5",
       "verseUrl": "https://vedabase.io/en/library/bg/13/5/"
@@ -81,12 +81,12 @@
       "id": "bg13-q6",
       "prompt": "According to BG 13.6-7, what does Krishna classify as part of the field (ksetra)?",
       "choices": [
-        "Only the physical body and its chemistry",
         "Body plus the subtle mind-intellect-ego",
+        "Only Paramatma and His supervision",
         "Only the soul and its consciousness",
-        "Only Paramatma and His supervision"
+        "Only the physical body and its chemistry"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna includes both gross and subtle components within the field. This blocks a common mistake: thinking the mind is the self because it is internal. The field is everything that can be observed, including mental states. The knower is the one who experiences these changes.",
       "verseLabel": "BG 13.6",
       "verseUrl": "https://vedabase.io/en/library/bg/13/6/"
@@ -95,12 +95,12 @@
       "id": "bg13-q7",
       "prompt": "In BG 13.7, why does Krishna list items like desire, hatred, happiness, distress, and the aggregate?",
       "choices": [
-        "To claim the body is eternal and independent",
-        "To deny that consciousness is a distinct reality",
         "To show the complete range of what is non-self",
-        "To prove emotions are the eternal soul itself"
+        "To prove emotions are the eternal soul itself",
+        "To deny that consciousness is a distinct reality",
+        "To claim the body is eternal and independent"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Krishna is mapping the full field, including inner experiences often mistaken for identity. Desire and hatred feel personal, but they are movements within the field. This analytical list trains the seeker to stop calling shifting states the self. The knower remains constant while the field fluctuates.",
       "verseLabel": "BG 13.7",
       "verseUrl": "https://vedabase.io/en/library/bg/13/7/"
@@ -109,12 +109,12 @@
       "id": "bg13-q8",
       "prompt": "In BG 13.8-12, which set best represents the core of knowledge Krishna praises?",
       "choices": [
-        "Humility, nonviolence, tolerance, and simplicity",
         "Exact ritual method without inner reform",
-        "Influence, eloquence, prestige, and intensity",
-        "Severe austerity without changing the heart"
+        "Humility, nonviolence, tolerance, and simplicity",
+        "Severe austerity without changing the heart",
+        "Influence, eloquence, prestige, and intensity"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krishna defines knowledge by transformed character, not by information alone. If pride grows with study, the study has not become knowledge. These qualities weaken the false ego that claims ownership and superiority. Knowledge is recognized by how it purifies the knower.",
       "verseLabel": "BG 13.8",
       "verseUrl": "https://vedabase.io/en/library/bg/13/8/"
@@ -123,12 +123,12 @@
       "id": "bg13-q9",
       "prompt": "In the purport to BG 13.8-12, what is the practical test of whether one has real knowledge?",
       "choices": [
-        "Collecting complex methods and secret skills",
-        "Gaining followers through public reputation",
         "Defeating opponents through superior debate",
-        "Becoming humble and detached in daily life"
+        "Becoming humble and detached in daily life",
+        "Collecting complex methods and secret skills",
+        "Gaining followers through public reputation"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "feedback": "Prabhupada stresses that knowledge must show up as humility, restraint, and detachment. A false path is to mistake scholarship for realization and then become proud. When knowledge is real, it reduces the urge to dominate and to enjoy separately from Krishna. This protects bhakti from turning into ego disguised as philosophy.",
       "verseLabel": "BG 13.8",
       "verseUrl": "https://vedabase.io/en/library/bg/13/8/"
@@ -137,12 +137,12 @@
       "id": "bg13-q10",
       "prompt": "According to BG 13.10, what does 'constant and unalloyed devotion to Me' indicate about knowledge?",
       "choices": [
-        "Devotion is a defining limb of knowledge",
-        "Devotion is only for beginners to start",
         "Devotion blocks knowledge by emotion alone",
-        "Devotion is optional if one has knowledge"
+        "Devotion is only for beginners to start",
+        "Devotion is optional if one has knowledge",
+        "Devotion is a defining limb of knowledge"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krishna includes devotion as part of knowledge, not as a separate sentimental add-on. If knowledge does not move toward service, it remains incomplete. A false path is to treat jnana as superior and bhakti as secondary. Here, Krishna ties real knowledge to devotion to the Supreme Person.",
       "verseLabel": "BG 13.10",
       "verseUrl": "https://vedabase.io/en/library/bg/13/10/"
@@ -151,12 +151,12 @@
       "id": "bg13-q11",
       "prompt": "In the purport to BG 13.10, why does Prabhupada warn against detachment without devotion?",
       "choices": [
-        "Because devotion is only external ritual work",
-        "Because detachment always destroys the soul",
         "Because consciousness cannot remain empty for long",
-        "Because detachment is never recommended at all"
+        "Because detachment is never recommended at all",
+        "Because devotion is only external ritual work",
+        "Because detachment always destroys the soul"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Prabhupada emphasizes that consciousness must be engaged; it cannot stay in a vacuum. Detachment without higher attachment often collapses into voidism or dry negation. The real move is transfer of attachment from matter to Krishna through service. This purport targets false renunciation that tries to stop desire without purifying desire.",
       "verseLabel": "BG 13.10",
       "verseUrl": "https://vedabase.io/en/library/bg/13/10/"
@@ -165,12 +165,12 @@
       "id": "bg13-q12",
       "prompt": "According to BG 13.12, what is the ultimate object of knowledge Krishna describes?",
       "choices": [
-        "The ever-changing material field alone",
-        "The individual soul alone, without God",
         "The impersonal brahman without any person",
-        "The Supreme Person to be known"
+        "The Supreme Person to be known",
+        "The individual soul alone, without God",
+        "The ever-changing material field alone"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "feedback": "Krishna presents Himself as the supreme knowable object. Knowledge that stops at analysis of matter or even at the jiva remains partial. A false path is to treat the Absolute as merely impersonal energy while ignoring the Supreme Person. Real knowledge culminates in knowing Krishna and relating to Him.",
       "verseLabel": "BG 13.12",
       "verseUrl": "https://vedabase.io/en/library/bg/13/12/"
@@ -179,12 +179,12 @@
       "id": "bg13-q13",
       "prompt": "In BG 13.13, how does Krishna describe His presence in existence?",
       "choices": [
-        "Present only in sacred places, not elsewhere",
         "Present only in humans, not in animals",
         "Present everywhere, without being limited",
-        "Present only in the spiritual world, not here"
+        "Present only in the spiritual world, not here",
+        "Present only in sacred places, not elsewhere"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Krishna explains His all-pervasiveness. This corrects the idea that God is distant or absent from ordinary life. It also avoids the error of thinking God is only a concept. The Supreme is present everywhere, yet remains Supreme.",
       "verseLabel": "BG 13.13",
       "verseUrl": "https://vedabase.io/en/library/bg/13/13/"
@@ -193,12 +193,12 @@
       "id": "bg13-q14",
       "prompt": "In the purport to BG 13.14-17, how is Krishna 'everywhere' without becoming matter?",
       "choices": [
-        "He pervades as Paramatma while staying transcendental",
-        "He is only in one place but imagined everywhere",
         "He dissolves individuality into impersonal energy",
-        "He becomes the material elements themselves"
+        "He becomes the material elements themselves",
+        "He is only in one place but imagined everywhere",
+        "He pervades as Paramatma while staying transcendental"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Prabhupada explains that Krishna pervades creation as Paramatma while remaining distinct from matter. This rejects pantheism (God equals matter) and deism (God is absent). A false path is to flatten God into the universe and call that spirituality. Krishna is present within the field yet never reduced to the field.",
       "verseLabel": "BG 13.14",
       "verseUrl": "https://vedabase.io/en/library/bg/13/14/"
@@ -207,12 +207,12 @@
       "id": "bg13-q15",
       "prompt": "According to BG 13.16, which description best matches the Supersoul's role?",
       "choices": [
-        "Inactive observer with no influence at all",
-        "Temporary force that ends with the body",
         "Indwelling witness and sustainer of all",
+        "Temporary force that ends with the body",
+        "Inactive observer with no influence at all",
         "Dependent on nature and produced by matter"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Krishna describes Himself as seated in every heart and as the source, maintainer, and end of all. This means existence is not self-sustaining or independent. A false path is to believe the universe runs without a Supreme regulator. The Supersoul is intimate and governing, not distant and irrelevant.",
       "verseLabel": "BG 13.16",
       "verseUrl": "https://vedabase.io/en/library/bg/13/16/"
@@ -222,11 +222,11 @@
       "prompt": "In the purport to BG 13.17, how does Prabhupada clarify the Lord being 'situated everywhere' while remaining distinct?",
       "choices": [
         "The Lord is only within humans, not within other species",
-        "The Lord pervades by His energies and remains the Supreme",
+        "The Lord is absent, and presence is only poetic language",
         "The Lord becomes identical with every material object",
-        "The Lord is absent, and presence is only poetic language"
+        "The Lord pervades by His energies and remains the Supreme"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Prabhupada clarifies that the Lord is all-pervading without being reduced to matter. His presence is real and active, yet He remains the Supreme Person, distinct from the field. This blocks two false paths: pantheism that equates God with matter, and materialism that treats divine presence as metaphor. The student learns to see presence without collapsing the categories of God and nature.",
       "verseLabel": "BG 13.17",
       "verseUrl": "https://vedabase.io/en/library/bg/13/17/"
@@ -236,11 +236,11 @@
       "prompt": "In the purport to BG 13.18, what is the key takeaway about the field and the knower in every living being?",
       "choices": [
         "The knower is only a product of the subtle mind",
-        "Each being is a combination of field and knower, distinct",
         "The knower and field are ultimately the same entity",
+        "Each being is a combination of field and knower, distinct",
         "The field alone exists, and the knower is imagined"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Prabhupada emphasizes that every living being involves both the field (body and subtle apparatus) and the knower (the jiva), which are distinct. The false path is to collapse the observer into the observed and call it realization. Discrimination protects bhakti: devotion is meant for the Supreme Person, not for the temporary field. When the knower is forgotten, life becomes doership and enjoyment inside the field.",
       "verseLabel": "BG 13.18",
       "verseUrl": "https://vedabase.io/en/library/bg/13/18/"
@@ -250,11 +250,11 @@
       "prompt": "In the purport to BG 13.21-22, what is the core mistake that binds the soul to the modes and to repeated birth?",
       "choices": [
         "Serving Krishna through regulated practice",
+        "Identifying as the enjoyer within the field",
         "Rejecting bodily identity through knowledge",
-        "Seeing Paramatma as the supreme witness",
-        "Identifying as the enjoyer within the field"
+        "Seeing Paramatma as the supreme witness"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "feedback": "Prabhupada stresses that the enjoyer mentality binds the jiva to the modes and their consequences. The soul then accepts good and evil as its own identity, and the mode association drives future bodies. A false path is to think bondage is merely external, without addressing the inner claim to enjoy separately. This targets the root of doership and enjoyment, not just external habits.",
       "verseLabel": "BG 13.21",
       "verseUrl": "https://vedabase.io/en/library/bg/13/21/"
@@ -263,12 +263,12 @@
       "id": "bg13-q19",
       "prompt": "According to BG 13.23, which role is explicitly attributed to the Supersoul?",
       "choices": [
+        "Collective psyche formed by society",
         "Observer, permitter, and ultimate witness",
-        "Temporary product of the subtle mind",
         "Personal imagination used for comfort",
-        "Collective psyche formed by society"
+        "Temporary product of the subtle mind"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Krishna describes the Supersoul as the witness and permitter within the heart. This preserves both intimacy and accountability in spiritual life. A false path is to treat inner conscience as merely psychological and therefore negotiable. The Supersoul observes, sanctions, and guides, even when the jiva forgets.",
       "verseLabel": "BG 13.23",
       "verseUrl": "https://vedabase.io/en/library/bg/13/23/"
@@ -277,8 +277,8 @@
       "id": "bg13-q20",
       "prompt": "According to BG 13.24, which approach is specifically mentioned for perceiving the Supersoul within oneself?",
       "choices": [
-        "Political reform as the main spiritual path",
         "Sense enjoyment offered as worship",
+        "Political reform as the main spiritual path",
         "Meditation and disciplined inner vision",
         "Economic charity as the highest yoga"
       ],
@@ -292,11 +292,11 @@
       "prompt": "In BG 13.25, why does Krishna describe multiple paths (meditation, analysis, and work)?",
       "choices": [
         "Because truth changes with each tradition",
-        "Because temperaments differ while the goal is one",
         "Because all methods are equal in every respect",
+        "Because temperaments differ while the goal is one",
         "Because only one method works for anyone"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna accommodates different natures while keeping a unified aim: realization of the self and the Supreme. This rejects sectarian rigidity without endorsing lazy relativism. Methods differ, but success depends on genuine movement toward realization and surrender. The false path is to treat variety as permission to avoid the goal.",
       "verseLabel": "BG 13.25",
       "verseUrl": "https://vedabase.io/en/library/bg/13/25/"
@@ -333,12 +333,12 @@
       "id": "bg13-q24",
       "prompt": "In the purport to BG 13.28-29, how does Prabhupada prevent the mistake: 'If God is equal in all, then all actions are the same'?",
       "choices": [
-        "He distinguishes spiritual equality from karmic difference",
-        "He claims bodies alone determine moral value",
+        "He teaches that sin has no practical effect",
         "He denies karma and responsibility altogether",
-        "He teaches that sin has no practical effect"
+        "He distinguishes spiritual equality from karmic difference",
+        "He claims bodies alone determine moral value"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Prabhupada keeps two truths together: Paramatma is equal in all, and karma still operates with real consequences. A false path is naive egalitarianism that excuses harmful action by quoting spiritual oneness. Compassion means seeing the soul, while also recognizing the field's laws and responsibility. Spiritual vision sharpens discernment; it does not cancel it.",
       "verseLabel": "BG 13.28",
       "verseUrl": "https://vedabase.io/en/library/bg/13/28/"
@@ -347,12 +347,12 @@
       "id": "bg13-q25",
       "prompt": "In the purport to BG 13.34-35, what is the concluding requirement for liberation described at the end of the chapter?",
       "choices": [
-        "Rejecting the Supersoul and trusting the mind alone",
         "Seeing the field and knower distinctly, with devotion to Krishna",
+        "Rejecting the Supersoul and trusting the mind alone",
         "Denying the soul and treating consciousness as matter",
         "Only technical analysis, without devotion, is enough"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Prabhupada emphasizes that discrimination must mature into Krishna-centered realization, not remain dry theory. The field and knower must be seen distinctly, and the Supreme Knower must be honored as the source and guide. A false path is to study distinction and then stop short of surrender, keeping the ego as the final authority. Liberation comes when knowledge and devotion unite into steady Krishna consciousness.",
       "verseLabel": "BG 13.35",
       "verseUrl": "https://vedabase.io/en/library/bg/13/35/"

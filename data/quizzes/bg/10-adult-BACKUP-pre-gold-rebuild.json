@@ -12,11 +12,11 @@
       "prompt": "In BG 10.1, what does Krishna offer to reveal to Arjuna?",
       "choices": [
         "Mystical powers through material manipulation and discipline",
+        "Military strategies for winning the imminent battle",
         "My divine opulences and supreme position",
-        "Knowledge of worldly success and political influence",
-        "Military strategies for winning the imminent battle"
+        "Knowledge of worldly success and political influence"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna reveals His transcendental nature and all-pervading power.",
       "verseLabel": "BG 10.1",
       "verseUrl": "https://vedabase.io/en/library/bg/10/1/",
@@ -26,12 +26,12 @@
       "id": "bg10-q2",
       "prompt": "According to BG 10.2, what is the source of understanding Krishna?",
       "choices": [
-        "Study of Vedic texts without devotional practice",
         "He is beyond even demigods and saints",
+        "Logical analysis of material phenomena and reasoning",
         "Sensory experience and philosophical speculation combined",
-        "Logical analysis of material phenomena and reasoning"
+        "Study of Vedic texts without devotional practice"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna is the ultimate source; His nature is beyond external knowledge.",
       "verseLabel": "BG 10.2",
       "verseUrl": "https://vedabase.io/en/library/bg/10/2/",
@@ -41,12 +41,12 @@
       "id": "bg10-q3",
       "prompt": "In BG 10.3, what characterizes one who truly knows Krishna?",
       "choices": [
-        "Philosophical uncertainty about the ultimate nature of reality",
-        "Freedom from delusion with complete devotion",
         "Hesitation between material and spiritual paths",
-        "Attachment to family duties and worldly obligations"
+        "Attachment to family duties and worldly obligations",
+        "Freedom from delusion with complete devotion",
+        "Philosophical uncertainty about the ultimate nature of reality"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "True knowledge of Krishna purifies consciousness completely.",
       "verseLabel": "BG 10.3",
       "verseUrl": "https://vedabase.io/en/library/bg/10/3/",
@@ -56,12 +56,12 @@
       "id": "bg10-q4",
       "prompt": "What does BG 10.4-5 teach about Krishna's divine manifestations?",
       "choices": [
+        "Consciousness arises from complex material arrangements",
         "Divine qualities emerge from material nature itself",
-        "All divine qualities originate from His nature",
         "Spiritual powers develop through personal austerity",
-        "Consciousness arises from complex material arrangements"
+        "All divine qualities originate from His nature"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "All divine qualities originate from Krishna's supreme nature.",
       "verseLabel": "BG 10.4",
       "verseUrl": "https://vedabase.io/en/library/bg/10/4/",
@@ -71,10 +71,10 @@
       "id": "bg10-q5",
       "prompt": "According to BG 10.8, what is Krishna's fundamental assertion?",
       "choices": [
-        "I appear in this world just like you",
-        "I am the source of all creation",
         "I am bound by material nature's laws",
-        "I rely on the support of others"
+        "I am the source of all creation",
+        "I rely on the support of others",
+        "I appear in this world just like you"
       ],
       "correctIndex": 1,
       "feedback": "Krishna states that He is the ultimate source of all creation. Everything emanates from Him, and all rest upon His potency. Nothing exists independently of Him. This fundamental truth establishes Krishna's absolute supremacy as the creator and sustainer of the cosmos.",
@@ -86,12 +86,12 @@
       "id": "bg10-q6",
       "prompt": "In BG 10.10, what does Krishna promise to those absorbed in Him?",
       "choices": [
-        "Momentary peace from material anxieties and troubles",
         "Intelligence to attain His eternal abode",
-        "Philosophical uncertainty about the ultimate goal",
-        "Gradual separation from His direct divine presence"
+        "Momentary peace from material anxieties and troubles",
+        "Gradual separation from His direct divine presence",
+        "Philosophical uncertainty about the ultimate goal"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Those devoted to Krishna receive divine intelligence to know Him.",
       "verseLabel": "BG 10.10",
       "verseUrl": "https://vedabase.io/en/library/bg/10/10/",
@@ -101,12 +101,12 @@
       "id": "bg10-q7",
       "prompt": "What does BG 10.11 teach about Krishna's compassion?",
       "choices": [
-        "He remains neutral toward His devotees' struggles",
         "He destroys ignorance with transcendental knowledge",
-        "He tests devotees with philosophical doubts",
-        "He withdraws to cultivate their independence"
+        "He remains neutral toward His devotees' struggles",
+        "He withdraws to cultivate their independence",
+        "He tests devotees with philosophical doubts"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna's compassionate enlightenment destroys ignorance completely.",
       "verseLabel": "BG 10.11",
       "verseUrl": "https://vedabase.io/en/library/bg/10/11/",
@@ -131,10 +131,10 @@
       "id": "bg10-q9",
       "prompt": "In BG 10.14, what does Krishna claim to know?",
       "choices": [
-        "Partial understanding of the material manifestations",
-        "All divine manifestations and opulences completely",
         "Awareness limited by material conditioning and forms",
-        "Knowledge of physical phenomena and external forms"
+        "All divine manifestations and opulences completely",
+        "Knowledge of physical phenomena and external forms",
+        "Partial understanding of the material manifestations"
       ],
       "correctIndex": 1,
       "feedback": "Krishna possesses complete knowledge of all divine qualities.",
@@ -146,12 +146,12 @@
       "id": "bg10-q10",
       "prompt": "What does BG 10.15 teach about knowing Krishna fully?",
       "choices": [
-        "Such knowledge serves secondary purposes in life",
         "One who knows attains eternal peace",
         "Philosophical understanding provides intellectual satisfaction only",
+        "Such knowledge serves secondary purposes in life",
         "Theoretical understanding brings negligible practical benefits"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Complete knowledge of Krishna grants eternal peace and fulfillment.",
       "verseLabel": "BG 10.15",
       "verseUrl": "https://vedabase.io/en/library/bg/10/15/",
@@ -161,10 +161,10 @@
       "id": "bg10-q11",
       "prompt": "According to BG 10.20, what is Krishna's declaration about His nature?",
       "choices": [
-        "I am confined by time and space",
-        "I am the Self, beginning middle and end",
         "I appear and disappear within material cycles",
-        "I depend on the Supreme Brahman's support"
+        "I am the Self, beginning middle and end",
+        "I depend on the Supreme Brahman's support",
+        "I am confined by time and space"
       ],
       "correctIndex": 1,
       "feedback": "Krishna's presence pervades and sustains the entire creation.",
@@ -176,12 +176,12 @@
       "id": "bg10-q12",
       "prompt": "In BG 10.21, what example does Krishna give of His opulences in the material world?",
       "choices": [
-        "I exhibit few manifestations in visible creation",
-        "I am fire and OM among elements",
         "I withdraw my presence from natural phenomena",
-        "Matter operates entirely through independent laws"
+        "Matter operates entirely through independent laws",
+        "I am fire and OM among elements",
+        "I exhibit few manifestations in visible creation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna manifests His divine power through all creation.",
       "verseLabel": "BG 10.21",
       "verseUrl": "https://vedabase.io/en/library/bg/10/21/",
@@ -191,12 +191,12 @@
       "id": "bg10-q13",
       "prompt": "What does BG 10.22 teach about the highest of Krishna's manifestations?",
       "choices": [
-        "All manifestations possess equivalent power and position",
-        "All rests on Me like pearls on thread",
         "I rank among the lesser transcendent principles",
-        "Divine manifestations function independently of each other"
+        "All manifestations possess equivalent power and position",
+        "Divine manifestations function independently of each other",
+        "All rests on Me like pearls on thread"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krishna is the supreme foundation of all existence.",
       "verseLabel": "BG 10.22",
       "verseUrl": "https://vedabase.io/en/library/bg/10/22/",
@@ -208,8 +208,8 @@
       "choices": [
         "All Adityas possess identical levels of power",
         "I am Vishnu, superior to all",
-        "Great personalities exist without any mutual connection",
-        "No hierarchy exists among divine beings"
+        "No hierarchy exists among divine beings",
+        "Great personalities exist without any mutual connection"
       ],
       "correctIndex": 1,
       "feedback": "Krishna is supreme among all divine manifestations.",
@@ -221,12 +221,12 @@
       "id": "bg10-q15",
       "prompt": "In BG 10.24, what is Krishna among the senses?",
       "choices": [
-        "He lacks direct control over sensory experiences",
         "I am the mind and life in beings",
+        "Matter provides the foundation of all perception",
         "He remains absent from material sense perception",
-        "Matter provides the foundation of all perception"
+        "He lacks direct control over sensory experiences"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna is the source of consciousness and sensation in all beings.",
       "verseLabel": "BG 10.24",
       "verseUrl": "https://vedabase.io/en/library/bg/10/24/",
@@ -236,12 +236,12 @@
       "id": "bg10-q16",
       "prompt": "What does BG 10.25 teach about Krishna among the celestial beings?",
       "choices": [
+        "Demigods operate independently of His supreme will",
         "He ranks below the most powerful demigods",
         "I am Indra, the king among them",
-        "He withdraws from the realm of devas",
-        "Demigods operate independently of His supreme will"
+        "He withdraws from the realm of devas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna is supreme even among the powerful demigods.",
       "verseLabel": "BG 10.25",
       "verseUrl": "https://vedabase.io/en/library/bg/10/25/",
@@ -252,11 +252,11 @@
       "prompt": "According to BG 10.26, what weapon represents Krishna?",
       "choices": [
         "He lacks the ability to manifest power",
-        "I am the thunderbolt and Kamadhenu",
+        "He possesses diminished strength compared to matter",
         "Divine weapons operate completely independently of Him",
-        "He possesses diminished strength compared to matter"
+        "I am the thunderbolt and Kamadhenu"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krishna manifests His might through all powerful forces.",
       "verseLabel": "BG 10.26",
       "verseUrl": "https://vedabase.io/en/library/bg/10/26/",
@@ -266,12 +266,12 @@
       "id": "bg10-q18",
       "prompt": "In BG 10.27, what generation of the Yadavas is Krishna?",
       "choices": [
+        "He possesses diminished status among His kinsmen",
         "He descends from a different royal lineage",
         "I am Vasudeva; I am Krishna",
-        "He possesses diminished status among His kinsmen",
         "His position remains subordinate to elder Yadavas"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna revealed His supreme position among His own kinsmen.",
       "verseLabel": "BG 10.27",
       "verseUrl": "https://vedabase.io/en/library/bg/10/27/",
@@ -281,12 +281,12 @@
       "id": "bg10-q19",
       "prompt": "What does BG 10.28 teach about Krishna's function?",
       "choices": [
-        "I provide minimal support to manifested reality",
         "I am the seed; none exists without Me",
-        "Creation operates entirely through independent material laws",
-        "I rely on nature's energy for existence"
+        "I rely on nature's energy for existence",
+        "I provide minimal support to manifested reality",
+        "Creation operates entirely through independent material laws"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Every atom of creation depends on Krishna's potency.",
       "verseLabel": "BG 10.28",
       "verseUrl": "https://vedabase.io/en/library/bg/10/28/",
@@ -296,12 +296,12 @@
       "id": "bg10-q20",
       "prompt": "According to BG 10.29, what brings unlimited strength and power?",
       "choices": [
-        "Accumulation of material wealth and possessions",
-        "My association and divine grace",
         "Mastery of technical skills and knowledge",
-        "Dedicated scriptural study without devotional service"
+        "Dedicated scriptural study without devotional service",
+        "Accumulation of material wealth and possessions",
+        "My association and divine grace"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Association with Krishna grants supreme power and strength.",
       "verseLabel": "BG 10.29",
       "verseUrl": "https://vedabase.io/en/library/bg/10/29/",
@@ -311,12 +311,12 @@
       "id": "bg10-q21",
       "prompt": "In the conclusion of Chapter 10, what is the central message?",
       "choices": [
-        "Material success should remain the primary focus",
         "I am everything; meditate on this truth",
         "I possess limited power in material affairs",
-        "Set aside divine considerations for worldly duties"
+        "Set aside divine considerations for worldly duties",
+        "Material success should remain the primary focus"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Remembering Krishna's supreme nature is the path to all perfection.",
       "verseLabel": "BG 10.30",
       "verseUrl": "https://vedabase.io/en/library/bg/10/30/",
@@ -326,12 +326,12 @@
       "id": "bg10-q22",
       "prompt": "According to BG 10.39, what should be the meditation of the devotee?",
       "choices": [
+        "Pursue material advancement for spiritual progress",
         "Absorption in family and social obligations",
         "Fix your mind upon Krishna exclusively",
-        "Balance divine and worldly concerns equally",
-        "Pursue material advancement for spiritual progress"
+        "Balance divine and worldly concerns equally"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Exclusive focus on Krishna leads to the highest spiritual achievement.",
       "verseLabel": "BG 10.39",
       "verseUrl": "https://vedabase.io/en/library/bg/10/39/",
@@ -341,12 +341,12 @@
       "id": "bg10-q23",
       "prompt": "In BG 10.40, what is promised to those who meditate on Krishna?",
       "choices": [
-        "Continued struggle within the material world",
-        "I am never absent from you",
         "Gradual distancing from Krishna's divine presence",
-        "Increasing material suffering over lifetimes"
+        "Continued struggle within the material world",
+        "Increasing material suffering over lifetimes",
+        "I am never absent from you"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krishna's eternal presence with devoted souls is guaranteed.",
       "verseLabel": "BG 10.40",
       "verseUrl": "https://vedabase.io/en/library/bg/10/40/",
@@ -356,10 +356,10 @@
       "id": "bg10-q24",
       "prompt": "What does BG 10.41 emphasize about Krishna's position?",
       "choices": [
-        "He possesses diminished power in material affairs",
+        "He depends on material energy for support",
         "All splendor is My partial manifestation",
-        "He remains absent from worldly beautiful phenomena",
-        "He depends on material energy for support"
+        "He possesses diminished power in material affairs",
+        "He remains absent from worldly beautiful phenomena"
       ],
       "correctIndex": 1,
       "feedback": "All glory, beauty, and power in existence reflects Krishna's nature.",
@@ -372,11 +372,11 @@
       "prompt": "According to the concluding teaching of Chapter 10, what should one understand?",
       "choices": [
         "Krishna holds a subordinate position in reality",
-        "I am supreme; all power flows from Me",
+        "Material energy operates independently of divine control",
         "Set aside transcendental knowledge for practical affairs",
-        "Material energy operates independently of divine control"
+        "I am supreme; all power flows from Me"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Understanding Krishna as supreme is the perfection of all knowledge.",
       "verseLabel": "BG 10.43",
       "verseUrl": "https://vedabase.io/en/library/bg/10/43/",

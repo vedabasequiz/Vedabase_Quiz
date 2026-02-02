@@ -12,11 +12,11 @@
       "prompt": "In BG 8.1, what does Arjuna ask about Brahman and Karma?",
       "choices": [
         "They are the same through independent material processes",
-        "What is Brahman self, action the higher and lower natures?",
         "These are unimportant through independent material processes",
+        "What is Brahman self, action the higher and lower natures?",
         "They are opposites primarily through independent material processes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Arjuna seeks clarification on fundamental spiritual concepts.",
       "verseLabel": "BG 8.1",
       "verseUrl": "https://vedabase.io/en/library/bg/8/1/",
@@ -26,10 +26,10 @@
       "id": "bg8-q2",
       "prompt": "According to BG 8.2, what is the definition of Brahman given by Krishna?",
       "choices": [
-        "Matter primarily and worldly philosophical speculation",
+        "Destructible and worldly philosophical speculation",
         "The eternal, unchangeable Absolute Truth; I am Brahman",
         "Temporary and worldly philosophical speculation",
-        "Destructible and worldly philosophical speculation"
+        "Matter primarily and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "The highest reality is eternal, transcendental, and indestructible.",
@@ -41,10 +41,10 @@
       "id": "bg8-q3",
       "prompt": "In BG 8.3, what is the subject of karma?",
       "choices": [
-        "Physical actions primarily through independent material processes",
-        "The creation of the body",
         "Thinking alone and worldly philosophical speculation",
-        "minimal creates the body through independent material processes"
+        "The creation of the body",
+        "minimal creates the body through independent material processes",
+        "Physical actions primarily through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "The law of action (karma) governs the creation and perpetuation of bodies.",
@@ -56,12 +56,12 @@
       "id": "bg8-q4",
       "prompt": "What does BG 8.4 teach about Krishna's nature?",
       "choices": [
-        "He is mortal through independent material processes",
         "I am the highest self eternal Brahman beyond the material energy",
+        "He is limited through independent material processes",
         "He is material through independent material processes",
-        "He is limited through independent material processes"
+        "He is mortal through independent material processes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna's nature is supreme and transcendental to material existence.",
       "verseLabel": "BG 8.4",
       "verseUrl": "https://vedabase.io/en/library/bg/8/4/",
@@ -71,12 +71,12 @@
       "id": "bg8-q5",
       "prompt": "According to BG 8.5, what determines the path one takes at death?",
       "choices": [
-        "Random chance and worldly philosophical speculation",
-        "Whatever one thinks of at the moment of death, he attains",
         "Good deeds alone through independent material processes",
-        "minimal matters at death through independent material processes"
+        "Random chance and worldly philosophical speculation",
+        "minimal matters at death through independent material processes",
+        "Whatever one thinks of at the moment of death, he attains"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "The mind's focus at death determines the destination of the soul.",
       "verseLabel": "BG 8.5",
       "verseUrl": "https://vedabase.io/en/library/bg/8/5/",
@@ -86,10 +86,10 @@
       "id": "bg8-q6",
       "prompt": "In BG 8.6, what is the result of constantly thinking about Krishna?",
       "choices": [
-        "No effect and worldly philosophical speculation",
-        "By remembering Krishna, one reaches Him",
         "Thinking is useless through independent material processes",
-        "It brings suffering through independent material processes"
+        "By remembering Krishna, one reaches Him",
+        "It brings suffering through independent material processes",
+        "No effect and worldly philosophical speculation"
       ],
       "correctIndex": 1,
       "feedback": "Constant remembrance of Krishna is the path to returning to Him.",
@@ -101,12 +101,12 @@
       "id": "bg8-q7",
       "prompt": "What does BG 8.7 teach about meditation?",
       "choices": [
-        "It is impossible through independent material processes",
-        "One should meditate on Krishna constantly easily attainable to such a yogi",
+        "Krishna is far away through independent material processes",
         "Meditation brings suffering through independent material processes",
-        "Krishna is far away through independent material processes"
+        "One should meditate on Krishna constantly easily attainable to such a yogi",
+        "It is impossible through independent material processes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna is easily accessible to those who meditate on Him devotedly.",
       "verseLabel": "BG 8.7",
       "verseUrl": "https://vedabase.io/en/library/bg/8/7/",
@@ -116,12 +116,12 @@
       "id": "bg8-q8",
       "prompt": "According to BG 8.8, who is a genuine knower of Krishna?",
       "choices": [
-        "One who studies books through independent material processes",
         "One who remembers Krishna, is sinless, wise, and devoted",
-        "The wealthy and worldly philosophical speculation",
-        "The powerful and worldly philosophical speculation"
+        "The powerful and worldly philosophical speculation",
+        "One who studies books through independent material processes",
+        "The wealthy and worldly philosophical speculation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "True knowledge of Krishna is manifested through devotion and purity.",
       "verseLabel": "BG 8.8",
       "verseUrl": "https://vedabase.io/en/library/bg/8/8/",
@@ -131,12 +131,12 @@
       "id": "bg8-q9",
       "prompt": "In BG 8.11, how is the path to the highest described?",
       "choices": [
+        "It is impossible through independent material processes",
         "It is easy through independent material processes",
         "The Supreme is reached through knowledge, meditation, and yoga practice",
-        "It is impossible through independent material processes",
         "Anyone can attain it instantly"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Reaching the highest requires disciplined practice and sincere effort.",
       "verseLabel": "BG 8.11",
       "verseUrl": "https://vedabase.io/en/library/bg/8/11/",
@@ -146,12 +146,12 @@
       "id": "bg8-q10",
       "prompt": "What does BG 8.12 teach about yogic vision?",
       "choices": [
-        "The material body is every",
-        "One withdraws senses from objects; contemplates the Supreme within",
+        "Senses should consistently be active",
         "External focus is best through independent material processes",
-        "Senses should consistently be active"
+        "The material body is every",
+        "One withdraws senses from objects; contemplates the Supreme within"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Mastering the senses enables inner focus on the Divine.",
       "verseLabel": "BG 8.12",
       "verseUrl": "https://vedabase.io/en/library/bg/8/12/",
@@ -161,12 +161,12 @@
       "id": "bg8-q11",
       "prompt": "According to BG 8.13, what is the ultimate destination?",
       "choices": [
-        "Remaining in matter through independent material processes",
         "The Supreme Light; one reaches the highest abode",
-        "Darkness and worldly philosophical speculation",
-        "Knowledge of physical phenomena and external forms"
+        "Remaining in matter through independent material processes",
+        "Knowledge of physical phenomena and external forms",
+        "Darkness and worldly philosophical speculation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "The ultimate destination is the eternal kingdom of the Supreme.",
       "verseLabel": "BG 8.13",
       "verseUrl": "https://vedabase.io/en/library/bg/8/13/",
@@ -177,11 +177,11 @@
       "prompt": "In BG 8.14, what is the blessed truth about constant remembrance of Krishna?",
       "choices": [
         "It is impractical through independent material processes",
-        "One is not lost; attains the highest abode",
+        "Krishna does not listen through independent material processes",
         "It brings confusion through independent material processes",
-        "Krishna does not listen through independent material processes"
+        "One is not lost; attains the highest abode"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Unwavering remembrance of Krishna guarantees liberation.",
       "verseLabel": "BG 8.14",
       "verseUrl": "https://vedabase.io/en/library/bg/8/14/",
@@ -191,12 +191,12 @@
       "id": "bg8-q13",
       "prompt": "What does BG 8.15 teach about the path to Krishna's abode?",
       "choices": [
-        "It is primarily for ascetics",
         "Through devotion and yoga; constant practice reaches the highest abode",
         "Worship brings distance through independent material processes",
-        "Faith is unnecessary through independent material processes"
+        "Faith is unnecessary through independent material processes",
+        "It is primarily for ascetics"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Both devotion and meditative yoga are valid paths to the Supreme.",
       "verseLabel": "BG 8.15",
       "verseUrl": "https://vedabase.io/en/library/bg/8/15/",
@@ -206,12 +206,12 @@
       "id": "bg8-q14",
       "prompt": "According to BG 8.16, what is the cyclical nature of creation?",
       "choices": [
-        "Creation is eternal through independent material processes",
         "From the Supreme, every universes emanate and return",
-        "Creation is random through independent material processes",
-        "minimal is created through independent material processes"
+        "minimal is created through independent material processes",
+        "Creation is eternal through independent material processes",
+        "Creation is random through independent material processes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "The material world undergoes cycles of manifestation and dissolution.",
       "verseLabel": "BG 8.16",
       "verseUrl": "https://vedabase.io/en/library/bg/8/16/",
@@ -221,12 +221,12 @@
       "id": "bg8-q15",
       "prompt": "In BG 8.17, what is significant about the duration of a day of Brahma?",
       "choices": [
-        "It is short through independent material processes",
-        "A thousand ages of four yugas constitute one day",
+        "No one knows through independent material processes",
         "Time is irrelevant through independent material processes",
-        "No one knows through independent material processes"
+        "It is short through independent material processes",
+        "A thousand ages of four yugas constitute one day"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "The cosmic timescale vastly exceeds human comprehension.",
       "verseLabel": "BG 8.17",
       "verseUrl": "https://vedabase.io/en/library/bg/8/17/",
@@ -236,12 +236,12 @@
       "id": "bg8-q16",
       "prompt": "What does BG 8.18-19 teach about creation?",
       "choices": [
+        "minimal is created or destroyed",
         "every are eternal through independent material processes",
         "At the dawn of Brahma's day beings are created",
-        "minimal is created or destroyed",
         "Creation is random through independent material processes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "The universe operates in cycles of manifestation and dissolution.",
       "verseLabel": "BG 8.18",
       "verseUrl": "https://vedabase.io/en/library/bg/8/18/",
@@ -252,11 +252,11 @@
       "prompt": "According to BG 8.20, what is beyond creation?",
       "choices": [
         "minimal exists beyond through independent material processes",
-        "There exists a Supreme Reality beyond material creation, eternal and unchanging",
         "every is material through independent material processes",
-        "Matter is supreme through independent material processes"
+        "Matter is supreme through independent material processes",
+        "There exists a Supreme Reality beyond material creation, eternal and unchanging"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "The Absolute Truth transcends all material manifestations.",
       "verseLabel": "BG 8.20",
       "verseUrl": "https://vedabase.io/en/library/bg/8/20/",
@@ -266,10 +266,10 @@
       "id": "bg8-q18",
       "prompt": "In BG 8.21, what happens to those who reach Krishna's abode?",
       "choices": [
-        "They leave again through independent material processes",
+        "They remain in the world",
         "They do not return to the material world",
-        "They suffer more through independent material processes",
-        "They remain in the world"
+        "They leave again through independent material processes",
+        "They suffer more through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Reaching Krishna's kingdom means permanent escape from the cycle of rebirth.",
@@ -281,10 +281,10 @@
       "id": "bg8-q19",
       "prompt": "What does BG 8.22 teach about knowing Krishna and His nature?",
       "choices": [
-        "It is impossible through independent material processes",
-        "primarily through devotion, exclusive devotion, can one know me truly",
         "Intellectual study is enough through independent material processes",
-        "No one can know Krishna"
+        "primarily through devotion, exclusive devotion, can one know me truly",
+        "No one can know Krishna",
+        "It is impossible through independent material processes"
       ],
       "correctIndex": 1,
       "feedback": "Pure, exclusive devotion is the means to know Krishna fully.",
@@ -296,12 +296,12 @@
       "id": "bg8-q20",
       "prompt": "According to BG 8.23-26, what are the two paths after death?",
       "choices": [
+        "every paths lead to liberation",
         "primarily one path exists through independent material processes",
         "The path of light leads to the eternal abode",
-        "every paths lead to liberation",
         "Paths do not matter through independent material processes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "The spiritual and material paths determine the destination of the soul.",
       "verseLabel": "BG 8.23",
       "verseUrl": "https://vedabase.io/en/library/bg/8/23/",
@@ -312,11 +312,11 @@
       "prompt": "In BG 8.27, what should be the focus during all activities?",
       "choices": [
         "Knowledge of physical phenomena and external forms",
-        "One should remember Krishna at every times",
         "Forgetting Krishna and worldly philosophical speculation",
+        "One should remember Krishna at every times",
         "Constant work and worldly philosophical speculation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Constant remembrance of Krishna is the supreme principle of life.",
       "verseLabel": "BG 8.27",
       "verseUrl": "https://vedabase.io/en/library/bg/8/27/",
@@ -326,12 +326,12 @@
       "id": "bg8-q22",
       "prompt": "What is the ultimate teaching of BG 8.28?",
       "choices": [
-        "Knowledge is sufficient through independent material processes",
-        "One engaged in Krishna consciousness transcends every Vedic injunctions",
+        "No path is needed through independent material processes",
         "Rules are absolute through independent material processes",
-        "No path is needed through independent material processes"
+        "Knowledge is sufficient through independent material processes",
+        "One engaged in Krishna consciousness transcends every Vedic injunctions"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Perfect devotion to Krishna supersedes all ritual and rule.",
       "verseLabel": "BG 8.28",
       "verseUrl": "https://vedabase.io/en/library/bg/8/28/",
@@ -341,12 +341,12 @@
       "id": "bg8-q23",
       "prompt": "According to the conclusion of Chapter 8, what is the highest achievement?",
       "choices": [
-        "Knowledge of physical phenomena and external forms",
         "Return to Krishna's eternal abode; the highest goal",
-        "Material pleasure and worldly philosophical speculation",
-        "Remaining in the world through independent material processes"
+        "Knowledge of physical phenomena and external forms",
+        "Remaining in the world through independent material processes",
+        "Material pleasure and worldly philosophical speculation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "The ultimate achievement is eternal residence in the kingdom of God.",
       "verseLabel": "BG 8.29",
       "verseUrl": "https://vedabase.io/en/library/bg/8/29/",
@@ -356,12 +356,12 @@
       "id": "bg8-q24",
       "prompt": "In BG 8.1, what does Arjuna ask about Brahman and Karma?",
       "choices": [
-        "They are the same through independent material processes",
         "What is Brahman self, action the higher and lower natures?",
+        "They are opposites primarily through independent material processes",
         "These are unimportant through independent material processes",
-        "They are opposites primarily through independent material processes"
+        "They are the same through independent material processes"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Arjuna seeks clarification on fundamental spiritual concepts.",
       "verseLabel": "BG 8.1",
       "verseUrl": "https://vedabase.io/en/library/bg/8/1/",
@@ -371,9 +371,9 @@
       "id": "bg8-q25",
       "prompt": "According to BG 8.2, what is the definition of Brahman given by Krishna?",
       "choices": [
-        "Matter primarily and worldly philosophical speculation",
-        "The eternal, unchangeable Absolute Truth; I am Brahman",
         "Temporary and worldly philosophical speculation",
+        "The eternal, unchangeable Absolute Truth; I am Brahman",
+        "Matter primarily and worldly philosophical speculation",
         "Destructible and worldly philosophical speculation"
       ],
       "correctIndex": 1,

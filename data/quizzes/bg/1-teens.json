@@ -12,12 +12,12 @@
       "source": "translation",
       "prompt": "In BG 1.1, what does Dhritarastra ask Sanjaya to describe?",
       "choices": [
-        "Who will win the battle",
-        "What both armies are doing",
         "Which weapons will be used",
-        "Why Krsna came to fight"
+        "Why Krsna came to fight",
+        "Who will win the battle",
+        "What both armies are doing"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Dhritarastra asks what his sons and the sons of Pandu are doing after assembling for battle. His question shows concern about the outcome.",
       "verseLabel": "BG 1.1",
       "verseUrl": "https://vedabase.io/en/library/bg/1/1/"
@@ -27,12 +27,12 @@
       "source": "translation",
       "prompt": "In BG 1.2, what does Sanjaya describe first?",
       "choices": [
-        "Arjuna dropping his bow",
         "Duryodhana approaching Drona",
-        "Krsna leaving the chariot",
-        "Bhisma refusing to fight"
+        "Bhisma refusing to fight",
+        "Arjuna dropping his bow",
+        "Krsna leaving the chariot"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Sanjaya begins by describing Duryodhana seeing the Pandava army and then going to his teacher Drona. This sets up Duryodhana's anxious speech.",
       "verseLabel": "BG 1.2",
       "verseUrl": "https://vedabase.io/en/library/bg/1/2/"
@@ -42,12 +42,12 @@
       "source": "purport",
       "prompt": "In BG 1.3, why does Duryodhana speak carefully to Dronacarya?",
       "choices": [
-        "He truly respects his teacher",
-        "He hints Drona helped the Pandavas",
         "He wants peace talks now",
-        "He thinks Drona will not fight"
+        "He thinks Drona will not fight",
+        "He hints Drona helped the Pandavas",
+        "He truly respects his teacher"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Duryodhana speaks politely but is actually blaming Drona for training the Pandavas so well. He is worried about his side's chances.",
       "verseLabel": "BG 1.3",
       "verseUrl": "https://vedabase.io/en/library/bg/1/3/"
@@ -57,12 +57,12 @@
       "source": "translation",
       "prompt": "In BG 1.7-1.8, who are some main warriors on the Kaurava side?",
       "choices": [
-        "Drona, Bhisma, and Krpa",
-        "Arjuna, Bhima, and Nakula",
         "Only young and untrained fighters",
-        "Only Duryodhana and his brothers"
+        "Drona, Bhisma, and Krpa",
+        "Only Duryodhana and his brothers",
+        "Arjuna, Bhima, and Nakula"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Duryodhana names leaders like Drona, Bhisma, and Krpa among others. He is trying to show his side has strong support.",
       "verseLabel": "BG 1.7-1.8",
       "verseUrl": "https://vedabase.io/en/library/bg/1/7/"
@@ -73,11 +73,11 @@
       "prompt": "In BG 1.12, why does Bhisma blow his conchshell loudly?",
       "choices": [
         "To announce the end of war",
-        "To encourage Duryodhana",
+        "To signal retreat",
         "To ask for a truce",
-        "To signal retreat"
+        "To encourage Duryodhana"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Bhisma blows his conchshell to encourage Duryodhana, who is worried. It is meant to boost confidence.",
       "verseLabel": "BG 1.12",
       "verseUrl": "https://vedabase.io/en/library/bg/1/12/"
@@ -87,12 +87,12 @@
       "source": "purport",
       "prompt": "In BG 1.14, what do Krsna and Arjuna do before fighting begins?",
       "choices": [
-        "They blow their conchshells",
-        "They exchange weapons",
+        "They stop the battle",
         "They hide behind the army",
-        "They stop the battle"
+        "They exchange weapons",
+        "They blow their conchshells"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krsna and Arjuna blow their conchshells, making a powerful sound. This signals readiness and gives courage to their side.",
       "verseLabel": "BG 1.14",
       "verseUrl": "https://vedabase.io/en/library/bg/1/14/"
@@ -102,9 +102,9 @@
       "source": "purport",
       "prompt": "In BG 1.19, what effect does the sound of conchshells have on Dhritarastra's sons?",
       "choices": [
-        "It makes them more confident",
-        "It shatters their hearts",
         "It puts them to sleep",
+        "It shatters their hearts",
+        "It makes them more confident",
         "It makes them switch sides"
       ],
       "correctIndex": 1,
@@ -119,8 +119,8 @@
       "choices": [
         "To run away from fighting",
         "To see who is present to fight",
-        "To confuse the enemy",
-        "To delay the war forever"
+        "To delay the war forever",
+        "To confuse the enemy"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna wants to look closely at those assembled for battle. He is preparing himself by seeing who he must face.",
@@ -132,12 +132,12 @@
       "source": "purport",
       "prompt": "In BG 1.26-1.27, what triggers Arjuna's emotional collapse?",
       "choices": [
-        "Seeing relatives on both sides",
-        "Hearing Bhisma laugh loudly",
         "Losing his chariot",
+        "Hearing Bhisma laugh loudly",
+        "Seeing relatives on both sides",
         "Forgetting his bow at home"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Arjuna sees teachers, elders, friends, and family ready to fight. The relationships overwhelm him.",
       "verseLabel": "BG 1.26-1.27",
       "verseUrl": "https://vedabase.io/en/library/bg/1/26/"
@@ -149,8 +149,8 @@
       "choices": [
         "He is excited for victory",
         "He is deeply disturbed",
-        "He is hungry and tired",
-        "He is angry at Krsna"
+        "He is angry at Krsna",
+        "He is hungry and tired"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna describes trembling and confusion. His body and mind show he is deeply disturbed.",
@@ -163,9 +163,9 @@
       "prompt": "Purport-guided: In BG 1.31-1.32, why does Arjuna reject victory and happiness?",
       "choices": [
         "He thinks success is meaningless without loved ones",
-        "He believes war is always forbidden",
+        "He wants to avoid effort",
         "He doubts the Pandavas can win",
-        "He wants to avoid effort"
+        "He believes war is always forbidden"
       ],
       "correctIndex": 0,
       "feedback": "Arjuna cannot imagine happiness if it requires killing his own relatives. His attachment changes how he defines success.",
@@ -178,9 +178,9 @@
       "prompt": "Purport-guided: In BG 1.36, what is the main weakness in Arjuna's fear of sin?",
       "choices": [
         "He forgets that duty can be higher than emotion",
-        "He thinks wealth will solve everything",
+        "He wants to fight for fame",
         "He believes he cannot be forgiven",
-        "He wants to fight for fame"
+        "He thinks wealth will solve everything"
       ],
       "correctIndex": 0,
       "feedback": "Arjuna focuses on his feelings and relatives, not on his duty and the bigger purpose. Fear can look moral while still being driven by attachment.",
@@ -192,12 +192,12 @@
       "source": "translation",
       "prompt": "Purport-guided: In BG 1.40-1.41, what long-term danger does Arjuna fear?",
       "choices": [
-        "Family ruin leads to social confusion",
         "The war will never end",
-        "The earth will run out of food",
-        "All kings will lose power"
+        "All kings will lose power",
+        "Family ruin leads to social confusion",
+        "The earth will run out of food"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Arjuna fears that destroying families will damage traditions and future generations. He is thinking about long-term consequences.",
       "verseLabel": "BG 1.40-1.41",
       "verseUrl": "https://vedabase.io/en/library/bg/1/40/"
@@ -207,12 +207,12 @@
       "source": "translation",
       "prompt": "In BG 1.44-1.45, what does Arjuna say about those who destroy their family?",
       "choices": [
+        "They quickly become peaceful",
         "They are rewarded in heaven",
         "They commit great sin and suffer",
-        "They become respected teachers",
-        "They quickly become peaceful"
+        "They become respected teachers"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Arjuna says family destroyers commit great sin and must suffer. He is warning about serious consequences.",
       "verseLabel": "BG 1.44-1.45",
       "verseUrl": "https://vedabase.io/en/library/bg/1/44/"

@@ -11,12 +11,12 @@
       "id": "bg14-q1",
       "prompt": "In BG 14.1, what does Krishna say He will explain again?",
       "choices": [
-        "A technique to control the mind only",
-        "The supreme knowledge leading to liberation",
         "A method to improve material happiness",
-        "A code of ethics for social order"
+        "A code of ethics for social order",
+        "A technique to control the mind only",
+        "The supreme knowledge leading to liberation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krishna begins by saying He will again speak the supreme knowledge. The aim is liberation: to understand how the modes bind and how one can rise beyond material conditioning through realized knowledge applied in devotion.",
       "verseLabel": "BG 14.1",
       "verseUrl": "https://vedabase.io/en/library/bg/14/1/"
@@ -25,12 +25,12 @@
       "id": "bg14-q2",
       "prompt": "In the purport to BG 14.2, what outcome is emphasized for one who takes shelter of this knowledge?",
       "choices": [
-        "Greater prestige in society",
-        "Reliable success in all ventures",
         "A longer stay in higher planets",
-        "Freedom from repeated birth and death"
+        "Freedom from repeated birth and death",
+        "Greater prestige in society",
+        "Reliable success in all ventures"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "feedback": "Prabhupada emphasizes that the result is not a better position within the modes, but freedom from rebirth. The shelter of this knowledge brings one to Krishna's nature, undisturbed at creation and destruction, and aimed at release from the cycle driven by the modes.",
       "verseLabel": "BG 14.2",
       "verseUrl": "https://vedabase.io/en/library/bg/14/2/"
@@ -40,11 +40,11 @@
       "prompt": "In the purport to BG 14.3, what does Prabhupada emphasize about Krishna as the source?",
       "choices": [
         "The jiva creates nature by will",
-        "Nature is independent and final",
+        "Krishna is the supreme cause of all",
         "Krishna is one cause among many",
-        "Krishna is the supreme cause of all"
+        "Nature is independent and final"
       ],
-      "correctIndex": 3,
+      "correctIndex": 1,
       "feedback": "Prabhupada stresses that Krishna is the supreme cause: material nature is the womb, and Krishna is the seed-giving father. A false path is to treat the modes as ultimate and forget the Person behind them. Understanding the modes is meant to deepen surrender to Krishna, not replace Him with mechanics.",
       "verseLabel": "BG 14.3",
       "verseUrl": "https://vedabase.io/en/library/bg/14/3/"
@@ -54,9 +54,9 @@
       "prompt": "According to BG 14.4, what does Krishna say is true for all species of life?",
       "choices": [
         "All share Krishna as seed-giving father",
-        "All have the same body design",
         "All share the same intelligence level",
-        "All share the same social duties"
+        "All share the same social duties",
+        "All have the same body design"
       ],
       "correctIndex": 0,
       "feedback": "Krishna declares that He is the seed-giving father of all living entities in all forms of life. This supports universal respect for life while keeping karmic realism: bodies and circumstances differ, but all beings belong to Krishna.",
@@ -67,12 +67,12 @@
       "id": "bg14-q5",
       "prompt": "In BG 14.5, what do the three modes do to the embodied living entity?",
       "choices": [
-        "They bind the embodied living entity to the body",
-        "They bind only the body, leaving the mind unaffected.",
+        "They destroy the soul's individuality",
         "They liberate the soul automatically",
-        "They destroy the soul's individuality"
+        "They bind the embodied living entity to the body",
+        "They bind only the body, leaving the mind unaffected."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna explains that goodness, passion, and ignorance bind the embodied living entity to the body. The key is to see the modes as binding forces, not as harmless personality traits. Otherwise one may decorate bondage instead of transcending it.",
       "verseLabel": "BG 14.5",
       "verseUrl": "https://vedabase.io/en/library/bg/14/5/"
@@ -82,9 +82,9 @@
       "prompt": "According to BG 14.6, what is the binding effect of the mode of goodness?",
       "choices": [
         "Attachment to anger and aggression",
-        "Attachment to fear and suspicion",
+        "Attachment to inertia and neglect",
         "Attachment to happiness and knowledge",
-        "Attachment to inertia and neglect"
+        "Attachment to fear and suspicion"
       ],
       "correctIndex": 2,
       "feedback": "Goodness is illuminating and produces happiness, yet it binds by attachment to happiness and knowledge. The subtle trap is thinking one is pure simply because one feels peaceful and informed. Even refined identity is still identity within the modes.",
@@ -95,12 +95,12 @@
       "id": "bg14-q7",
       "prompt": "In the purport to BG 14.6, what warning does Prabhupada give about goodness?",
       "choices": [
-        "Goodness is worse than ignorance",
-        "Goodness cancels all karmic reaction",
         "Goodness can bind through subtle pride",
-        "Goodness is identical with liberation"
+        "Goodness is identical with liberation",
+        "Goodness is worse than ignorance",
+        "Goodness cancels all karmic reaction"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Prabhupada warns that even sattva can bind through pride in knowledge and attachment to being good. The false path is to equate moral refinement with transcendence. Goodness is helpful, but bhakti is the means to go beyond goodness rather than remain attached to it.",
       "verseLabel": "BG 14.6",
       "verseUrl": "https://vedabase.io/en/library/bg/14/6/"
@@ -110,11 +110,11 @@
       "prompt": "According to BG 14.7, what is the binding force of the mode of passion?",
       "choices": [
         "Attachment to sleep and forgetfulness",
-        "Attachment to calm restraint and balance",
         "Attachment to negation without service",
-        "Attachment to fruitive work and results"
+        "Attachment to fruitive work and results",
+        "Attachment to calm restraint and balance"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "feedback": "Passion binds by attachment to fruitive activity and the desire to enjoy the results. It keeps the soul busy, hopeful, and anxious. The soul then measures life by achievement and outcome, reinforcing doership within the modes.",
       "verseLabel": "BG 14.7",
       "verseUrl": "https://vedabase.io/en/library/bg/14/7/"
@@ -123,9 +123,9 @@
       "id": "bg14-q9",
       "prompt": "According to BG 14.8, what does the mode of ignorance produce?",
       "choices": [
-        "Detachment based on higher taste",
-        "Devotion with constant remembrance",
         "Clarity and steady discrimination",
+        "Devotion with constant remembrance",
+        "Detachment based on higher taste",
         "Delusion, laziness, and heavy sleep"
       ],
       "correctIndex": 3,
@@ -137,12 +137,12 @@
       "id": "bg14-q10",
       "prompt": "In the purport to BG 14.8, what does Prabhupada caution against mistaking for transcendence?",
       "choices": [
+        "Regulated sleep for health",
         "Seriousness and restraint",
         "Dullness and covered awareness",
-        "Regulated sleep for health",
         "Simplicity and quiet focus"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Prabhupada cautions against mistaking dullness, inertia, or blank mind states for transcendence. The false path is to confuse covered consciousness with spiritual realization. Real transcendence is awakened service to Krishna, not stalled awareness.",
       "verseLabel": "BG 14.8",
       "verseUrl": "https://vedabase.io/en/library/bg/14/8/"
@@ -152,11 +152,11 @@
       "prompt": "In the purport to BG 14.9, what practical takeaway is emphasized about the modes and bondage?",
       "choices": [
         "Bondage is removed by ignoring the modes",
-        "Bondage ends by refining one mode only",
         "Bondage remains unless one rises above modes",
+        "Bondage ends by refining one mode only",
         "Bondage is solved by balancing all modes"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Krishna summarizes how each mode binds, and the purport pushes the practical conclusion: the goal is not to manage bondage but to transcend it. A false path is to treat mode improvement as the final solution. The modes describe the prison; bhakti is the exit.",
       "verseLabel": "BG 14.9",
       "verseUrl": "https://vedabase.io/en/library/bg/14/9/"
@@ -165,12 +165,12 @@
       "id": "bg14-q12",
       "prompt": "According to BG 14.10, how do the modes become prominent in a person?",
       "choices": [
-        "A mode becomes prominent only at birth and remains unchanged",
         "One mode dominates by subduing the others",
-        "Modes rise together in equal proportion and stay balanced",
-        "Modes become prominent in a fixed sequence that repeats mechanically"
+        "A mode becomes prominent only at birth and remains unchanged",
+        "Modes become prominent in a fixed sequence that repeats mechanically",
+        "Modes rise together in equal proportion and stay balanced"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna explains that the modes compete, and one becomes prominent by overpowering the others. This helps one observe shifting inner states without equating them with the self, which is the start of disentangling from the modes.",
       "verseLabel": "BG 14.10",
       "verseUrl": "https://vedabase.io/en/library/bg/14/10/"
@@ -180,11 +180,11 @@
       "prompt": "According to BG 14.11, what is a sign that the mode of goodness is increasing?",
       "choices": [
         "Heaviness and avoidance of responsibility",
-        "Restlessness and intense craving to act",
         "Light of knowledge and clearer perception",
-        "Confusion and careless negligence"
+        "Confusion and careless negligence",
+        "Restlessness and intense craving to act"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Krishna says that when the gates of the body are illuminated by knowledge, goodness is increasing. This is not final liberation, but it is a useful platform. The next step is to engage that clarity in bhakti, not to become proud of it.",
       "verseLabel": "BG 14.11",
       "verseUrl": "https://vedabase.io/en/library/bg/14/11/"
@@ -193,12 +193,12 @@
       "id": "bg14-q14",
       "prompt": "According to BG 14.12, what typically arises when the mode of passion increases?",
       "choices": [
-        "Steady peace and content restraint",
-        "Intense desire, activity, and longing",
+        "Dull apathy with forgetful delay",
         "Balanced insight with clear detachment",
-        "Dull apathy with forgetful delay"
+        "Steady peace and content restraint",
+        "Intense desire, activity, and longing"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krishna says passion produces intense longing, activity, and strong desire. Recognizing this pattern helps one stop calling agitation spiritual progress and instead practice regulated, offered action in Krishna consciousness.",
       "verseLabel": "BG 14.12",
       "verseUrl": "https://vedabase.io/en/library/bg/14/12/"
@@ -207,12 +207,12 @@
       "id": "bg14-q15",
       "prompt": "According to BG 14.13, what is a typical effect when the mode of ignorance increases?",
       "choices": [
-        "Clarity, restraint, and discrimination",
         "Illusion, negligence, and heedlessness",
+        "Clarity, restraint, and discrimination",
         "Steady devotion and inner direction",
         "Sattvic joy with calm satisfaction"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Ignorance increases illusion, negligence, and inactivity. It makes one careless about consequence. A key discipline is to treat tamas as dangerous, not comforting, and to seek uplift through proper association and practice.",
       "verseLabel": "BG 14.13",
       "verseUrl": "https://vedabase.io/en/library/bg/14/13/"
@@ -221,12 +221,12 @@
       "id": "bg14-q16",
       "prompt": "According to BG 14.14-15, what broad destination is described for death in goodness versus death in ignorance?",
       "choices": [
-        "Goodness leads to liberation; ignorance leads to rebirth in higher planets",
         "Goodness leads to higher planets; ignorance leads to lower forms of life",
         "Goodness leads upward; ignorance leads downward",
+        "Goodness leads to liberation; ignorance leads to rebirth in higher planets",
         "Goodness and ignorance mainly affect one's mental state at death, not one's next destination"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Krishna teaches that goodness leads upward and ignorance leads downward, while passion tends to keep one in the middle. This is still within samsara. The chapter pushes the student to go beyond all modes through devotion to Krishna.",
       "verseLabel": "BG 14.14",
       "verseUrl": "https://vedabase.io/en/library/bg/14/14/"
@@ -249,12 +249,12 @@
       "id": "bg14-q18",
       "prompt": "In the purport to BG 14.16-18, what hierarchy does Prabhupada reinforce about the modes?",
       "choices": [
-        "Goodness is higher than passion and ignorance",
-        "All modes are equal in value",
         "Ignorance is higher than the others",
+        "All modes are equal in value",
+        "Goodness is higher than passion and ignorance",
         "Passion is higher than the others"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Prabhupada reinforces that goodness is higher than passion and ignorance, yet still bondage unless used in Krishna consciousness. The false path is to stop at moral goodness and forget transcendence. Sattva is a platform for bhakti, not a substitute for bhakti.",
       "verseLabel": "BG 14.18",
       "verseUrl": "https://vedabase.io/en/library/bg/14/18/"
@@ -263,12 +263,12 @@
       "id": "bg14-q19",
       "prompt": "According to BG 14.19, what does one see who truly understands the modes?",
       "choices": [
-        "Modes act, and the self is beyond them",
-        "Action is unreal, so responsibility is unnecessary",
+        "Self acts, and modes are powerless",
         "The Supersoul alone acts, and the jiva has no will at all",
-        "Self acts, and modes are powerless"
+        "Action is unreal, so responsibility is unnecessary",
+        "Modes act, and the self is beyond them"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krishna says the wise see that the modes perform all activities and that the self is beyond them. This undercuts doership ego without creating negligence. One chooses association and direction, while no longer claiming independent mastery over nature.",
       "verseLabel": "BG 14.19",
       "verseUrl": "https://vedabase.io/en/library/bg/14/19/"
@@ -277,12 +277,12 @@
       "id": "bg14-q20",
       "prompt": "In the purport to BG 14.19, what misuse of the teaching 'modes act' does Prabhupada guard against?",
       "choices": [
-        "Excusing harmful choice as non-accountable",
         "Choosing better association to rise upward",
         "Rejecting false ego and surrendering to Krishna",
+        "Excusing harmful choice as non-accountable",
         "Observing modes without identifying as them"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Prabhupada guards against using modes act as an excuse to avoid responsibility. The false path is fatalism: I am not accountable. Real understanding reduces false ego and increases surrender; it does not produce negligence. One still must choose proper association and serve Krishna.",
       "verseLabel": "BG 14.19",
       "verseUrl": "https://vedabase.io/en/library/bg/14/19/"
@@ -292,9 +292,9 @@
       "prompt": "According to BG 14.20, what is described as the result of transcending the three modes?",
       "choices": [
         "Freedom from birth, death, old age, and disease",
+        "Neutrality through absence of all feeling",
         "Access to higher planets as the main goal",
-        "Lasting happiness within the best mode only",
-        "Neutrality through absence of all feeling"
+        "Lasting happiness within the best mode only"
       ],
       "correctIndex": 0,
       "feedback": "Krishna states that transcending the modes frees one from birth, death, old age, and disease, and one enjoys nectar even in this life. The chapter's target is not to optimize a mode, but to transcend the system that produces suffering.",
@@ -305,12 +305,12 @@
       "id": "bg14-q22",
       "prompt": "In BG 14.22-23, what is a key sign of one who has transcended the modes?",
       "choices": [
-        "He claims mastery over nature by force",
-        "He prefers goodness and cannot tolerate the other modes at all",
+        "He is not disturbed as the modes appear",
         "He denies the modes exist at all",
-        "He is not disturbed as the modes appear"
+        "He claims mastery over nature by force",
+        "He prefers goodness and cannot tolerate the other modes at all"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "feedback": "Krishna describes steadiness: the transcendent person is not disturbed when the modes appear and does not long for them when they disappear. The mature sign is non-reactive clarity, not denial or drama, supporting steady bhakti rather than mood-based spirituality.",
       "verseLabel": "BG 14.23",
       "verseUrl": "https://vedabase.io/en/library/bg/14/23/"
@@ -319,12 +319,12 @@
       "id": "bg14-q23",
       "prompt": "In the purport to BG 14.22-25, what does Prabhupada emphasize about recognizing transcendence?",
       "choices": [
-        "Public recognition as proof of purity",
         "Steady Krishna-centered service in all conditions",
         "Harsh pride to defeat others",
+        "Public recognition as proof of purity",
         "Complete inactivity with no engagement"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Prabhupada emphasizes that transcendence is recognized by steady, Krishna-centered consciousness and conduct, not by external show. The false path is to imitate symptoms or claim realization while remaining driven by honor, gain, and duality. Genuine transcendence expresses fixed devotion amid changing conditions.",
       "verseLabel": "BG 14.25",
       "verseUrl": "https://vedabase.io/en/library/bg/14/25/"
@@ -333,12 +333,12 @@
       "id": "bg14-q24",
       "prompt": "According to BG 14.26, what is the direct means to transcend the modes?",
       "choices": [
-        "Rituals for material results only",
         "Cultivating goodness and knowledge as the final goal",
         "Devotional service to Krishna",
-        "Impersonal absorption and merging into Brahman"
+        "Impersonal absorption and merging into Brahman",
+        "Rituals for material results only"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "feedback": "Krishna states that one who engages in unalloyed devotional service transcends the modes and comes to the Brahman platform. Bhakti is not one mode among others; it lifts the soul beyond the entire framework of the modes.",
       "verseLabel": "BG 14.26",
       "verseUrl": "https://vedabase.io/en/library/bg/14/26/"
@@ -347,12 +347,12 @@
       "id": "bg14-q25",
       "prompt": "In the purport to BG 14.27, how does Prabhupada explain Krishna's relation to Brahman?",
       "choices": [
-        "Krishna is the basis of impersonal Brahman",
-        "Brahman denies all personal reality",
         "Brahman is above Krishna as final",
-        "Brahman is identical with dull matter"
+        "Brahman is identical with dull matter",
+        "Brahman denies all personal reality",
+        "Krishna is the basis of impersonal Brahman"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Prabhupada explains that Krishna is the basis of impersonal Brahman. The false path is to treat Brahman as final and Krishna as a temporary aid. Chapter 14 concludes personalism: transcendence culminates in relationship with Krishna, and even Brahman rests upon Him as the Supreme Person.",
       "verseLabel": "BG 14.27",
       "verseUrl": "https://vedabase.io/en/library/bg/14/27/"

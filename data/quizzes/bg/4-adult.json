@@ -11,12 +11,12 @@
       "id": "bg4-q1",
       "prompt": "In BG 4.1, what does Krsna reveal about the origin of yoga?",
       "choices": [
-        "It was invented by ancient sages primarily",
         "It was taught by Him to the sun god",
+        "It was invented by ancient sages primarily",
         "It is found primarily in sacred books",
         "It was developed gradually over many ages"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krsna declares imam vivasvate yogam proktavan (I spoke this yoga to Vivasvan)-establishes ancient parampara from Krsna -> Vivasvan -> Manu -> Ikshvaku demonstrating knowledge's eternal nature. Why this matters: Timeless truth transmitted through disciplic succession validates Vedic epistemology-knowledge descends from perfect source (Krsna) through realized gurus, not ascending from human speculation. Approach transcendental knowledge through parampara not independent research-truth isn't discovered but received from knowers.",
       "verseLabel": "BG 4.1",
       "verseUrl": "https://vedabase.io/en/library/bg/4/1/",
@@ -27,11 +27,11 @@
       "prompt": "Why does BG 4.2 warn that spiritual knowledge becomes lost over time?",
       "choices": [
         "The rationalist error that texts alone preserve understanding permanently",
-        "Succession breaks when unqualified teach without realization",
+        "Material degradation automatically destroys all spiritual wisdom",
         "The progressivist belief that knowledge naturally improves with time",
-        "Material degradation automatically destroys all spiritual wisdom"
+        "Succession breaks when unqualified teach without realization"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Parampara (disciplic succession) maintains knowledge evam paramparaya (thus in succession), preventing deviation through authorized transmission. Realization requires receiving understanding from those who received from their gurus back to original speaker-not just reading words independently. Sa kaleneha yogo nashtah (with time this yoga was lost) shows deviation's inevitability without living tradition. Lineage ensures fidelity to original meaning against time's corrupting influence.",
       "verseLabel": "BG 4.2",
       "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
@@ -41,12 +41,12 @@
       "id": "bg4-q3",
       "prompt": "In BG 4.5, what key difference does Krsna state between Himself and Arjuna regarding past births?",
       "choices": [
-        "Arjuna remembers all his past births; Krsna forgets",
-        "Krsna remembers many past births; Arjuna does not",
+        "Neither remembers because memory is only material",
         "Both remember equally because all souls are omniscient",
-        "Neither remembers because memory is only material"
+        "Krsna remembers many past births; Arjuna does not",
+        "Arjuna remembers all his past births; Krsna forgets"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Verse distinguishes Krsna (veda-aham-I know) from Arjuna (na vettha-you don't know) regarding past births-qualitative difference not quantitative. Krsna possesses complete memory of infinite births because never covered by maya; Arjuna forgets due to material conditioning. This constitutional difference (ever-free vs conditionally-bound) establishes Krsna's supreme position-not another seeker but eternal Teacher possessing perfect omniscience.",
       "verseLabel": "BG 4.5",
       "verseUrl": "https://vedabase.io/en/library/bg/4/5/",
@@ -58,8 +58,8 @@
       "choices": [
         "Money and material wealth accumulated in society",
         "Religion and corresponding rise of unrighteousness in the world",
-        "Technology and scientific advancement in human civilization",
-        "Population and demographic changes across the world"
+        "Population and demographic changes across the world",
+        "Technology and scientific advancement in human civilization"
       ],
       "correctIndex": 1,
       "feedback": "Krsna appears yada yada hi dharmasya glanir bhavati (whenever decline of dharma)-principle of periodic descent. Why this matters: Regular incarnation (avatara) constitutes cosmic maintenance-system-Krsna descends precisely when dharma declines, establishing rhythm of revelation-decline-restoration. This demonstrates Krsna's ongoing involvement-not deist God creating then abandoning but active maintainer periodically intervening through incarnations maintaining dharmic order.",
@@ -71,12 +71,12 @@
       "id": "bg4-q5",
       "prompt": "How does Krsna's dual purpose in BG 4.8-protecting devotees and destroying demons-reflect divine justice?",
       "choices": [
-        "Krsna protects devotees but never punishes anyone out of mercy",
         "Mercy to faithful and punishment to wicked upholds cosmic order",
         "The universalist misconception that all receive equal treatment from Krsna",
-        "The impersonalist view that God remains indifferent to all moral distinctions"
+        "The impersonalist view that God remains indifferent to all moral distinctions",
+        "Krsna protects devotees but never punishes anyone out of mercy"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krsna's dual purpose-paritranaya sadhunam (protect devotees) and vinashaya dushkritam (destroy miscreants)-demonstrates completeness not contradiction. Krsna simultaneously merciful (protecting sadhus) and just (destroying evil)-authentic compassion requires removing adharma to protect innocent. Evil requires active opposition not passive acceptance-protecting good necessitates destroying evil for collective welfare.",
       "verseLabel": "BG 4.8",
       "verseUrl": "https://vedabase.io/en/library/bg/4/8/",
@@ -86,12 +86,12 @@
       "id": "bg4-q6",
       "prompt": "In BG 4.9, what is guaranteed to one who knows the transcendental nature of Krsna's appearance and activities?",
       "choices": [
+        "Supernatural powers and mystic siddhis for material benefit",
         "Material wealth and worldly prosperity in this lifetime",
         "Liberation and return to His abode after death",
-        "Long life primarily through following prescribed scriptural duties",
-        "Supernatural powers and mystic siddhis for material benefit"
+        "Long life primarily through following prescribed scriptural duties"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Knowing Krsna's transcendental birth (divyam) and activities (karma) liberates-tyaktva deham punar janma naiti (leaving body, doesn't take birth again). Divyam means transcendental-knowing them tattvatah (in truth) requires devotional consciousness not just intellectual comprehension. Mam eti (comes to Me)-liberation means personal relationship not impersonal absorption. Approach Krsna's pastimes devotionally-hearing/chanting with bhakti transforms knowledge into liberation.",
       "verseLabel": "BG 4.9",
       "verseUrl": "https://vedabase.io/en/library/bg/4/9/",
@@ -101,12 +101,12 @@
       "id": "bg4-q7",
       "prompt": "What does BG 4.10 teach about those who are fully absorbed in Krsna consciousness?",
       "choices": [
-        "They suffer in the material world due to karmic reactions",
-        "They are free from fear, anger, and lust; attain Him",
         "They become weak and unable to function properly in society",
-        "They lose interest in life and material responsibilities"
+        "They lose interest in life and material responsibilities",
+        "They suffer in the material world due to karmic reactions",
+        "They are free from fear, anger, and lust; attain Him"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Vita-raga-bhaya-krodha (free from attachment-fear-anger), mam-mayah (absorbed in Me)-purification through bhakti substitutes material absorption with Krsna-absorption. Purification isn't mere subtraction (removing bad qualities) but substitution-consciousness filled with Krsna leaves no space for material contaminations. Tapasa (austerity) works when directed toward Krsna not merely away from material. Positive bhakti naturally eliminates negatives through engagement not renunciation.",
       "verseLabel": "BG 4.10",
       "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
@@ -116,12 +116,12 @@
       "id": "bg4-q8",
       "prompt": "Why does BG 4.13 organize society by qualities and work rather than birth alone?",
       "choices": [
+        "The hereditary corruption that birth determines occupation mechanically",
         "The egalitarian misconception that all divisions are oppressive constructs",
         "Natural abilities determine suitable service; arrangement prevents exploitation",
-        "The hereditary corruption that birth determines occupation mechanically",
         "The meritocratic illusion that individual choice alone should determine role"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Catur-varnyam (four orders) created maya (by Me) according to guna-karma (quality-work)-divine social organization. Varnashrama created by Krsna according to guna (quality) and karma (activity)-not birth nor arbitrary social agreement but divinely designed order reflecting psychophysical nature. Varna determined by qualities demonstrated and work performed-validates natural diversity while preventing exploitation. Follow varnashrama-dharma according to actual qualities-facilitating both material stability and spiritual advancement.",
       "verseLabel": "BG 4.13",
       "verseUrl": "https://vedabase.io/en/library/bg/4/13/",
@@ -131,10 +131,10 @@
       "id": "bg4-q9",
       "prompt": "In the purport to BG 4.13, what does Srila Prabhupada explain about the creator's non-doership?",
       "choices": [
-        "Krsna creates but remains detached from all activities always",
+        "Krsna is not actually the creator despite scriptural claims",
         "As supreme controller, He acts but isn't bound by karma",
-        "The creator participates in material activities like ordinary beings",
-        "Krsna is not actually the creator despite scriptural claims"
+        "Krsna creates but remains detached from all activities always",
+        "The creator participates in material activities like ordinary beings"
       ],
       "correctIndex": 1,
       "feedback": "In the BG 4.13 purport, Srila Prabhupada explains that although Krsna creates the varnashrama arrangement (catur-varnyam), He remains the supreme controller and is not implicated like a conditioned soul. He sets the system by His will, while the modes of nature carry out activities and bind those who falsely claim doership. Knowing Krsna as the ultimate director prevents the jiva from imitating Him as 'independent doer'-when we forget Krsna's position, we turn social duty into ego and exploitation; when we remember Him, duty becomes service and purification.",
@@ -146,12 +146,12 @@
       "id": "bg4-q10",
       "prompt": "In the purport to BG 4.15, what does Srila Prabhupada explain about following previous authorities?",
       "choices": [
-        "Great souls create their own independent spiritual paths successfully",
-        "Following the path of great devotees leads to perfection",
+        "Modern methods are superior to ancient devotional examples",
         "One should avoid imitation of previous spiritual authorities",
-        "Modern methods are superior to ancient devotional examples"
+        "Following the path of great devotees leads to perfection",
+        "Great souls create their own independent spiritual paths successfully"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Ancient siddhas (perfected beings) performed action knowing this tattva (truth)-validates method through results. Evam (thus) purva (ancient) siddhas practiced karma-yoga achieving liberation-proven process repeatedly producing desired outcome. Kuru karma (perform action) tasmad tvam (therefore you) purvaih purvataram (as ancients did earlier)-follow established effective procedure. Trust proven path-ancient siddhas' success demonstrates karma-yoga's effectiveness.",
       "verseLabel": "BG 4.15",
       "verseUrl": "https://vedabase.io/en/library/bg/4/15/",
@@ -162,11 +162,11 @@
       "prompt": "Why are even the wise bewildered about action and inaction according to BG 4.16?",
       "choices": [
         "The phenomenal complexity surpasses human intellectual capacity entirely",
-        "Because action appears as inaction and inaction appears action",
+        "Because material existence obscures spiritual reality causing confusion",
         "The relativist view that no objective distinction exists between them",
-        "Because material existence obscures spiritual reality causing confusion"
+        "Because action appears as inaction and inaction appears action"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Kim karma kim akarmeti (what is action, what is inaction)-wise are bewildered because consciousness determines action's nature, not external behavior. Apparently doing nothing while consciousness absorbed in material is action (binding); apparently doing everything while consciousness absorbed in Krsna is inaction (non-binding). Karmano gahana (action's nature is profound)-seek expert guidance discerning karma from akarma. External appearance doesn't reveal consciousness-quality determining spiritual effect.",
       "verseLabel": "BG 4.16",
       "verseUrl": "https://vedabase.io/en/library/bg/4/16/",
@@ -176,12 +176,12 @@
       "id": "bg4-q12",
       "prompt": "In BG 4.17, what does Krsna say must be understood about action?",
       "choices": [
-        "Only renunciation of all action; work is always binding",
         "Karma (action), vikarma (forbidden action), and akarma (inaction within action)",
         "Only ritual actions performed correctly; knowledge is secondary",
-        "Only intention matters ultimately; the act itself never matters"
+        "Only intention matters ultimately; the act itself never matters",
+        "Only renunciation of all action; work is always binding"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Must understand karma (action), vikarma (forbidden action), and akarma (inaction)-threefold discrimination beyond binary thinking. Three categories-karma (prescribed duties binding if performed selfishly), vikarma (prohibited acts always binding), akarma (devotional service appearing as action but non-binding). Gahana karmano gatih (profound is the way of action)-requires subtle discrimination. Develop discriminative intelligence through guru-shastra-sadhu-distinguishing actions' spiritual quality not just their external form.",
       "verseLabel": "BG 4.17",
       "verseUrl": "https://vedabase.io/en/library/bg/4/17/",
@@ -191,12 +191,12 @@
       "id": "bg4-q13",
       "prompt": "How does BG 4.20-21's principle of detachment from results free one from karmic reactions?",
       "choices": [
-        "Detachment allows full action without generating karmic bondage",
-        "Desire for fruits binds; renouncing claim to results leaves one satisfied and unbound",
+        "They are contradictory creating tension between duty and liberation",
         "The antinomian error that realized souls can act without consequences",
-        "They are contradictory creating tension between duty and liberation"
+        "Detachment allows full action without generating karmic bondage",
+        "Desire for fruits binds; renouncing claim to results leaves one satisfied and unbound"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Tyaktva karma-phalasangam (abandoning results-attachment), nitya-tripto (always satisfied), nirashraya (without shelter)-performs duties without expecting personal benefit. Abandons phalasanga (result-attachment) not karma (action itself)-inner freedom maintaining outer engagement. Karmani abhipravrittah api (engaged in activities nevertheless) naiva kinchit karoti (does nothing at all)-paradox resolved through consciousness-quality. Renounce attachment not action-transforming karma from bondage into non-bondage through desireless performance.",
       "verseLabel": "BG 4.20-21",
       "verseUrl": "https://vedabase.io/en/library/bg/4/20/",
@@ -206,12 +206,12 @@
       "id": "bg4-q14",
       "prompt": "How does the disciplic succession principle (BG 4.2) relate to the instruction to approach a spiritual master with surrender and inquiry (BG 4.34)?",
       "choices": [
-        "The individualist error that personal study suffices without guidance",
         "Realized knowledge flows through living succession requiring submission",
-        "The traditionalist fallacy that lineage alone guarantees understanding",
-        "The skeptic's demand for proof before accepting any authority"
+        "The individualist error that personal study suffices without guidance",
+        "The skeptic's demand for proof before accepting any authority",
+        "The traditionalist fallacy that lineage alone guarantees understanding"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "BG 4.2 shows that knowledge is preserved only when parampara remains intact; when the living chain breaks, the meaning is lost. BG 4.34 gives the method to enter that living succession: approach a tattva-darshi guru with pranipata (surrender), pariprasna (sincere inquiry), and seva (service). This is how 'received' knowledge becomes realized knowledge, not merely information from texts. Why this matters: Independent interpretation is an easy false path; submission to parampara protects the original intent and transforms the heart, not just the mind.",
       "verseLabel": "BG 4.2-34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
@@ -221,12 +221,12 @@
       "id": "bg4-q15",
       "prompt": "How does Krsna's transcendental birth and activities (BG 4.6-9) inform the teaching about action-inaction (BG 4.16-18)?",
       "choices": [
-        "The Docetic error that divine incarnation is illusory appearance",
-        "Krsna acts without material bondage; same principle applies to devotees",
+        "The Mayavadi view that the Absolute cannot engage in activities",
         "The pantheist confusion that all activity is equally divine",
-        "The Mayavadi view that the Absolute cannot engage in activities"
+        "Krsna acts without material bondage; same principle applies to devotees",
+        "The Docetic error that divine incarnation is illusory appearance"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Because Krsna's actions are divyam (transcendental), He shows how one can act without bondage. The same principle extends to devotees who act for Him. Ancient siddhas (perfected beings) performed action knowing this tattva (truth)-validates method through results. Evam (thus) purva (ancient) siddhas practiced karma-yoga achieving liberation-proven process repeatedly producing desired outcome. Kuru karma (perform action) tasmad tvam (therefore you) purvaih purvataram (as ancients did earlier)-follow established effective procedure.",
       "verseLabel": "BG 4.6-18",
       "verseUrl": "https://vedabase.io/en/library/bg/4/6/",
@@ -236,12 +236,12 @@
       "id": "bg4-q16",
       "prompt": "How does the principle of detachment from work's results (BG 4.19-23) relate to the superiority of knowledge-sacrifice over material sacrifice (BG 4.33)?",
       "choices": [
-        "The intellectualist error that theoretical knowledge surpasses practical service",
-        "Detachment reveals knowledge; knowledge perfects sacrifice by eliminating desire",
         "The ritualist view that correct performance alone guarantees results",
-        "The gnostic assumption that information automatically liberates consciousness"
+        "The gnostic assumption that information automatically liberates consciousness",
+        "The intellectualist error that theoretical knowledge surpasses practical service",
+        "Detachment reveals knowledge; knowledge perfects sacrifice by eliminating desire"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Detachment from results (BG 4.19-23) purifies the worker by removing the root disease: 'I am the enjoyer and owner.' As desire and proprietorship fade, real knowledge awakens-and that awakened knowledge makes sacrifice complete. Therefore BG 4.33 says knowledge-sacrifice is superior to material sacrifice: it targets ignorance and motive, not only external ritual. Why this matters: Without knowledge, sacrifice easily becomes a transaction for prestige or reward; with knowledge, the same acts become akarma-service that does not bind.",
       "verseLabel": "BG 4.33",
       "verseUrl": "https://vedabase.io/en/library/bg/4/33/",
@@ -251,12 +251,12 @@
       "id": "bg4-q17",
       "prompt": "In the purport to BG 4.10, what does Srila Prabhupada explain about materialistic people and spiritual personality?",
       "choices": [
-        "Materialists easily accept transcendental personality concept without difficulty",
         "Retaining personality after liberation frightens materialists greatly",
         "Bodily concept helps understand spiritual personality more clearly",
-        "Material conception makes spiritual personality attractive and desirable"
+        "Material conception makes spiritual personality attractive and desirable",
+        "Materialists easily accept transcendental personality concept without difficulty"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "In the BG 4.10 purport, Srila Prabhupada explains that materialistic people are afraid of spiritual personality-they imagine liberation means losing individuality, so the idea of an eternal personal existence frightens them. Because they are attached to material personality, they assume 'person' must be material and therefore reject the Lord's eternal form and the soul's eternal individuality. Why this matters: Fear of personality pushes people toward impersonal 'merging,' but bhakti teaches purified personality-eternal relationship with Krsna-which is higher than annihilating the self.",
       "verseLabel": "BG 4.10",
       "verseUrl": "https://vedabase.io/en/library/bg/4/10/",
@@ -266,12 +266,12 @@
       "id": "bg4-q18",
       "prompt": "How does Prabhupada's warning (BG 4.2 purport) about demons making business on Krsna's words apply to modern Gita commentaries that reject Krsna's personality?",
       "choices": [
-        "The academic pretense of objective scholarship while denying the subject",
         "Both show misappropriation of spiritual authority enables exploitation",
-        "They are unrelated historical observations without common theme",
-        "The pluralist view that multiple contradictory readings enrich scripture"
+        "The academic pretense of objective scholarship while denying the subject",
+        "The pluralist view that multiple contradictory readings enrich scripture",
+        "They are unrelated historical observations without common theme"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Demons make business on Krsna's words while denying His personality-misappropriation of spiritual authority for exploitation without submission to the subject. Impersonalist commentaries similarly use Gita's authority while rejecting Krsna's personal supremacy-academic pretense studying text while denying the speaker's nature. Both show how spiritual teachings can be distorted when divorced from devotional platform. Approach scripture with submission to its speaker, not as raw material for independent speculation.",
       "verseLabel": "BG 4.2",
       "verseUrl": "https://vedabase.io/en/library/bg/4/2/",
@@ -283,8 +283,8 @@
       "choices": [
         "Bubble merging shows perfection of spiritual existence achieved",
         "Merging is fearful stage devoid of perfect knowledge",
-        "Ocean bubble analogy proves oneness with Absolute Truth",
-        "Individual existence ends at liberation naturally and automatically"
+        "Individual existence ends at liberation naturally and automatically",
+        "Ocean bubble analogy proves oneness with Absolute Truth"
       ],
       "correctIndex": 1,
       "feedback": "Merging into impersonal Brahman is fearful stage devoid of perfect knowledge-losing personality contradicts the soul's eternal individual nature. The bubble analogy impersonalists use proves the opposite-individual souls fear dissolution not liberation, desiring personal existence eternally. The self-realized person retains personality in transcendence-liberation perfects individuality through pure relationship with Krsna, not annihilation through merging. Transcendence means purified personality, not personality's destruction.",
@@ -296,12 +296,12 @@
       "id": "bg4-q20",
       "prompt": "In the purport to BG 4.34, what false approach does Srila Prabhupada warn against?",
       "choices": [
-        "Approaching bona fide spiritual master in disciplic succession",
         "Spiritual realization by manufacturing one's own unauthorized process",
         "Following disciplic succession from the Lord Himself directly",
-        "Receiving knowledge from self-realized souls in authorized line"
+        "Receiving knowledge from self-realized souls in authorized line",
+        "Approaching bona fide spiritual master in disciplic succession"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Spiritual realization by manufacturing one's own unauthorized process fails-approaching bona fide spiritual master in disciplic succession is essential. Self-invented spiritual methods lack parampara validation-genuine realization requires receiving knowledge through authorized lineage from the Lord Himself. Independent speculation produces mental gymnastics not transcendental realization. Follow disciplic succession from Krsna through self-realized souls in authorized line.",
       "verseLabel": "BG 4.34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/34/",
@@ -341,12 +341,12 @@
       "id": "bg4-q23",
       "prompt": "How does the varnashrama system based on guna and karma (BG 4.13) relate to transcendence through devotional service (BG 4.9-10, 4.15)?",
       "choices": [
-        "The caste confusion that birth determines spiritual qualification permanently",
         "Natural duties purify modes; transcendence via devotion regardless of position",
         "The egalitarian error that social distinctions obstruct spiritual equality",
+        "The caste confusion that birth determines spiritual qualification permanently",
         "The gradualist misconception that caste determines spiritual hierarchy"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Varnashrama based on guna and karma (BG 4.13) provides purification path through natural duties performed in Krsna consciousness. Transcendence (BG 4.9-10, 4.15) via devotional service is available regardless of social position-any varna can attain perfection through bhakti. Natural duties purify modes gradually; devotion to Krsna transcends mode-bound existence. Follow prescribed duties as offerings to Krsna-social position becomes vehicle for spiritual advancement.",
       "verseLabel": "BG 4.9-15",
       "verseUrl": "https://vedabase.io/en/library/bg/4/13/",
@@ -372,11 +372,11 @@
       "prompt": "In the purport to BG 4.34, what is the secret of advancement in spiritual life?",
       "choices": [
         "Accumulating theoretical knowledge from books alone suffices",
-        "Satisfaction of self-realized spiritual master through service",
         "Independent study and personal interpretation of scriptures",
-        "Intellectual debates and philosophical arguments with scholars"
+        "Intellectual debates and philosophical arguments with scholars",
+        "Satisfaction of self-realized spiritual master through service"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Satisfaction of self-realized spiritual master through service is the secret of advancement in spiritual life-not accumulating theoretical knowledge from books alone. The guru reveals transcendental knowledge to those who serve with proper attitude-pranapata (obeisances), pariprasna (inquiry), and seva (service). Independent study produces mental speculation not transcendental realization. Approach bona fide spiritual master in disciplic succession with submission and service.",
       "verseLabel": "BG 4.34",
       "verseUrl": "https://vedabase.io/en/library/bg/4/34/",

@@ -11,12 +11,12 @@
       "id": "bg2-q1",
       "prompt": "In the purport to BG 2.1, what does Srila Prabhupada say about Arjuna's compassion?",
       "choices": [
-        "Material compassion for the dress of a drowning man is senseless",
-        "Compassion for relatives demonstrates spiritual evolution beyond ordinary consciousness",
         "All compassion reflects transcendental awareness regardless of its object",
+        "Compassion for relatives demonstrates spiritual evolution beyond ordinary consciousness",
+        "Material compassion for the dress of a drowning man is senseless",
         "Bodily compassion becomes spiritual when motivated by sincere family affection"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Srila Prabhupada explains that compassion for the eternal soul is self-realization, while compassion for the gross material body is senseless-like saving a drowning man by rescuing only his clothes. Arjuna's compassion targets the wrong object (relatives' bodies), producing confusion rather than clarity. Why this matters: Material sentimentality masquerades as transcendental mercy when we focus on the body's temporary distress while neglecting the soul's eternal welfare.",
       "verseLabel": "BG 2.1",
       "verseUrl": "https://vedabase.io/en/library/bg/2/1/",
@@ -27,11 +27,11 @@
       "prompt": "In BG 2.2, what does Krsna say about Arjuna's impurities (kasmalam)?",
       "choices": [
         "They reflect natural human sensitivity requiring gentle understanding",
-        "They lead not to higher planets but to infamy",
+        "They reveal spiritual advancement through compassionate discernment",
         "They demonstrate evolved moral reasoning about protecting life",
-        "They reveal spiritual advancement through compassionate discernment"
+        "They lead not to higher planets but to infamy"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krsna calls Arjuna's weakness kasmalam, not befitting an Aryan, and warns it leads to infamy, not higher elevation. He treats it as contamination that covers duty, not as a virtue. This shows that sentimental softness can be a disguise for bodily illusion.",
       "verseLabel": "BG 2.2",
       "verseUrl": "https://vedabase.io/en/library/bg/2/2/",
@@ -41,12 +41,12 @@
       "id": "bg2-q3",
       "prompt": "Why does Arjuna's respect for Bhisma and Drona create a moral dilemma in BG 2.4?",
       "choices": [
-        "They represent both his enemies and those worthy of worship",
-        "They are worthy of worship, so fighting them is never permissible",
         "They are weaker than him but demand false respect",
-        "They have betrayed their duty as warriors in this conflict"
+        "They have betrayed their duty as warriors in this conflict",
+        "They are worthy of worship, so fighting them is never permissible",
+        "They represent both his enemies and those worthy of worship"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Bhisma and Drona oppose Arjuna yet remain worshipable, creating a duty dilemma. Respect does not automatically cancel prescribed duty when elders support adharma. Arjuna must learn to honor persons while not endorsing their present side.",
       "verseLabel": "BG 2.4",
       "verseUrl": "https://vedabase.io/en/library/bg/2/4/",
@@ -57,11 +57,11 @@
       "prompt": "What attitude does Arjuna adopt in BG 2.7 toward Krsna?",
       "choices": [
         "He asks Krsna for advice but keeps final decision",
+        "He treats Krsna as equal friend not spiritual master",
         "He surrenders as a disciple and asks for instruction",
-        "He seeks reassurance from Krsna without accepting discipline",
-        "He treats Krsna as equal friend not spiritual master"
+        "He seeks reassurance from Krsna without accepting discipline"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Arjuna surrenders as a disciple and asks Krsna to instruct him. This is a shift from taking advice to accepting authority. Without surrender, Krsna's teaching would remain optional rather than decisive.",
       "verseLabel": "BG 2.7",
       "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
@@ -71,12 +71,12 @@
       "id": "bg2-q5",
       "prompt": "In the purport to BG 2.11, what does Srila Prabhupada explain about lamentation and wisdom?",
       "choices": [
-        "Grief for material loss shows sensitivity when grounded in philosophical awareness",
         "The wise lament neither the living nor dead, recognizing soul eternality",
-        "Mourning the soul's temporary material bondage indicates proper spiritual understanding",
-        "Compassionate sorrow for suffering bodies reflects evolved transcendental consciousness"
+        "Grief for material loss shows sensitivity when grounded in philosophical awareness",
+        "Compassionate sorrow for suffering bodies reflects evolved transcendental consciousness",
+        "Mourning the soul's temporary material bondage indicates proper spiritual understanding"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Srila Prabhupada explains that lamentation for material bodies-living or dead-indicates ignorance of the soul's eternal nature (pandita sama-darshina). The wise neither lament the living nor the dead because they recognize the soul beyond bodily modifications. Material sentiment (attachment to bodies) differs categorically from spiritual wisdom (vision of soul).",
       "verseLabel": "BG 2.11",
       "verseUrl": "https://vedabase.io/en/library/bg/2/11/",
@@ -86,12 +86,12 @@
       "id": "bg2-q6",
       "prompt": "In BG 2.12, what does Krsna establish about individual existence?",
       "choices": [
+        "Individuality is temporary illusion that will end after liberation",
         "There was a time when we did not exist",
         "Never was there a time when I did not exist",
-        "Individuality is temporary illusion that will end after liberation",
         "All beings merge into one existence in the future"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krsna says there was never a time when He, Arjuna, or the kings did not exist, nor will any cease to be. The verse establishes eternal individuality across past, present, and future. Why this matters: This directly rejects the idea that persons become ultimately undifferentiated; eternal relationship with Krsna remains meaningful.",
       "verseLabel": "BG 2.12",
       "verseUrl": "https://vedabase.io/en/library/bg/2/12/",
@@ -101,12 +101,12 @@
       "id": "bg2-q7",
       "prompt": "How does BG 2.13 illustrate the soul's continuity through bodily changes?",
       "choices": [
-        "Like consciousness evolving through progressive stages of awareness",
-        "As embodied soul passes from boyhood to youth to age",
         "Through gradual spiritual awakening from material ignorance to self-knowledge",
-        "As identity transforms from bodily identification to transcendental realization"
+        "As identity transforms from bodily identification to transcendental realization",
+        "Like consciousness evolving through progressive stages of awareness",
+        "As embodied soul passes from boyhood to youth to age"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "The same dehi passes from boyhood to youth to old age while the body changes. This everyday continuity supports the next step: death is another change of body, not the end of the self. Therefore grief based on bodily change is misplaced.",
       "verseLabel": "BG 2.13",
       "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
@@ -116,10 +116,10 @@
       "id": "bg2-q8",
       "prompt": "In BG 2.14, why are happiness and distress compared to winter and summer?",
       "choices": [
-        "Because material existence follows inevitable karmic patterns beyond our control",
+        "Because both experiences equally contribute to progressive spiritual maturation",
         "Temporary sensations come and go like seasons; endure them",
         "To show suffering and pleasure alternate in predictable karmic cycles",
-        "Because both experiences equally contribute to progressive spiritual maturation"
+        "Because material existence follows inevitable karmic patterns beyond our control"
       ],
       "correctIndex": 1,
       "feedback": "Happiness and distress arise from sense contact and come and go like seasons. Knowing they are temporary supports tolerance rather than panic or craving. Equanimity flows from clear perception, not forced numbness.",
@@ -131,12 +131,12 @@
       "id": "bg2-q9",
       "prompt": "According to BG 2.15, who is eligible for liberation?",
       "choices": [
-        "One who responds naturally to pleasure and pain with appropriate emotions",
-        "One steady and not disturbed by happiness or distress",
         "One who maintains detachment while pursuing prescribed material duties",
-        "One who transcends bodily needs through complete withdrawal from action"
+        "One who responds naturally to pleasure and pain with appropriate emotions",
+        "One who transcends bodily needs through complete withdrawal from action",
+        "One steady and not disturbed by happiness or distress"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "The dhira who is not disturbed by happiness and distress becomes fit for liberation. Qualification is about steadiness of consciousness, not perfect external conditions. Spiritual life is practiced now, amid dualities.",
       "verseLabel": "BG 2.15",
       "verseUrl": "https://vedabase.io/en/library/bg/2/15/",
@@ -146,12 +146,12 @@
       "id": "bg2-q10",
       "prompt": "In BG 2.31, what does Krsna say a kshatriya should consider regarding a righteous fight?",
       "choices": [
-        "Warfare should be avoided unless it is clearly sinful",
         "Nothing is higher for a kshatriya than a righteous fight",
+        "Battle is righteous only after conquering attachment and fear",
         "Fighting respected elders requires special caution and higher authorization",
-        "Battle is righteous only after conquering attachment and fear"
+        "Warfare should be avoided unless it is clearly sinful"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "For a kshatriya, nothing is higher than a righteous fight. Duty performed without material attachment is not a fall-down but a righteous engagement. Therefore avoiding one's prescribed dharma out of sentiment is not spiritual advancement.",
       "verseLabel": "BG 2.31",
       "verseUrl": "https://vedabase.io/en/library/bg/2/31/",
@@ -161,10 +161,10 @@
       "id": "bg2-q11",
       "prompt": "In the purport to BG 2.20, what does Srila Prabhupada explain as the symptom of the soul's presence?",
       "choices": [
-        "Life energy pervading the body produces observable warmth and vitality",
-        "Consciousness spread throughout the body like sunlight from the sun",
         "Coordinated biological functions indicate an organizing life principle within",
-        "Rational thought and self-awareness distinguish conscious beings from matter"
+        "Consciousness spread throughout the body like sunlight from the sun",
+        "Rational thought and self-awareness distinguish conscious beings from matter",
+        "Life energy pervading the body produces observable warmth and vitality"
       ],
       "correctIndex": 1,
       "feedback": "Consciousness is the symptom of the soul, like sunshine indicates the sun. It is not a product of matter but evidence of the living self within the body. When consciousness is absent, the soul has departed.",
@@ -176,12 +176,12 @@
       "id": "bg2-q12",
       "prompt": "How does the garment analogy in BG 2.22 refute the fear of death?",
       "choices": [
-        "Death brings complete annihilation of existence and identity",
         "It shows the soul remains unchanged while bodies are exchanged",
+        "Consciousness ceases when the body dies since both are interdependent",
         "Individual identity ceases when the soul merges into the supreme",
-        "Consciousness ceases when the body dies since both are interdependent"
+        "Death brings complete annihilation of existence and identity"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "As a person discards old clothes and accepts new ones, the soul changes bodies. The self remains the same while the outer covering is replaced. This reframes death as transition, not annihilation.",
       "verseLabel": "BG 2.22",
       "verseUrl": "https://vedabase.io/en/library/bg/2/22/",
@@ -192,11 +192,11 @@
       "prompt": "Why does BG 2.25 emphasize the soul as invisible, inconceivable and immutable?",
       "choices": [
         "Material observation provides the only reliable path to understanding reality",
-        "To show the soul transcends material perception and speculation",
         "Invisible phenomena require empirical verification before philosophical acceptance",
-        "The soul's immutable nature can be grasped through sustained philosophical analysis"
+        "The soul's immutable nature can be grasped through sustained philosophical analysis",
+        "To show the soul transcends material perception and speculation"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "The soul is described as invisible, inconceivable, and immutable, beyond material measurement. Because it does not change, bodily events cannot touch it. Realization requires hearing from shabda-pramana, not only sense-based proof.",
       "verseLabel": "BG 2.25",
       "verseUrl": "https://vedabase.io/en/library/bg/2/25/",
@@ -206,10 +206,10 @@
       "id": "bg2-q14",
       "prompt": "In BG 2.30, why need one not grieve for any living being?",
       "choices": [
-        "Grief honors the departed and demonstrates proper emotional sensitivity",
+        "Material suffering lacks ultimate reality, making lamentation illusory",
         "Because he who dwells in the body cannot be slain",
-        "Rebirth into another body makes death a temporary transition only",
-        "Material suffering lacks ultimate reality, making lamentation illusory"
+        "Grief honors the departed and demonstrates proper emotional sensitivity",
+        "Rebirth into another body makes death a temporary transition only"
       ],
       "correctIndex": 1,
       "feedback": "The indwelling self cannot be slain, so lamentation has no ultimate basis. The body can be destroyed, but the soul is unaffected. This ends grief at the root, not merely by offering consolation.",
@@ -221,12 +221,12 @@
       "id": "bg2-q15",
       "prompt": "According to BG 2.47, what is the proper relationship between work and its results?",
       "choices": [
-        "One has right to fruits if work is done properly",
         "One has right to perform duty but not to fruits",
-        "One should avoid work entirely to prevent attachment to results",
-        "One should work only when results are guaranteed to be favorable"
+        "One should work only when results are guaranteed to be favorable",
+        "One has right to fruits if work is done properly",
+        "One should avoid work entirely to prevent attachment to results"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "One has the right to perform prescribed duty, but not to the fruits. Why this matters: When results become the motive, anxiety and attachment enter and duty becomes a transaction. Karma-yoga means acting as an offering and leaving outcomes to Krsna.",
       "verseLabel": "BG 2.47",
       "verseUrl": "https://vedabase.io/en/library/bg/2/47/",
@@ -236,12 +236,12 @@
       "id": "bg2-q16",
       "prompt": "In BG 2.49, how does Krsna characterize work done for fruitive results compared to buddhi-yoga?",
       "choices": [
-        "Fruitive work can be offered to Krsna later for purification",
-        "Abominable activities should be kept far distant by devotional service",
+        "Desiring fruits from work is natural and spiritually neutral",
         "Planning one's work intelligently demonstrates buddhi-yoga in practice",
-        "Desiring fruits from work is natural and spiritually neutral"
+        "Abominable activities should be kept far distant by devotional service",
+        "Fruitive work can be offered to Krsna later for purification"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krsna calls fruitive work inferior and tells Arjuna to keep it far away by buddhi-yoga. Desire for results binds one to anxiety and exploitation mentality. Buddhi-yoga is a different aim: duty as offering, not transaction.",
       "verseLabel": "BG 2.49",
       "verseUrl": "https://vedabase.io/en/library/bg/2/49/",
@@ -251,9 +251,9 @@
       "id": "bg2-q17",
       "prompt": "According to BG 2.55, what characterizes one in pure transcendental consciousness (sthita-prajna)?",
       "choices": [
-        "One who moderates all sense desires through strict disciplined regulation",
-        "One who gives up all sense desires, satisfied in the self alone",
         "One who fulfills all desires systematically to achieve final detachment",
+        "One who gives up all sense desires, satisfied in the self alone",
+        "One who moderates all sense desires through strict disciplined regulation",
         "One who analyzes desires philosophically before acting on them selectively"
       ],
       "correctIndex": 1,
@@ -266,9 +266,9 @@
       "id": "bg2-q18",
       "prompt": "How do the arguments about the soul's eternality (BG 2.12-25) and Arjuna's warrior duty (BG 2.31-32) work together to resolve his crisis?",
       "choices": [
-        "Both reveal duty transcends personal comfort; act despite difficulty",
-        "Eternal soul makes death illusory; kshatriya duty makes fighting righteous",
         "They contradict each other revealing inconsistency in teaching",
+        "Eternal soul makes death illusory; kshatriya duty makes fighting righteous",
+        "Both reveal duty transcends personal comfort; act despite difficulty",
         "Either fighting or fleeing would be acceptable since all choices are relative"
       ],
       "correctIndex": 1,
@@ -281,12 +281,12 @@
       "id": "bg2-q19",
       "prompt": "How does Prabhupada's teaching on tolerating dualities (BG 2.14-15) inform the instruction to perform duty with equanimity (BG 2.48)?",
       "choices": [
-        "Forcefully suppressing all emotional reactions creates true spiritual detachment",
         "Recognizing impermanence of sense experience enables balanced action in duties",
         "Work outcomes are predetermined by fate so they don't actually matter",
+        "Forcefully suppressing all emotional reactions creates true spiritual detachment",
         "Experiencing material pleasures helps one advance spiritually through gradual satisfaction"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Seeing dualities as temporary (2.14-15) supports yoga-stha action (2.48). Insight into impermanence makes outcomes less gripping, enabling steady duty. Equanimity is born from knowledge, not forced stoicism.",
       "verseLabel": "BG 2.14-48",
       "verseUrl": "https://vedabase.io/en/library/bg/2/14/",
@@ -296,12 +296,12 @@
       "id": "bg2-q20",
       "prompt": "In the purport to BG 2.7, what false path does Srila Prabhupada warn against regarding family attachment?",
       "choices": [
-        "Families naturally protect each other from death eternally",
-        "Family attachment is based on 'skin disease' mentality",
         "Only humans can be affectionate to relatives and family",
-        "Society can definitely save one from death through collective effort"
+        "Society can definitely save one from death through collective effort",
+        "Family attachment is based on 'skin disease' mentality",
+        "Families naturally protect each other from death eternally"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Prabhupada calls family attachment a 'skin disease' when it is treated as ultimate shelter. Why this matters: Family duty remains, but family cannot save one from death or give final security. Use family life as a field of service, not as the soul's refuge.",
       "verseLabel": "BG 2.7",
       "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
@@ -311,12 +311,12 @@
       "id": "bg2-q21",
       "prompt": "In the purport to BG 2.7, who does Srila Prabhupada describe as a miserly person (krpana)?",
       "choices": [
-        "One who hoards wealth through legitimate means and proper work",
-        "One who solves life's problems as a human should",
         "One who quits without understanding self-realization like cats and dogs",
-        "One who becomes detached from family life and material affairs"
+        "One who becomes detached from family life and material affairs",
+        "One who hoards wealth through legitimate means and proper work",
+        "One who solves life's problems as a human should"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "The krpana wastes the human form by quitting life without self-realization, like cats and dogs. Human life is meant for atma-jnana, not only bodily maintenance. To ignore that purpose is the real miserliness.",
       "verseLabel": "BG 2.7",
       "verseUrl": "https://vedabase.io/en/library/bg/2/7/",
@@ -326,10 +326,10 @@
       "id": "bg2-q22",
       "prompt": "In BG 2.33, what consequence does Krsna warn if Arjuna refuses to fight?",
       "choices": [
-        "His refusal may appear compassionate but contradicts his ordained duty",
+        "Avoiding bloodshed seems noble, but it does not erase obligation",
         "He will incur sin and lose his reputation as a warrior",
-        "He will be praised by some, but the result will be moral decline",
-        "Avoiding bloodshed seems noble, but it does not erase obligation"
+        "His refusal may appear compassionate but contradicts his ordained duty",
+        "He will be praised by some, but the result will be moral decline"
       ],
       "correctIndex": 1,
       "feedback": "Krsna warns that refusing to fight will bring sin and loss of reputation. Neglect of prescribed duty is not transcendence, even if justified with 'compassion.' A sentimental motive does not cancel dharmic accountability.",
@@ -341,12 +341,12 @@
       "id": "bg2-q23",
       "prompt": "In the purport to BG 2.13, why does Srila Prabhupada say the Mayavadi theory of oneness cannot be entertained?",
       "choices": [
-        "Because individuality is only a temporary illusion during material existence",
-        "Because cutting the Supreme into fragmental souls would make Him changeable",
         "Because oneness philosophy contradicts the need for spiritual teachers",
-        "Because the soul's eternal nature prevents any philosophical speculation"
+        "Because the soul's eternal nature prevents any philosophical speculation",
+        "Because individuality is only a temporary illusion during material existence",
+        "Because cutting the Supreme into fragmental souls would make Him changeable"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "If souls were 'cut' from the Supreme, the Supreme would become changeable, contradicting His immutability. Individual souls exist eternally as distinct persons, without dividing Krsna. This preserves both God's unchangeability and the soul's individuality.",
       "verseLabel": "BG 2.13",
       "verseUrl": "https://vedabase.io/en/library/bg/2/13/",
@@ -356,12 +356,12 @@
       "id": "bg2-q24",
       "prompt": "In BG 2.38, how does Krsna instruct Arjuna to regard happiness/distress, gain/loss, victory/defeat?",
       "choices": [
-        "Fight for victory, since success proves righteousness",
         "Treat them as equal and fight, incurring no sin",
+        "Fight for victory, since success proves righteousness",
         "Withdraw from battle to maintain inner peace",
         "Fight only if victory is assured"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krsna orders Arjuna to treat happiness/distress, gain/loss, victory/defeat as equal and then fight. This is active equanimity: engage in duty without bondage to outcomes. Such equipoise is the basis for sinless action.",
       "verseLabel": "BG 2.38",
       "verseUrl": "https://vedabase.io/en/library/bg/2/38/",
@@ -371,12 +371,12 @@
       "id": "bg2-q25",
       "prompt": "How does Prabhupada's teaching that the body is like clothes (BG 2.22) integrate with Krsna's instruction to fight without attachment to results (BG 2.38, 2.47)?",
       "choices": [
+        "Understanding the soul's nature means one should avoid all material responsibilities",
         "Soul and bodily action operate in completely separate realms with no connection",
         "Soul-body distinction enables duty performance without existential investment in outcomes",
-        "Understanding the soul's nature means one should avoid all material responsibilities",
         "True detachment requires mechanically suppressing all natural emotions during action"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "If the body is like clothing, bodily outcomes do not touch the real self. That insight supports fighting and working without attachment to results (2.38, 2.47). Knowledge turns action into duty and offering rather than egoic grasping.",
       "verseLabel": "BG 2.22-47",
       "verseUrl": "https://vedabase.io/en/library/bg/2/22/",

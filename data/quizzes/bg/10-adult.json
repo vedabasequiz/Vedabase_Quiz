@@ -11,10 +11,10 @@
       "id": "bg10-q1",
       "prompt": "In BG 10.1, what does Krishna offer to reveal to Arjuna?",
       "choices": [
-        "Mystical powers through material manipulation and discipline",
-        "My divine opulences and supreme position",
         "Knowledge of worldly success and political influence",
-        "Military strategies for winning the imminent battle"
+        "My divine opulences and supreme position",
+        "Military strategies for winning the imminent battle",
+        "Mystical powers through material manipulation and discipline"
       ],
       "correctIndex": 1,
       "feedback": "Krishna offers to speak further confidential knowledge because Arjuna is His dear friend. He will reveal His divine opulences and supreme position - knowledge that brings supreme benefit. The principle: Krishna reveals Himself progressively to devoted souls. This confidential teaching shows how to recognize Krishna's presence throughout creation, establishing relationship between the infinite and finite through His manifestations.",
@@ -25,12 +25,12 @@
       "id": "bg10-q2",
       "prompt": "In the purport to BG 10.2, what false path does Srila Prabhupada warn about regarding understanding Krishna?",
       "choices": [
-        "That Krishna can be understood through mental speculation and scholarly analysis alone",
-        "That demigods and great sages possess complete knowledge of Krishna's nature",
         "That sensory experience combined with logic reveals Krishna's transcendental position fully",
-        "That material qualification determines one's ability to approach the Supreme Lord"
+        "That Krishna can be understood through mental speculation and scholarly analysis alone",
+        "That material qualification determines one's ability to approach the Supreme Lord",
+        "That demigods and great sages possess complete knowledge of Krishna's nature"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Srila Prabhupada warns that even demigods and great sages cannot understand Krishna through mental speculation. Scholarship is not the qualification to understand Krishna. The trap: thinking intellectual analysis reveals transcendental truth. Why this matters: The false path is approaching Krishna through mental gymnastics rather than devotional surrender. Real understanding comes from the Lord revealing Himself to surrendered devotees, not from speculative philosophy reaching conclusions about Him.",
       "verseLabel": "BG 10.2",
       "verseUrl": "https://vedabase.io/en/library/bg/10/2/"
@@ -39,12 +39,12 @@
       "id": "bg10-q3",
       "prompt": "In BG 10.3, what characterizes one who truly knows Krishna?",
       "choices": [
+        "Attachment to family duties and worldly material obligations",
         "Philosophical uncertainty about the ultimate nature of reality",
-        "Freedom from delusion with complete loving devotion",
         "Hesitation between material and transcendental spiritual paths",
-        "Attachment to family duties and worldly material obligations"
+        "Freedom from delusion with complete loving devotion"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "One who knows Krishna as the unborn, beginningless Supreme Lord of all worlds becomes undeluded among men and freed from all sins. True knowledge brings complete liberation from material contamination. The contrast: ignorance binds through false identification; knowledge liberates through correct understanding of Krishna's supreme position and one's relationship to Him as eternal servant.",
       "verseLabel": "BG 10.3",
       "verseUrl": "https://vedabase.io/en/library/bg/10/3/"
@@ -53,12 +53,12 @@
       "id": "bg10-q4",
       "prompt": "What does BG 10.4-5 teach about Krishna's divine manifestations?",
       "choices": [
-        "Divine qualities emerge from material nature itself",
         "All divine qualities originate from His nature",
-        "Spiritual powers develop through personal austerity",
-        "Consciousness arises from complex material arrangements"
+        "Divine qualities emerge from material nature itself",
+        "Consciousness arises from complex material arrangements",
+        "Spiritual powers develop through personal austerity"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Intelligence, knowledge, freedom from doubt, forgiveness, truthfulness, control of senses and mind, happiness, distress, birth, death, fear, fearlessness, nonviolence, equanimity, satisfaction, austerity, charity, fame, and infamy - all these various qualities originate from Krishna alone. The philosophical point: consciousness and its qualities are not material emergent properties but divine emanations from the Supreme Person. This refutes materialism at its foundation.",
       "verseLabel": "BG 10.4",
       "verseUrl": "https://vedabase.io/en/library/bg/10/4/"
@@ -67,12 +67,12 @@
       "id": "bg10-q5",
       "prompt": "In the purport to BG 10.8, what warning does Srila Prabhupada give about approaching Bhagavad-gita?",
       "choices": [
-        "That only fools consider Krishna an ordinary man and follow unauthorized commentaries",
         "That scholarly analysis provides the best foundation for all spiritual understanding",
-        "That devotional sentiment should be balanced with intellectual skepticism very carefully",
-        "That Krishna consciousness requires extensive academic credentials before beginning spiritual practice"
+        "That only fools consider Krishna an ordinary man and follow unauthorized commentaries",
+        "That Krishna consciousness requires extensive academic credentials before beginning spiritual practice",
+        "That devotional sentiment should be balanced with intellectual skepticism very carefully"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Srila Prabhupada warns that only a fool would consider Krishna to be an ordinary man. One should avoid all unauthorized commentaries and interpretations on Bhagavad-gita. The psychological trap: thinking human analysis can judge the Supreme. Why this matters: The false path is approaching scripture through the filter of mundane commentators who don't accept Krishna's supreme position. Real advancement comes from learning Krishna consciousness through bona fide spiritual masters with references from Vedic literature, proceeding with determination and firmness.",
       "verseLabel": "BG 10.8",
       "verseUrl": "https://vedabase.io/en/library/bg/10/8/"
@@ -82,9 +82,9 @@
       "prompt": "In the purport to BG 10.10, how does Srila Prabhupada distinguish buddhi-yoga from karma-yoga and jnana-yoga?",
       "choices": [
         "Buddhi-yoga is complete Krishna consciousness through devotional service; karma-yoga pursues fruits; jnana-yoga pursues mental speculation",
-        "All three yogas lead equally to the same destination through different methods and approaches",
+        "Karma-yoga and jnana-yoga are superior because they require more personal effort and discipline",
         "Buddhi-yoga emphasizes intellectual understanding over devotional engagement and practical loving service to Krishna",
-        "Karma-yoga and jnana-yoga are superior because they require more personal effort and discipline"
+        "All three yogas lead equally to the same destination through different methods and approaches"
       ],
       "correctIndex": 0,
       "feedback": "Srila Prabhupada explains that when one knows the goal is Krishna but is addicted to fruits of activities, it's karma-yoga. When one takes pleasure in mental speculation to understand Krishna, it's jnana-yoga. When one seeks Krishna completely in devotional service, it's buddhi-yoga - the complete yoga and highest perfectional stage. Why this matters: The false path is mixing methods or remaining in preliminary stages. Real buddhi-yoga means direct Krishna consciousness with love and devotion, not speculation or fruitive work.",
@@ -95,12 +95,12 @@
       "id": "bg10-q7",
       "prompt": "What does BG 10.11 teach about Krishna's compassion?",
       "choices": [
-        "He remains neutral toward His devotees' struggles",
         "He destroys ignorance with transcendental knowledge",
+        "He remains neutral toward His devotees' struggles",
         "He tests devotees with philosophical doubts",
         "He withdraws to cultivate their independence"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Out of compassion for those devoted to Him, dwelling in their hearts, Krishna destroys the darkness of ignorance with the shining lamp of knowledge. The divine grace: Krishna personally intervenes to remove obstacles. The principle: devotion attracts Krishna's mercy; mercy brings enlightenment. This is not mechanical cause-effect but personal relationship where the Supreme becomes subordinate to His devotee's welfare.",
       "verseLabel": "BG 10.11",
       "verseUrl": "https://vedabase.io/en/library/bg/10/11/"
@@ -109,12 +109,12 @@
       "id": "bg10-q8",
       "prompt": "In the purport to BG 10.13, what evidence does Srila Prabhupada cite about Krishna's supremacy?",
       "choices": [
-        "That great sages Narada, Asita, Devala, and Vyasa all confirm Krishna as Supreme Personality",
-        "That philosophical speculation gradually leads sincere seekers to accept Krishna eventually",
+        "That Krishna's supremacy is a matter of sectarian belief rather than Vedic truth",
         "That various authorities hold different opinions about Krishna's position in reality",
-        "That Krishna's supremacy is a matter of sectarian belief rather than Vedic truth"
+        "That great sages Narada, Asita, Devala, and Vyasa all confirm Krishna as Supreme Personality",
+        "That philosophical speculation gradually leads sincere seekers to accept Krishna eventually"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Srila Prabhupada emphasizes that Arjuna accepts Krishna as the Supreme Personality, confirmed by great authorities like Narada, Asita, Devala, and Vyasa. The verse establishes that all great sages and demigods recognize Krishna's supremacy. Why this matters: The false path is thinking Krishna's position is debatable or a matter of opinion. Real understanding accepts the unanimous verdict of all authorized spiritual authorities throughout Vedic history that Krishna is the Supreme Absolute Truth.",
       "verseLabel": "BG 10.13",
       "verseUrl": "https://vedabase.io/en/library/bg/10/13/"
@@ -123,12 +123,12 @@
       "id": "bg10-q9",
       "prompt": "In BG 10.14, what does Krishna claim to know?",
       "choices": [
-        "Partial understanding of the material manifestations",
         "All divine manifestations and opulences completely",
-        "Awareness limited by material conditioning and forms",
-        "Knowledge of physical phenomena and external forms"
+        "Partial understanding of the material manifestations",
+        "Knowledge of physical phenomena and external forms",
+        "Awareness limited by material conditioning and forms"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Arjuna acknowledges that only Krishna Himself knows His own divine manifestations and opulences. Even great personalities cannot fully comprehend Krishna's unlimited nature. The epistemological point: finite intelligence cannot exhaust knowledge of the infinite. Yet Krishna mercifully reveals Himself to devotees, giving enough knowledge to develop relationship while maintaining His inconceivable transcendence. This is knowledge through revelation, not speculation.",
       "verseLabel": "BG 10.14",
       "verseUrl": "https://vedabase.io/en/library/bg/10/14/"
@@ -137,12 +137,12 @@
       "id": "bg10-q10",
       "prompt": "In the purport to BG 10.15, what does Srila Prabhupada explain about knowing Krishna fully?",
       "choices": [
-        "That only Krishna Himself can know His own unlimited opulences and manifestations completely",
         "That advanced yogis through meditation can comprehend all of Krishna's divine qualities",
+        "That only Krishna Himself can know His own unlimited opulences and manifestations completely",
         "That scholarly study of Vedic texts provides complete knowledge of Krishna's nature",
         "That material intelligence when highly developed can grasp Krishna's transcendental position"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Srila Prabhupada explains that Krishna alone knows His own opulences fully. Even great personalities cannot completely comprehend all His qualities and manifestations. The philosophical insight: the infinite cannot be fully grasped by the finite. Why this matters: The false path is thinking one can exhaust knowledge of Krishna through study or meditation. Real understanding accepts Krishna's inconceivable nature while progressively deepening relationship with Him through devotion, never claiming complete comprehension.",
       "verseLabel": "BG 10.15",
       "verseUrl": "https://vedabase.io/en/library/bg/10/15/"
@@ -152,11 +152,11 @@
       "prompt": "According to BG 10.20, what is Krishna's declaration about His nature?",
       "choices": [
         "I am confined by time and space",
+        "I depend on the Supreme Brahman's support",
         "I am the Self, beginning middle and end",
-        "I appear and disappear within material cycles",
-        "I depend on the Supreme Brahman's support"
+        "I appear and disappear within material cycles"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna declares He is the Self seated in the hearts of all beings, the beginning, middle, and end of all existence. He is the Supersoul accompanying each individual soul. The ontological foundation: Krishna is simultaneously the source of all beings, their sustainer throughout existence, and their ultimate destination. Nothing exists before Him, nothing exists apart from Him, nothing exists after Him. All temporal and spatial categories dissolve in His transcendence.",
       "verseLabel": "BG 10.20",
       "verseUrl": "https://vedabase.io/en/library/bg/10/20/"
@@ -165,138 +165,138 @@
       "id": "bg10-q12",
       "prompt": "In BG 10.21, what example does Krishna give of His opulences in the material world?",
       "choices": [
-          "I exhibit few manifestations in visible creation",
-          "I am the sun among luminaries, Marici among Maruts, and the moon among stars",
-          "I withdraw my presence from natural phenomena",
-          "Matter operates entirely through independent laws"
+        "I am the sun among luminaries, Marici among Maruts, and the moon among stars",
+        "I exhibit few manifestations in visible creation",
+        "I withdraw my presence from natural phenomena",
+        "Matter operates entirely through independent laws"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna begins describing His principal opulences: among Adityas He is Vishnu, among luminaries the radiant sun, among Maruts He is Marici, among stars the moon. The pedagogical method: Krishna uses familiar categories to help limited human consciousness grasp unlimited divine nature. Each manifestation represents Krishna's excellence in that category, teaching devotees to see His supremacy everywhere while recognizing all power flows from the source.",
       "verseLabel": "BG 10.21",
       "verseUrl": "https://vedabase.io/en/library/bg/10/21/"
     },
     {
       "id": "bg10-q13",
-        "prompt": "What does BG 10.22 teach about the highest of Krishna's manifestations?",
-        "choices": [
-          "I am the Sama Veda among the Vedas, Indra among demigods, the mind among senses, and consciousness among living beings",
-          "All rests on Me like pearls on thread",
-          "I rank among the lesser transcendent principles",
-          "Divine manifestations function independently of each other"
-        ],
-        "correctIndex": 0,
-        "feedback": "Among the Vedas Krishna is the Sama Veda, among demigods He is Indra, among senses the mind, among living beings consciousness. The hierarchical principle: even among exalted categories, Krishna is the most exalted. This systematic presentation shows Krishna's supremacy is not sectarian bias but metaphysical reality - He is the highest in every dimension of existence, the thread upon which all pearls of manifestation are strung.",
-        "verseLabel": "BG 10.22",
-        "verseUrl": "https://vedabase.io/en/library/bg/10/22/"
+      "prompt": "What does BG 10.22 teach about the highest of Krishna's manifestations?",
+      "choices": [
+        "I am the Sama Veda among the Vedas, Indra among demigods, the mind among senses, and consciousness among living beings",
+        "Divine manifestations function independently of each other",
+        "All rests on Me like pearls on thread",
+        "I rank among the lesser transcendent principles"
+      ],
+      "correctIndex": 0,
+      "feedback": "Among the Vedas Krishna is the Sama Veda, among demigods He is Indra, among senses the mind, among living beings consciousness. The hierarchical principle: even among exalted categories, Krishna is the most exalted. This systematic presentation shows Krishna's supremacy is not sectarian bias but metaphysical reality - He is the highest in every dimension of existence, the thread upon which all pearls of manifestation are strung.",
+      "verseLabel": "BG 10.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/10/22/"
     },
     {
       "id": "bg10-q14",
-          "prompt": "In BG 10.23, which opulences does Krishna list?",
-          "choices": [
-            "He is Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
-            "He is Vishnu among the Adityas, the sun among luminaries, Marici among Maruts, and the moon among stars",
-            "He is Indra among demigods, the mind among senses, and consciousness among living beings",
-            "He is the Sama Veda among the Vedas"
-          ],
-          "correctIndex": 0,
-          "feedback": "This verse lists one set of Krishna's vibhutis - He is the foremost in each category: Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains. This illustrates Krishna's supremacy and the personal nature of the Absolute Truth.",
-          "verseLabel": "BG 10.23",
-          "verseUrl": "https://vedabase.io/en/library/bg/10/23/"
+      "prompt": "In BG 10.23, which opulences does Krishna list?",
+      "choices": [
+        "He is the Sama Veda among the Vedas",
+        "He is Vishnu among the Adityas, the sun among luminaries, Marici among Maruts, and the moon among stars",
+        "He is Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
+        "He is Indra among demigods, the mind among senses, and consciousness among living beings"
+      ],
+      "correctIndex": 2,
+      "feedback": "This verse lists one set of Krishna's vibhutis - He is the foremost in each category: Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains. This illustrates Krishna's supremacy and the personal nature of the Absolute Truth.",
+      "verseLabel": "BG 10.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/10/23/"
     },
     {
       "id": "bg10-q15",
-        "prompt": "In BG 10.24, which opulences does Krishna identify with?",
-        "choices": [
-          "I am Skanda among great generals and the ocean among bodies of water",
-          "I am the mind among the senses and consciousness among living beings",
-          "I am Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
-          "I am the Sama Veda among the Vedas"
-        ],
-        "correctIndex": 0,
-        "feedback": "In BG 10.24, Krishna says He is Skanda (Kartikeya) among great generals and the ocean among bodies of water. This demonstrates that Krishna is the greatest in every category, and His manifestations are the most prominent and powerful.",
-        "verseLabel": "BG 10.24",
-        "verseUrl": "https://vedabase.io/en/library/bg/10/24/"
+      "prompt": "In BG 10.24, which opulences does Krishna identify with?",
+      "choices": [
+        "I am the Sama Veda among the Vedas",
+        "I am Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
+        "I am the mind among the senses and consciousness among living beings",
+        "I am Skanda among great generals and the ocean among bodies of water"
+      ],
+      "correctIndex": 3,
+      "feedback": "In BG 10.24, Krishna says He is Skanda (Kartikeya) among great generals and the ocean among bodies of water. This demonstrates that Krishna is the greatest in every category, and His manifestations are the most prominent and powerful.",
+      "verseLabel": "BG 10.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/10/24/"
     },
     {
       "id": "bg10-q16",
-        "prompt": "What does BG 10.25 teach about Krishna's opulences among sages, sacrifices, and mountains?",
-        "choices": [
-          "He is Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains",
-          "He is Skanda among generals and the ocean among bodies of water",
-          "He is Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
-          "He is the Sama Veda among the Vedas"
-        ],
-        "correctIndex": 0,
-        "feedback": "In BG 10.25, Krishna says He is Bhrigu among sages, Om among vibrations, japa (chanting) among sacrifices, and the Himalayas among mountains. This illustrates Krishna's supremacy in spiritual, ritual, and natural categories.",
-        "verseLabel": "BG 10.25",
-        "verseUrl": "https://vedabase.io/en/library/bg/10/25/"
+      "prompt": "What does BG 10.25 teach about Krishna's opulences among sages, sacrifices, and mountains?",
+      "choices": [
+        "He is Skanda among generals and the ocean among bodies of water",
+        "He is Shankara among Rudras, Kubera among Yakshas and Rakshasas, fire among Vasus, and Meru among mountains",
+        "He is Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains",
+        "He is the Sama Veda among the Vedas"
+      ],
+      "correctIndex": 2,
+      "feedback": "In BG 10.25, Krishna says He is Bhrigu among sages, Om among vibrations, japa (chanting) among sacrifices, and the Himalayas among mountains. This illustrates Krishna's supremacy in spiritual, ritual, and natural categories.",
+      "verseLabel": "BG 10.25",
+      "verseUrl": "https://vedabase.io/en/library/bg/10/25/"
     },
     {
       "id": "bg10-q17",
-          "prompt": "According to BG 10.26, which opulences does Krishna list?",
-          "choices": [
-            "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings",
-            "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Skanda among perfected beings",
-            "I am the banyan tree among trees, Narada among sages, Skanda among Gandharvas, and Kapila among perfected beings",
-            "I am the banyan tree among trees, Bhrigu among sages, Citraratha among Gandharvas, and Kapila among perfected beings"
-          ],
-          "correctIndex": 0,
-          "feedback": "In BG 10.26, Krishna says He is the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings. This verse highlights Krishna's supremacy as the greatest in every category, teaching us to see the divine source behind all excellence.",
-          "verseLabel": "BG 10.26",
-          "verseUrl": "https://vedabase.io/en/library/bg/10/26/"
+      "prompt": "According to BG 10.26, which opulences does Krishna list?",
+      "choices": [
+        "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Skanda among perfected beings",
+        "I am the banyan tree among trees, Bhrigu among sages, Citraratha among Gandharvas, and Kapila among perfected beings",
+        "I am the banyan tree among trees, Narada among sages, Skanda among Gandharvas, and Kapila among perfected beings",
+        "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings"
+      ],
+      "correctIndex": 3,
+      "feedback": "In BG 10.26, Krishna says He is the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings. This verse highlights Krishna's supremacy as the greatest in every category, teaching us to see the divine source behind all excellence.",
+      "verseLabel": "BG 10.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/10/26/"
     },
     {
       "id": "bg10-q18",
-        "prompt": "In BG 10.27, which opulences does Krishna identify with?",
-        "choices": [
-          "I am Ucchaihshravas among horses, Airavata among elephants, and the king among men",
-          "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings",
-          "I am Skanda among great generals and the ocean among bodies of water",
-          "I am the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents"
-        ],
-        "correctIndex": 0,
-        "feedback": "In BG 10.27, Krishna says He is Ucchaihshravas among horses, Airavata among elephants, and the king among men. The point is not zoology or politics, but recognizing the Supreme as the peak excellence within each category, so the mind rises from impressive effects to the divine source behind them.",
-        "verseLabel": "BG 10.27",
-        "verseUrl": "https://vedabase.io/en/library/bg/10/27/"
+      "prompt": "In BG 10.27, which opulences does Krishna identify with?",
+      "choices": [
+        "I am the banyan tree among trees, Narada among sages, Citraratha among Gandharvas, and Kapila among perfected beings",
+        "I am Skanda among great generals and the ocean among bodies of water",
+        "I am the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents",
+        "I am Ucchaihshravas among horses, Airavata among elephants, and the king among men"
+      ],
+      "correctIndex": 3,
+      "feedback": "In BG 10.27, Krishna says He is Ucchaihshravas among horses, Airavata among elephants, and the king among men. The point is not zoology or politics, but recognizing the Supreme as the peak excellence within each category, so the mind rises from impressive effects to the divine source behind them.",
+      "verseLabel": "BG 10.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/10/27/"
     },
     {
       "id": "bg10-q19",
-        "prompt": "What does BG 10.28 teach about Krishna's opulences among weapons, cows, procreation, and serpents?",
-        "choices": [
-          "He is the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents",
-          "He is Skanda among generals and the ocean among bodies of water",
-          "He is Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains",
-          "He is Vasudeva among the Vrishnis, Arjuna among the Pandavas, Vyasa among sages, and Ushana among great thinkers"
-        ],
-        "correctIndex": 0,
-        "feedback": "In BG 10.28, Krishna says He is the thunderbolt among weapons, Kamadhenu among cows, Kandarpa (Cupid) among causes for procreation, and Vasuki among serpents. This demonstrates Krishna's supremacy in both material and living categories.",
-        "verseLabel": "BG 10.28",
-        "verseUrl": "https://vedabase.io/en/library/bg/10/28/"
+      "prompt": "What does BG 10.28 teach about Krishna's opulences among weapons, cows, procreation, and serpents?",
+      "choices": [
+        "He is Vasudeva among the Vrishnis, Arjuna among the Pandavas, Vyasa among sages, and Ushana among great thinkers",
+        "He is Skanda among generals and the ocean among bodies of water",
+        "He is Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains",
+        "He is the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents"
+      ],
+      "correctIndex": 3,
+      "feedback": "In BG 10.28, Krishna says He is the thunderbolt among weapons, Kamadhenu among cows, Kandarpa (Cupid) among causes for procreation, and Vasuki among serpents. This demonstrates Krishna's supremacy in both material and living categories.",
+      "verseLabel": "BG 10.28",
+      "verseUrl": "https://vedabase.io/en/library/bg/10/28/"
     },
     {
       "id": "bg10-q20",
-        "prompt": "In BG 10.29, which opulences does Krishna list?",
-        "choices": [
-          "He is Ananta among Nagas, Varuna among aquatic beings, Aryama among ancestors, and Yama among controllers",
-          "He is the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents",
-          "He is Skanda among generals and the ocean among bodies of water",
-          "He is Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains"
-        ],
-        "correctIndex": 0,
-        "feedback": "In BG 10.29, Krishna says He is Ananta among Nagas, Varuna among aquatic beings, Aryama among ancestors, and Yama among controllers. This shows Krishna's supremacy in the categories of serpents, aquatic beings, ancestors, and controllers.",
-        "verseLabel": "BG 10.29",
-        "verseUrl": "https://vedabase.io/en/library/bg/10/29/"
+      "prompt": "In BG 10.29, which opulences does Krishna list?",
+      "choices": [
+        "He is the thunderbolt among weapons, Kamadhenu among cows, Kandarpa among causes for procreation, and Vasuki among serpents",
+        "He is Bhrigu among sages, Om among vibrations, japa among sacrifices, and the Himalayas among mountains",
+        "He is Ananta among Nagas, Varuna among aquatic beings, Aryama among ancestors, and Yama among controllers",
+        "He is Skanda among generals and the ocean among bodies of water"
+      ],
+      "correctIndex": 2,
+      "feedback": "In BG 10.29, Krishna says He is Ananta among Nagas, Varuna among aquatic beings, Aryama among ancestors, and Yama among controllers. This shows Krishna's supremacy in the categories of serpents, aquatic beings, ancestors, and controllers.",
+      "verseLabel": "BG 10.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/10/29/"
     },
     {
       "id": "bg10-q21",
       "prompt": "In the purport to BG 10.39, what psychological trap does Srila Prabhupada warn against when appreciating Krishna's opulences?",
       "choices": [
-          "That one may become attached to Krishna's material manifestations rather than Krishna Himself",
-          "That seeing Krishna's opulence everywhere automatically produces spiritual advancement without devotional practice",
-          "That appreciating divine manifestations is unnecessary for any devotional progress whatsoever",
-          "That material beauty and power have no connection to Krishna's supreme spiritual nature"
+        "That appreciating divine manifestations is unnecessary for any devotional progress whatsoever",
+        "That material beauty and power have no connection to Krishna's supreme spiritual nature",
+        "That one may become attached to Krishna's material manifestations rather than Krishna Himself",
+        "That seeing Krishna's opulence everywhere automatically produces spiritual advancement without devotional practice"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Srila Prabhupada explains that everything glorious, beautiful, or powerful is but a spark of Krishna's splendor. The trap: becoming fascinated with the manifestation rather than the source. Why this matters: The false path is stopping at appreciation of opulence without progressing to devotion to the opulent person. Real advancement means seeing all beauty and power as reminders to worship Krishna, using manifestations as stepping stones to the Supreme Person, not becoming attached to them as ends in themselves.",
       "verseLabel": "BG 10.39",
       "verseUrl": "https://vedabase.io/en/library/bg/10/39/"
@@ -305,12 +305,12 @@
       "id": "bg10-q22",
       "prompt": "In the purport to BG 10.42, what does Srila Prabhupada explain about the purpose of Krishna's opulence descriptions?",
       "choices": [
+        "That intellectual understanding of Krishna's manifestations replaces need for surrender to Him",
         "That detailed knowledge of all manifestations is essential before devotional service can begin",
-        "That one fragment of Krishna sustains the entire universe; simply know this and engage in bhakti",
         "That comprehensive study of all opulences gradually produces strong devotional attachment naturally",
-        "That intellectual understanding of Krishna's manifestations replaces need for surrender to Him"
+        "That one fragment of Krishna sustains the entire universe; simply know this and engage in bhakti"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Srila Prabhupada explains Krishna's essential message: what need is there for detailed knowledge of opulences? Know that with a single fragment of Myself I pervade and support this entire universe. The psychological insight: Krishna provides examples not for exhaustive catalog but to inspire devotion. Why this matters: The false path is endless intellectual accumulation about Krishna's manifestations. Real advancement means grasping the essential truth and proceeding to loving service, not remaining stuck in theoretical study.",
       "verseLabel": "BG 10.42",
       "verseUrl": "https://vedabase.io/en/library/bg/10/42/"
@@ -319,12 +319,12 @@
       "id": "bg10-q23",
       "prompt": "In BG 10.40, what point does Krishna make about His opulences?",
       "choices": [
-        "His divine manifestations are endless; what He described is only a brief summary",
         "He is never absent from His devotees",
+        "His divine manifestations are endless; what He described is only a brief summary",
         "Material suffering increases over lifetimes",
         "Devotees must meditate on every opulence in detail"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "In BG 10.40, Krishna states that His divine manifestations are endless and what He has described is only a brief summary. This teaches that the Supreme's opulences are unlimited, and the purpose of listing them is to inspire devotion, not to provide an exhaustive catalog.",
       "verseLabel": "BG 10.40",
       "verseUrl": "https://vedabase.io/en/library/bg/10/40/"
@@ -333,12 +333,12 @@
       "id": "bg10-q24",
       "prompt": "In the purport to BG 10.41, what does Srila Prabhupada explain about recognizing Krishna's opulence?",
       "choices": [
+        "That only spiritual phenomena should be considered manifestations of Krishna's nature",
         "That any glorious or beautiful existence should be understood as Krishna's fragmental manifestation",
-        "That material opulence exists independently and has no connection to spiritual reality",
         "That appreciating worldly beauty and power distracts from pure spiritual practice",
-        "That only spiritual phenomena should be considered manifestations of Krishna's nature"
+        "That material opulence exists independently and has no connection to spiritual reality"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Srila Prabhupada explains that anything extraordinarily opulent, beautiful, or glorious - whether in spiritual or material world - should be considered Krishna's opulence. The synthesis: the sacred and secular divide collapses when one sees Krishna's spark in all splendor. Why this matters: The false path is thinking matter is separate from spirit or that appreciation of beauty is material. Real Krishna consciousness sees all excellence as emanating from the Supreme, using material manifestations to remember and glorify the source rather than reject them as illusion.",
       "verseLabel": "BG 10.41",
       "verseUrl": "https://vedabase.io/en/library/bg/10/41/"
@@ -347,12 +347,12 @@
       "id": "bg10-q25",
       "prompt": "How does Chapter 10's extensive description of Krishna's opulences support the conclusion that bhakti-yoga surpasses all other paths?",
       "choices": [
-        "It shows that understanding manifestations intellectually produces complete liberation without devotion to Krishna",
         "It demonstrates that recognizing Krishna as source of all excellence naturally leads to worship and devotion",
         "It proves that material opulence and spiritual advancement are completely unrelated in every way",
-        "It establishes that studying manifestations is more important than direct Krishna consciousness and service"
+        "It establishes that studying manifestations is more important than direct Krishna consciousness and service",
+        "It shows that understanding manifestations intellectually produces complete liberation without devotion to Krishna"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "The synthesis: Krishna reveals His opulences to inspire devotion, not for academic study. Seeing Krishna's excellence everywhere - from the sun's brilliance to the mind's consciousness - naturally produces wonder and worship. The chapter's pedagogical arc moves from establishing Krishna's supremacy through manifestations to the conclusion that one fragment of Him sustains everything. Why this matters: The false path is remaining in intellectual appreciation of opulence. Real understanding transforms knowledge into devotion, using perception of Krishna's glory throughout creation as constant reminder to engage in loving service to the Supreme Person who is the source of all magnificence.",
       "verseLabel": "BG 10.42",
       "verseUrl": "https://vedabase.io/en/library/bg/10/42/"

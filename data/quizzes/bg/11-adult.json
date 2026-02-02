@@ -11,25 +11,25 @@
       "id": "bg11-q1",
       "prompt": "In BG 11.3, what does Arjuna request from Krishna?",
       "choices": [
+        "Material prosperity and protection through religious rituals",
         "Weapons and strategies to ensure victory in the coming battle",
         "To see Your divine form and cosmic manifestation",
-        "Material prosperity and protection through religious rituals",
         "A comforting vision to remove fear and hesitation before fighting"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Arjuna requests direct vision of Krishna's divine form (visvarupa) after hearing ten chapters of transcendental knowledge. His request demonstrates readiness--not idle curiosity or sensory gratification, but genuine desire to understand Krishna's supremacy. The request contrasts sharply with materialistic prayers for wealth, power, or tactical advantages. Arjuna seeks spiritual confirmation, not worldly solutions, showing he has progressed beyond mundane consciousness to transcendental inquiry.",
       "verseLabel": "BG 11.3",
       "verseUrl": "https://vedabase.io/en/library/bg/11/3/"
     },
     {
-        "id": "bg11-q2",
-        "prompt": "In BG 11.2, what does Prabhupada warn about in his purport regarding the power to reveal the universal form?",
-        "choices": [
-          "That mystic yogis can reveal it through their own practices and meditation",
-          "That only Krishna can grant this vision; no independent means exist",
-          "That sages can achieve it through years of meditation and austerity",
-          "That anyone can see it through sufficient tapasya, ritual, and austerity"
-        ],
+      "id": "bg11-q2",
+      "prompt": "In BG 11.2, what does Prabhupada warn about in his purport regarding the power to reveal the universal form?",
+      "choices": [
+        "That anyone can see it through sufficient tapasya, ritual, and austerity",
+        "That only Krishna can grant this vision; no independent means exist",
+        "That mystic yogis can reveal it through their own practices and meditation",
+        "That sages can achieve it through years of meditation and austerity"
+      ],
       "correctIndex": 1,
       "feedback": "Prabhupada emphasizes a critical distinction: divine revelation comes exclusively through Krishna's mercy, not through independent mystic endeavor. The false path of seeking spiritual visions through one's own powers--whether yogic practices, austerities, or mental techniques--keeps practitioners in the realm of material energy. Why this matters: Many spiritual seekers waste lifetimes pursuing mystic siddhis and visions, believing these powers will bring them closer to the Absolute. But Prabhupada warns that only surrender to Krishna opens the door to transcendental vision. The universal form is not a prize to be conquered through effort, but a revelation granted to the devoted disciple.",
       "verseLabel": "BG 11.2",
@@ -38,13 +38,13 @@
     {
       "id": "bg11-q3",
       "prompt": "In BG 11.5, what does Krishna offer to show Arjuna?",
-        "choices": [
-          "A single symbolic form meant for meditation",
-          "My divine forms, countless and unlimited",
-          "The impersonal Brahman underlying all existence",
-          "A permanent cosmic vision meant to replace personal devotion"
-        ],
-      "correctIndex": 1,
+      "choices": [
+        "The impersonal Brahman underlying all existence",
+        "A permanent cosmic vision meant to replace personal devotion",
+        "A single symbolic form meant for meditation",
+        "My divine forms, countless and unlimited"
+      ],
+      "correctIndex": 3,
       "feedback": "Krishna offers to show Arjuna countless forms--hundreds, thousands, various types, divine colors and shapes--all beyond ordinary perception. This reveals a fundamental truth: the Absolute cannot be reduced to one comprehensible image. Where materialists limit reality to what their senses can grasp, Krishna demonstrates His infinity through unlimited manifestations. The vision will transcend Arjuna's expectations, shattering all mental boundaries and conceptual frameworks about who Krishna is.",
       "verseLabel": "BG 11.5",
       "verseUrl": "https://vedabase.io/en/library/bg/11/5/"
@@ -52,13 +52,13 @@
     {
       "id": "bg11-q4",
       "prompt": "What does Prabhupada explain in his BG 11.7 purport about what the universal form containing everything teaches?",
-        "choices": [
-          "That the universe is separate from Krishna and self-existing, not dependent on Him",
-          "That everything exists within Krishna; creation is not independent of Him",
-          "That matter creates itself autonomously through independent evolutionary processes and chance",
-          "That the cosmos is governed by impersonal natural laws alone, without a personal cause"
-        ],
-      "correctIndex": 1,
+      "choices": [
+        "That the universe is separate from Krishna and self-existing, not dependent on Him",
+        "That matter creates itself autonomously through independent evolutionary processes and chance",
+        "That the cosmos is governed by impersonal natural laws alone, without a personal cause",
+        "That everything exists within Krishna; creation is not independent of Him"
+      ],
+      "correctIndex": 3,
       "feedback": "Prabhupada emphasizes that the universal form demolishes materialistic and pantheistic misconceptions. When Arjuna sees the entire cosmos--moving and non-moving, past-present-future--within Krishna's body, it proves that creation is not independent or self-sufficient. The false path of treating nature as autonomous, or seeing God as merely 'within' nature rather than its source and controller, keeps one in illusion. Why this matters: Modern science and impersonalist philosophy both assume matter is self-existing. But the universal form reveals that every atom, every galaxy, every moment of time exists only within Krishna's energies. Nothing is independent; everything is simultaneously within Him and dependent on His will.",
       "verseLabel": "BG 11.7",
       "verseUrl": "https://vedabase.io/en/library/bg/11/7/"
@@ -66,12 +66,12 @@
     {
       "id": "bg11-q5",
       "prompt": "In his BG 11.8 purport, what does Prabhupada explain about why ordinary eyes cannot perceive the universal form?",
-        "choices": [
-          "Because it is too far away in the spiritual sky to be seen by anyone",
-          "Because material senses are designed for material objects, not transcendental reality",
-          "Because humans lack sufficient intelligence or spiritual merit to process the vision",
-          "Because the form is invisible and completely formless, without any shape or features"
-        ],
+      "choices": [
+        "Because the form is invisible and completely formless, without any shape or features",
+        "Because material senses are designed for material objects, not transcendental reality",
+        "Because it is too far away in the spiritual sky to be seen by anyone",
+        "Because humans lack sufficient intelligence or spiritual merit to process the vision"
+      ],
       "correctIndex": 1,
       "feedback": "Prabhupada explains a fundamental limitation: material eyes are instruments for perceiving material objects--they cannot penetrate into transcendental reality. Krishna must grant divya-caksu (divine eyes) because spiritual vision requires spiritual senses. The false path lies in thinking empirical observation or intellectual analysis can grasp the Absolute. Why this matters: Scientists and philosophers who limit reality to what can be measured, observed, or rationally analyzed will never perceive Krishna. Transcendental reality requires transcendental instruments, which only Krishna can bestow. No amount of material advancement--better telescopes, refined logic--will reveal the divine. Only mercy grants access.",
       "verseLabel": "BG 11.8",
@@ -80,13 +80,13 @@
     {
       "id": "bg11-q6",
       "prompt": "In BG 11.12-14, what is the impact of Arjuna witnessing the cosmic form?",
-        "choices": [
-          "He remains emotionally detached, treating the vision as philosophical instruction",
-          "He experiences great fear, wonder, and trembling",
-          "He becomes eager to analyze cosmic order and universal structure",
-          "He interprets the vision as confirmation of impersonal Brahman"
-        ],
-      "correctIndex": 1,
+      "choices": [
+        "He remains emotionally detached, treating the vision as philosophical instruction",
+        "He interprets the vision as confirmation of impersonal Brahman",
+        "He experiences great fear, wonder, and trembling",
+        "He becomes eager to analyze cosmic order and universal structure"
+      ],
+      "correctIndex": 2,
       "feedback": "Arjuna's reaction--fear, wonder, trembling--reveals that divine revelation shatters comfortable theological abstractions. This is not reading about God in books; this is direct confrontation with infinite power. His bodily response (hair standing on end, hands folded in submission) shows that intellectual understanding collapses before actual theophany. Why this matters: Armchair spiritualists who treat God as a philosophical concept avoid this terror because they've never actually approached the Divine. Arjuna's visceral fear proves he's encountering reality, not imagination. The universal form strips away all presumption, leaving only awe and surrender.",
       "verseLabel": "BG 11.12",
       "verseUrl": "https://vedabase.io/en/library/bg/11/12/"
@@ -94,12 +94,12 @@
     {
       "id": "bg11-q7",
       "prompt": "What does BG 11.24-26 teach about the form Arjuna sees?",
-        "choices": [
-          "It is primarily a peaceful revelation meant to reassure Arjuna",
-          "He sees terrifying forms with infinite mouths, eyes, and weapons",
-          "It confirms that the impersonal absolute is the highest truth",
-          "It is a symbolic vision meant mainly to inspire moral courage"
-        ],
+      "choices": [
+        "It is primarily a peaceful revelation meant to reassure Arjuna",
+        "He sees terrifying forms with infinite mouths, eyes, and weapons",
+        "It is a symbolic vision meant mainly to inspire moral courage",
+        "It confirms that the impersonal absolute is the highest truth"
+      ],
       "correctIndex": 1,
       "feedback": "The terrifying aspects--infinite mouths devouring warriors, blazing weapons, destructive fury--reveal that Krishna is not a sentimental grandfather-god who exists only to comfort. He is time, the destroyer of all. This shatters false religiosity that reduces God to a cosmic therapist or wish-fulfiller. The universal form shows both creation and annihilation, nurturing and devouring, demonstrating that Krishna's power encompasses all dualities. Those who seek only God's pleasing aspects while denying His terrible majesty have not grasped the Absolute's completeness.",
       "verseLabel": "BG 11.25",
@@ -108,13 +108,13 @@
     {
       "id": "bg11-q8",
       "prompt": "What does Prabhupada explain in his BG 11.32 purport about Krishna declaring 'I am time, the great destroyer'?",
-        "choices": [
-          "That time is an impersonal force separate from Krishna and acts independently",
-          "That Krishna personally directs time's destructive power; outcomes are already determined",
-          "That humans control their destinies through free will alone, unaffected by divine will",
-          "That death and destruction happen randomly, without any divine plan or order"
-        ],
-      "correctIndex": 1,
+      "choices": [
+        "That humans control their destinies through free will alone, unaffected by divine will",
+        "That death and destruction happen randomly, without any divine plan or order",
+        "That Krishna personally directs time's destructive power; outcomes are already determined",
+        "That time is an impersonal force separate from Krishna and acts independently"
+      ],
+      "correctIndex": 2,
       "feedback": "Prabhupada reveals that Krishna as kala (time) personally engineers all destruction. The Kauravas are already dead--their defeat is predetermined before the battle begins. This demolishes the false path of thinking we control outcomes through our efforts alone. Why this matters: People operate under the illusion that their plans, strategies, and actions determine results. But Krishna shows Arjuna that he is merely an instrument; the cosmic script is already written. This teaching liberates the devotee from the anxiety of thinking 'everything depends on me' while simultaneously emphasizing that devotional service transcends time's jurisdiction. Time destroys everything material but cannot touch the eternal soul engaged in Krishna's service.",
       "verseLabel": "BG 11.32",
       "verseUrl": "https://vedabase.io/en/library/bg/11/32/"
@@ -122,13 +122,13 @@
     {
       "id": "bg11-q9",
       "prompt": "In BG 11.33-34, what does Krishna promise regarding this cosmic form?",
-        "choices": [
-          "It is permanent and unchanging; the vision removes the need for further devotion",
-          "All those before you shall be slain by My arrangement",
-          "No one will be harmed at all; all will be protected",
-          "The vision is only for mystics, not for devotees"
-        ],
-      "correctIndex": 1,
+      "choices": [
+        "All those before you shall be slain by My arrangement",
+        "No one will be harmed at all; all will be protected",
+        "The vision is only for mystics, not for devotees",
+        "It is permanent and unchanging; the vision removes the need for further devotion"
+      ],
+      "correctIndex": 0,
       "feedback": "Krishna reveals that all the warriors arrayed against Arjuna--Bhishma, Drona, Karna, the Kaurava armies--are already slain by His arrangement. This teaching demolishes the false sense of agency: we are not the ultimate doers. Arjuna fears he will be the cause of their deaths, but Krishna shows him the deaths are already accomplished within divine will. Why this matters: The anxiety of thinking 'I am the doer; everything depends on my choices' paralyzes spiritual progress. Understanding that Krishna orchestrates outcomes frees the devotee to act in surrender, knowing one's duty is to participate in His plan, not to write the script oneself.",
       "verseLabel": "BG 11.33",
       "verseUrl": "https://vedabase.io/en/library/bg/11/33/"
@@ -136,13 +136,13 @@
     {
       "id": "bg11-q10",
       "prompt": "In his BG 11.36 purport, what does Prabhupada explain about Krishna commanding Arjuna to 'be not afraid' after showing the universal form?",
-        "choices": [
-          "That Arjuna should suppress his natural fear and pretend courage in front of others",
-          "That understanding Krishna's supremacy removes fear; the devotee becomes fearless",
-          "That fear is appropriate and should continue throughout life, even for devotees",
-          "That philosophical knowledge eliminates all emotions, including fear and love"
-        ],
-      "correctIndex": 1,
+      "choices": [
+        "That understanding Krishna's supremacy removes fear; the devotee becomes fearless",
+        "That fear is appropriate and should continue throughout life, even for devotees",
+        "That Arjuna should suppress his natural fear and pretend courage in front of others",
+        "That philosophical knowledge eliminates all emotions, including fear and love"
+      ],
+      "correctIndex": 0,
       "feedback": "Prabhupada explains that Krishna's command addresses the root of fear: ignorance of divine supremacy. When Arjuna comprehends that Krishna controls all outcomes, what is there to fear? The false path is thinking fearlessness comes from one's own courage, mental strength, or philosophical detachment. True fearlessness arises from knowing Krishna as the supreme controller. Why this matters: Conditioned souls fear because they believe themselves responsible for protecting their lives, families, and futures. But the devotee who understands Krishna's omnipotence realizes: 'I am Krishna's servant, acting on His behalf. He determines all results. What danger can touch me while serving Him?' This is transcendental fearlessness, not material bravado or stoic repression.",
       "verseLabel": "BG 11.36",
       "verseUrl": "https://vedabase.io/en/library/bg/11/36/"
@@ -151,12 +151,12 @@
       "id": "bg11-q11",
       "prompt": "According to BG 11.37-38, how do the celestial beings respond to the cosmic form?",
       "choices": [
-        "They are not impressed or remain neutral",
-        "They all praise You and bow; they chant Your glory",
         "They oppose You and try to resist Your will",
-        "They ignore You and focus on their own affairs"
+        "They ignore You and focus on their own affairs",
+        "They are not impressed or remain neutral",
+        "They all praise You and bow; they chant Your glory"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "All celestial beings--demigods, sages, perfected beings--offer prayers and obeisances when the universal form is revealed. This demonstrates that Krishna's supremacy is not a sectarian claim but a cosmic fact. Even the mightiest controllers of universal affairs bow before Him. The vision proves that Krishna is not one god among many, but the source of all divine powers. No being, however elevated, claims independence from His authority. This universal submission validates Krishna consciousness as the ultimate truth, not merely one spiritual path among alternatives.",
       "verseLabel": "BG 11.37",
       "verseUrl": "https://vedabase.io/en/library/bg/11/37/"
@@ -165,12 +165,12 @@
       "id": "bg11-q12",
       "prompt": "In BG 11.40, what does Arjuna do in response to the universal form?",
       "choices": [
-        "He demands the vision be permanent",
-        "He offers obeisances from all sides, acknowledging Krishna's unlimited power",
         "He dismisses the form as illusion",
-        "He asks Krishna for material boons"
+        "He asks Krishna for material boons",
+        "He offers obeisances from all sides, acknowledging Krishna's unlimited power",
+        "He demands the vision be permanent"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Arjuna offers obeisances from all directions, recognizing Krishna as all-pervading and of unlimited potency. This act of total surrender demonstrates that the true response to divine revelation is humility and acknowledgment of Krishna's supremacy, not demands or material requests. The vision inspires awe and submission, not pride or bargaining.",
       "verseLabel": "BG 11.40",
       "verseUrl": "https://vedabase.io/en/library/bg/11/40/"
@@ -179,10 +179,10 @@
       "id": "bg11-q13",
       "prompt": "What does Prabhupada explain in his BG 11.42-43 purport about Krishna stating that no one can fully comprehend His infinite form?",
       "choices": [
-        "That advanced yogis can eventually comprehend everything through meditation",
+        "That philosophical speculation and rationalism can grasp the complete truth",
         "That Krishna is inconceivable and unlimited; full knowledge is impossible",
-        "That scientific study will eventually reveal all of Krishna's nature",
-        "That philosophical speculation and rationalism can grasp the complete truth"
+        "That advanced yogis can eventually comprehend everything through meditation",
+        "That scientific study will eventually reveal all of Krishna's nature"
       ],
       "correctIndex": 1,
       "feedback": "Prabhupada emphasizes Krishna's acintya (inconceivable) nature. Even after revealing the universal form, Krishna declares that no one--not even Arjuna with divine eyes--can comprehend His full glories. The false path of empiricism and rationalism assumes that with sufficient investigation, everything can be known. But the infinite cannot be contained by the finite mind. Why this matters: This teaching protects devotees from the pride of thinking 'I have understood God.' The moment one thinks Krishna is fully comprehended, one has reduced Him to a mental construct. Krishna remains forever beyond complete apprehension, ensuring the devotee approaches Him with perpetual wonder rather than possessive familiarity.",
@@ -194,11 +194,11 @@
       "prompt": "In his BG 11.54 purport, what does Prabhupada explain about Krishna stating that 'only through exclusive devotion' can one know Him?",
       "choices": [
         "That Vedic study and rituals are sufficient to see Krishna's form",
-        "That unmixed bhakti--devotion without karma or jnana mixture--grants Krishna-realization",
+        "That knowledge and meditation are equally effective and valid paths",
         "That any spiritual practice eventually leads to the same vision",
-        "That knowledge and meditation are equally effective and valid paths"
+        "That unmixed bhakti--devotion without karma or jnana mixture--grants Krishna-realization"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Prabhupada distinguishes ananya-bhakti (exclusive, unmixed devotion) from mixed approaches that combine devotional service with fruitive work or philosophical speculation. The false path lies in thinking one can reach Krishna through karma-yoga supplemented by a little bhakti, or jnana-yoga with devotional flavoring. Krishna declares that only exclusive devotion--where He alone is the goal, not liberation, knowledge, or mystic powers--grants entrance to His transcendental nature. Why this matters: Most spiritual practitioners hedge their bets, combining multiple paths. But Krishna demands exclusivity: 'Surrender to Me alone.' This isn't sectarian narrowness but transcendental precision. Divided consciousness never reaches the Absolute. Only when devotion becomes one's sole refuge does Krishna reveal Himself fully.",
       "verseLabel": "BG 11.54",
       "verseUrl": "https://vedabase.io/en/library/bg/11/54/"
@@ -207,10 +207,10 @@
       "id": "bg11-q15",
       "prompt": "In BG 11.53, what does Krishna say about who can see this form?",
       "choices": [
-        "It can be attained again by mystic yoga alone",
-        "It cannot be understood by studying the Vedas, nor by sacrifices, charity, or severe penances",
         "Everyone can see it by ritual precision and austerity alone",
-        "The universal form is higher than Krishna's personal form"
+        "It cannot be understood by studying the Vedas, nor by sacrifices, charity, or severe penances",
+        "The universal form is higher than Krishna's personal form",
+        "It can be attained again by mystic yoga alone"
       ],
       "correctIndex": 1,
       "feedback": "Krishna says this form cannot be seen by Vedic study, sacrifice, charity, or penance. The point is to crush the idea that religious or yogic achievement can force revelation. Vision is granted by Krishna's sanction, not by personal effort or ritual technique.",
@@ -222,11 +222,11 @@
       "prompt": "In BG 11.49, how does Krishna reassure Arjuna after revealing the terrifying universal form?",
       "choices": [
         "He tells Arjuna to cultivate fearlessness by personal willpower and stoic detachment",
-        "He tells Arjuna not to be troubled, to be free from fear, and to see the form he desires with a peaceful mind",
         "He tells Arjuna the universal form is the only form worth seeing, and devotion to the personal form is secondary",
+        "He tells Arjuna not to be troubled, to be free from fear, and to see the form he desires with a peaceful mind",
         "He tells Arjuna that rituals and austerities will make this vision permanent"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna directly calms Arjuna: do not be perturbed or bewildered by this horrible feature; be free from fear, and with a peaceful mind see the desired form. The point is mercy and relationship: revelation is not meant to traumatize the devotee, but to establish Krishna's supremacy and then restore devotional intimacy.",
       "verseLabel": "BG 11.49",
       "verseUrl": "https://vedabase.io/en/library/bg/11/49/"
@@ -235,12 +235,12 @@
       "id": "bg11-q17",
       "prompt": "In BG 11.51, what change occurs in Arjuna after seeing Krishna's humanlike form again?",
       "choices": [
-        "He becomes more confused and demands the universal form permanently",
         "He feels relieved and joyful, regaining composure upon seeing Krishna's gentle, humanlike form",
+        "He becomes more confused and demands the universal form permanently",
         "He rejects Krishna's personal form as inferior to impersonal Brahman",
         "He concludes that mystical vision is the highest goal, superior to devotional service"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "After the overwhelming cosmic vision, Arjuna regains steadiness and happiness upon seeing Krishna's familiar, humanlike form again. The arc is important: awe establishes Krishna's supremacy, but the devotee ultimately seeks loving reciprocity with the personal Lord.",
       "verseLabel": "BG 11.51",
       "verseUrl": "https://vedabase.io/en/library/bg/11/51/"
@@ -249,12 +249,12 @@
       "id": "bg11-q18",
       "prompt": "In BG 11.52, what does Krishna emphasize about the universal form Arjuna has seen?",
       "choices": [
-        "It is easily seen by anyone who performs sacrifices and charity with faith",
         "Even the demigods constantly desire to see this form, and it is very difficult to behold",
-        "It is temporary and symbolic, meant only to strengthen Arjuna's confidence",
-        "It is attained automatically by understanding impersonal Brahman"
+        "It is attained automatically by understanding impersonal Brahman",
+        "It is easily seen by anyone who performs sacrifices and charity with faith",
+        "It is temporary and symbolic, meant only to strengthen Arjuna's confidence"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna explains that the form Arjuna has seen is extremely rare and difficult to behold; even the demigods always seek the chance to see it. The lesson is not to treat revelation as something we can demand or manufacture by technique. Such vision depends on Krishna's sanction and mercy, and it establishes His supremacy beyond ordinary access.",
       "verseLabel": "BG 11.52",
       "verseUrl": "https://vedabase.io/en/library/bg/11/52/"
@@ -263,12 +263,12 @@
       "id": "bg11-q19",
       "prompt": "What does BG 11.54 teach about the means to truly know, see, and enter into Krishna?",
       "choices": [
-        "Through mixed practice (karma and jnana) one attains Krishna without exclusive devotion",
         "Through bhakti one can know Krishna in truth, see Him, and enter into Him",
+        "Through mixed practice (karma and jnana) one attains Krishna without exclusive devotion",
         "By austerity and Vedic study alone one necessarily attains Krishna's personal association",
         "By attaining impersonal liberation one automatically understands Krishna's personal form"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna states that only by devotion can He be known as He is, seen, and entered into. The force of the verse is exclusive: devotion is not decoration on top of other paths; it is the direct means to Krishna-realization.",
       "verseLabel": "BG 11.54",
       "verseUrl": "https://vedabase.io/en/library/bg/11/54/"
@@ -277,10 +277,10 @@
       "id": "bg11-q20",
       "prompt": "According to BG 11.55, what profile describes the devotee who certainly comes to Krishna?",
       "choices": [
-        "One who seeks liberation as the supreme goal, using devotion mainly as a tool",
-        "One who works for Krishna, makes Krishna the supreme goal, is free from fruitive contamination and mental speculation, and is friendly to all beings",
         "One who perfects mystic powers and visions while remaining attached to personal prestige",
-        "One who performs ritual duties impeccably while keeping Krishna as a secondary concern"
+        "One who works for Krishna, makes Krishna the supreme goal, is free from fruitive contamination and mental speculation, and is friendly to all beings",
+        "One who performs ritual duties impeccably while keeping Krishna as a secondary concern",
+        "One who seeks liberation as the supreme goal, using devotion mainly as a tool"
       ],
       "correctIndex": 1,
       "feedback": "The verse gives Krishna's concluding formula: work for Him, make Him the highest goal, be free from fruitive contamination and mental speculation, and be friendly to all. This defines perfection as relationship and service, not status, power, or mere technique.",
@@ -291,12 +291,12 @@
       "id": "bg11-q21",
       "prompt": "Which option best captures the practical lesson of Krishna revealing Himself as 'time, the great destroyer' in BG 11.32?",
       "choices": [
-        "A devotee should stop acting, because effort is meaningless",
-        "A devotee should do duty as an instrument of Krishna, without anxiety over results",
         "A devotee should seek cosmic visions as the main daily practice",
-        "A devotee should treat outcomes as random, because there is no divine control"
+        "A devotee should stop acting, because effort is meaningless",
+        "A devotee should treat outcomes as random, because there is no divine control",
+        "A devotee should do duty as an instrument of Krishna, without anxiety over results"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krishna's revelation as time dismantles the doership illusion. The practical takeaway is not passivity, but surrendered action: do your duty as an instrument, without worshiping outcomes or being crushed by anxiety.",
       "verseLabel": "BG 11.32",
       "verseUrl": "https://vedabase.io/en/library/bg/11/32/"
@@ -305,12 +305,12 @@
       "id": "bg11-q22",
       "prompt": "A devotee is anxious about a major life outcome. Based on Krishna's instruction in BG 11.33, what is the best response?",
       "choices": [
-        "Try to control every variable so the outcome is guaranteed",
         "Act decisively as Krishna's instrument and give up possessive attachment to results",
+        "Try to control every variable so the outcome is guaranteed",
         "Assume the outcome is fixed, so responsibility and duty can be ignored",
         "Delay action until all fear and doubt vanish on their own"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna tells Arjuna to arise, fight, and become merely the instrument. The response to anxiety is surrendered duty: act responsibly, but stop treating results as your personal property or proof of your worth.",
       "verseLabel": "BG 11.33",
       "verseUrl": "https://vedabase.io/en/library/bg/11/33/"
@@ -320,11 +320,11 @@
       "prompt": "In BG 11.7, what is Krishna's central point in asking Arjuna to behold everything within the universal form?",
       "choices": [
         "That the universe is independent and Krishna is only a symbolic part of it",
-        "That everything, moving and nonmoving, is within Krishna; nothing is independent of Him",
         "That the universal form is meant mainly to satisfy curiosity about cosmology",
+        "That everything, moving and nonmoving, is within Krishna; nothing is independent of Him",
         "That seeing the universal form removes the need to follow Krishna's instructions"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna's point is dependence and supremacy: the universe is not self-existing or autonomous. Seeing everything within Him is meant to crush the illusion of independence and establish Krishna's authority as the ultimate controller.",
       "verseLabel": "BG 11.7",
       "verseUrl": "https://vedabase.io/en/library/bg/11/7/"
@@ -333,12 +333,12 @@
       "id": "bg11-q24",
       "prompt": "In BG 11.45, how does Arjuna describe his inner state after seeing the universal form, and what does he request next?",
       "choices": [
-        "He is only frightened, and asks Krishna to withdraw all forms permanently",
-        "He is gladdened yet disturbed with fear, and asks Krishna to show His personal (desired) form again",
         "He is indifferent and asks for more details of cosmic cosmology",
-        "He is proud of his vision and asks Krishna to give him mystic powers"
+        "He is only frightened, and asks Krishna to withdraw all forms permanently",
+        "He is proud of his vision and asks Krishna to give him mystic powers",
+        "He is gladdened yet disturbed with fear, and asks Krishna to show His personal (desired) form again"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Arjuna says he is joyful to see what he had never seen before, yet his mind is also shaken with fear. Therefore he begs Krishna for grace and asks to see again the personal form he can relate to. The lesson: awe establishes Krishna's supremacy, but bhakti seeks steady, loving relationship with the personal Lord rather than staying in overwhelming cosmic terror.",
       "verseLabel": "BG 11.45",
       "verseUrl": "https://vedabase.io/en/library/bg/11/45/"
@@ -347,12 +347,12 @@
       "id": "bg11-q25",
       "prompt": "How does Chapter 11 ultimately point to the superiority of pure devotional service (bhakti)?",
       "choices": [
-        "The universal form is the final goal, so devotion to Krishna's personal form is secondary",
         "Even after the most overwhelming revelation, Krishna concludes that only devotion enables one to know Him as He is",
         "Mystic vision is the highest perfection, and devotion is mainly a preliminary aid",
-        "Knowledge and austerity automatically produce Krishna-realization without the need for devotion"
+        "Knowledge and austerity automatically produce Krishna-realization without the need for devotion",
+        "The universal form is the final goal, so devotion to Krishna's personal form is secondary"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "The chapter uses the cosmic form to establish Krishna's supremacy, but it culminates in Krishna's insistence that only devotion grants real knowledge of Him. The point is not to chase visions, but to surrender in loving service to the Supreme Person.",
       "verseLabel": "BG 11.54",
       "verseUrl": "https://vedabase.io/en/library/bg/11/54/"

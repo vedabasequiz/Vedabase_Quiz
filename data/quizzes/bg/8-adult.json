@@ -11,10 +11,10 @@
       "id": "bg8-q1",
       "prompt": "In BG 8.1, what topics does Arjuna inquire about at the start of the chapter?",
       "choices": [
-        "The relationship between the soul and Brahman, and the process of remembering Krishna at death",
-        "Brahman, self, action, material nature, demigods, sacrifice, and remembrance at the time of death",
         "The distinction between karma and jnana, and their effects on liberation",
-        "The role of demigods and the significance of sacrifice in attaining higher worlds"
+        "Brahman, self, action, material nature, demigods, sacrifice, and remembrance at the time of death",
+        "The role of demigods and the significance of sacrifice in attaining higher worlds",
+        "The relationship between the soul and Brahman, and the process of remembering Krishna at death"
       ],
       "correctIndex": 1,
       "feedback": "Arjuna asks Krishna to explain Brahman (spirit), adhyatma (self), karma (action), adhibhuta (material manifestation), adhidaiva (demigods), adhiyajna (Supersoul), and how remembrance at death affects one's destination. The false path is treating these as abstract philosophy, missing their practical impact on death and destiny. Real understanding: These categories are not just theoretical-they shape our consciousness and fate. Study with the intent to transform your life and prepare for the final test at death.",
@@ -25,12 +25,12 @@
       "id": "bg8-q2",
       "prompt": "In BG 8.2, what is adhiyajna, and how is it known at the time of death?",
       "choices": [
+        "A subtle energy that channels the results of all sacrifices to their recipients",
         "Krishna's cosmic form as the universal manifestation, representing all sacrifices",
         "The Lord of sacrifice, Krishna, present in the heart of all beings at all times",
-        "A subtle energy that channels the results of all sacrifices to their recipients",
         "Demigods who preside over sacrificial rituals and accept offerings on behalf of the Supreme"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "feedback": "Krishna explains that adhiyajna is Himself-the Lord of sacrifice-present in the heart of every living being. The false path is treating sacrifice as merely external ritual or thinking its final meaning is impersonal. Real understanding: Sacrifice is meant to culminate in recognizing and serving Krishna as the supreme enjoyer. Practice: Offer your daily actions to Krishna so remembrance at death is supported by a life of devotion.",
       "verseLabel": "BG 8.2",
       "verseUrl": "https://vedabase.io/en/library/bg/8/2/"
@@ -39,12 +39,12 @@
       "id": "bg8-q3",
       "prompt": "In the purport to BG 8.3, what warning does Srila Prabhupada give about karma and the subtle body?",
       "choices": [
+        "Karma is only relevant for those who do not practice yoga or devotion",
         "Karma is ultimately destroyed at death, so the soul is unaffected thereafter",
-        "The subtle body carries karmic impressions, causing repeated rebirth in new bodies and forms",
         "Karma can be neutralized by scriptural study and philosophical speculation alone",
-        "Karma is only relevant for those who do not practice yoga or devotion"
+        "The subtle body carries karmic impressions, causing repeated rebirth in new bodies and forms"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Srila Prabhupada explains that the subtle body made of mind, intelligence, and ego carries karmic impressions, creating another gross body. The false path is thinking karma can be erased by rituals or ignored. Real liberation comes through Krishna consciousness, not mechanical or theoretical approaches. Practice: Focus on purifying consciousness, not just accumulating good karma.",
       "verseLabel": "BG 8.3",
       "verseUrl": "https://vedabase.io/en/library/bg/8/3/"
@@ -53,10 +53,10 @@
       "id": "bg8-q4",
       "prompt": "In the purport to BG 8.4, what does Srila Prabhupada clarify about adhiyajna?",
       "choices": [
-        "Sacrifice is primarily a means to accumulate pious credits for future births",
+        "Demigods are the main recipients of all sacrificial offerings, as per Vedic tradition",
         "Krishna is the adhiyajna, the Lord of sacrifice within the heart of all beings, the true enjoyer",
         "Sacrifice is effective only when performed with elaborate rituals and strict rules",
-        "Demigods are the main recipients of all sacrificial offerings, as per Vedic tradition"
+        "Sacrifice is primarily a means to accumulate pious credits for future births"
       ],
       "correctIndex": 1,
       "feedback": "Srila Prabhupada explains that adhiyajna means the Lord of sacrifice, Krishna Himself present in the heart. The false path is thinking sacrifice is only external or for demigods. Real understanding: Krishna is the ultimate recipient and enjoyer of all sacrifice. Practice: Offer your actions and sacrifices to Krishna with devotion, not just as ritual duty.",
@@ -67,12 +67,12 @@
       "id": "bg8-q5",
       "prompt": "According to BG 8.5, what determines the path one takes at death?",
       "choices": [
-        "The accumulated karma from past lives alone determines the next destination, regardless of consciousness at death",
         "Whatever one thinks of at the moment of death, that he attains in the next life",
+        "The blessings of saints and sages at the time of death override all other considerations",
         "The performance of prescribed rituals at the time of death is the deciding factor",
-        "The blessings of saints and sages at the time of death override all other considerations"
+        "The accumulated karma from past lives alone determines the next destination, regardless of consciousness at death"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Anta-kale (end time) remembering Krishna alone at death leads to attaining His nature. The false path is relying on last-minute remembrance without lifelong practice. Real understanding: The mind at death reflects a lifetime of absorption. Practice: Practice Krishna consciousness daily so your final thought is naturally of Him.",
       "verseLabel": "BG 8.5",
       "verseUrl": "https://vedabase.io/en/library/bg/8/5/"
@@ -81,9 +81,9 @@
       "id": "bg8-q6",
       "prompt": "In the purport to BG 8.5-6, what does Srila Prabhupada emphasize about remembrance at death?",
       "choices": [
-        "The mind at death is the only factor, so one's daily life is not important",
-        "Constant life practice shapes consciousness, which determines thoughts at death for the soul's journey",
         "One can control thoughts at death through sheer willpower, regardless of previous habits",
+        "Constant life practice shapes consciousness, which determines thoughts at death for the soul's journey",
+        "The mind at death is the only factor, so one's daily life is not important",
         "Occasional devotional acts are sufficient, even if one's mind is elsewhere most of life"
       ],
       "correctIndex": 1,
@@ -96,11 +96,11 @@
       "prompt": "In the purport to BG 8.7, what does Srila Prabhupada emphasize about remembering Krishna while performing duties?",
       "choices": [
         "One must renounce all work and live in seclusion to remember Krishna constantly",
-        "Remembering Krishna while performing prescribed duties gradually purifies and spiritualizes daily life",
+        "Remembrance of Krishna is only necessary during formal worship or ritual, not during ordinary activities",
         "Chanting Krishna's name without attention is as effective as mindful remembrance integrated with work",
-        "Remembrance of Krishna is only necessary during formal worship or ritual, not during ordinary activities"
+        "Remembering Krishna while performing prescribed duties gradually purifies and spiritualizes daily life"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Srila Prabhupada explains that integrating remembrance of Krishna with one's prescribed duties purifies consciousness over time. The false path is thinking spirituality requires abandoning responsibilities or that inattentive practice is enough. Real understanding: Transform your work into devotion by consciously remembering Krishna throughout daily activities.",
       "verseLabel": "BG 8.7",
       "verseUrl": "https://vedabase.io/en/library/bg/8/7/"
@@ -109,12 +109,12 @@
       "id": "bg8-q8",
       "prompt": "According to BG 8.8, who attains Krishna without doubt?",
       "choices": [
-        "One who remembers Krishna with unwavering, single-minded devotion and focus throughout life",
-        "One who performs rituals for prestige or material advancement",
+        "One who occasionally thinks of Krishna but is mostly absorbed in worldly affairs",
         "One who is intellectually curious but lacks heartfelt devotion",
-        "One who occasionally thinks of Krishna but is mostly absorbed in worldly affairs"
+        "One who remembers Krishna with unwavering, single-minded devotion and focus throughout life",
+        "One who performs rituals for prestige or material advancement"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna assures that only one who practices constant, single-minded remembrance with true devotion will attain Him. The false path is thinking that ritual, intellectualism, or occasional attention is sufficient. Real understanding: Consistent, focused devotion is the key. Practice: Cultivate unwavering remembrance of Krishna in all circumstances.",
       "verseLabel": "BG 8.8",
       "verseUrl": "https://vedabase.io/en/library/bg/8/8/"
@@ -123,12 +123,12 @@
       "id": "bg8-q9",
       "prompt": "In BG 8.11, how is the path to the highest described?",
       "choices": [
-        "By remembering the Supreme Person at death with unwavering yoga and focused consciousness",
         "By anyone, even without preparation or spiritual discipline",
-        "Only for those who renounce the world and all relationships and live in seclusion",
-        "By breath control and yogic technique alone, without devotion to the Supreme Person"
+        "By breath control and yogic technique alone, without devotion to the Supreme Person",
+        "By remembering the Supreme Person at death with unwavering yoga and focused consciousness",
+        "Only for those who renounce the world and all relationships and live in seclusion"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna describes that the Supreme is reached by remembering Him at the time of death with unwavering yoga and focus. The false path is thinking the goal is easy, requires no preparation, or is unattainable. Real understanding: Attainment requires discipline, preparation, and focused remembrance. Practice: Train your mind through steady yoga and devotion.",
       "verseLabel": "BG 8.11",
       "verseUrl": "https://vedabase.io/en/library/bg/8/11/"
@@ -137,12 +137,12 @@
       "id": "bg8-q10",
       "prompt": "In the purport to BG 8.9-10, what does Srila Prabhupada warn about mechanical meditation?",
       "choices": [
+        "Only those with natural talent can meditate successfully, regardless of devotion",
         "Meditation without genuine devotion is insufficient for realization, regardless of technique or duration",
-        "Mechanical meditation techniques alone guarantee spiritual realization for anyone",
         "Meditation is effective for all, even if performed with distraction or material motives",
-        "Only those with natural talent can meditate successfully, regardless of devotion"
+        "Mechanical meditation techniques alone guarantee spiritual realization for anyone"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Srila Prabhupada warns that meditation without heartfelt devotion is insufficient, even if technique is perfect. The false path is relying on mechanical or distracted practice. Real meditation unites skill with sincere devotion to Krishna. Practice: Let your meditation be both attentive and loving, not just routine.",
       "verseLabel": "BG 8.9-10",
       "verseUrl": "https://vedabase.io/en/library/bg/8/9/"
@@ -151,12 +151,12 @@
       "id": "bg8-q11",
       "prompt": "In the purport to BG 8.11-13, what does Srila Prabhupada identify about Om meditation?",
       "choices": [
+        "Chanting Om alone, without understanding or devotion, guarantees liberation for all",
         "Impersonalists mistake Om as a formless void, missing its true meaning as Krishna's sound representation and connection to the Supreme",
         "Om is a mystical sound with no spiritual significance or connection to Krishna",
-        "Chanting Om alone, without understanding or devotion, guarantees liberation for all",
         "Om meditation is always superior to worship of Krishna's personal form and qualities"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "feedback": "Srila Prabhupada explains that impersonalists misunderstand Om as formless, missing its true meaning as Krishna's sound representation. The false path is treating Om as impersonal or disconnected from Krishna. Real understanding: Om is a personal, spiritual sound. Practice: Chant Om with awareness of Krishna's presence and personality.",
       "verseLabel": "BG 8.11-13",
       "verseUrl": "https://vedabase.io/en/library/bg/8/11/"
@@ -165,12 +165,12 @@
       "id": "bg8-q12",
       "prompt": "According to BG 8.14, what is the result of constant, exclusive remembrance of Krishna (ananya-cetah)?",
       "choices": [
-        "One who always remembers Krishna with exclusive devotion can easily attain Him, regardless of background or status",
-        "Constant remembrance is only possible for advanced renunciates, not for most people",
         "Exclusive devotion brings spiritual attainment, but only after many lifetimes of austerity",
-        "It is difficult and rarely successful, even for sincere practitioners without guidance"
+        "It is difficult and rarely successful, even for sincere practitioners without guidance",
+        "One who always remembers Krishna with exclusive devotion can easily attain Him, regardless of background or status",
+        "Constant remembrance is only possible for advanced renunciates, not for most people"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Krishna states that anyone who always remembers Him with exclusive, undeviating devotion (ananya-cetah) can easily attain Him. The false path is thinking this is only for renunciates or that it is rarely successful. Real understanding: Constant, loving remembrance is accessible to all, regardless of background. Practice: Strive for exclusive devotion in all circumstances.",
       "verseLabel": "BG 8.14",
       "verseUrl": "https://vedabase.io/en/library/bg/8/14/"
@@ -179,12 +179,12 @@
       "id": "bg8-q13",
       "prompt": "According to BG 8.15, who does not return to this temporary world of misery?",
       "choices": [
-        "Those who renounce all action and withdraw from society, focusing solely on asceticism",
-        "Great souls who reach Krishna's supreme abode through unwavering devotion and yoga, transcending all material rewards and attachments",
+        "Those who prioritize comfort, security, and material happiness above spiritual realization",
         "Those who meticulously perform rituals and charity for material gain and recognition",
-        "Those who prioritize comfort, security, and material happiness above spiritual realization"
+        "Those who renounce all action and withdraw from society, focusing solely on asceticism",
+        "Great souls who reach Krishna's supreme abode through unwavering devotion and yoga, transcending all material rewards and attachments"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Krishna clarifies that only great souls who reach His supreme abode through unwavering devotion and yoga do not return to this temporary world. The false path is thinking that asceticism, ritual, or material comfort alone can grant liberation. Real understanding: Lasting freedom comes from loving devotion, not external acts or worldly pursuits. Practice: Cultivate devotion that aspires for Krishna's eternal realm, not just relief from suffering.",
       "verseLabel": "BG 8.15",
       "verseUrl": "https://vedabase.io/en/library/bg/8/15/"
@@ -193,12 +193,12 @@
       "id": "bg8-q14",
       "prompt": "In the purport to BG 8.14, what does Srila Prabhupada say about ananya-cetah (exclusive devotion)?",
       "choices": [
-        "Divided attention between Krishna and material ambitions is sufficient for spiritual progress",
         "Exclusive, undivided devotion without material desires brings Krishna easily within reach for the devotee, regardless of background or circumstance",
         "Mixing devotion with personal ambition is the best way to balance spiritual and material growth",
+        "Divided attention between Krishna and material ambitions is sufficient for spiritual progress",
         "Ananya-cetah means suppressing all thoughts and emotions, aiming for mental emptiness"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Srila Prabhupada explains that exclusive, undivided devotion (ananya-cetah) makes Krishna easily attainable for anyone, not just renunciates. The false path is thinking that divided or part-time devotion is enough, or that spiritual life means emotional suppression. Real understanding: Continuous, heartfelt devotion is the key. Practice: Make Krishna the center of your thoughts and actions throughout the day, not just during rituals.",
       "verseLabel": "BG 8.14",
       "verseUrl": "https://vedabase.io/en/library/bg/8/14/"
@@ -207,12 +207,12 @@
       "id": "bg8-q15",
       "prompt": "In the purport to BG 8.15, what does Srila Prabhupada say about the material world?",
       "choices": [
-        "Material world should be completely rejected and despised by all spiritual seekers, with no value whatsoever",
-        "Material world, including even the highest planets, is a place of misery and impermanence; only Krishna's abode is free from suffering and change for the soul",
         "All material planets are equally miserable, so striving for higher worlds is pointless for the soul",
-        "Enjoying the material world first is a necessary stage before one can pursue spiritual realization"
+        "Enjoying the material world first is a necessary stage before one can pursue spiritual realization",
+        "Material world should be completely rejected and despised by all spiritual seekers, with no value whatsoever",
+        "Material world, including even the highest planets, is a place of misery and impermanence; only Krishna's abode is free from suffering and change for the soul"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "feedback": "Srila Prabhupada explains that the entire material universe, even the highest planets, is marked by birth, death, old age, and disease. The false path is thinking that higher planets or material progress offer lasting happiness. Real intelligence is to seek Krishna's eternal, changeless abode. Practice: Use material life as a springboard for spiritual progress, not as an end in itself.",
       "verseLabel": "BG 8.15",
       "verseUrl": "https://vedabase.io/en/library/bg/8/15/"
@@ -221,12 +221,12 @@
       "id": "bg8-q16",
       "prompt": "SYNTHESIS: Drawing from BG 8.16 and the chapter's teachings, explain why aiming for Krishna's spiritual abode is superior to seeking elevation to the highest material planets.",
       "choices": [
-        "They remain eternally in those planets, free from rebirth and suffering, due to accumulated piety",
         "They must eventually return to the cycle of birth and death after their time is over, as no material position is permanent for anyone",
+        "They attain direct service to Krishna in the spiritual world simply by reaching a high material planet",
         "They automatically merge into the impersonal Brahman after leaving the planet, regardless of consciousness",
-        "They attain direct service to Krishna in the spiritual world simply by reaching a high material planet"
+        "They remain eternally in those planets, free from rebirth and suffering, due to accumulated piety"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "feedback": "Krishna explains that even those who reach the highest material planets, like Brahmaloka, must eventually return to the cycle of birth and death. The false path is thinking that material elevation, however exalted, is permanent or liberating. Real understanding: Only Krishna's spiritual abode is free from return. Practice: Aim for the eternal, not the temporary, by cultivating devotion.",
       "verseLabel": "BG 8.16",
       "verseUrl": "https://vedabase.io/en/library/bg/8/16/"
@@ -235,12 +235,12 @@
       "id": "bg8-q17",
       "prompt": "SYNTHESIS: Using BG 8.17 and your understanding of cosmic cycles, explain how knowledge of Brahma's day and night should influence a devotee's spiritual priorities.",
       "choices": [
-        "Brahma's day and night each last for 1,000 yuga cycles; during the day, all beings are manifest, and during the night, all are unmanifest in the cosmic dissolution",
-        "Brahma's day and night are equal to one human year, mainly for symbolic or ritual purposes in scripture",
         "Brahma's day is eternal, but his night is temporary and affects only a few beings",
-        "Brahma's day and night have little effect on the material world, except for rare cosmic events"
+        "Brahma's day and night have little effect on the material world, except for rare cosmic events",
+        "Brahma's day and night are equal to one human year, mainly for symbolic or ritual purposes in scripture",
+        "Brahma's day and night each last for 1,000 yuga cycles; during the day, all beings are manifest, and during the night, all are unmanifest in the cosmic dissolution"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Krishna describes that Brahma's day and night each last for 1,000 yuga cycles. During Brahma's day, all living beings are manifest; during his night, all become unmanifest. The false path is thinking cosmic cycles are ultimate or permanent reality. Real understanding: Even the longest material cycles are temporary compared to the spiritual realm. Practice: Cultivate detachment from material temporality and focus on the eternal.",
       "verseLabel": "BG 8.17",
       "verseUrl": "https://vedabase.io/en/library/bg/8/17/"
@@ -249,10 +249,10 @@
       "id": "bg8-q18",
       "prompt": "SYNTHESIS: Based on BG 8.21 and the purports, contrast the soul's experience in Krishna's personal abode with any material destination, and explain why this distinction matters for spiritual practice.",
       "choices": [
-        "They return to the material world after some time or at the end of a cosmic cycle, as all destinations are temporary",
+        "They merge into the elements of nature and lose all individuality, ceasing to exist as persons",
         "They never return to the material world; reaching Krishna's personal abode is the highest, eternal destination for the soul, beyond all cycles",
-        "They become demigods or celestial beings in the next creation of the universe, enjoying higher pleasures",
-        "They merge into the elements of nature and lose all individuality, ceasing to exist as persons"
+        "They return to the material world after some time or at the end of a cosmic cycle, as all destinations are temporary",
+        "They become demigods or celestial beings in the next creation of the universe, enjoying higher pleasures"
       ],
       "correctIndex": 1,
       "feedback": "Krishna states that those who reach the supreme, unmanifest destination-His personal abode-never return to the material world. The false path is thinking all destinations are temporary or that individuality is lost. Real understanding: The supreme destination is final, eternal, and personal. Practice: Fix your goal on reaching Krishna's personal abode, not just escaping suffering.",
@@ -263,12 +263,12 @@
       "id": "bg8-q19",
       "prompt": "According to BG 8.19 and its purport, why do souls repeatedly take birth in material creation, and what is required to break this cycle?",
       "choices": [
-        "Material desires and attachments cause repeated birth; breaking the cycle requires conscious spiritual effort and Krishna consciousness, not just time or fate.",
         "Time alone purifies all souls, so liberation comes automatically without any personal endeavor.",
-        "Creation and destruction are random, so birth is accidental and unpredictable, with no underlying cause.",
-        "Each cycle guarantees permanent spiritual progress for every soul, regardless of their actions or consciousness."
+        "Each cycle guarantees permanent spiritual progress for every soul, regardless of their actions or consciousness.",
+        "Material desires and attachments cause repeated birth; breaking the cycle requires conscious spiritual effort and Krishna consciousness, not just time or fate.",
+        "Creation and destruction are random, so birth is accidental and unpredictable, with no underlying cause."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Material desires and attachments bind the soul to repeated birth. Only deliberate spiritual effort-especially Krishna consciousness-breaks this cycle. The false path is thinking time, randomness, or inevitability alone brings liberation. Real understanding: Freedom requires conscious transformation of desire and intent. Practice: Examine your attachments and cultivate spiritual desire through steady practice.",
       "verseLabel": "BG 8.19",
       "verseUrl": "https://vedabase.io/en/library/bg/8/19/"
@@ -278,9 +278,9 @@
       "prompt": "According to BG 8.23-26, what are the two paths described for departing souls?",
       "choices": [
         "The path of light (uttarayana), leading to liberation, and the path of darkness (dakshinayana), leading to rebirth - both described in scripture as outcomes shaped by consciousness at death.",
+        "The path of yoga and the path of ritual, each recommended for spiritual advancement and growth in consciousness by different teachers.",
         "The path of karma and the path of jnana, each offering different results for spiritual progress and realization in life.",
-        "The path of renunciation and the path of enjoyment, both described for seekers of truth and wisdom in the Vedas.",
-        "The path of yoga and the path of ritual, each recommended for spiritual advancement and growth in consciousness by different teachers."
+        "The path of renunciation and the path of enjoyment, both described for seekers of truth and wisdom in the Vedas."
       ],
       "correctIndex": 0,
       "feedback": "Krishna describes two paths: the bright path (uttarayana) leading to liberation, and the dark path (dakshinayana) leading to rebirth. The false path is thinking all approaches or timings are equal, or that ritual alone determines destiny. Real understanding: The deciding factor is consciousness shaped by devotion, not mere externalities. Practice: Build steady Krishna remembrance so your final transition reflects a trained mind.",
@@ -291,12 +291,12 @@
       "id": "bg8-q21",
       "prompt": "SYNTHESIS: Integrate the teachings of BG 8.27 and the chapter's conclusion to explain how understanding the two paths helps a devotee remain fixed in devotion, even at the time of death.",
       "choices": [
-        "Understanding the two paths gives clarity and confidence, helping a devotee remain fixed in devotion regardless of external circumstances, even at death.",
-        "By manipulating the afterlife for material gain through rituals and offerings, regardless of consciousness.",
         "By becoming expert in astrology and cosmic timing, and planning spiritual activities accordingly.",
-        "By choosing the time of death at will and controlling destiny through yogic powers."
+        "By choosing the time of death at will and controlling destiny through yogic powers.",
+        "By manipulating the afterlife for material gain through rituals and offerings, regardless of consciousness.",
+        "Understanding the two paths gives clarity and confidence, helping a devotee remain fixed in devotion regardless of external circumstances, even at death."
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "feedback": "Understanding the two paths gives the devotee clarity and confidence, so they remain fixed in devotion regardless of timing or circumstance. The false path is thinking that manipulation, astrology, or yogic control is the key. Real understanding: Steadfast devotion is the true anchor, not external arrangements. Practice: Focus on unwavering devotion, not on controlling outcomes.",
       "verseLabel": "BG 8.27",
       "verseUrl": "https://vedabase.io/en/library/bg/8/27/"
@@ -306,9 +306,9 @@
       "prompt": "How do the teachings of BG 8.21-22 and Srila Prabhupada's purport together clarify the nature of the spiritual destination, and what practical attitude should a devotee cultivate?",
       "choices": [
         "Both emphasize that the spiritual world is full of variety, relationships, and loving service; a devotee should aspire for a personal relationship with Krishna, not impersonal liberation.",
-        "Both teach that the spiritual world is ultimately formless and impersonal, so merging into Brahman is the highest goal.",
+        "Both indicate that the spiritual world is only for renunciates, so most people should not aspire for it.",
         "Both suggest that the spiritual world is a temporary state, so material duties should be prioritized.",
-        "Both indicate that the spiritual world is only for renunciates, so most people should not aspire for it."
+        "Both teach that the spiritual world is ultimately formless and impersonal, so merging into Brahman is the highest goal."
       ],
       "correctIndex": 0,
       "feedback": "Both the verses and purport clarify that the spiritual world is not an impersonal void but a realm of loving relationships and variety. The practical attitude is to aspire for a personal, loving relationship with Krishna, not impersonal liberation. The false path is thinking the goal is formlessness or that spiritual life is only for renunciates. Practice: Cultivate a mood of loving service and relationship with Krishna.",
@@ -319,12 +319,12 @@
       "id": "bg8-q23",
       "prompt": "According to BG 8.28, what does Krishna say about the results of Vedic study, sacrifice, austerity, and charity?",
       "choices": [
-        "They are the highest achievements for a spiritual seeker, surpassing other practices and leading to higher worlds.",
-        "They are necessary prerequisites for attaining Krishna's supreme abode, as described in the Vedas.",
         "A devotee who knows Krishna surpasses these results and attains the supreme, eternal abode beyond rebirth, not achieved by ritual alone.",
-        "They guarantee rebirth in heavenly planets, but not liberation; true liberation requires devotion and knowledge of Krishna."
+        "They guarantee rebirth in heavenly planets, but not liberation; true liberation requires devotion and knowledge of Krishna.",
+        "They are necessary prerequisites for attaining Krishna's supreme abode, as described in the Vedas.",
+        "They are the highest achievements for a spiritual seeker, surpassing other practices and leading to higher worlds."
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "feedback": "Krishna concludes that a devotee who knows Him attains the supreme, eternal abode, surpassing the results of all Vedic rituals, austerities, and charities. The false path is thinking ritual or charity alone is enough for liberation. Real understanding: Bhakti-devotion to Krishna-is the highest path. Practice: Prioritize loving devotion above all other spiritual activities.",
       "verseLabel": "BG 8.28",
       "verseUrl": "https://vedabase.io/en/library/bg/8/28/"
@@ -334,8 +334,8 @@
       "prompt": "Integrate the teachings of BG 8.5-7 and 8.14 to explain why daily Krishna consciousness is essential for spiritual success at death, and give a practical example.",
       "choices": [
         "Daily practice shapes the mind, so steady Krishna consciousness makes remembrance at death natural; for example, a devotee who chants and serves daily will think of Krishna at the end.",
-        "The final moment is unpredictable, so daily practice is less important; only last-minute effort matters for the soul's journey.",
         "Rituals alone guarantee spiritual success, so daily consciousness is not required for attainment.",
+        "The final moment is unpredictable, so daily practice is less important; only last-minute effort matters for the soul's journey.",
         "Destiny is fixed, so practice has no effect on the outcome for anyone."
       ],
       "correctIndex": 0,
@@ -347,12 +347,12 @@
       "id": "bg8-q25",
       "prompt": "Using BG 8.15-16, 8.17-19, and 8.28, explain why devotional service is the highest spiritual practice, and contrast it with other paths.",
       "choices": [
-        "All material worlds and cosmic cycles are temporary, so only devotional service to Krishna leads to the eternal destination; other paths give only temporary results, not liberation.",
         "Material elevation can bring happiness and higher birth, so devotional service is not always necessary for fulfillment.",
-        "Cosmic cycles purify souls over time, so effort is less important for spiritual progress.",
-        "The spiritual world is just a better material planet, so all paths are equal for spiritual seekers."
+        "The spiritual world is just a better material planet, so all paths are equal for spiritual seekers.",
+        "All material worlds and cosmic cycles are temporary, so only devotional service to Krishna leads to the eternal destination; other paths give only temporary results, not liberation.",
+        "Cosmic cycles purify souls over time, so effort is less important for spiritual progress."
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "feedback": "Only devotional service leads to the eternal, supreme destination, while other paths-such as ritual, material elevation, or cosmic cycles-give only temporary results. Some believe cosmic dissolution resets karma and guarantees progress, but Krishna teaches that only bhakti grants liberation. Prioritize devotional service above all else, as taught in BG 8.15-16, 8.17-19, and 8.28.",
       "verseLabel": "BG 8.15-19, 8.28",
       "verseUrl": "https://vedabase.io/en/library/bg/8/15/"

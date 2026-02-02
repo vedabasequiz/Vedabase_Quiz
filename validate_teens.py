@@ -24,7 +24,10 @@ for ch in [1, 2]:
         print(f'✗ ID mismatch found')
     
     # Purport questions
-    purport_questions = [q for q in questions if 'purport' in q.get('verseLabel', '').lower()]
+    purport_questions = [q for q in questions if (
+        'purport' in q.get('verseLabel', '').lower() or
+        q.get('source', '').lower() == 'purport'
+    )]
     purport_count = len(purport_questions)
     purport_pct = (purport_count / total) * 100
     

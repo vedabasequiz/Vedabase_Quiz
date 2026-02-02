@@ -110,7 +110,7 @@ Based on common misunderstandings (not silly or irrelevant)
 **Reference:** See audience-specific distractor guides:
 - Adults: [BG_DISTRACTOR_STYLE_GUIDE.md](BG_DISTRACTOR_STYLE_GUIDE.md)
 - Teens: [BG_DISTRACTOR_STYLE_GUIDE_TEENS.md](BG_DISTRACTOR_STYLE_GUIDE_TEENS.md)
-- Kids: [BG_DISTRACTOR_STYLE_GUIDE_KIDS.md](BG_DISTRACTOR_STYLE_GUIDE_KIDS.md)
+- Kids: [KIDS_BG_QUIZ_STANDARDS_2026.md](KIDS_BG_QUIZ_STANDARDS_2026.md)
 7. Translation vs Purport Balance
 
 ☐ Overall mix respects locked ratio:
@@ -278,7 +278,7 @@ Common devotional misunderstandings
 **Gold Standard:** See audience-specific distractor guides:
 - **Adults** [BG_DISTRACTOR_STYLE_GUIDE.md](BG_DISTRACTOR_STYLE_GUIDE.md): Philosophical contrast, partial truths, false paths
 - **Teens** [BG_DISTRACTOR_STYLE_GUIDE_TEENS.md](BG_DISTRACTOR_STYLE_GUIDE_TEENS.md): Emotional reasoning, peer logic, oversimplified ideas
-- **Kids** [BG_DISTRACTOR_STYLE_GUIDE_KIDS.md](BG_DISTRACTOR_STYLE_GUIDE_KIDS.md): Story confusion, cause-effect mix-ups, simple emotions
+- **Kids** [KIDS_BG_QUIZ_STANDARDS_2026.md](KIDS_BG_QUIZ_STANDARDS_2026.md): See full standards checklist for all rules, examples, and requirements
 
 Each guide includes approved categories, forbidden types, structural rules, and chapter-specific emphasis
 

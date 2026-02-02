@@ -116,6 +116,64 @@ def analyze_kids_quiz(filename, chapter):
     else:
         print(f"   ✅ Positive tone throughout")
     
+    # 9. ASCII-only check (no Unicode dashes, smart quotes)
+    print(f"\n9. ASCII-ONLY CHECK:")
+    unicode_issues = []
+    for i, q in enumerate(data['questions'], 1):
+        for field in ['prompt', 'choices', 'feedback', 'verseUrl']:
+            val = q.get(field, '')
+            if isinstance(val, list):
+                vals = val
+            else:
+                vals = [val]
+            for v in vals:
+                if any(ord(c) > 127 for c in v):
+                    unicode_issues.append(f"q{i}:{field}")
+    if unicode_issues:
+        print(f"   ❌ Unicode characters found in: {', '.join(unicode_issues[:5])}")
+        print(f"   RULE: ASCII-only, no smart quotes or Unicode dashes")
+    else:
+        print(f"   ✅ All content is ASCII-only")
+
+    # 10. Required fields and source value check
+    print(f"\n10. REQUIRED FIELDS & SOURCE TAG:")
+    required_fields = ['prompt', 'choices', 'correctIndex', 'feedback', 'verseUrl', 'source']
+    missing_fields = []
+    bad_source = []
+    ui_fields = []
+    for i, q in enumerate(data['questions'], 1):
+        for field in required_fields:
+            if field not in q:
+                missing_fields.append(f"q{i}:{field}")
+        # Source value check
+        if q.get('source') not in ['translation', 'purport']:
+            bad_source.append(f"q{i}:{q.get('source')}")
+        # UI-only fields check
+        for ui_field in ['verdict', 'score', 'scoring', 'metadata']:
+            if ui_field in q:
+                ui_fields.append(f"q{i}:{ui_field}")
+    if missing_fields:
+        print(f"   ❌ Missing required fields: {', '.join(missing_fields[:5])}")
+    else:
+        print(f"   ✅ All required fields present")
+    if bad_source:
+        print(f"   ❌ Invalid source values: {', '.join(bad_source[:5])}")
+    else:
+        print(f"   ✅ All source fields valid")
+    if ui_fields:
+        print(f"   ❌ UI-only fields present: {', '.join(ui_fields[:5])}")
+    else:
+        print(f"   ✅ No UI-only fields present")
+
+    # 11. Final question feedback: ends on clarity/reassurance
+    print(f"\n11. FINAL QUESTION FEEDBACK:")
+    last_fb = data['questions'][-1].get('feedback', '').lower() if data['questions'] else ''
+    reassuring = any(word in last_fb for word in ['clear', 'calm', 'reassure', 'happy', 'kind', 'safe', 'confident', 'understand', 'good'])
+    if reassuring:
+        print(f"   ✅ Quiz ends on a clear, reassuring note")
+    else:
+        print(f"   ⚠️ Last feedback may not be sufficiently reassuring")
+
     return {
         'total': total,
         'verse_pct': verse_pct,

@@ -1,0 +1,58 @@
+canto,chapter,chapter_title,archetype,audience,question_count,purport_count,purport_ratio,synthesis_count,synthesis_in_last_5,validator_status,validator_warnings_count,published,status,notes
+1,1,Questions by the Sages,epistemology-heavy,adult,25,10,0.40,3,1,pass,0,no,mapped,Revised mapping complete; generation pending
+1,1,Questions by the Sages,epistemology-heavy,teens,15,,,,not-run,,no,planned,To be mapped after Adult finalization
+1,1,Questions by the Sages,epistemology-heavy,kids,10,,,,not-run,,no,planned,To be mapped after Adult finalization
+1,2,Divinity and Divine Service,epistemology-heavy,adult,25,,,,not-run,,no,planned,Archetype tentative; confirm during mapping
+1,2,Divinity and Divine Service,epistemology-heavy,teens,15,,,,not-run,,no,planned,
+1,2,Divinity and Divine Service,epistemology-heavy,kids,10,,,,not-run,,no,planned,
+1,3,Krishna Is the Source of All Incarnations,theological-core,adult,25,,,,not-run,,no,planned,Avatar theology; expect strong synthesis
+1,3,Krishna Is the Source of All Incarnations,theological-core,teens,15,,,,not-run,,no,planned,
+1,3,Krishna Is the Source of All Incarnations,theological-core,kids,10,,,,not-run,,no,planned,
+1,4,The Appearance of Sri Narada,narrative-heavy,adult,25,,,,not-run,,no,planned,Narrative with epistemology via Narada-Vyasa link
+1,4,The Appearance of Sri Narada,narrative-heavy,teens,15,,,,not-run,,no,planned,
+1,4,The Appearance of Sri Narada,narrative-heavy,kids,10,,,,not-run,,no,planned,
+1,5,Narada's Instructions on Srimad-Bhagavatam,epistemology-heavy,adult,25,,,,not-run,,no,planned,Strong hearing/authority focus
+1,5,Narada's Instructions on Srimad-Bhagavatam,epistemology-heavy,teens,15,,,,not-run,,no,planned,
+1,5,Narada's Instructions on Srimad-Bhagavatam,epistemology-heavy,kids,10,,,,not-run,,no,planned,
+1,6,Conversation Between Narada and Vyasa,mixed,adult,25,,,,not-run,,no,planned,Narrative plus deep instruction
+1,6,Conversation Between Narada and Vyasa,mixed,teens,15,,,,not-run,,no,planned,
+1,6,Conversation Between Narada and Vyasa,mixed,kids,10,,,,not-run,,no,planned,
+1,7,The Son of Drona Punished,theological-core,adult,25,,,,not-run,,no,planned,Justice, mercy, and devotion
+1,7,The Son of Drona Punished,theological-core,teens,15,,,,not-run,,no,planned,
+1,7,The Son of Drona Punished,theological-core,kids,10,,,,not-run,,no,planned,
+1,8,Prayers by Queen Kunti,theological-core,adult,25,,,,not-run,,no,planned,High devotional theology; prayer analysis
+1,8,Prayers by Queen Kunti,theological-core,teens,15,,,,not-run,,no,planned,
+1,8,Prayers by Queen Kunti,theological-core,kids,10,,,,not-run,,no,planned,
+1,9,The Passing Away of Bhishmadeva,theological-core,adult,25,,,,not-run,,no,planned,Devotion at death; instruction from Bhishma
+1,9,The Passing Away of Bhishmadeva,theological-core,teens,15,,,,not-run,,no,planned,
+1,9,The Passing Away of Bhishmadeva,theological-core,kids,10,,,,not-run,,no,planned,
+1,10,Departure of Lord Krishna for Dvaraka,narrative-heavy,adult,25,,,,not-run,,no,planned,Narrative-as-teaching emphasis
+1,10,Departure of Lord Krishna for Dvaraka,narrative-heavy,teens,15,,,,not-run,,no,planned,
+1,10,Departure of Lord Krishna for Dvaraka,narrative-heavy,kids,10,,,,not-run,,no,planned,
+1,11,Krishna's Entrance Into Dvaraka,narrative-heavy,adult,25,,,,not-run,,no,planned,
+1,11,Krishna's Entrance Into Dvaraka,narrative-heavy,teens,15,,,,not-run,,no,planned,
+1,11,Krishna's Entrance Into Dvaraka,narrative-heavy,kids,10,,,,not-run,,no,planned,
+1,12,Birth of Emperor Pariksit,narrative-heavy,adult,25,,,,not-run,,no,planned,Sets Pariksit arc
+1,12,Birth of Emperor Pariksit,narrative-heavy,teens,15,,,,not-run,,no,planned,
+1,12,Birth of Emperor Pariksit,narrative-heavy,kids,10,,,,not-run,,no,planned,
+1,13,Dhritarastra Quits Home,mixed,adult,25,,,,not-run,,no,planned,Renunciation with purport warnings
+1,13,Dhritarastra Quits Home,mixed,teens,15,,,,not-run,,no,planned,
+1,13,Dhritarastra Quits Home,mixed,kids,10,,,,not-run,,no,planned,
+1,14,The Disappearance of Lord Krishna,theological-core,adult,25,,,,not-run,,no,planned,Kali-yuga onset; deep purports
+1,14,The Disappearance of Lord Krishna,theological-core,teens,15,,,,not-run,,no,planned,
+1,14,The Disappearance of Lord Krishna,theological-core,kids,10,,,,not-run,,no,planned,
+1,15,The Pandavas Retire Timely,mixed,adult,25,,,,not-run,,no,planned,Proper renunciation themes
+1,15,The Pandavas Retire Timely,mixed,teens,15,,,,not-run,,no,planned,
+1,15,The Pandavas Retire Timely,mixed,kids,10,,,,not-run,,no,planned,
+1,16,How Pariksit Received the Age of Kali,narrative-heavy,adult,25,,,,not-run,,no,planned,Kali-yuga diagnosis
+1,16,How Pariksit Received the Age of Kali,narrative-heavy,teens,15,,,,not-run,,no,planned,
+1,16,How Pariksit Received the Age of Kali,narrative-heavy,kids,10,,,,not-run,,no,planned,
+1,17,Punishment and Reward of Kali,mixed,adult,25,,,,not-run,,no,planned,Justice, mercy, Kali-yuga governance
+1,17,Punishment and Reward of Kali,mixed,teens,15,,,,not-run,,no,planned,
+1,17,Punishment and Reward of Kali,mixed,kids,10,,,,not-run,,no,planned,
+1,18,Maharaja Pariksit Cursed by a Brahmana's Boy,theological-core,adult,25,,,,not-run,,no,planned,Reaction, offense, divine arrangement
+1,18,Maharaja Pariksit Cursed by a Brahmana's Boy,theological-core,teens,15,,,,not-run,,no,planned,
+1,18,Maharaja Pariksit Cursed by a Brahmana's Boy,theological-core,kids,10,,,,not-run,,no,planned,
+1,19,The Appearance of Sukadeva Gosvami,epistemology-heavy,adult,25,,,,not-run,,no,planned,Perfect SB closure for Canto 1
+1,19,The Appearance of Sukadeva Gosvami,epistemology-heavy,teens,15,,,,not-run,,no,planned,
+1,19,The Appearance of Sukadeva Gosvami,epistemology-heavy,kids,10,,,,not-run,,no,planned,

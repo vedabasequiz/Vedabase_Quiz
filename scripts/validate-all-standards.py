@@ -155,24 +155,43 @@ class QuizValidator:
         questions = self.data.get('questions', [])
         purport_count = 0
         
-        # Count purport questions (those mentioning "purport" or "Prabhupada" in prompt)
+        # Count purport questions (those mentioning "purport" or "Prabhupada" in prompt, or source=='purport')
         for q in questions:
             prompt = q.get('prompt', '').lower()
-            if 'purport' in prompt or 'prabhupada' in prompt:
+            source = q.get('source', '').lower()
+            if 'purport' in prompt or 'prabhupada' in prompt or source == 'purport':
                 purport_count += 1
-        
+
         total = len(questions)
         ratio = (purport_count / total * 100) if total > 0 else 0
-        
-        # Target: 35-40%
-        if 35 <= ratio <= 40:
-            self.passes.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) ✓ Target: 35-40%")
-        elif 28 <= ratio < 35:
-            self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Below target 35-40%")
-        elif ratio < 28:
-            self.errors.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Well below target 35-40%")
+
+        # For teens, purport ratio is a guideline, not a blocker
+        audience = self.data.get('audience', '')
+        if audience == 'teens':
+            if 35 <= ratio <= 45:
+                self.passes.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) ✓ Guideline: 35-45%")
+            elif ratio < 35:
+                self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Below guideline 35-45% (not blocking)")
+            elif ratio > 45:
+                self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Above guideline 45% (requires editorial justification, not blocking)")
+        elif audience == 'kids':
+            # For kids, guideline is ~20% (1–2 purport questions per 10)
+            if 10 <= ratio <= 25:
+                self.passes.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) ✓ Guideline: ~20% (1–2 purport questions, advisory)")
+            elif ratio < 10:
+                self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Below guideline ~20% (advisory, not blocking)")
+            elif ratio > 25:
+                self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Above guideline ~20% (advisory, not blocking)")
         else:
-            self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Above target 35-40%")
+            # For adults, keep original blocking logic
+            if 35 <= ratio <= 40:
+                self.passes.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) ✓ Target: 35-40%")
+            elif 28 <= ratio < 35:
+                self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Below target 35-40%")
+            elif ratio < 28:
+                self.errors.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Well below target 35-40%")
+            else:
+                self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Above target 35-40%")
     
     def check_quality_length_balance(self) -> None:
         """Quality Standards: Length balance (70% variance, max 1.7x)"""

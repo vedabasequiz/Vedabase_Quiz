@@ -1,14 +1,17 @@
 {
   "id": "sb-1-1-adult",
+  "scripture": "sb",
+  "canto": 1,
+  "chapter": 1,
   "title": "Srimad Bhagavatam - Canto 1 Chapter 1 | Adult Quiz (25Q)",
   "audience": "adult",
   "difficulty": "medium-hard",
-  "questionCount": 25,
   "publishedOn": "2026-01-29",
+  "questionCount": 25,
   "questions": [
     {
       "id": "sb1-1-01",
-      "prompt": "1. In SB 1.1.1, the opening meditation is upon whom as the primeval cause of creation, sustenance, and destruction?",
+      "prompt": "In SB 1.1.1, the opening meditation is upon whom as the primeval cause of creation, sustenance, and destruction?",
       "choices": [
         "Brahma, who creates within the universe",
         "Lord Sri Krishna, son of Vasudeva",
@@ -16,13 +19,14 @@
         "The collective Vedas personified"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The very first verse establishes Lord Sri Krishna, son of Vasudeva, as the Absolute Truth and primeval cause. Srila Prabhupada explains that Krishna is the original Personality of Godhead, and all others are His direct or indirect plenary portions. This opening meditation immediately distinguishes the Bhagavatam as Krishna-centered, rejecting impersonal and subordinate conceptions. The purport emphasizes that while Brahma is the first created being, it is Krishna who imparted Vedic knowledge into Brahma's heart, establishing the proper hierarchy of authority.",
+      "feedback": "The very first verse establishes Lord Sri Krishna, son of Vasudeva, as the Absolute Truth and primeval cause. Srila Prabhupada explains that Krishna is the original Personality of Godhead, and all others are His direct or indirect plenary portions. This opening meditation immediately distinguishes the Bhagavatam as Krishna-centered, rejecting impersonal and subordinate conceptions. The purport emphasizes that while Brahma is the first created being, it is Krishna who imparted Vedic knowledge into Brahma's heart, establishing the proper hierarchy of authority.",
       "verseLabel": "SB 1.1.1",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-02",
-      "prompt": "2. According to SB 1.1.1, how was Vedic knowledge first transmitted?",
+      "prompt": "According to SB 1.1.1, how was Vedic knowledge first transmitted?",
       "choices": [
         "Through mental speculation by ancient sages",
         "Imparted by the Lord into the heart of Brahmaji",
@@ -30,13 +34,14 @@
         "Revealed through dreams and visions"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse explicitly states that the Lord first imparted Vedic knowledge unto the heart of Brahmaji, the original living being. This establishes the crucial epistemological principle that authoritative knowledge descends from the Supreme, not from below. The purport warns against assuming that Brahma could independently create without divine inspiration. This verse refutes the materialistic notion that knowledge arises from mental speculation or empirical trial and error. Instead, it establishes the descending process of revelation as the only source of transcendental truth, a foundational principle for all Vedic epistemology.",
+      "feedback": "The verse explicitly states that the Lord first imparted Vedic knowledge unto the heart of Brahmaji, the original living being. This establishes the crucial epistemological principle that authoritative knowledge descends from the Supreme, not from below. The purport warns against assuming that Brahma could independently create without divine inspiration. This verse refutes the materialistic notion that knowledge arises from mental speculation or empirical trial and error. Instead, it establishes the descending process of revelation as the only source of transcendental truth, a foundational principle for all Vedic epistemology.",
       "verseLabel": "SB 1.1.1",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-03",
-      "prompt": "3. SB 1.1.1 states that even great sages and demigods are placed into illusion by the Lord. What analogy is used in the verse to illustrate this illusion?",
+      "prompt": "SB 1.1.1 states that even great sages and demigods are placed into illusion by the Lord. What analogy is used in the verse to illustrate this illusion?",
       "choices": [
         "Stars appearing to move though they are fixed",
         "Water seen in fire, or land seen on water",
@@ -44,13 +49,14 @@
         "Dreams appearing real during sleep"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse uses the precise analogy of water seen in fire (a mirage) or land seen on water. This vivid imagery illustrates how even elevated beings can be bewildered by the Lord's illusory energy. The purport explains that this material creation appears factual though it is unreal, a temporary manifestation of the three modes of nature. Why this matters: This verse challenges overconfidence in intellectual prowess. Even demigods and sages can be bewildered, so the conditioned soul must approach transcendental knowledge with humility, relying on the descending process rather than ascending speculation.",
+      "feedback": "The verse uses the precise analogy of water seen in fire (a mirage) or land seen on water. This vivid imagery illustrates how even elevated beings can be bewildered by the Lord's illusory energy. The purport explains that this material creation appears factual though it is unreal, a temporary manifestation of the three modes of nature. Why this matters: This verse challenges overconfidence in intellectual prowess. Even demigods and sages can be bewildered, so the conditioned soul must approach transcendental knowledge with humility, relying on the descending process rather than ascending speculation.",
       "verseLabel": "SB 1.1.1",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/",
+      "source": "purport"
     },
     {
       "id": "sb1-1-04",
-      "prompt": "4. Based on SB 1.1.1's purport, what critical error do impersonalist philosophers (Mayavadis) commit regarding the Absolute Truth?",
+      "prompt": "Based on SB 1.1.1's purport, what critical error do impersonalist philosophers (Mayavadis) commit regarding the Absolute Truth?",
       "choices": [
         "They deny that the Absolute can create",
         "They think they can become equal to or one with the Lord through austerity",
@@ -58,13 +64,14 @@
         "They reject the authority of the Vedas entirely"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. Srila Prabhupada's purport states that Mayavadi impersonalists who flatter themselves that they can become one with the Lord are neither abhijnah (fully cognizant) nor svarat (fully independent). The purport explains they undergo severe austerities but ultimately remain dependent on rich disciples for monastery construction. This false confidence that one can attain equality with the Supreme through personal endeavor contradicts the verse's teaching that only Krishna is fully independent and all-cognizant. The spiritual process requires surrender to superior authority, not attempts to usurp or merge with it.",
+      "feedback": "Srila Prabhupada's purport states that Mayavadi impersonalists who flatter themselves that they can become one with the Lord are neither abhijnah (fully cognizant) nor svarat (fully independent). The purport explains they undergo severe austerities but ultimately remain dependent on rich disciples for monastery construction. This false confidence that one can attain equality with the Supreme through personal endeavor contradicts the verse's teaching that only Krishna is fully independent and all-cognizant. The spiritual process requires surrender to superior authority, not attempts to usurp or merge with it.",
       "verseLabel": "SB 1.1.1",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/",
+      "source": "purport"
     },
     {
       "id": "sb1-1-05",
-      "prompt": "5. According to SB 1.1.2, what type of religiosity does the Bhagavata Purana completely reject?",
+      "prompt": "According to SB 1.1.2, what type of religiosity does the Bhagavata Purana completely reject?",
       "choices": [
         "Religious activities performed by women and sudras",
         "All ritualistic activities without exception",
@@ -72,13 +79,14 @@
         "Religious practices from other Puranas"
       ],
       "correctIndex": 2,
-      "feedback": "Correct. The verse uses the term 'projjhita-kaitava' meaning 'completely rejecting covered religiosity' or materially motivated religion. The purport explains that dharma is often performed for economic gain, which leads to sense gratification, and when baffled, one seeks salvation to merge with the Supreme—all of which are simply different types of sense gratification. The Bhagavatam transcends this contaminated approach. Why this matters: This verse establishes a ruthless standard—religion practiced for any material motive (wealth, pleasure, or even liberation conceived as escape) is categorically rejected as inauthentic. Only pure devotion, free from ulterior motives, satisfies the self.",
+      "feedback": "The verse uses the term 'projjhita-kaitava' meaning 'completely rejecting covered religiosity' or materially motivated religion. The purport explains that dharma is often performed for economic gain, which leads to sense gratification, and when baffled, one seeks salvation to merge with the Supreme-all of which are simply different types of sense gratification. The Bhagavatam transcends this contaminated approach. Why this matters: This verse establishes a ruthless standard-religion practiced for any material motive (wealth, pleasure, or even liberation conceived as escape) is categorically rejected as inauthentic. Only pure devotion, free from ulterior motives, satisfies the self.",
       "verseLabel": "SB 1.1.2",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/",
+      "source": "purport"
     },
     {
       "id": "sb1-1-06",
-      "prompt": "6. SB 1.1.2 says the highest truth is understandable by which kind of persons?",
+      "prompt": "SB 1.1.2 says the highest truth is understandable by which kind of persons?",
       "choices": [
         "Those with extensive academic training",
         "Devotees who are fully pure in heart (nirmatsara)",
@@ -86,13 +94,14 @@
         "Those born in brahmana families"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse uses 'nirmatsaranam satam'—those who are fully pure in heart and free from envy. The purport explains that in the material world everyone is envious of everyone else, causing competition. But transcendental devotees rise above this, being nonenvious and well-wishers to all, striving for a competitionless society with God at the center. This is a profound epistemological point: purity of heart, not intellectual capacity, qualifies one to understand transcendental truth. Envy creates a distorting lens that makes one unable to accept God's supremacy. Academic credentials or birth status are irrelevant; only purity of motive grants access to spiritual understanding.",
+      "feedback": "The verse uses 'nirmatsaranam satam'-those who are fully pure in heart and free from envy. The purport explains that in the material world everyone is envious of everyone else, causing competition. But transcendental devotees rise above this, being nonenvious and well-wishers to all, striving for a competitionless society with God at the center. This is a profound epistemological point: purity of heart, not intellectual capacity, qualifies one to understand transcendental truth. Envy creates a distorting lens that makes one unable to accept God's supremacy. Academic credentials or birth status are irrelevant; only purity of motive grants access to spiritual understanding.",
       "verseLabel": "SB 1.1.2",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/",
+      "source": "purport"
     },
     {
       "id": "sb1-1-07",
-      "prompt": "7. According to SB 1.1.2, what happens when one attentively and submissively hears the Bhagavatam?",
+      "prompt": "According to SB 1.1.2, what happens when one attentively and submissively hears the Bhagavatam?",
       "choices": [
         "One gains material prosperity and health",
         "The Supreme Lord becomes established within the heart",
@@ -100,13 +109,14 @@
         "One acquires mystical powers"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse states that through attentive and submissive hearing (śuśrūṣu), the Supreme Lord is established within the heart (hṛdy avarudhyate). The purport emphasizes that the manner of reception is critical—one must be anxious to hear with a submissive, not challenging, attitude. Why this matters: This reveals the proper epistemological stance—submissive hearing is the method, not debate or speculation. The promise is extraordinary: direct realization of the Personality of Godhead in the heart, not mere intellectual understanding. But the key is submissiveness (śuśrūṣu), which opposes the modern preference for critical interrogation over receptive hearing.",
+      "feedback": "The verse states that through attentive and submissive hearing (susrusu), the Supreme Lord is established within the heart (hrdy avarudhyate). The purport emphasizes that the manner of reception is critical-one must be anxious to hear with a submissive, not challenging, attitude. Why this matters: This reveals the proper epistemological stance-submissive hearing is the method, not debate or speculation. The promise is extraordinary: direct realization of the Personality of Godhead in the heart, not mere intellectual understanding. But the key is submissiveness (susrusu), which opposes the modern preference for critical interrogation over receptive hearing.",
       "verseLabel": "SB 1.1.2",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-08",
-      "prompt": "8. SB 1.1.3 compares Srimad-Bhagavatam to what metaphor, and why is this significant?",
+      "prompt": "SB 1.1.3 compares Srimad-Bhagavatam to what metaphor, and why is this significant?",
       "choices": [
         "A weapon to conquer enemies, showing its power",
         "The mature fruit of the desire tree of Vedic literatures, indicating it is the essence",
@@ -114,13 +124,14 @@
         "A mirror reflecting the soul, for self-examination"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse calls it 'nigama-kalpa-taror galitam phalam'—the ripened fruit of the desire tree of Vedic literatures. The purport explains that the Vedas contain all knowable subject matter, but the Bhagavatam is the cream, the essence. It presents the highest spiritual realization: that the Personality of Godhead is the reservoir of all rasas (spiritual relationships). Significantly, the purport warns against jumping to the Tenth Canto's confidential pastimes without gradual preparation. The fruit is mature and complete, containing all nutrients in concentrated form, but must be received properly through the disciplic succession, not by professional reciters or impatient materialists.",
+      "feedback": "The verse calls it 'nigama-kalpa-taror galitam phalam'-the ripened fruit of the desire tree of Vedic literatures. The purport explains that the Vedas contain all knowable subject matter, but the Bhagavatam is the cream, the essence. It presents the highest spiritual realization: that the Personality of Godhead is the reservoir of all rasas (spiritual relationships). Significantly, the purport warns against jumping to the Tenth Canto's confidential pastimes without gradual preparation. The fruit is mature and complete, containing all nutrients in concentrated form, but must be received properly through the disciplic succession, not by professional reciters or impatient materialists.",
       "verseLabel": "SB 1.1.3",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/3/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/3/",
+      "source": "purport"
     },
     {
       "id": "sb1-1-09",
-      "prompt": "9. Why does SB 1.1.3 say the fruit of the Bhagavatam became even more tasteful?",
+      "prompt": "Why does SB 1.1.3 say the fruit of the Bhagavatam became even more tasteful?",
       "choices": [
         "Because it was translated into many languages",
         "Because it emanated from the lips of Sri Sukadeva Gosvami",
@@ -128,13 +139,14 @@
         "Because it was shorter than other Puranas"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse states it emanated from Sukadeva Gosvami's lips (śuka-mukhāt), making it even more relishable. The purport explains that Sukadeva was liberated from birth, situated above the three modes, yet still attracted to Krishna's transcendental rasa. The significance: this establishes the importance of the speaker in the disciplic succession. The parrot metaphor (śuka) indicates that Sukadeva presented the work in a manner appealing to all classes, but without distortion. This refutes the idea that one can understand the Bhagavatam from any source; it must come through the authorized succession, not from professional reciters who make business from sacred narrations.",
+      "feedback": "The verse states it emanated from Sukadeva Gosvami's lips (suka-mukhat), making it even more relishable. The purport explains that Sukadeva was liberated from birth, situated above the three modes, yet still attracted to Krishna's transcendental rasa. The significance: this establishes the importance of the speaker in the disciplic succession. The parrot metaphor (suka) indicates that Sukadeva presented the work in a manner appealing to all classes, but without distortion. This refutes the idea that one can understand the Bhagavatam from any source; it must come through the authorized succession, not from professional reciters who make business from sacred narrations.",
       "verseLabel": "SB 1.1.3",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/3/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/3/",
+      "source": "purport"
     },
     {
       "id": "sb1-1-10",
-      "prompt": "10. In SB 1.1.4, what is the stated purpose of the thousand-year sacrifice performed by the sages at Naimisaranya?",
+      "prompt": "In SB 1.1.4, what is the stated purpose of the thousand-year sacrifice performed by the sages at Naimisaranya?",
       "choices": [
         "To gain material prosperity and long life",
         "For the satisfaction of the Lord and His devotees",
@@ -142,13 +154,14 @@
         "To attain mystic siddhis"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse clearly states the sacrifice is 'for the satisfaction of the Lord and His devotees' (bhagavataḥ). This sets the standard for all spiritual activity from the outset—it must aim at pleasing the Lord and His devotees, not personal gain. This narrative detail is not decorative. It establishes the setting as one of pure intention, creating the proper atmosphere for receiving transcendental knowledge. The contrast is sharp: materialists perform sacrifice for personal benefit, but pure devotees sacrifice for the Lord's satisfaction. This distinction runs throughout the chapter and tests whether the student understands devotion as selfless service versus spiritualized selfishness.",
+      "feedback": "The verse clearly states the sacrifice is for the satisfaction of the Lord and His devotees (bhagavatah). This sets the standard for all spiritual activity from the outset-it must aim at pleasing the Lord and His devotees, not personal gain. This narrative detail is not decorative. It establishes the setting as one of pure intention, creating the proper atmosphere for receiving transcendental knowledge. The contrast is sharp: materialists perform sacrifice for personal benefit, but pure devotees sacrifice for the Lord's satisfaction. This distinction runs throughout the chapter and tests whether the student understands devotion as selfless service versus spiritualized selfishness.",
       "verseLabel": "SB 1.1.4",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/4/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/4/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-11",
-      "prompt": "11. According to SB 1.1.6, under what condition did Suta Gosvami study the scriptures?",
+      "prompt": "According to SB 1.1.6, under what condition did Suta Gosvami study the scriptures?",
       "choices": [
         "Entirely through independent study and meditation",
         "Under proper guidance from qualified authorities",
@@ -156,13 +169,14 @@
         "Through mystical revelation in trance"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse states he studied under 'proper guidance' (anugṛhītaṁ). This epistemological principle is crucial: authentic scriptural knowledge must be received through authorized disciplic succession, not independently acquired. The purport emphasizes that Suta heard from Vyasadeva and other fully versed sages. This contrasts sharply with modern academic approaches that value independent critical analysis. The Vedic method insists that transcendental subject matter can only be understood when received submissively from one who has himself received it properly. Independent speculation, however brilliant, cannot access transcendental truth. This is why the verse praises Suta's qualifications before presenting his answers.",
+      "feedback": "The verse states he studied under proper guidance (anugrhItam). This epistemological principle is crucial: authentic scriptural knowledge must be received through authorized disciplic succession, not independently acquired. The purport emphasizes that Suta heard from Vyasadeva and other fully versed sages. This contrasts sharply with modern academic approaches that value independent critical analysis. The Vedic method insists that transcendental subject matter can only be understood when received submissively from one who has himself received it properly. Independent speculation, however brilliant, cannot access transcendental truth. This is why the verse praises Suta's qualifications before presenting his answers.",
       "verseLabel": "SB 1.1.6",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/6/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/6/",
+      "source": "purport"
     },
     {
       "id": "sb1-1-12",
-      "prompt": "12. In SB 1.1.8, what personal quality of Suta Gosvami is highlighted as enabling him to receive and transmit knowledge scientifically?",
+      "prompt": "In SB 1.1.8, what personal quality of Suta Gosvami is highlighted as enabling him to receive and transmit knowledge scientifically?",
       "choices": [
         "His intellectual brilliance and scholarship",
         "His submissiveness to his spiritual masters",
@@ -170,13 +184,14 @@
         "His royal patronage and influence"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse states that 'because you are submissive, your spiritual masters have endowed you with all the favors bestowed upon a gentle disciple.' The purport emphasizes this submissive quality as the key that unlocked his masters' mercy. This is a profound epistemological teaching: intelligence and austerity are insufficient without the foundational quality of submissiveness to guru. This challenges modern pride in intellectual independence. The verse teaches that transcendental knowledge is received as mercy from guru, not achieved through personal prowess. Submissiveness is not weakness but the proper posture of the conditioned soul before transcendental authority. Only this attitude opens the channel for receiving genuine spiritual knowledge.",
+      "feedback": "The verse states that because you are submissive, your spiritual masters have endowed you with all the favors bestowed upon a gentle disciple. The purport emphasizes this submissive quality as the key that unlocked his masters' mercy. This is a profound epistemological teaching: intelligence and austerity are insufficient without the foundational quality of submissiveness to guru. This challenges modern pride in intellectual independence. The verse teaches that transcendental knowledge is received as mercy from guru, not achieved through personal prowess. Submissiveness is not weakness but the proper posture of the conditioned soul before transcendental authority. Only this attitude opens the channel for receiving genuine spiritual knowledge.",
       "verseLabel": "SB 1.1.8",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/8/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/8/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-13",
-      "prompt": "13. In SB 1.1.10, how does the verse characterize people in Kali-yuga?",
+      "prompt": "In SB 1.1.10, how does the verse characterize people in Kali-yuga?",
       "choices": [
         "Long-lived, peaceful, learned, and prosperous",
         "Short-lived, quarrelsome, lazy, misguided, unlucky, and always disturbed",
@@ -184,13 +199,14 @@
         "Physically weak but spiritually advanced"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse lists multiple defects: short lives, quarrelsome nature, laziness, being misguided, unlucky, and above all, always disturbed (upadrutāḥ). This realistic assessment of Kali-yuga conditions is not pessimism but honesty. Why this matters: the chapter is establishing the urgency and appropriateness of the Bhagavatam for this age. People lack time for complex rituals and extended study, and they are bewildered by conflicting philosophies. The Bhagavatam's answer to Kali-yuga degradation is not to pretend conditions are better than they are, but to offer a process suited to the age—simple hearing and chanting, which can deliver even the most fallen.",
+      "feedback": "The verse lists multiple defects: short lives, quarrelsome nature, laziness, being misguided, unlucky, and above all, always disturbed (upadrutah). This realistic assessment of Kali-yuga conditions is not pessimism but honesty. Why this matters: the chapter is establishing the urgency and appropriateness of the Bhagavatam for this age. People lack time for complex rituals and extended study, and they are bewildered by conflicting philosophies. The Bhagavatam's answer to Kali-yuga degradation is not to pretend conditions are better than they are, but to offer a process suited to the age-simple hearing and chanting-which can deliver even the most fallen.",
       "verseLabel": "SB 1.1.10",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/10/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/10/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-14",
-      "prompt": "14. Why do the sages in SB 1.1.11 ask Suta to select the essence of all scriptures?",
+      "prompt": "Why do the sages in SB 1.1.11 ask Suta to select the essence of all scriptures?",
       "choices": [
         "Because the scriptures contradict each other",
         "Because prescribed duties are many and require many years to learn",
@@ -198,13 +214,14 @@
         "Because they want a new philosophy different from the Vedas"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse states there are many varieties of scriptures with many prescribed duties 'which can be learned only after many years of study in their various divisions.' Given Kali-yuga's short lifespans and limited intelligence (SB 1.1.10), comprehensive study is impractical. The sages therefore ask for the essence that can satisfy all living beings. This is not asking for a diluted or simplified teaching, but for the concentrated essence. The Bhagavatam presents pure devotional service as that essence—the common goal and culmination of all Vedic directives. This approach opposes both fundamentalism (insisting everyone perform all rituals) and relativism (claiming all paths are equal). Instead, it offers essential focus.",
+      "feedback": "The verse states there are many varieties of scriptures with many prescribed duties which can be learned only after many years of study in their various divisions. Given Kali-yuga's short lifespans and limited intelligence (SB 1.1.10), comprehensive study is impractical. The sages therefore ask for the essence that can satisfy all living beings. This is not asking for a diluted or simplified teaching, but for the concentrated essence. The Bhagavatam presents pure devotional service as that essence-the common goal and culmination of all Vedic directives. This approach opposes both fundamentalism (insisting everyone perform all rituals) and relativism (claiming all paths are equal). Instead, it offers essential focus.",
       "verseLabel": "SB 1.1.11",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/11/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/11/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-15",
-      "prompt": "15. In SB 1.1.13, the sages request teachings imparted by previous masters (acaryas). Why is this significant epistemologically?",
+      "prompt": "In SB 1.1.13, the sages request teachings imparted by previous masters (acaryas). Why is this significant epistemologically?",
       "choices": [
         "It shows respect for cultural tradition only",
         "It establishes that truth comes through authorized succession, not novelty",
@@ -212,13 +229,15 @@
         "It means the acaryas were infallible human beings"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The request for teachings from previous acaryas establishes the principle of parampara (disciplic succession). The verse states one is uplifted both by speaking and hearing such teachings. This rejects the modern valorization of originality and innovation in spiritual life. Authentic knowledge descends through the chain of guru-parampara; it does not arise from the disciple's independent speculation. Why this matters: this is an epistemological guardrail against deviation. The impulse to 'improve' or 'update' spiritual teachings for modern sensibilities often masks the material desire to become an authority oneself rather than submitting to established authority. The acaryas are authorities precisely because they faithfully repeat what they received.",
+      "feedback": "The request for teachings from previous acaryas establishes the principle of parampara (disciplic succession). The verse states one is uplifted both by speaking and hearing such teachings. This rejects the modern valorization of originality and innovation in spiritual life. Authentic knowledge descends through the chain of guru-parampara; it does not arise from the disciple's independent speculation. Why this matters: this is an epistemological guardrail against deviation. The impulse to improve or update spiritual teachings for modern sensibilities often masks the material desire to become an authority oneself rather than submitting to established authority. The acaryas are authorities precisely because they faithfully repeat what they received.",
       "verseLabel": "SB 1.1.13",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/13/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/13/",
+      "source": "purport",
+      "tags": ["synthesis"]
     },
     {
       "id": "sb1-1-16",
-      "prompt": "16. According to SB 1.1.14, what can free living beings immediately from the meshes of birth and death?",
+      "prompt": "According to SB 1.1.14, what can free living beings immediately from the meshes of birth and death?",
       "choices": [
         "Performing elaborate fire sacrifices",
         "Even unconsciously chanting the holy name of Krishna",
@@ -226,13 +245,14 @@
         "Achieving complete material renunciation"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse states that even unconscious chanting of Krishna's holy name can immediately free one from birth and death. The name is 'feared by fear personified,' indicating its supreme potency. This verse establishes the extraordinary power of the holy name, surpassing even conscious ritualistic activities. Why this matters: This teaching could be misunderstood as minimizing serious practice, but it actually reveals the Lord's causeless mercy. Even accidental contact with the name is powerful, so what to speak of conscious, devoted chanting? This verse provides hope for the fallen while challenging those who rely solely on their own prowess. Transcendental sound is not mundane vibration; it is non-different from Krishna Himself.",
+      "feedback": "The verse states that even unconscious chanting of Krishna's holy name can immediately free one from birth and death. The name is feared by fear personified, indicating its supreme potency. This verse establishes the extraordinary power of the holy name, surpassing even conscious ritualistic activities. Why this matters: This teaching could be misunderstood as minimizing serious practice, but it actually reveals the Lord's causeless mercy. Even accidental contact with the name is powerful, so what to speak of conscious, devoted chanting. This verse provides hope for the fallen while challenging those who rely solely on their own prowess. Transcendental sound is not mundane vibration; it is non-different from Krishna Himself.",
       "verseLabel": "SB 1.1.14",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/14/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/14/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-17",
-      "prompt": "17. In SB 1.1.15, who is said to sanctify more quickly: pure devotees or the sacred Ganges river?",
+      "prompt": "In SB 1.1.15, who is said to sanctify more quickly: pure devotees or the sacred Ganges river?",
       "choices": [
         "The Ganges sanctifies instantly; devotees take time",
         "Both sanctify equally and simultaneously",
@@ -240,13 +260,14 @@
         "Neither can truly sanctify fallen souls"
       ],
       "correctIndex": 2,
-      "feedback": "Correct. The verse states that pure devotees 'can at once sanctify those who come in contact with them, whereas the waters of the Ganges can sanctify only after prolonged use.' This establishes the supreme sanctifying potency of devotee association. Why this matters: This challenges religious sentiment that venerates sacred places above saintly persons. The logic is clear—the Ganges is sacred because it touched the Lord's lotus feet, but pure devotees have the Lord in their hearts. Direct contact with the Lord's representative is more potent than indirect contact through sacred geography. This verse trains students to value sadhu-sanga (association of saints) as the most valuable spiritual resource, above pilgrimage or ritual.",
+      "feedback": "The verse states that pure devotees can at once sanctify those who come in contact with them, whereas the waters of the Ganges can sanctify only after prolonged use. This establishes the supreme sanctifying potency of devotee association. Why this matters: This challenges religious sentiment that venerates sacred places above saintly persons. The logic is clear-the Ganges is sacred because it touched the Lord's lotus feet, but pure devotees have the Lord in their hearts. Direct contact with the Lord's representative is more potent than indirect contact through sacred geography. This verse trains students to value sadhu-sanga as the most valuable spiritual resource, above pilgrimage or ritual.",
       "verseLabel": "SB 1.1.15",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/15/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/15/",
+      "source": "purport"
     },
     {
       "id": "sb1-1-18",
-      "prompt": "18. SB 1.1.16 asks rhetorically: who would not want to hear the Lord's glories to be delivered from what?",
+      "prompt": "SB 1.1.16 asks rhetorically: who would not want to hear the Lord's glories to be delivered from what?",
       "choices": [
         "The vices of the age of quarrel (Kali-yuga)",
         "Personal karmic reactions only",
@@ -254,13 +275,14 @@
         "Philosophical confusion exclusively"
       ],
       "correctIndex": 0,
-      "feedback": "Correct. The verse specifically mentions deliverance from 'the vices of the age of quarrel' (kaleh). This connects to the earlier description of Kali-yuga's degraded characteristics (SB 1.1.10). The rhetorical question implies only a fool would refuse such deliverance. The teaching is that hearing the Lord's glories is not merely pious activity but the antidote specifically formulated for Kali-yuga's contamination. This contrasts with other paths that may have been suitable in previous ages but are impractical now. The question challenges the reader directly: if you desire deliverance from Kali's vices, how can you refuse to hear? This sets up the teaching that sravanam (hearing) is the primary devotional activity for this age.",
+      "feedback": "The verse specifically mentions deliverance from the vices of the age of quarrel (kaleh). This connects to the earlier description of Kali-yuga's degraded characteristics (SB 1.1.10). The rhetorical question implies only a fool would refuse such deliverance. The teaching is that hearing the Lord's glories is not merely pious activity but the antidote specifically formulated for Kali-yuga's contamination. This contrasts with other paths that may have been suitable in previous ages but are impractical now. The question challenges the reader directly: if you desire deliverance from Kali's vices, how can you refuse to hear? This sets up the teaching that sravanam (hearing) is the primary devotional activity for this age.",
       "verseLabel": "SB 1.1.16",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/16/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/16/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-19",
-      "prompt": "19. According to SB 1.1.19, who relishes hearing the Lord's pastimes at every moment?",
+      "prompt": "According to SB 1.1.19, who relishes hearing the Lord's pastimes at every moment?",
       "choices": [
         "Those who are materially suffering and seek relief",
         "Those who have developed a taste for transcendental relationships with Him",
@@ -268,13 +290,14 @@
         "Only the incarnations of God Himself"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse states that 'those who have developed a taste for transcendental relationships with Him relish hearing of His pastimes at every moment.' This indicates an advanced stage of devotional realization, not merely dutiful hearing. The key word is 'taste' (rasa)—this is not intellectual appreciation or obligatory religious practice, but actual spiritual relish. Why this matters: the Bhagavatam trains the student progressively. Early verses emphasize submissive hearing as a duty; this verse reveals the destination—spontaneous, constant absorption in Krishna-katha. The process begins with regulation but culminates in taste. This progression prevents both dry mechanical practice (without aiming for rasa) and immature jumping to confidential subjects (claiming rasa without qualification).",
+      "feedback": "The verse states that those who have developed a taste for transcendental relationships with Him relish hearing of His pastimes at every moment. This indicates an advanced stage of devotional realization, not merely dutiful hearing. The key word is taste (rasa)-this is not intellectual appreciation or obligatory religious practice, but actual spiritual relish. Why this matters: the Bhagavatam trains the student progressively. Early verses emphasize submissive hearing as a duty; this verse reveals the destination-spontaneous, constant absorption in Krishna-katha. The process begins with regulation but culminates in taste. This progression prevents both dry mechanical practice and immature jumping to confidential subjects.",
       "verseLabel": "SB 1.1.19",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/19/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/19/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-20",
-      "prompt": "20. In SB 1.1.20, when Krishna played like a human being, what did His masked form accomplish?",
+      "prompt": "In SB 1.1.20, when Krishna played like a human being, what did His masked form accomplish?",
       "choices": [
         "It allowed Him to avoid responsibility for His actions",
         "It enabled Him to perform many superhuman acts while appearing human",
@@ -282,13 +305,14 @@
         "It made His pastimes inaccessible to devotees"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse states He 'played like a human being, and so masked He performed many superhuman acts.' This is the principle of Krishna's simultaneous accessibility and transcendence. He appears human to attract our affection, but His activities reveal His divine nature. This paradox protects the pastimes from both materialistic distortion and impersonal dismissal. If Krishna appeared obviously divine, His human-like pastimes would seem like play-acting, and genuine loving exchange would be impossible. But if He appeared only human, His divinity would be obscured. The mask allows both—human appearance for intimate exchange, superhuman activities for philosophical confirmation. This nuance is crucial for properly understanding Krishna's appearance in this world.",
+      "feedback": "The verse states He played like a human being, and so masked He performed many superhuman acts. This is the principle of Krishna's simultaneous accessibility and transcendence. He appears human to attract our affection, but His activities reveal His divine nature. This paradox protects the pastimes from both materialistic distortion and impersonal dismissal. If Krishna appeared obviously divine, His human-like pastimes would seem like play-acting, and genuine loving exchange would be impossible. But if He appeared only human, His divinity would be obscured. The mask allows both-human appearance for intimate exchange, superhuman activities for philosophical confirmation.",
       "verseLabel": "SB 1.1.20",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/20/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/20/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-21",
-      "prompt": "21. In SB 1.1.21, what do the sages say they are performing by hearing the transcendental message of Godhead?",
+      "prompt": "In SB 1.1.21, what do the sages say they are performing by hearing the transcendental message of Godhead?",
       "choices": [
         "Ascetic renunciation",
         "Sacrifice (yajna)",
@@ -296,13 +320,14 @@
         "Personal meditation"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse says 'in this way perform sacrifice' (yajña), identifying attentive hearing as sacrificial activity. This redefines sacrifice from ritualistic fire offerings to the activity of hearing. The purport would explain that in Kali-yuga, elaborate Vedic sacrifices are impractical and often impossible, but the sacrifice of hearing (śravaṇa-yajña) is both practical and supremely effective. Why this matters: this prevents the false dichotomy between ritualists and devotees. Devotional hearing is not a lesser alternative to sacrifice; it is the sacrifice for this age. This verse authorizes the shift from external ritual to internal devotion while maintaining that genuine spiritual life requires sacrifice—giving up comfort to hear submissively.",
+      "feedback": "The verse says in this way perform sacrifice (yajna), identifying attentive hearing as sacrificial activity. This redefines sacrifice from ritualistic fire offerings to the activity of hearing. The purport would explain that in Kali-yuga, elaborate Vedic sacrifices are impractical and often impossible, but the sacrifice of hearing (sravana-yajna) is both practical and supremely effective. Why this matters: this prevents the false dichotomy between ritualists and devotees. Devotional hearing is not a lesser alternative to sacrifice; it is the sacrifice for this age. This verse authorizes the shift from external ritual to internal devotion while maintaining that genuine spiritual life requires sacrifice.",
       "verseLabel": "SB 1.1.21",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/21/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/21/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-22",
-      "prompt": "22. According to SB 1.1.22, by what arrangement have the sages met Suta Gosvami?",
+      "prompt": "According to SB 1.1.22, by what arrangement have the sages met Suta Gosvami?",
       "choices": [
         "By their own careful planning and invitation",
         "By the will of providence",
@@ -310,13 +335,14 @@
         "By Suta's decision to visit them"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse says 'we have met Your Goodness by the will of providence.' This acknowledges divine arrangement behind the meeting. The sages are not taking credit for their good fortune but recognizing it as grace. The metaphor of Suta as 'captain of the ship for those who desire to cross the difficult ocean of Kali' indicates the necessity of guru for navigation through material existence. Why this matters: this teaching guards against both presumption and despair. We cannot force association with advanced devotees through our own arrangement (challenging the modern consumer mentality toward spirituality), but sincere seeking attracts providential help. The verse encourages humble dependence on Krishna's mercy while pursuing sadhu-sanga seriously.",
+      "feedback": "The verse says we have met Your Goodness by the will of providence. This acknowledges divine arrangement behind the meeting. The sages are not taking credit for their good fortune but recognizing it as grace. The metaphor of Suta as captain of the ship for those who desire to cross the difficult ocean of Kali indicates the necessity of guru for navigation through material existence. Why this matters: this teaching guards against both presumption and despair. We cannot force association with advanced devotees through our own arrangement, but sincere seeking attracts providential help. The verse encourages humble dependence on Krishna's mercy while pursuing sadhu-sanga seriously.",
       "verseLabel": "SB 1.1.22",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/22/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/22/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-23",
-      "prompt": "23. In SB 1.1.23, after Krishna's departure to His own abode, what crucial question do the sages ask?",
+      "prompt": "In SB 1.1.23, after Krishna's departure to His own abode, what crucial question do the sages ask?",
       "choices": [
         "Whether Krishna will return to earth again",
         "To whom have religious principles now gone for shelter?",
@@ -324,13 +350,14 @@
         "How devotees can survive without Krishna's presence?"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. The verse asks: 'to whom have the religious principles (dharma) now gone for shelter?' This profound question recognizes that dharma is not an abstract code but depends on a person for its shelter. When the Supreme Personality is present, dharma naturally flourishes; when He departs, the question of dharma's continuation is urgent. This question sets up the answer that will unfold through the Bhagavatam: dharma takes shelter in the Bhagavatam itself and in pure devotees who embody and teach it. This challenges the notion that religion is merely rule-following. Dharma is a living principle requiring living shelter, ultimately in the Lord Himself and His representatives.",
+      "feedback": "The verse asks to whom have the religious principles (dharma) now gone for shelter. This profound question recognizes that dharma is not an abstract code but depends on a person for its shelter. When the Supreme Personality is present, dharma naturally flourishes; when He departs, the question of dharma's continuation is urgent. This question sets up the answer that will unfold through the Bhagavatam: dharma takes shelter in the Bhagavatam itself and in pure devotees who embody and teach it. This challenges the notion that religion is merely rule-following. Dharma is a living principle requiring living shelter, ultimately in the Lord Himself and His representatives.",
       "verseLabel": "SB 1.1.23",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/23/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/23/",
+      "source": "translation"
     },
     {
       "id": "sb1-1-24",
-      "prompt": "24. Based on the progression of Chapter 1, what epistemological principle is most emphasized regarding how transcendental knowledge should be received?",
+      "prompt": "Based on the progression of Chapter 1, what epistemological principle is most emphasized regarding how transcendental knowledge should be received?",
       "choices": [
         "Through independent philosophical speculation and debate",
         "Through submissive hearing from authorized sources in disciplic succession",
@@ -338,13 +365,15 @@
         "Through comparative religious studies and synthesis"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. This synthesis question tests understanding of the chapter's core message. Multiple verses establish this principle: SB 1.1.1 (knowledge imparted to Brahma), 1.1.2 (submissive hearing), 1.1.6 (proper guidance), 1.1.8 (submissiveness to guru), and 1.1.13 (teachings from acaryas). The chapter systematically refutes ascending knowledge while establishing descending revelation through parampara. Why this matters: modern education trains critical analysis and independent thinking, creating resistance to submissive reception. The chapter confronts this conditioning, arguing that transcendental subject matter is categorically different from material objects of study. The knower (God) must reveal Himself; He cannot be known by the limited senses and mind of conditioned souls. This principle guards against the hubris underlying materialistic epistemology.",
+      "feedback": "This synthesis question tests understanding of the chapter's core message. Multiple verses establish this principle: SB 1.1.1 (knowledge imparted to Brahma), 1.1.2 (submissive hearing), 1.1.6 (proper guidance), 1.1.8 (submissiveness to guru), and 1.1.13 (teachings from acaryas). The chapter systematically refutes ascending knowledge while establishing descending revelation through parampara. Why this matters: modern education trains critical analysis and independent thinking, creating resistance to submissive reception. The chapter confronts this conditioning, arguing that transcendental subject matter is categorically different from material objects of study. The knower must reveal Himself; He cannot be known by the limited senses and mind of conditioned souls.",
       "verseLabel": "SB 1.1 Summary",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/",
+      "source": "translation",
+      "tags": ["synthesis"]
     },
     {
       "id": "sb1-1-25",
-      "prompt": "25. What must be rejected according to the chapter's overall teaching about authentic spiritual life?",
+      "prompt": "What must be rejected according to the chapter's overall teaching about authentic spiritual life?",
       "choices": [
         "All work and activity in the material world",
         "Materially motivated religion and independent speculation as sources of knowledge",
@@ -352,9 +381,11 @@
         "All Vedic literature except the Bhagavatam"
       ],
       "correctIndex": 1,
-      "feedback": "Correct. This culminating question tests whether the student grasps what the chapter opposes. SB 1.1.2 explicitly rejects materially motivated religiosity. Multiple verses reject independent speculation in favor of submissive hearing from authority. The chapter warns against impersonal philosophy, sense gratification dressed as spirituality, and the hubris of thinking one can achieve equality with God through personal effort. What must be accepted is the opposite: pure devotion free from material motivation, knowledge received through disciplic succession with submissiveness, and recognition of Krishna's eternal supremacy. This final question integrates the chapter's negative (what to reject) with its positive (what to accept), testing comprehension of its purifying function.",
+      "feedback": "This culminating question tests whether the student grasps what the chapter opposes. SB 1.1.2 explicitly rejects materially motivated religiosity. Multiple verses reject independent speculation in favor of submissive hearing from authority. The chapter warns against impersonal philosophy, sense gratification dressed as spirituality, and the hubris of thinking one can achieve equality with God through personal effort. What must be accepted is the opposite: pure devotion free from material motivation, knowledge received through disciplic succession with submissiveness, and recognition of Krishna's eternal supremacy. This final question integrates the chapter's negative (what to reject) with its positive (what to accept).",
       "verseLabel": "SB 1.1 Summary",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/"
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/",
+      "source": "translation",
+      "tags": ["synthesis"]
     }
   ]
 }

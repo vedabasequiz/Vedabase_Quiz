@@ -1,220 +1,153 @@
 {
   "id": "sb-1-1-kids",
-  "title": "Srimad Bhagavatam - Canto 1 Chapter 1 | Kids Quiz (15Q)",
+  "scripture": "sb",
+  "canto": 1,
+  "chapter": 1,
+  "title": "Srimad Bhagavatam - Canto 1 Chapter 1 | Kids Quiz (10Q)",
   "audience": "kids",
-  "difficulty": "easy-medium",
-  "questionCount": 15,
-  "publishedOn": "2026-01-29",
+  "difficulty": "easy",
+  "publishedOn": "2026-02-02",
+  "questionCount": 10,
   "questions": [
     {
-      "id": "sb1-1-kids-01",
-      "prompt": "1. Who does the Bhagavatam say is the original cause of everything?",
+      "id": "sb1-1-k01",
+      "prompt": "Who are the sages gathered in Naimisaranya?",
       "choices": [
-        "Nature itself",
-        "Brahma, the first created being",
-        "Lord Krishna, the son of Vasudeva",
-        "The sun god"
-      ],
-      "correctIndex": 2,
-      "feedback": "Yes! Krishna is the original source of everything. Even Brahma, who creates within the universe, got his knowledge from Krishna. Krishna is supreme!",
-      "verseLabel": "SB 1.1.1",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
-    },
-    {
-      "id": "sb1-1-kids-02",
-      "prompt": "2. How did Brahma get Vedic knowledge?",
-      "choices": [
-        "He read it in ancient books",
-        "He figured it out by thinking really hard",
-        "Krishna put it directly into his heart",
-        "He learned it from other gods"
-      ],
-      "correctIndex": 2,
-      "feedback": "Correct! Brahma didn't figure it out himself. Krishna put the knowledge right into Brahma's heart. Real spiritual knowledge comes from Krishna, not from our own guessing!",
-      "verseLabel": "SB 1.1.1",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
-    },
-    {
-      "id": "sb1-1-kids-03",
-      "prompt": "3. The Bhagavatam says it completely rejects what kind of religion?",
-      "choices": [
-        "Religion practiced by children",
-        "Any religion with rituals",
-        "Religion practiced to get money or enjoy ourselves",
-        "Religion that involves chanting"
-      ],
-      "correctIndex": 2,
-      "feedback": "Exactly! The Bhagavatam rejects religion done for selfish reasons like getting rich or having fun. Real religion means loving Krishna without wanting anything back!",
-      "verseLabel": "SB 1.1.2",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
-    },
-    {
-      "id": "sb1-1-kids-04",
-      "prompt": "4. Who can understand the highest truth according to SB 1.1.2?",
-      "choices": [
-        "People born in religious families",
-        "Only very old people with lots of experience",
-        "People who are pure in heart and not envious",
-        "Only the smartest people with many degrees"
-      ],
-      "correctIndex": 2,
-      "feedback": "Right! What matters is having a pure, kind heart without jealousy\u2014not how smart you are or what family you're from. Even kids can understand if their hearts are pure!",
-      "verseLabel": "SB 1.1.2",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
-    },
-    {
-      "id": "sb1-1-kids-05",
-      "prompt": "5. The Bhagavatam is compared to what kind of fruit?",
-      "choices": [
-        "The ripened fruit from the tree of Vedic knowledge",
-        "A green banana that needs time to ripen",
-        "A perfectly ripe mango from the Vedic tree",
-        "An apple from a magic garden"
+        "Wise teachers seeking truth",
+        "Powerful kings planning war",
+        "Merchants trading goods",
+        "Soldiers protecting cities"
       ],
       "correctIndex": 0,
-      "feedback": "Yes! It's the perfectly ripe, sweet fruit from the Vedic knowledge tree. It's the very best, most delicious part! And it came from Sukadeva Gosvami's lips, making it even more tasty!",
+      "feedback": "The sages are wise teachers who want to learn about spiritual truth.",
+      "verseLabel": "SB 1.1.1",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+    },
+    {
+      "id": "sb1-1-k02",
+      "prompt": "Who is speaking to the sages in Chapter 1?",
+      "choices": [
+        "Suta Gosvami",
+        "King Pariksit",
+        "Lord Brahma",
+        "Narada Muni"
+      ],
+      "correctIndex": 0,
+      "feedback": "Suta Gosvami speaks to the sages and answers their questions.",
+      "verseLabel": "SB 1.1.1",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/1/"
+    },
+    {
+      "id": "sb1-1-k03",
+      "prompt": "What do the sages want to hear about?",
+      "choices": [
+        "Stories about the Supreme Lord",
+        "Rules for building cities",
+        "Ways to gain wealth",
+        "Plans for future battles"
+      ],
+      "correctIndex": 0,
+      "feedback": "The sages want to hear about the Supreme Lord and spiritual topics.",
+      "verseLabel": "SB 1.1.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+    },
+    {
+      "id": "sb1-1-k04",
+      "prompt": "Why are the sages eager to hear spiritual topics?",
+      "choices": [
+        "Because they bring happiness to the heart",
+        "Because they lead to material success",
+        "Because they give magical powers",
+        "Because they teach politics"
+      ],
+      "correctIndex": 0,
+      "feedback": "Hearing about the Lord brings joy and peace to the heart.",
+      "verseLabel": "SB 1.1.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
+    },
+    {
+      "id": "sb1-1-k05",
+      "prompt": "What is special about the Srimad Bhagavatam?",
+      "choices": [
+        "It is filled with stories of devotion",
+        "It teaches business skills",
+        "It explains science experiments",
+        "It lists royal laws"
+      ],
+      "correctIndex": 0,
+      "feedback": "The Bhagavatam teaches devotion and love for the Lord.",
       "verseLabel": "SB 1.1.3",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/3/"
     },
     {
-      "id": "sb1-1-kids-06",
-      "prompt": "6. Why were the sages performing a thousand-year sacrifice at Naimisaranya?",
+      "id": "sb1-1-k06",
+      "prompt": "Who spoke the Srimad Bhagavatam originally?",
       "choices": [
-        "To defeat their enemies",
-        "To please the Lord and His devotees",
-        "To get material wealth",
-        "To become famous and powerful"
+        "Sukadeva Gosvami",
+        "Suta Gosvami",
+        "Lord Siva",
+        "King Yudhisthira"
       ],
-      "correctIndex": 1,
-      "feedback": "Perfect! They wanted to make Krishna and His devotees happy\u2014not to get stuff for themselves. That's what real devotional service means!",
+      "correctIndex": 0,
+      "feedback": "Sukadeva Gosvami first spoke the Bhagavatam to King Pariksit.",
       "verseLabel": "SB 1.1.4",
       "verseUrl": "https://vedabase.io/en/library/sb/1/1/4/"
     },
     {
-      "id": "sb1-1-kids-07",
-      "prompt": "7. Suta Gosvami studied the scriptures in what way?",
+      "id": "sb1-1-k07",
+      "prompt": "Why is hearing the Bhagavatam important?",
       "choices": [
-        "By listening to public speakers in parks",
-        "All by himself without any help",
-        "Through magical dreams",
-        "Under proper guidance from qualified teachers"
-      ],
-      "correctIndex": 3,
-      "feedback": "Correct! Suta learned from real teachers who knew the truth. We can't learn spiritual things just by reading alone\u2014we need a qualified guru to guide us!",
-      "verseLabel": "SB 1.1.6",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/6/"
-    },
-    {
-      "id": "sb1-1-kids-08",
-      "prompt": "8. What special quality made Suta Gosvami's teachers give him all their knowledge?",
-      "choices": [
-        "He was humble and submissive to his teachers",
-        "He paid them lots of money",
-        "He performed severe austerities",
-        "He was the smartest student"
+        "It cleans the heart",
+        "It brings material riches",
+        "It gives physical strength",
+        "It teaches magic"
       ],
       "correctIndex": 0,
-      "feedback": "Yes! Suta was humble and respectful to his spiritual masters. That's the secret\u2014being a good listener and showing respect opens the door to real knowledge!",
-      "verseLabel": "SB 1.1.8",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/8/"
+      "feedback": "Hearing the Bhagavatam helps clean the heart and mind.",
+      "verseLabel": "SB 1.1.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
     },
     {
-      "id": "sb1-1-kids-09",
-      "prompt": "9. How does the Bhagavatam describe people in Kali-yuga (our age)?",
+      "id": "sb1-1-k08",
+      "prompt": "How should one listen to the Bhagavatam?",
       "choices": [
-        "Physically strong and healthy",
-        "Short-lived, quarrelsome, lazy, and always disturbed",
-        "Spiritually advanced and saintly",
-        "Smart, peaceful, and happy"
-      ],
-      "correctIndex": 1,
-      "feedback": "Right! The Bhagavatam is honest\u2014people in Kali-yuga have many problems. But don't worry! Krishna gives us an easy solution: hearing and chanting His holy names!",
-      "verseLabel": "SB 1.1.10",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/10/"
-    },
-    {
-      "id": "sb1-1-kids-10",
-      "prompt": "10. Even unconsciously chanting Krishna's name can do what?",
-      "choices": [
-        "Free you from birth and death immediately",
-        "Give you magical powers",
-        "Nothing at all",
-        "Make you rich and famous"
+        "With respect and attention",
+        "With doubt and argument",
+        "With boredom and delay",
+        "With selfish desire"
       ],
       "correctIndex": 0,
-      "feedback": "Amazing but true! Even accidentally saying Krishna's name is so powerful it can free us from birth and death. The holy name is not ordinary sound\u2014it's Krishna Himself!",
-      "verseLabel": "SB 1.1.14",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/14/"
+      "feedback": "Listening with respect helps us understand and grow.",
+      "verseLabel": "SB 1.1.3",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/3/"
     },
     {
-      "id": "sb1-1-kids-11",
-      "prompt": "11. Who can purify us faster: the Ganges river or pure devotees of Krishna?",
+      "id": "sb1-1-k09",
+      "prompt": "What kind of knowledge does the Bhagavatam give?",
       "choices": [
-        "Pure devotees purify immediately; the Ganges takes longer",
-        "Both take the same amount of time",
-        "Neither can purify fallen souls",
-        "The Ganges purifies instantly"
+        "Spiritual knowledge",
+        "Political knowledge",
+        "Business knowledge",
+        "Technical knowledge"
       ],
       "correctIndex": 0,
-      "feedback": "Correct! Pure devotees are even more powerful than the holy Ganges. Why? Because devotees have Krishna in their hearts, while the Ganges only touched His feet. Association with devotees is super valuable!",
-      "verseLabel": "SB 1.1.15",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/15/"
+      "feedback": "The Bhagavatam teaches spiritual knowledge about the soul and God.",
+      "verseLabel": "SB 1.1.2",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/2/"
     },
     {
-      "id": "sb1-1-kids-12",
-      "prompt": "12. Who enjoys hearing about Krishna at every moment?",
+      "id": "sb1-1-k10",
+      "prompt": "What feeling should hearing the Bhagavatam create?",
       "choices": [
-        "Only demigods in heaven",
-        "Only very old sages",
-        "People suffering from problems",
-        "Those who have developed a loving taste for Krishna"
+        "Love for the Supreme Lord",
+        "Fear of punishment",
+        "Pride over others",
+        "Desire for power"
       ],
-      "correctIndex": 3,
-      "feedback": "Yes! When you develop a taste for Krishna, hearing about Him becomes the sweetest thing ever\u2014like your favorite dessert! You'll want to hear more and more!",
-      "verseLabel": "SB 1.1.19",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/19/"
-    },
-    {
-      "id": "sb1-1-kids-13",
-      "prompt": "13. When Krishna appeared on earth, what did His human-like form allow Him to do?",
-      "choices": [
-        "Avoid helping anyone",
-        "Perform superhuman acts while looking like a human",
-        "Prove He was not actually God",
-        "Hide from everyone completely"
-      ],
-      "correctIndex": 1,
-      "feedback": "Perfect! Krishna looked like a human boy so we could love Him as a friend, but He did superhuman things (like lifting mountains!) to show He's God. Best of both!",
-      "verseLabel": "SB 1.1.20",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/20/"
-    },
-    {
-      "id": "sb1-1-kids-14",
-      "prompt": "14. How did the sages say they met Suta Gosvami?",
-      "choices": [
-        "By their own careful planning",
-        "Because Suta wanted to visit them",
-        "By pure accident with no reason",
-        "By the will of Providence (Krishna's arrangement)"
-      ],
-      "correctIndex": 3,
-      "feedback": "Right! They recognized Krishna arranged the meeting. When we're sincere about learning about Krishna, He helps us find the right teacher. Providence means Krishna's loving plan!",
-      "verseLabel": "SB 1.1.22",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/22/"
-    },
-    {
-      "id": "sb1-1-kids-15",
-      "prompt": "15. After Krishna left this world, the sages asked an important question: where did dharma (religious principles) go for shelter?",
-      "choices": [
-        "Dharma disappeared completely",
-        "Dharma needs shelter in a person\u2014Krishna Himself or His devotees",
-        "Dharma is just rules that don't need anyone",
-        "Dharma went to live in temples only"
-      ],
-      "correctIndex": 1,
-      "feedback": "Excellent! Dharma is not just rules\u2014it needs a person to shelter it. When Krishna was present, dharma was with Him. After He left, dharma takes shelter in the Bhagavatam and in pure devotees who teach it. That's why we need gurus and scripture!",
-      "verseLabel": "SB 1.1.23",
-      "verseUrl": "https://vedabase.io/en/library/sb/1/1/23/"
+      "correctIndex": 0,
+      "feedback": "Hearing the Bhagavatam helps grow love for the Lord.",
+      "verseLabel": "SB 1.1 Summary",
+      "verseUrl": "https://vedabase.io/en/library/sb/1/1/"
     }
   ]
 }

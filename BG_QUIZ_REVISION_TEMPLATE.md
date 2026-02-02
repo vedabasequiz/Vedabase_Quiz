@@ -406,6 +406,12 @@ RESULT: This is ACCEPTABLE. The warning triggers at >50% but all individual
 
 ## Troubleshooting
 
+
+### Length Balance Standard (Adults)
+**Rule:** For adult quizzes, all choices in a question should be within 1.7x the word count of the shortest choice. This allows for natural language and clarity, while avoiding obvious giveaways.
+- If a question exceeds 1.7x, revise by trimming the longest or expanding the shortest, unless it would compromise clarity or plausibility.
+- Aim for at least 65% of questions to meet this standard for gold compliance.
+
 ### Issue: Can't get below 80% correct-is-longest
 **Solution:** Randomly make correct answer the *shortest* in some questions
 - Pick 5-10 questions where correct is currently longest

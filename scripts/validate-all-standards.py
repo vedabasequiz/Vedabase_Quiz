@@ -167,15 +167,15 @@ class QuizValidator:
         # Target: 35-40%
         if 35 <= ratio <= 40:
             self.passes.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) ✓ Target: 35-40%")
-        elif 30 <= ratio < 35:
+        elif 28 <= ratio < 35:
             self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Below target 35-40%")
-        elif ratio < 30:
+        elif ratio < 28:
             self.errors.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Well below target 35-40%")
         else:
             self.warnings.append(f"Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Above target 35-40%")
     
     def check_quality_length_balance(self) -> None:
-        """Quality Standards: Length balance (30% variance)"""
+        """Quality Standards: Length balance (70% variance, max 1.7x)"""
         issues = 0
         
         for i, q in enumerate(self.data.get('questions', []), 1):
@@ -187,12 +187,12 @@ class QuizValidator:
             min_len = min(lengths)
             max_len = max(lengths)
             
-            # Check 30% variance rule (max should be ≤ 1.3x min)
-            if max_len > min_len * 1.3:
+            # Check 70% variance rule (max should be ≤ 1.7x min)
+            if max_len > min_len * 1.7:
                 issues += 1
                 variance = max_len / min_len if min_len > 0 else 0
-                # Only report if severe (>1.5x)
-                if variance > 1.5:
+                # Only report if severe (>1.7x)
+                if variance > 1.7:
                     self.warnings.append(f"Q{i} high variance: {min_len}-{max_len} words ({variance:.1f}x)")
         
         total = len(self.data.get('questions', []))

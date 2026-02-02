@@ -1,0 +1,386 @@
+{
+  "id": "bg-9-adult",
+  "scripture": "bg",
+  "chapter": 9,
+  "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 9 (Adult) | 25Q",
+  "difficulty": "medium-hard",
+  "publishedOn": "2026-01-30",
+  "questions": [
+    {
+      "id": "bg9-q1",
+      "prompt": "In BG 9.1, what principle does Krishna describe as the most confidential knowledge?",
+      "choices": [
+        "Rules of conduct through independent material processes",
+        "The most secret knowledge",
+        "Ritual procedures and worldly philosophical speculation",
+        "Material science and worldly philosophical speculation"
+      ],
+      "correctIndex": 1,
+      "feedback": "This knowledge is the most profound and transformative of all teachings.",
+      "verseLabel": "BG 9.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q2",
+      "prompt": "According to BG 9.2, what are the benefits of this knowledge?",
+      "choices": [
+        "Knowledge of physical phenomena and external forms",
+        "Free from every sin; sustains virtue; one attains eternal peace",
+        "Brings suffering and worldly speculation",
+        "Creates more doubt through speculative material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "This knowledge purifies completely and grants eternal liberation.",
+      "verseLabel": "BG 9.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q3",
+      "prompt": "In the purport to BG 9.2-3, what warning does Srila Prabhupada give about rejecting this confidential knowledge?",
+      "choices": [
+        "That rejecting Krishna's teachings forces one to suffer severe karmic punishment",
+        "That those without faith in this knowledge return to material birth and death",
+        "That rejection of knowledge causes immediate loss of all material opulence",
+        "That doubting Krishna's words creates insurmountable obstacles to future spiritual practice"
+      ],
+      "correctIndex": 1,
+      "feedback": "Srila Prabhupada explains that those without faith in this dharma cannot attain Krishna and return to the path of material life. The psychological insight: lack of faith keeps one bound. The trap: intellectual acceptance without devotional application. Why this matters: The false path is theoretical knowledge without faith. Real progress requires faith that translates into devoted practice.",
+      "verseLabel": "BG 9.2-3",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q4",
+      "prompt": "What does BG 9.4 teach about Krishna's form?",
+      "choices": [
+        "He has no form through speculative material processes",
+        "Though I am unborn, eternal, every-pervading, I appear in bodily form",
+        "He is primarily only in scripture",
+        "He is invisible consistently always through speculative material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna's manifestation in a body is beyond material laws.",
+      "verseLabel": "BG 9.4",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q5",
+      "prompt": "According to BG 9.5, how does everything depend on Krishna?",
+      "choices": [
+        "minimal depends on Him through independent material processes",
+        "All beings rest on me as pearls on a thread",
+        "Beings are independent through speculative material processes",
+        "I depend on them through independent material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna sustains all creation like a thread holds pearls together.",
+      "verseLabel": "BG 9.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q6",
+      "prompt": "In BG 9.6, what cosmic elements rest upon Krishna?",
+      "choices": [
+        "minimal rests on Him through independent material processes",
+        "every elements, air, sky, planets, stars rest within me",
+        "They are self-supporting through independent material processes",
+        "I am dependent on them"
+      ],
+      "correctIndex": 1,
+      "feedback": "The entire cosmos is manifested within Krishna's potency.",
+      "verseLabel": "BG 9.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q7",
+      "prompt": "In the purport to BG 9.7, what false understanding does Srila Prabhupada address about the soul's position?",
+      "choices": [
+        "That souls are independent and can exist separately from Krishna's energy",
+        "That souls are parts of Krishna and cannot maintain independence from Him",
+        "That souls gradually become Krishna through spiritual evolution and practice",
+        "That souls are equal to Krishna and simply need to realize their divinity"
+      ],
+      "correctIndex": 1,
+      "feedback": "Srila Prabhupada explains that living entities are never independent but always under Krishna's control. The mayavadi trap: thinking the soul is God in ignorance. Why this matters: The false path is seeking to become God rather than serve God. Real understanding accepts eternal relationship as servant of Krishna, which is the soul's natural position.",
+      "verseLabel": "BG 9.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q8",
+      "prompt": "According to BG 9.8, what is the attitude of those bewildered by illusion?",
+      "choices": [
+        "They see clearly through speculative material processes",
+        "They do not recognize my supreme nature and think I am mortal",
+        "They see Krishna's true nature",
+        "They know my glory through speculative material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Ignorance of Krishna's transcendental nature is the root of delusion.",
+      "verseLabel": "BG 9.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q9",
+      "prompt": "In BG 9.9, what is the relationship between those attached to material nature and Krishna?",
+      "choices": [
+        "I am controlled by them",
+        "Their intelligence is diverted not visible to foolish persons",
+        "They easily see me through independent material processes",
+        "I am within their reach"
+      ],
+      "correctIndex": 1,
+      "feedback": "Those lost in materialism cannot perceive Krishna's true nature.",
+      "verseLabel": "BG 9.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q10",
+      "prompt": "What does BG 9.10 teach about the responsibility of maintaining creation?",
+      "choices": [
+        "I have no role through independent material processes",
+        "I maintain all creation",
+        "Others maintain it through independent material processes",
+        "No one maintains it through independent material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna's loving care sustains the entire cosmos moment by moment.",
+      "verseLabel": "BG 9.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/10/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q11",
+      "prompt": "In the purport to BG 9.11, what psychological trap does Srila Prabhupada identify about perceiving Krishna?",
+      "choices": [
+        "That foolish people deride Krishna when He appears in human form",
+        "That materialistic people cannot see Krishna even when He appears before them",
+        "That speculative philosophers reject Krishna's form while accepting impersonal Brahman",
+        "That most people believe Krishna is a mythological character rather than historical person"
+      ],
+      "correctIndex": 0,
+      "feedback": "Srila Prabhupada explains that foolish people deride Krishna when He descends in a human-like form, not knowing His transcendental nature. The trap: judging spiritual by material standards. Why this matters: The false path is anthropomorphism - thinking God's human-like form is material limitation. Real understanding accepts that Krishna's form is purely spiritual and supreme.",
+      "verseLabel": "BG 9.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q12",
+      "prompt": "In BG 9.12, what is the consequence of great effort in material pursuits?",
+      "choices": [
+        "Success consistently always and worldly speculation",
+        "Labor and fruit are wasted on those who lack true purpose",
+        "Great rewards and worldly speculation",
+        "Lasting joy and worldly speculation"
+      ],
+      "correctIndex": 1,
+      "feedback": "Work without spiritual direction ultimately yields no lasting benefit.",
+      "verseLabel": "BG 9.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q13",
+      "prompt": "What does BG 9.13 teach about those who are not attached to worldly success?",
+      "choices": [
+        "They are failures through speculative material processes",
+        "They are freed from bondage; they reach me without difficulty",
+        "They are inferior through speculative material processes",
+        "They lack ambition through speculative material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Detachment from results liberates one and brings direct perception of the Divine.",
+      "verseLabel": "BG 9.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q14",
+      "prompt": "According to BG 9.14, what are the qualities of a devoted soul?",
+      "choices": [
+        "Weakness and doubt through independent material processes",
+        "consistently engaged in remembrance; devoted mind; surrendered intelligence",
+        "Lack of focus through independent material processes",
+        "Knowledge of physical phenomena and external forms"
+      ],
+      "correctIndex": 1,
+      "feedback": "The true devotee is constantly absorbed in Krishna consciousness.",
+      "verseLabel": "BG 9.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q15",
+      "prompt": "In the purport to BG 9.15, what warning does Srila Prabhupada give about jnana-yajna (cultivation of knowledge)?",
+      "choices": [
+        "That knowledge cultivation without devotion leads to dry speculation and impersonalism",
+        "That knowledge is completely unnecessary for those engaged in devotional service",
+        "That philosophical study distracts from emotional connection with the Supreme Lord",
+        "That knowledge automatically produces devotion without need for separate devotional practice"
+      ],
+      "correctIndex": 0,
+      "feedback": "Srila Prabhupada warns that jnana-yajna without devotion often leads to impersonalism. The trap: intellectual pursuit divorced from loving service. Why this matters: The false path is thinking knowledge alone suffices. Real advancement combines knowledge with devotional application, preventing dry speculation and maintaining personal relationship with Krishna.",
+      "verseLabel": "BG 9.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/15/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q16",
+      "prompt": "What does BG 9.16 teach about those who perform sacrifices and rituals?",
+      "choices": [
+        "They are wasting time through independent material processes",
+        "Those who offer sacrifices come to me; they receive benefits",
+        "Rituals are worthless through speculative material processes",
+        "Fruits come slowly through speculative material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Proper ritual, when offered with faith, brings divine grace.",
+      "verseLabel": "BG 9.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q17",
+      "prompt": "According to BG 9.17, what is Krishna's role in rituals and results?",
+      "choices": [
+        "I am not involved through independent material processes",
+        "I am the recipient and the enjoyer of every sacrifices",
+        "Rituals are self-sufficient through speculative material processes",
+        "Results come from elsewhere through independent material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna is the ultimate beneficiary and giver of all fruits.",
+      "verseLabel": "BG 9.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/17/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q18",
+      "prompt": "In BG 9.18, what happens to those who worship Krishna?",
+      "choices": [
+        "They remain bound through independent material processes",
+        "They reach me through devotion; they become mine",
+        "They suffer consistently through independent material processes",
+        "They gain minimal through independent material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Those devoted to Krishna are assured of eternal relationship with Him.",
+      "verseLabel": "BG 9.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q19",
+      "prompt": "What does BG 9.19 teach about the path of different devotees?",
+      "choices": [
+        "every paths differ through speculative material processes",
+        "Those performing duties for me reach me through many varied paths",
+        "primarily one way exists through speculative material processes",
+        "No paths exist through speculative material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna accepts devotion expressed through many different means.",
+      "verseLabel": "BG 9.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q20",
+      "prompt": "In the purport to BG 9.20, what false path does Srila Prabhupada identify about Vedic ritual worship?",
+      "choices": [
+        "That rituals are completely useless and should be rejected by spiritual seekers",
+        "That Vedic rituals aimed at material elevation bring temporary heavenly enjoyment only",
+        "That ritualistic worship is superior to devotional service for achieving liberation",
+        "That performing rituals perfectly guarantees liberation regardless of consciousness or motive"
+      ],
+      "correctIndex": 1,
+      "feedback": "Srila Prabhupada explains that those following Vedic rituals for heavenly pleasure achieve temporary results but fall back. The trap: being satisfied with material rewards even from spiritual practices. Why this matters: The false path is using spiritual means for material ends. Real devotees seek Krishna, not improved material conditions, even in heaven.",
+      "verseLabel": "BG 9.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q21",
+      "prompt": "In BG 9.21, what is the duration of stay in the celestial realms?",
+      "choices": [
+        "Permanent and worldly speculation",
+        "They stay for as long as their merit lastsn return",
+        "Forever and worldly speculation",
+        "primarily momentarily and worldly speculation"
+      ],
+      "correctIndex": 1,
+      "feedback": "Even heavenly rewards are temporary and eventually lead back to material struggle.",
+      "verseLabel": "BG 9.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/21/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q22",
+      "prompt": "What does BG 9.22 teach about those who remember Krishna constantly?",
+      "choices": [
+        "They struggle more through independent material processes",
+        "I supply their needs and preserve their possessions",
+        "I ignore them through independent material processes",
+        "They become poor through independent material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna personally cares for those devoted to remembering Him.",
+      "verseLabel": "BG 9.22",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/22/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q23",
+      "prompt": "In the purport to BG 9.23, what psychological insight does Srila Prabhupada give about demigod worshipers?",
+      "choices": [
+        "That demigod worship is indirect Krishna worship and equally beneficial for devotees",
+        "That demigod worshipers unknowingly worship Krishna but in unauthorized manner",
+        "That demigod worship is more suitable for beginners before advancing to Krishna",
+        "That worshiping demigods is completely atheistic and produces no spiritual benefit"
+      ],
+      "correctIndex": 1,
+      "feedback": "Srila Prabhupada explains that demigod worshipers are actually worshiping Krishna indirectly but not in the authorized way. The psychological insight: people seek Krishna through proxies rather than directly. The trap: thinking indirect worship equals direct devotion. Why this matters: The false path is approaching Krishna through intermediaries unnecessarily. Real intelligence worships Krishna directly as the Supreme.",
+      "verseLabel": "BG 9.23",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/23/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q24",
+      "prompt": "In BG 9.24, what kind of worship yields eternal results?",
+      "choices": [
+        "Ritual alone and worldly speculation",
+        "Worship performed for me, with faith, offering every to me",
+        "Any worship and worldly speculation",
+        "External worship primarily only through speculative material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Exclusive devotion to Krishna, offered with pure intention, grants eternal benefit.",
+      "verseLabel": "BG 9.24",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/24/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg9-q25",
+      "prompt": "What is the main message of Chapter 9's conclusion?",
+      "choices": [
+        "Material success is supreme through independent material processes",
+        "Know me truly",
+        "Avoid every devotion through independent material processes",
+        "Rituals are best through independent material processes"
+      ],
+      "correctIndex": 1,
+      "feedback": "Perfect knowledge culminates in exclusive devotion and intimate relationship with Krishna.",
+      "verseLabel": "BG 9.26",
+      "verseUrl": "https://vedabase.io/en/library/bg/9/26/",
+      "verdict": "Correct"
+    }
+  ]
+}

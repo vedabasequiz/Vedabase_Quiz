@@ -1,0 +1,31 @@
+
+[1m[94m======================================================================[0m
+[1m[94m                      Validating: 10-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[93m⚠️  Tier 3 suggestion: Consider adding synthesis questions (currently 0%)[0m
+[93m⚠️  Tier 3 suggestion: Last 40% should be harder questions (currently 10%)[0m
+[92m✅ ASCII-only (no Unicode characters)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ All verse URLs point to vedabase.io[0m
+[92m✅ All verse labels correctly formatted[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+[92m✅ Purport ratio: 36.0% (9/25) ✓ Target: 35-40%[0m
+[92m✅ Length balance: All 25 questions within 30% variance[0m
+[92m✅ Distractors: 2.7% with minor issues (2/75)[0m
+[92m✅ Correct-is-longest: 68.0% (17/25) - Acceptable[0m
+[92m✅ Cognitive depth: 92% recall, 8% analysis, 0% synthesis[0m
+
+[93m[1m⚠️  QUIZ PASSES with warnings - Review recommended[0m
+
+======================================================================
+

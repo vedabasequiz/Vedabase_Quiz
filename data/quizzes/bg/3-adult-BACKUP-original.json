@@ -1,0 +1,385 @@
+{
+  "id": "bg-3-adult",
+  "scripture": "bg",
+  "chapter": 3,
+  "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 3 (Adult) | 25Q",
+  "difficulty": "medium-hard",
+  "publishedOn": "2026-01-29",
+  "questions": [
+    {
+      "id": "bg3-q1",
+      "prompt": "Why does Arjuna perceive Krishna's teachings as contradictory in BG 3.1?",
+      "choices": [
+        "The monist confusion that action and knowledge are mutually exclusive",
+        "Krishna explicitly advocates complete inaction over action",
+        "The impersonalist error that the Absolute cannot engage in activities",
+        "Krishna teaches only one path exists for spiritual advancement"
+      ],
+      "correctIndex": 0,
+      "feedback": "Arjuna misunderstands the relationship between knowledge (sankhya) and action (karma-yoga), not grasping that true knowledge includes proper action in devotion.",
+      "verseLabel": "BG 3.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q5-purport",
+      "prompt": "In the purport to BG 3.5, what does Srila Prabhupada explain about the conditioned soul's helplessness?",
+      "choices": [
+        "The soul can independently control all activities through willpower",
+        "Even unwilling to act, one is forced by modes of nature",
+        "Material nature has no influence on enlightened human beings",
+        "The soul's desires always override nature's compulsions completely"
+      ],
+      "correctIndex": 1,
+      "feedback": "The conditioned soul is forced to act by material nature's modes even if unwilling-illustrating the soul's helpless condition under false ego.",
+      "verseLabel": "BG 3.5",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q6",
+      "prompt": "What psychological contradiction does BG 3.6 expose in false renunciates?",
+      "choices": [
+        "They achieve transcendental consciousness through external practices alone",
+        "External restraint masks internal attachment-self-delusion",
+        "The ascetic fallacy that suppression equals purification naturally",
+        "They demonstrate genuine detachment through their austere practices"
+      ],
+      "correctIndex": 1,
+      "feedback": "Restraining senses while mentally dwelling on objects reveals hypocrisy: the mind remains enslaved despite bodily control-true renunciation requires internal transformation, not external show.",
+      "verseLabel": "BG 3.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q7",
+      "prompt": "According to BG 3.7, what is superior to inaction?",
+      "choices": [
+        "Meditation alone practiced in complete isolation from society",
+        "Ritualistic sacrifice performed according to Vedic injunctions",
+        "Action performed without attachment to results whatsoever",
+        "Complete silence and withdrawal from all worldly activities"
+      ],
+      "correctIndex": 2,
+      "feedback": "Engaged action in Krishna consciousness is superior to sitting idle.",
+      "verseLabel": "BG 3.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q8",
+      "prompt": "In BG 3.9, who is truly liberated by performing sacrificial duties?",
+      "choices": [
+        "Those who avoid all work and remain idle throughout life",
+        "Those who perform their duties as offerings to Krishna",
+        "Those who perform duties for personal gain and material benefit",
+        "Those who hoard wealth through material activities and endeavors"
+      ],
+      "correctIndex": 1,
+      "feedback": "Work performed for Krishna's pleasure is liberating.",
+      "verseLabel": "BG 3.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q11-purport",
+      "prompt": "In the purport to BG 3.11, what does Srila Prabhupada explain about demigod cooperation?",
+      "choices": [
+        "Demigods function independently without needing human cooperation",
+        "Sacrifice for Vishnu satisfies all demigods naturally",
+        "Humans should worship demigods separately for material benefits",
+        "Demigods have no relationship to human sacrifice activities"
+      ],
+      "correctIndex": 1,
+      "feedback": "When sacrifice is performed for Vishnu, all demigods are satisfied automatically-they are limbs of the Supreme, not independent competitors.",
+      "verseLabel": "BG 3.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q10",
+      "prompt": "How does BG 3.13's teaching on prasadam transform eating from mundane to spiritual?",
+      "choices": [
+        "The nutritionist view that blessed food has superior material properties",
+        "Offering to Krishna purifies food and consciousness of the eater",
+        "The ritualist conception that correct mantras transform material substances",
+        "The superstitious belief that prayer makes contaminated food safe to eat"
+      ],
+      "correctIndex": 1,
+      "feedback": "Food prepared for Krishna and accepted as His remnants spiritualizes eating: the devotee is freed from sin while the self-centered eater accumulates karmic reactions.",
+      "verseLabel": "BG 3.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q14-purport",
+      "prompt": "In the purport to BG 3.19, what does Srila Prabhupada explain about King Janaka's perfection?",
+      "choices": [
+        "He achieved perfection by renouncing all duties and kingdom",
+        "Performing duties without attachment led to self-realization",
+        "His royal position automatically qualified him for liberation",
+        "He meditated in isolation avoiding all administrative responsibilities"
+      ],
+      "correctIndex": 1,
+      "feedback": "King Janaka attained perfection by performing royal duties without attachment to results-demonstrating karma-yoga's efficacy for householders.",
+      "verseLabel": "BG 3.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q12",
+      "prompt": "Why does BG 3.16 describe life outside the cosmic order as sinful and purposeless?",
+      "choices": [
+        "The hedonist who ignores duties lives for sense gratification alone",
+        "Breaking social conventions naturally leads to moral degradation",
+        "The existentialist claim that creating personal meaning suffices",
+        "Ignoring tradition makes one irreligious and subject to punishment"
+      ],
+      "correctIndex": 0,
+      "feedback": "Refusing one's role in the sacrifice cycle (work->offering->blessing) reduces existence to mere sense indulgence-a life centered on the body rather than the soul, thus purposeless and sinful.",
+      "verseLabel": "BG 3.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q13",
+      "prompt": "BG 3.17 states that one whose greatest pleasure is within is called what?",
+      "choices": [
+        "A hermit living alone in the forest away from society",
+        "A sthita-prajna or self-realized person satisfied within eternally",
+        "A wealthy person enjoying unlimited material possessions and riches",
+        "An ascetic performing extreme penances and austerities continuously"
+      ],
+      "correctIndex": 1,
+      "feedback": "The self-realized person is fully satisfied within and needs nothing external.",
+      "verseLabel": "BG 3.17",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/17/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q14",
+      "prompt": "How does performing duty without attachment (BG 3.19) lead to the Supreme?",
+      "choices": [
+        "The stoic misconception that emotional suppression equals spirituality",
+        "Detachment purifies consciousness, revealing the Supreme as goal",
+        "The karma-kanda belief that mechanical performance brings liberation",
+        "Working harder automatically generates spiritual merit through effort"
+      ],
+      "correctIndex": 1,
+      "feedback": "Action without desire for results purifies the heart of material attachments, allowing consciousness to naturally turn toward its constitutional relationship with Krishna.",
+      "verseLabel": "BG 3.19",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/19/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q15",
+      "prompt": "According to BG 3.20, who among great souls is considered fully satisfied?",
+      "choices": [
+        "The wealthy who possess material opulence beyond measure",
+        "One who acts without expectation of reward, in Krishna consciousness",
+        "The most intelligent who excel in academic pursuits",
+        "The strongest who dominate others through physical power"
+      ],
+      "correctIndex": 1,
+      "feedback": "Such a person has no desire and is content with whatever comes naturally.",
+      "verseLabel": "BG 3.20",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/20/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q16",
+      "prompt": "Why does BG 3.21 emphasize that common people follow the example of leaders?",
+      "choices": [
+        "The egalitarian view that all examples are equally valid for society",
+        "Leaders' actions set standards; thus they must act for welfare",
+        "The elitist position that common people cannot think independently",
+        "Following leaders automatically guarantees spiritual advancement"
+      ],
+      "correctIndex": 1,
+      "feedback": "Great souls must act in Krishna consciousness because others imitate them-leadership carries responsibility for setting standards that guide society toward liberation rather than bondage.",
+      "verseLabel": "BG 3.21",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/21/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q17-synthesis",
+      "prompt": "How does work performed as sacrifice for Vishnu (BG 3.9) contrast with work driven by the modes (BG 3.5, 3.27) in terms of agency and bondage?",
+      "choices": [
+        "The compatibilist view that both involve genuine free will equally",
+        "Mode-driven work creates false doership; Krishna-centered work acknowledges true agency",
+        "The determinist error that all action is equally unfree and mechanical",
+        "The libertarian assumption that choice alone determines freedom or bondage"
+      ],
+      "correctIndex": 1,
+      "feedback": "Mode-driven work enslaves through false ego ('I am the doer') while being controlled by nature-double bondage of illusion plus compulsion. Yajna work acknowledges Krishna as real controller and self as instrument-this alignment with reality liberates because it recognizes actual agency structure. Freedom comes not from autonomy but from conscious cooperation with Krishna's will.",
+      "verseLabel": "BG 3.5-27",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q18-synthesis",
+      "prompt": "How does the warning against false renunciation (BG 3.4-6) relate to the prescription for regulated action (BG 3.8-9)?",
+      "choices": [
+        "The ascetic error that external inactivity purifies consciousness",
+        "Inner attachment makes inaction binding; regulated work purifies desire",
+        "The antinomian view that advanced souls transcend all regulations",
+        "The legalist misconception that correct performance alone liberates"
+      ],
+      "correctIndex": 1,
+      "feedback": "False renunciation (restraining senses while mentally dwelling on objects) shows cessation doesn't purify the mind-mental attachment persists. Regulated action in Krishna's service redirects desire from self to Krishna, actually transforming consciousness where forced inactivity fails. The cure isn't suppression but proper engagement of natural propensity to act.",
+      "verseLabel": "BG 3.4-9",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q19-synthesis",
+      "prompt": "How does identifying lust as the enemy (BG 3.36-43) integrate with the teaching that modes compel action (BG 3.5, 3.27-29)?",
+      "choices": [
+        "The moralist error that willpower alone conquers material desire",
+        "Lust enslaves through modes; higher taste via Krishna consciousness liberates",
+        "The determinist resignation that mode-driven beings can't resist lust",
+        "The dualist view that spirit and matter exist without interaction"
+      ],
+      "correctIndex": 1,
+      "feedback": "Lust operates through modes (rajo-guna) compelling embodied beings to act for sense gratification-recognizing this reveals the enemy isn't external but consciousness misdirected by false ego. Solution isn't suppression (impossible while modes act) but engaging senses in Krishna consciousness, which provides superior satisfaction displacing lust. Control comes through proper engagement, not restraint.",
+      "verseLabel": "BG 3.5-43",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/36/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q29-purport",
+      "prompt": "In the purport to BG 3.13, what does Srila Prabhupada say devotees (santas) do?",
+      "choices": [
+        "They accept offerings without first offering them to the Lord",
+        "They cannot accept anything without first offering it",
+        "They are exempt from all regulations naturally due to purity",
+        "They can eat anything due to their transcendental spiritual purity"
+      ],
+      "correctIndex": 1,
+      "feedback": "Santas, being in love with the Lord, cannot accept anything without first offering it to the Supreme Person.",
+      "verseLabel": "BG 3.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q22-synthesis",
+      "prompt": "How does participation in the cosmic sacrifice cycle (BG 3.14-16) relate to achieving transcendental status (BG 3.17-20)?",
+      "choices": [
+        "The antinomian error that realized souls transcend social responsibilities",
+        "Performing duties in cosmic order purifies consciousness for transcendence",
+        "The ritualist view that mechanical performance creates automatic elevation",
+        "The world-negating assumption that material duties obstruct spiritual life"
+      ],
+      "correctIndex": 1,
+      "feedback": "The sacrifice cycle (work->offering->rain->food) isn't mere social contract but purification process: performing one's role without selfish motive gradually cleanses consciousness of false proprietorship. The self-realized (3.17) isn't exempt from duties but performs them from position of internal freedom-participation with right consciousness leads to transcendence, not opposition between duty and liberation.",
+      "verseLabel": "BG 3.14-20",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q31-purport",
+      "prompt": "In the purport to BG 3.27, what does Srila Prabhupada explain about the materialistic person?",
+      "choices": [
+        "They understand Krsna is the ultimate controller of everything",
+        "They know the body is created by material nature's laws",
+        "They take all credit for doing everything independently",
+        "They remember their eternal relationship with Krsna through devotion"
+      ],
+      "correctIndex": 2,
+      "feedback": "The materialistic person takes all credit independently, not knowing they're under Krsna's control.",
+      "verseLabel": "BG 3.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/3.27/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q23-synthesis",
+      "prompt": "How does Prabhupada's explanation of false ego (BG 3.27 purport) challenge modern culture's emphasis on personal autonomy and self-determination?",
+      "choices": [
+        "The humanist misconception that humans are independent agents",
+        "Both views validly describe human freedom and agency equally",
+        "Modern autonomy correctly recognizes human creative capacity",
+        "The compatibilist compromise that blends both perspectives harmoniously"
+      ],
+      "correctIndex": 0,
+      "feedback": "False ego creates the illusion of independence when we're actually instruments of material nature under Krsna's direction-modern autonomy absolutizes this illusion, ignoring that the body, intelligence, and opportunities enabling 'personal achievement' all come from sources beyond individual control.",
+      "verseLabel": "BG 3.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/27/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q32-purport",
+      "prompt": "In the purport to BG 3.27, what does Srila Prabhupada say the ignorant man forgets about Krsna?",
+      "choices": [
+        "Krsna is in the spiritual world only and not present here",
+        "Krsna is known as Hrishikesha the master of all senses",
+        "Krsna is equal to all living entities in every respect",
+        "Krsna has no control over material bodies and their activities"
+      ],
+      "correctIndex": 1,
+      "feedback": "The ignorant forget Krsna is Hrishikesha (master of senses), bewildered by false ego through sense gratification.",
+      "verseLabel": "BG 3.27",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/27/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q33-purport",
+      "prompt": "In the purport to BG 3.9, what does Srila Prabhupada say about expert guidance in Krsna consciousness?",
+      "choices": [
+        "Expert guidance is unnecessary for intelligent persons who can study",
+        "This process requires very expert guidance initially from devotees",
+        "One can learn through trial and error alone without help",
+        "Books are sufficient without living guidance from a spiritual master"
+      ],
+      "correctIndex": 1,
+      "feedback": "In the beginning, this process of doing work requires very expert guidance from a devotee or Lord Krsna Himself.",
+      "verseLabel": "BG 3.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q25-synthesis",
+      "prompt": "How does Krishna's instruction for leaders to set examples (BG 3.21) integrate with His teaching that ignorant people shouldn't be disturbed (BG 3.26, 3.29)?",
+      "choices": [
+        "The elitist error that truth is only for qualified intellectuals",
+        "Lead by example in Krishna consciousness without disrupting gradual purification",
+        "The relativist view that all practices are equally valid at different levels",
+        "The revolutionary misconception that immediate change uplifts everyone"
+      ],
+      "correctIndex": 1,
+      "feedback": "Great souls must act in Krishna consciousness because others imitate them-this sets beneficial standards. But forcing mode-bound persons to abandon prescribed duties causes chaos and bewilderment-they need gradual elevation through their current duties performed for Vishnu, not abrupt rejection. Leadership works through attractive example and appropriate guidance, not by destabilizing those at earlier stages.",
+      "verseLabel": "BG 3.21-29",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/21/",
+      "verdict": "Correct"
+    },
+    {      "id": "bg3-q24-synthesis",
+      "prompt": "How does Prabhupada's prescription of sankirtana-yajna (BG 3.13 purport) address modern society's epidemic of stress, anxiety, and meaninglessness?",
+      "choices": [
+        "The therapeutic misconception that chanting is merely stress relief",
+        "Connecting work to Krishna through sound restores purpose and peace",
+        "The secularist error that material adjustment alone solves unhappiness",
+        "The escapist view that ignoring problems through religion brings relief"
+      ],
+      "correctIndex": 1,
+      "feedback": "Modern stress stems from disconnected, self-centered work lacking transcendent purpose; sankirtana-yajna transforms every activity into loving offering through nama, reconnecting the soul to its source-unlike therapy or material solutions, this addresses the existential root of anxiety.",
+      "verseLabel": "BG 3.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg3-q34-purport",
+      "prompt": "In the purport to BG 3.13, what does Srila Prabhupada explain as the easy process for happiness?",
+      "choices": [
+        "Performing elaborate Vedic rituals perfectly according to scripture",
+        "Sankirtana-yajna in full Krsna consciousness for everyone",
+        "Accumulating material wealth through honest work and business",
+        "Philosophical speculation about the Absolute Truth and Brahman"
+      ],
+      "correctIndex": 1,
+      "feedback": "People must be taught sankirtana-yajna in Krsna consciousness. Otherwise no peace or happiness is possible.",
+      "verseLabel": "BG 3.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/3/13/",
+      "verdict": "Correct"
+    }
+  ]
+}

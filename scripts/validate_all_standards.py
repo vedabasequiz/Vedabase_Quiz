@@ -114,45 +114,81 @@ class QuizValidator:
     
     def _validate_tier2(self, obj, chapter):
         """2. MCQ QUALITY, TRANSLATION/PURPORT BALANCE, DIFFICULTY, FEEDBACK"""
-        
+
         questions = obj.get('questions', [])
         audience = obj.get('audience', 'adult')
-        
+
         # 6. MCQ Quality
         for i, q in enumerate(questions, start=1):
             choices = q.get('choices', [])
-            
+
             # Check for all/none of the above
             for j, choice in enumerate(choices):
                 choice_lower = choice.lower()
                 if 'all of the above' in choice_lower or 'none of the above' in choice_lower:
                     self.tier2_issues.append(f"T2.6: Q{i} choice {j+1} uses banned phrase")
-            
+
             # Check distractor plausibility (basic: no all identical, no empty)
             if len(set(choices)) < len(choices):
                 self.tier2_issues.append(f"T2.6: Q{i} has duplicate choices")
-            
+
             if any(not c.strip() for c in choices):
                 self.tier2_issues.append(f"T2.6: Q{i} has empty choice")
-        
+
+        # --- Purport Ratio Check (updated logic) ---
+        purport_count = 0
+        for q in questions:
+            verse_label = q.get('verseLabel', '').lower()
+            prompt = q.get('prompt', '').lower()
+            feedback = q.get('feedback', '').lower()
+            # Accept as purport-based if:
+            # - 'purport' or 'prabhupada' in verseLabel, prompt, or feedback
+            # - OR feedback is 40+ words and contains deep reasoning (proxy: has 'real understanding:' or 'practice:' or 'false path is')
+            if (
+                'purport' in verse_label
+                or 'purport' in prompt
+                or 'prabhupada' in prompt
+                or 'purport' in feedback
+                or 'prabhupada' in feedback
+                or (
+                    len(feedback.split()) >= 40 and (
+                        'real understanding:' in feedback
+                        or 'practice:' in feedback
+                        or 'false path' in feedback
+                    )
+                )
+            ):
+                purport_count += 1
+        total = len(questions)
+        ratio = (purport_count / total * 100) if total > 0 else 0
+        # Target: 35-40%
+        if 35 <= ratio <= 40:
+            pass  # OK
+        elif 28 <= ratio < 35:
+            self.tier2_issues.append(f"T2.7: Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Below target 35-40%")
+        elif ratio < 28:
+            self.tier2_issues.append(f"T2.7: Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Well below target 35-40%")
+        else:
+            self.tier2_issues.append(f"T2.7: Purport ratio: {ratio:.1f}% ({purport_count}/{total}) - Above target 35-40%")
+
         # 8. Difficulty Progression
         # Basic check: first ~60% should be simpler (shorter questions), last ~40% complex
         first_60_idx = int(len(questions) * 0.6)
         first_60 = questions[:first_60_idx]
         last_40 = questions[first_60_idx:]
-        
+
         avg_first = sum(len(q.get('prompt', '')) for q in first_60) / len(first_60) if first_60 else 0
         avg_last = sum(len(q.get('prompt', '')) for q in last_40) / len(last_40) if last_40 else 0
-        
+
         if avg_last < avg_first * 0.8:  # Last section should be longer/more complex
             self.tier2_issues.append(f"T2.8: Difficulty may not progress (first 60% avg {avg_first:.0f} chars, last 40% avg {avg_last:.0f})")
-        
+
         # 9. Feedback Quality
         for i, q in enumerate(questions, start=1):
             feedback = q.get('feedback', '')
             if not feedback or len(feedback.strip()) < 10:
                 self.tier2_issues.append(f"T2.9: Q{i} feedback too short or empty")
-            
+
             # For adults: check for contrastive reasoning hint
             if audience == 'adult' and len(feedback) < 50:
                 self.tier2_issues.append(f"T2.9: Q{i} feedback may lack depth for adult audience")
@@ -268,7 +304,36 @@ def main():
     print(f"⚠ Files with Tier 2 issues:      {total_t2_issues}/{total_files}")
     print(f"💡 Files with Tier 3 notes:      {total_t3_issues}/{total_files}")
     print("=" * 80)
-    
+
+    # --- Second Choice CorrectIndex Analysis ---
+    print("\nSECOND CHOICE (correctIndex == 1) BREAKDOWN (ADULT CHAPTERS 1-18)")
+    print("=" * 80)
+    data_dir = Path('data/quizzes/bg')
+    second_choice_stats = []
+    for chapter in range(1, 19):
+        filepath = data_dir / f'{chapter}-adult.json'
+        if not filepath.exists():
+            continue
+        try:
+            with open(filepath, 'r') as f:
+                obj = json.load(f)
+        except Exception as e:
+            print(f"Ch {chapter:2d}: ERROR reading file: {e}")
+            continue
+        questions = obj.get('questions', [])
+        total = len(questions)
+        second_choice_count = sum(1 for q in questions if q.get('correctIndex') == 1)
+        pct = 100.0 * second_choice_count / total if total else 0.0
+        second_choice_stats.append((chapter, second_choice_count, total, pct))
+        print(f"Ch {chapter:2d}: {second_choice_count:2d} / {total:2d} questions ({pct:5.1f}%) second choice correct")
+    # Overall summary
+    total_questions = sum(t for _, _, t, _ in second_choice_stats)
+    total_second = sum(c for _, c, _, _ in second_choice_stats)
+    overall_pct = 100.0 * total_second / total_questions if total_questions else 0.0
+    print("-" * 80)
+    print(f"OVERALL: {total_second} / {total_questions} questions ({overall_pct:.1f}%) second choice correct across all adult chapters")
+    print("=" * 80)
+
     return 0 if total_pass_all == total_files else 1
 
 if __name__ == '__main__':

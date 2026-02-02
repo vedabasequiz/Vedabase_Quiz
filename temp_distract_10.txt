@@ -1,0 +1,17 @@
+Filtering for: data/quizzes/bg/10-adult.json
+
+Scanning 1 quiz file(s)...
+
+================================================================================
+MCQ DISTRACTOR QUALITY AUDIT REPORT
+Generated: 2026-01-31 16:51:45
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total questions scanned:        25
+Questions with flagged issues: 0 (0.0%)
+Total weak distractors found:  0
+
+✓ All files have excellent distractor quality!
+

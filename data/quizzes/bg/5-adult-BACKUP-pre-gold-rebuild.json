@@ -1,0 +1,386 @@
+{
+  "id": "bg-5-adult",
+  "scripture": "bg",
+  "chapter": 5,
+  "audience": "adult",
+  "title": "Bhagavad Gita - Chapter 5 (Adult) | 25Q",
+  "difficulty": "medium-hard",
+  "publishedOn": "2026-01-29",
+  "questions": [
+    {
+      "id": "bg5-q1",
+      "prompt": "Why does Arjuna ask again in BG 5.1 which path is superior, despite Krishna's previous explanations?",
+      "choices": [
+        "The dualistic error of seeing renunciation and action as contradictory",
+        "Krishna deliberately confuses Arjuna with contradictory teachings",
+        "The relativist claim that all paths are equally valid spiritually",
+        "Arjuna has forgotten everything Krishna taught in previous chapters"
+      ],
+      "correctIndex": 0,
+      "feedback": "Arjuna still perceives sannyasa and karma-yoga as separate paths, not grasping their unity: both require detachment-true renunciation is internal attitude, not external inactivity.",
+      "verseLabel": "BG 5.1",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/1/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q2",
+      "prompt": "According to BG 5.2, which path does Krishna recommend as superior?",
+      "choices": [
+        "Complete renunciation of all activities without exception",
+        "Work in devotion is superior to formal renunciation",
+        "Both paths are equally easy for all practitioners",
+        "Neither path leads to liberation from material bondage"
+      ],
+      "correctIndex": 1,
+      "feedback": "Krishna recommends karma-yoga (work in devotion) as superior to mere renunciation, though both can lead to the goal.",
+      "verseLabel": "BG 5.2",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/2/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q3-purport",
+      "prompt": "In the purport to BG 5.3, what does Srila Prabhupada explain about the renouncer's attitude?",
+      "choices": [
+        "True renunciation means hating all material objects and activities",
+        "Neither desires nor laments; everything for Krishna's pleasure",
+        "The renouncer must physically abandon all possessions immediately",
+        "Renunciation requires intense austerity and constant suffering"
+      ],
+      "correctIndex": 1,
+      "feedback": "A devotee in Krishna consciousness neither desires nor laments anything material-working only for Krishna's satisfaction, not personal enjoyment.",
+      "verseLabel": "BG 5.3",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/3/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q6",
+      "prompt": "Why does BG 5.6 state that work without yoga keeps one bound?",
+      "choices": [
+        "The ascetic fallacy that mere external renunciation liberates automatically",
+        "Yoga connects work to God; without connection, karma binds",
+        "The activist misconception that good works alone guarantee spiritual progress",
+        "Physical labor itself creates bondage through material engagement"
+      ],
+      "correctIndex": 1,
+      "feedback": "Work performed without yogic connection to Krishna accumulates karmic reactions; yoga (union) transforms work from binding karma to liberating service-the connection, not cessation, frees.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q7",
+      "prompt": "According to BG 5.7, what characterizes the transcendental person?",
+      "choices": [
+        "They are consistently angry due to material frustrations",
+        "They are unaffected by joy or sorrow, are self-controlled",
+        "They enjoy pleasures heavily through unrestricted sense gratification",
+        "They are easily disturbed by external circumstances and events"
+      ],
+      "correctIndex": 1,
+      "feedback": "The transcendentalist remains balanced in success and failure.",
+      "verseLabel": "BG 5.7",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/7/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q8",
+      "prompt": "How does the transcendentalist's use of senses (BG 5.8) differ from the sensualist's use?",
+      "choices": [
+        "The dualist error that senses themselves are inherently sinful",
+        "Consciousness determines whether senses bind or liberate",
+        "The ascetic misconception that total sense suppression equals spirituality",
+        "Transcendentalists simply have stronger willpower to resist temptation"
+      ],
+      "correctIndex": 1,
+      "feedback": "Same senses, different consciousness: sensualist uses for self-gratification (binding), transcendentalist engages for Krishna's service (liberating)-senses themselves neutral, directed by will.",
+      "verseLabel": "BG 5.8",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q9",
+      "prompt": "What does BG 5.9 teach about one who engages in devotional service?",
+      "choices": [
+        "They accumulate more karma through continued material activities",
+        "They are quickly freed from karma and attain peace",
+        "They suffer more due to increased awareness of material misery",
+        "They remain bound by the reactions of their devotional work"
+      ],
+      "correctIndex": 1,
+      "feedback": "Devotional service swiftly purifies the soul and removes all impurities.",
+      "verseLabel": "BG 5.9",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/9/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q10-purport",
+      "prompt": "In the purport to BG 5.10, what does Srila Prabhupada explain about the lotus leaf analogy?",
+      "choices": [
+        "The devotee completely avoids all contact with material world",
+        "Like lotus untouched by water, devotee unaffected by sin",
+        "Water destroys lotus just as sin destroys spiritual life",
+        "The lotus represents material entanglement and attachment"
+      ],
+      "correctIndex": 1,
+      "feedback": "Like a lotus leaf in water remains untouched, the devotee engaged in Krishna's service is unaffected by sinful reactions.",
+      "verseLabel": "BG 5.10",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/10/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q11",
+      "prompt": "In BG 5.11, who is a true renunciate according to Krishna?",
+      "choices": [
+        "One who leaves home through independent material processes",
+        "One who has conquered the senses and mind",
+        "One who not works through independent material processes",
+        "One who lives in poverty accepting no possessions"
+      ],
+      "correctIndex": 1,
+      "feedback": "True renunciation is mastery over mind and senses, not external appearance.",
+      "verseLabel": "BG 5.11",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/11/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q12",
+      "prompt": "How does offering work's results to Krishna (BG 5.12) free one from karmic reactions?",
+      "choices": [
+        "The magical thinking that ritual offering nullifies material consequences",
+        "Offering transfers ownership; what's Krishna's doesn't bind the offerer",
+        "The legalistic view that correct procedure satisfies cosmic requirements",
+        "Krishna takes responsibility for devotees' actions mechanically"
+      ],
+      "correctIndex": 1,
+      "feedback": "When work is done for Krishna and results offered to Him, the doer becomes instrument not proprietor-reactions accrue to the enjoyer/owner, not the tool; offering shifts agency from self to Krishna.",
+      "verseLabel": "BG 5.12",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/12/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q13-purport",
+      "prompt": "In the purport to BG 5.13, what does Srila Prabhupada explain about the nine-gated city?",
+      "choices": [
+        "The city has nine gates for different sense gratification activities",
+        "Body with nine openings houses the soul who isn't the doer",
+        "Nine gates represent nine different types of material knowledge",
+        "The material world itself is described as a nine-gated city"
+      ],
+      "correctIndex": 1,
+      "feedback": "The body (nine-gated city) houses the soul who remains aloof from bodily activities-the soul is occupant, not actor in material engagements.",
+      "verseLabel": "BG 5.13",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/13/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q14",
+      "prompt": "In BG 5.14, who is truly liberated according to Krishna?",
+      "choices": [
+        "The wealthy who possess abundant material opulence and resources",
+        "One who has transcended ego and false identification",
+        "The powerful who control others through their influence and authority",
+        "The famous who are celebrated throughout society everywhere"
+      ],
+      "correctIndex": 1,
+      "feedback": "Liberation comes from renouncing the false ego and bodily identification.",
+      "verseLabel": "BG 5.14",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q15",
+      "prompt": "What does BG 5.15 teach about attaining peace?",
+      "choices": [
+        "Peace comes from gratification of material desires gradually",
+        "Peace comes through self-knowledge and surrender to Krishna",
+        "Peace is impossible to achieve in the material world",
+        "Peace requires isolation from all external contact entirely"
+      ],
+      "correctIndex": 1,
+      "feedback": "True peace comes from knowing the eternal nature of the soul.",
+      "verseLabel": "BG 5.15",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/15/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q16",
+      "prompt": "How does knowledge destroy doubts and liberate according to BG 5.16?",
+      "choices": [
+        "The rationalist assumption that intellectual understanding alone liberates",
+        "Transcendental knowledge reveals soul's nature, dispelling illusion",
+        "The gnostic error that secret information grants automatic salvation",
+        "Accumulating facts about spiritual topics gradually removes ignorance"
+      ],
+      "correctIndex": 1,
+      "feedback": "Not mere information but realized knowledge of soul's eternality and Krishna's supremacy destroys the ignorance causing material identification-this awakening to reality dissolves doubts born of illusion.",
+      "verseLabel": "BG 5.16",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/16/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q17-synthesis",
+      "prompt": "How does the teaching that karma-yoga and sannyasa reach the same goal (BG 5.4-5) relate to the yogi's equal vision (BG 5.18-19)?",
+      "choices": [
+        "The relativist error that all paths are equally valid regardless of consciousness",
+        "Both paths cultivate detachment enabling perception of soul in all beings",
+        "The dualist misconception that action and knowledge exist separately",
+        "The elitist view that renunciation is inherently superior to work"
+      ],
+      "correctIndex": 1,
+      "feedback": "Whether through renunciation or work in devotion, the goal is transcending false identification with body-modes-ego. This purification enables equal vision: seeing the eternal soul (and Supersoul) in all bodies regardless of species or caste. The realized person sees through bodily designations (learned brahmana, outcaste, cow, dog, elephant) to the common spiritual essence. Both paths work because both develop detachment from material distinctions.",
+      "verseLabel": "BG 5.4-19",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/4/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q18-synthesis",
+      "prompt": "How does understanding that modes control action (BG 5.14-15) integrate with the self-realized person's detachment (BG 5.7-12)?",
+      "choices": [
+        "The determinist error that mode-control eliminates all responsibility",
+        "Recognizing modes as controllers dispels false doership, enabling surrender",
+        "The libertarian assumption that understanding modes grants autonomy",
+        "The quietist misconception that knowledge of modes justifies inaction"
+      ],
+      "correctIndex": 1,
+      "feedback": "Understanding the body acts by modes' compulsion (not soul's independent choice) destroys false ego's claim 'I am the doer'-this isn't fatalism but liberation from the arrogance that binds. The self-realized person acts through body-senses but identifies as Krishna's instrument rather than independent agent, offering results to Him. Detachment flows from correct understanding of actual agency: modes act on body, soul serves Krishna.",
+      "verseLabel": "BG 5.7-15",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/14/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q23-synthesis",
+      "prompt": "Why does Prabhupada (BG 5.6 purport) say Mayavadi sannyasis' Brahman speculation becomes tedious while Krishna consciousness remains fresh?",
+      "choices": [
+        "The impersonal void lacks relational dynamics to sustain interest",
+        "Both eventually become tedious; all spiritual practice is difficult",
+        "Brahman realization is superior but requires more qualification",
+        "The sentimentalist error that emotion matters more than truth"
+      ],
+      "correctIndex": 0,
+      "feedback": "Impersonal speculation targets featureless void-no reciprocation, no variety, no love possible; tedium inevitable. Krishna consciousness engages personality in unlimited relational exchange with infinite Person-ever-fresh because the soul's nature is relationship, not isolation. Mayavadis' falldown to material philanthropy reveals void's inadequacy.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q20-synthesis",
+      "prompt": "How does understanding the distinction between bodily and spiritual identity (BG 5.5-7) enable transcendental happiness (BG 5.21-24)?",
+      "choices": [
+        "The ascetic error that rejecting bodily pleasure automatically creates bliss",
+        "Spiritual identification frees from bodily dependencies, revealing internal joy",
+        "The hedonist misconception that maximizing pleasure brings satisfaction",
+        "The stoic fallacy that suppressing desire equals contentment"
+      ],
+      "correctIndex": 1,
+      "feedback": "Bodily identification makes happiness depend on external contact (sense objects, others' approval, material conditions)-ever unstable and ultimately disappointing. Spiritual identity recognizes the self as soul, not body-happiness comes from within (atma-rati), independent of circumstances. This isn't denial of bodily reality but correct prioritization: body serves soul's purpose (Krishna consciousness), not soul enslaved to body's demands. Internal satisfaction makes external conditions irrelevant.",
+      "verseLabel": "BG 5.5-24",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/5/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q22-synthesis",
+      "prompt": "How does the teaching that the embodied soul is not the doer (BG 5.8-9, 5.14) relate to offering work's fruits to Krishna (BG 5.10, 5.12)?",
+      "choices": [
+        "The quietist error that non-doership justifies complete inaction",
+        "Recognizing modes as agents enables offering Krishna what's actually His",
+        "The determinist misconception that no one is responsible for anything",
+        "The antinomian view that realized souls act without consequences"
+      ],
+      "correctIndex": 1,
+      "feedback": "Understanding 'I am not the doer' (modes acting through body) dispels false proprietorship-if I'm not the real agent, I'm not the real owner of results either. This enables genuine offering: presenting to Krishna what He's producing through His energies (nature, body, intelligence) rather than taking credit and enjoying separately. False doership claims results; correct understanding offers them. Liberation comes through alignment with reality.",
+      "verseLabel": "BG 5.8-14",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/8/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q30-purport",
+      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada explain is the greatest peace formula?",
+      "choices": [
+        "Understanding oneself as supreme controller of material nature",
+        "Lord Krsna is beneficiary of all human activities",
+        "Becoming one with the impersonal Brahman effulgence",
+        "Independent material prosperity brings lasting peace and happiness"
+      ],
+      "correctIndex": 1,
+      "feedback": "The greatest peace formula: Krsna is beneficiary, proprietor of all planets, greater than all demigods.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q25-synthesis",
+      "prompt": "How does Prabhupada's peace formula (BG 5.29 purport)-Krishna as proprietor, beneficiary, friend-address global conflicts over resources, nationalism, and competing interests?",
+      "choices": [
+        "The utopian error that religion alone solves political problems",
+        "Recognizing true Owner/Enjoyer dissolves false proprietorship conflicts",
+        "The secular view that separating religion from politics brings peace",
+        "The pluralist hope that respecting all beliefs creates harmony"
+      ],
+      "correctIndex": 1,
+      "feedback": "Conflicts arise from false proprietorship: 'my country, my resources, my rights.' Realizing Krishna owns everything, humans are tenants not owners, and His pleasure is goal-removes competition's root. Nations fight over what's 'theirs'; devotees cooperate over Krishna's property. No peace without recognizing actual proprietor.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q31-purport",
+      "prompt": "In the purport to BG 5.18, what does Srila Prabhupada explain about equal vision?",
+      "choices": [
+        "Bodies of brahmana and outcaste are equal in spiritual reality",
+        "Differences of body are meaningless to learned transcendentalist",
+        "Species and castes have equal spiritual value and importance",
+        "Material distinctions define spiritual advancement and realization actually"
+      ],
+      "correctIndex": 1,
+      "feedback": "Body differences are meaningless from viewpoint of learned transcendentalist due to relationship with Paramatma in everyone's heart.",
+      "verseLabel": "BG 5.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q32-purport",
+      "prompt": "In the purport to BG 5.18, what false conception does Srila Prabhupada clarify?",
+      "choices": [
+        "Individual soul and Supersoul are equal in quantity always",
+        "Similarity in quality doesn't make them equal in quantity",
+        "Parammatma is only in brahmanical bodies of qualified souls",
+        "Soul's quantity increases with spiritual advancement and practice"
+      ],
+      "correctIndex": 1,
+      "feedback": "Soul and Supersoul similar in quality (conscious, eternal, blissful) but not equal in quantity - soul in one body, Paramatma in all.",
+      "verseLabel": "BG 5.18",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/18/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q33-purport",
+      "prompt": "In the purport to BG 5.6, what does Srila Prabhupada say about those engaged in Krsna conscious activities?",
+      "choices": [
+        "They must speculate about Brahman first before devotion",
+        "Better situated than sannyasis in simple speculation",
+        "They need Brahman speculation for advancement in knowledge",
+        "Simple renunciation is superior to devotional service activities"
+      ],
+      "correctIndex": 1,
+      "feedback": "Those engaged in Krsna consciousness are better situated than sannyasis engaged in simple Brahman speculation.",
+      "verseLabel": "BG 5.6",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/6/",
+      "verdict": "Correct"
+    },
+    {
+      "id": "bg5-q34-purport",
+      "prompt": "In the purport to BG 5.29, what does Srila Prabhupada say about achieving peace?",
+      "choices": [
+        "Individual effort alone brings lasting peace to everyone",
+        "Not possible without understanding Krsna's position as master",
+        "Material adjustment leads to collective peace for all",
+        "Peace comes through controlling others and their actions"
+      ],
+      "correctIndex": 1,
+      "feedback": "Unless one understands bare facts (Krsna master, souls subordinate), not possible to achieve peace individually or collectively.",
+      "verseLabel": "BG 5.29",
+      "verseUrl": "https://vedabase.io/en/library/bg/5/29/",
+      "verdict": "Correct"
+    }
+  ]
+}

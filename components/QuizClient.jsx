@@ -572,6 +572,7 @@ export default function QuizClient({ quiz }) {
                         border: "1px solid #ddd",
                         cursor: submitted ? "default" : "pointer",
                         background: isCorrectChoice ? "#eef8ee" : isWrongChosen ? "#fdeeee" : "#fff",
+                        position: "relative"
                       }}
                     >
                       <input
@@ -582,7 +583,32 @@ export default function QuizClient({ quiz }) {
                         disabled={submitted}
                         style={{ marginTop: 2 }}
                       />
-                      <span>{choice}</span>
+                      <span style={{ display: "flex", alignItems: "center", gap: 6 }}>
+                        {choice}
+                        {submitted && cIdx === r.correctIndex && (
+                          <span
+                            style={{
+                              display: "inline-flex",
+                              alignItems: "center",
+                              justifyContent: "center",
+                              width: 28,
+                              height: 28,
+                              marginLeft: 8,
+                              borderRadius: "50%",
+                              background: "#2f7d32",
+                              color: "#fff",
+                              fontWeight: 900,
+                              fontSize: "1.5em",
+                              boxShadow: "0 1px 4px rgba(47,125,50,0.18)",
+                              border: "2px solid #1e6a28",
+                              verticalAlign: "middle"
+                            }}
+                            aria-label="Correct answer"
+                          >
+                            ✓
+                          </span>
+                        )}
+                      </span>
                     </label>
                   );
                 })}

@@ -1,0 +1,136 @@
+Filtering for: data/quizzes/bg/9-adult.json
+
+Scanning 1 quiz file(s)...
+
+================================================================================
+MCQ DISTRACTOR QUALITY AUDIT REPORT
+Generated: 2026-01-31 15:16:00
+================================================================================
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total questions scanned:        25
+Questions with flagged issues: 10 (40.0%)
+Total weak distractors found:  24
+
+FILES WITH DISTRACTOR ISSUES
+--------------------------------------------------------------------------------
+
+📋 BG9-adult (adult audience)
+   Path: data/quizzes/bg/9-adult.json
+   Flagged questions: 10/25
+
+   Q: According to BG 9.27-28, what does Krishna instruct about offering one...
+   ✓ Correct: Offer all activities, food, sacrifices, and austerities to Krishna to become free from karma and attain liberation, as Krishna instructs in these verses.
+   🟡 [2/5] Only ritualistic sacrifices performed by priests are accepted by Krishna, according to some traditions, but Krishna teaches that devotion is key, not ritual alone.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Material results should be enjoyed personally before offering anything to Krishna, as some may believe, but Krishna emphasizes offering everything to Him.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟢 [4/5] Renunciation of all work is the only way to attain Krishna, as taught by certain schools, but Krishna teaches engagement with devotion is the path.
+
+   Q: According to BG 9.8, what is the attitude of those bewildered by illus...
+   ✓ Correct: They do not recognize Krishna's supreme nature and think He is mortal, an ordinary person, as described in the Gita.
+   🟢 [4/5] They see clearly and understand everything correctly, as some may mistakenly think, but this is not the case for those bewildered by illusion.
+   🟡 [2/5] They see Krishna's true nature and transcendental spiritual form clearly, according to certain beliefs, but this is not the condition of the bewildered.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟢 [4/5] They know Krishna's glory but ignore it, as some people do in their lives, but the Gita describes a deeper ignorance.
+
+   Q: In the purport to BG 9.10, what paradox does Srila Prabhupada explain ...
+   ✓ Correct: Krishna superintends material nature's activities and remains detached from them, unaffected, as explained in the purport. He is the overseer, yet not entangled, maintaining transcendence and control.
+   🟡 [2/5] Krishna created the material world and is described as the ultimate overseer, not absent, but present as the supreme controller, maintaining transcendence and control.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Krishna is described as transcendental, not directly entangled in every material activity, but present as the supreme controller, maintaining transcendence and control.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Material nature is described as functioning under Krishna's supervision, with Krishna as the supreme overseer, maintaining transcendence and control, as explained in the Gita.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+
+   Q: In the purport to BG 9.11, what psychological trap does Srila Prabhupa...
+   ✓ Correct: That foolish people deride Krishna when He appears in human form, as described in the purport, and this is the main psychological trap identified by Srila Prabhupada.
+   🟡 [2/5] That materialistic people cannot see Krishna even when He appears before them, according to some observations, and this is sometimes noted as a limitation of materialistic vision.
+      ⚠️  vague_concepts: 'sometimes'
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] That speculative philosophers reject Krishna's form while accepting impersonal Brahman, as some do, and this is a tendency found among impersonalist thinkers.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] That most people believe Krishna is a mythological character rather than historical person, as is sometimes claimed, and this is a view held by some who do not accept scriptural authority.
+      ⚠️  vague_concepts: 'sometimes'
+      ⚠️  too_long: Distractor significantly longer than typical choice
+
+   Q: According to BG 9.13-14, how does Krishna describe the qualities and a...
+   ✓ Correct: Mahatmas are always engaged in devotional service, chanting and glorifying Krishna with determination, while the misguided are attached to demigod worship and material pursuits, lacking true devotion, as described in the scripture. They are always focused on Krishna.
+   🟡 [2/5] Mahatmas are those who perform severe austerities and renounce all action, according to some traditions, but the Gita defines mahatmas by devotion. True mahatmas are not just renunciates, but devoted servants.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Mahatmas are defined by their birth in high families and strict ritual observance, as some believe, but Krishna emphasizes qualities over birth. Devotion, not birth, is the true mark of a mahatma.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Mahatmas are those who seek liberation through impersonal meditation only, as taught by certain schools, but the Gita describes loving service. Service and devotion are the real qualities of a mahatma.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+
+   Q: In the purport to BG 9.15, what warning does Srila Prabhupada give abo...
+   ✓ Correct: Knowledge cultivation without devotion leads to dry speculation and impersonalism, lacking realization, as explained by Srila Prabhupada.
+   🟢 [4/5] Knowledge is unnecessary for those engaged in devotional service, according to some views, but Krishna teaches the value of both.
+   🟢 [4/5] Philosophical study distracts from emotional connection with Krishna, as some may believe, but the Gita emphasizes balance.
+   🟡 [2/5] Knowledge alone automatically produces devotion, as is sometimes claimed, but devotion must be present.
+      ⚠️  vague_concepts: 'sometimes'
+
+   Q: According to BG 9.17, how does Krishna describe His relationship to th...
+   ✓ Correct: He is the father, mother, maintainer, and the goal of all knowledge; He is also the sacred Om and the Vedas themselves, as described in the verse, and is the ultimate support for all beings. Krishna is the source and support of everything.
+   🟡 [2/5] He is only the witness and not involved in creation or maintenance, as some may believe, but Krishna is the maintainer and creator as well. He is the ultimate support for all beings, not just a witness.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] He is pleased only by elaborate sacrifices performed by priests, according to certain traditions, but Krishna is the ultimate support for all beings. Krishna is the support for all, not just pleased by rituals.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] He is indifferent to all Vedic rituals and their results, as some people think, but Krishna is intimately involved and is the ultimate support for all beings. Krishna is always the support for all beings.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+
+   Q: According to BG 9.19, how does Krishna describe His control over the n...
+   ✓ Correct: Krishna sends rain, heat, and withholds them as He desires, yet remains transcendental and unaffected by material nature, supreme and beyond material influence, as described in the verse.
+   🟡 [2/5] Krishna is described as transcendental and not bound by material laws, being the controller of all natural phenomena, supreme and beyond material influence, as explained in the Gita.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Krishna is described as the controller of both the spiritual and material worlds, supreme and beyond material influence, as explained in the Gita, not limited to one realm.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Nature is described as functioning under Krishna's will, with Krishna as the ultimate controller, supreme and beyond material influence, as explained in the Gita.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+
+   Q: According to BG 9.32-33, who is eligible to attain Krishna through dev...
+   ✓ Correct: Everyone, regardless of gender, birth, or social status, can attain Krishna by taking shelter of Him through devotion, as Krishna declares in these verses. Krishna's mercy is open to all who are devoted.
+   🟡 [2/5] Only those born in high families or with great wealth are eligible, as some may believe, but Krishna teaches that devotion is open to all. Krishna's mercy is not limited by birth or wealth.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Only men of the brahmana class can achieve Krishna's mercy, according to certain traditions, but the Gita teaches otherwise. Krishna's mercy is for all, not just a select class.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Eligibility is determined by ritual performance, not devotion, as some people think, but Krishna emphasizes devotion. Krishna's mercy is based on devotion, not ritual.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+
+   Q: In BG 9.25, what determines the destination of worshipers?...
+   ✓ Correct: Those who worship demigods go to the demigods, ancestors to ancestors, ghosts to ghosts, and Krishna's devotees come to Him, as Krishna explains in this verse.
+   🟡 [2/5] All worshipers ultimately reach Krishna regardless of their object of worship, as some may believe, but the Gita clarifies that the object of worship determines the destination.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟡 [2/5] Worshiping ancestors leads to liberation from material existence, according to certain traditions, but the Gita states ancestor worshipers go to ancestors, not liberation.
+      ⚠️  too_long: Distractor significantly longer than typical choice
+   🟢 [4/5] Ghost worshipers automatically attain Krishna by default, as some people think, but Krishna clarifies that ghost worshipers go to ghosts.
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+🟡 MODERATE (Score =2): 24 distractor(s)
+Consider reviewing and potentially strengthening
+  - BG9 adult Q: 'Only ritualistic sacrifices performed by priests are accepted by Krishna, according to some traditions, but Krishna teaches that devotion is key, not ritual alone.'
+    Flags: too_long: Distractor significantly longer than typical choice
+  - BG9 adult Q: 'Material results should be enjoyed personally before offering anything to Krishna, as some may believe, but Krishna emphasizes offering everything to Him.'
+    Flags: too_long: Distractor significantly longer than typical choice
+  - BG9 adult Q: 'They see Krishna's true nature and transcendental spiritual form clearly, according to certain beliefs, but this is not the condition of the bewildered.'
+    Flags: too_long: Distractor significantly longer than typical choice
+  ... and 21 more
+
+TIER 3 STANDARD REFERENCE
+--------------------------------------------------------------------------------
+Excellent distractors should be:
+  • Partial truths or common misconceptions
+  • Misplaced emphasis on a related concept
+  • Plausible wrong interpretations of the text
+  • Distinct from the correct answer but thematically related
+
+Avoid:
+  • Silly or absurd responses (e.g., 'falls asleep', 'runs away')
+  • Non-sequiturs unrelated to the question
+  • Vague or too-obvious wrong answers
+  • Answers that contradict the premise
+

@@ -1,0 +1,40 @@
+
+[1m[94m======================================================================[0m
+[1m[94m                       Validating: 9-adult.json                       [0m
+[1m[94m======================================================================[0m
+
+
+[1mTIER 1 - Hard Rules (Must Pass)[0m
+
+[1mTIER 2 - Strong Constraints[0m
+
+[1mQuality Standards[0m
+
+[1mRESULTS[0m
+[91m❌ FAILED: 2 critical error(s)[0m
+[91m❌ Unicode characters found: 4 total, examples: ['—'][0m
+[91m❌ Purport ratio: 0.0% (0/25) - Well below target 35-40%[0m
+[93m⚠️  Q5 high variance: 8-15 words (1.9x)[0m
+[93m⚠️  Q7 high variance: 8-15 words (1.9x)[0m
+[93m⚠️  Q12 high variance: 6-12 words (2.0x)[0m
+[93m⚠️  Q15 high variance: 10-20 words (2.0x)[0m
+[93m⚠️  Q16 high variance: 9-20 words (2.2x)[0m
+[93m⚠️  Q18 high variance: 6-13 words (2.2x)[0m
+[93m⚠️  Q19 high variance: 6-11 words (1.8x)[0m
+[93m⚠️  Q20 high variance: 7-19 words (2.7x)[0m
+[93m⚠️  Q23 high variance: 7-15 words (2.1x)[0m
+[93m⚠️  Q25 high variance: 9-16 words (1.8x)[0m
+[93m⚠️  Length balance: 60.0% pass rate (15/25) - Below 65%[0m
+[93m⚠️  Distractors: 32.0% with issues (24/75)[0m
+[93m⚠️  Correct-is-longest: 92.0% (23/25) - High (target <70%)[0m
+[93m⚠️  Tier 3 suggestion: Consider adding synthesis questions (currently 8%)[0m
+[93m⚠️  Tier 3 suggestion: Last 40% should be harder questions (currently 30%)[0m
+[92m✅ All top-level fields present[0m
+[92m✅ Question count: 25 (correct for adult)[0m
+[92m✅ MCQ prompts checked for ambiguous language[0m
+[92m✅ Cognitive depth: 60% recall, 32% analysis, 8% synthesis[0m
+
+[91m[1m❌ QUIZ BLOCKED - Fix errors before commit[0m
+
+======================================================================
+

@@ -37,7 +37,7 @@ export default function SbCantoListClient({ audience }) {
   const [cantoProgress, setCantoProgress] = useState({});
 
   useEffect(() => {
-    // Calculate progress for each canto
+    // Calculate progress for each canto for the selected audience
     const progress = {};
     for (let c = 1; c <= 12; c++) {
       const totalChapters = CHAPTERS_PER_CANTO[c] || 0;
@@ -53,26 +53,40 @@ export default function SbCantoListClient({ audience }) {
       {cantos.map((c) => {
         const progress = cantoProgress[c] || { completed: 0, total: CHAPTERS_PER_CANTO[c] || 0 };
         const hasProgress = progress.completed > 0;
-        
+        const audienceLabel = audience.charAt(0).toUpperCase() + audience.slice(1);
+        // If no chapters for this audience, disable card and show 'coming soon'
+        if (!hasProgress) {
+          return (
+            <div
+              key={c}
+              className="chapterListItem chapterListItemDisabled"
+              style={{ pointerEvents: 'none', opacity: 0.6 }}
+            >
+              <div className="chapterListContent">
+                <div className="chapterListHeader">Canto {c}</div>
+                <div className="chapterListTitle">{SB_CANTO_TITLES[c] || ""}</div>
+              </div>
+              <div className="chapterListRight">
+                <div className="chapterListComingSoon">{audienceLabel}: coming soon</div>
+              </div>
+            </div>
+          );
+        }
+        // Otherwise, show enabled card with progress
         return (
-          <Link 
-            key={c} 
-            href={`/sb/${c}/?audience=${audience}`} 
+          <Link
+            key={c}
+            href={`/sb/${c}/?audience=${audience}`}
             className={`chapterListItem ${hasProgress ? "chapterListItemCompleted" : ""}`}
           >
             <div className="chapterListContent">
               <div className="chapterListHeader">Canto {c}</div>
               <div className="chapterListTitle">{SB_CANTO_TITLES[c] || ""}</div>
             </div>
-            
             <div className="chapterListRight">
-              {hasProgress ? (
-                <div className="chapterListBadge">
-                  {progress.completed}/{progress.total} chapters
-                </div>
-              ) : (
-                <div className="chapterListHint">Not started</div>
-              )}
+              <div className="chapterListBadge">
+                {progress.completed}/{progress.total} chapters
+              </div>
             </div>
           </Link>
         );

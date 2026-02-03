@@ -8,20 +8,38 @@ const BG_THEMES = [
   { title: "Knowledge vs Speculation", desc: "The difference between realized knowledge and mental speculation." },
 ];
 
-export default function BgThemesPage() {
+export default function BgThemesPage({ searchParams }) {
+  const audience = searchParams?.audience || "adult";
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
       <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>BG Themes</h1>
-      <div className="themeList">
+      {/* Audience filter bar */}
+      <div className="filterBar" style={{ marginTop: 10, marginBottom: 18 }}>
+        <Link href="/bg/themes?audience=adult">
+          <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
+        </Link>
+        <Link href="/bg/themes?audience=teens">
+          <button className={`filterBtn ${audience === "teens" ? "filterBtnActive" : ""}`}>Teens</button>
+        </Link>
+        <Link href="/bg/themes?audience=kids">
+          <button className={`filterBtn ${audience === "kids" ? "filterBtnActive" : ""}`}>Kids</button>
+        </Link>
+      </div>
+      {/* Card-based theme list */}
+      <div className="chapterList">
         {BG_THEMES.map((theme, idx) => (
-          <div key={idx} className="themeCard themeCardDisabled">
-            <div className="themeCardTitle">{theme.title}</div>
-            <div className="themeCardDesc">{theme.desc}</div>
-            <div className="themeCardComingSoon">Coming soon</div>
+          <div key={idx} className="chapterListItem chapterListItemDisabled">
+            <div className="chapterListContent">
+              <div className="chapterListHeader">{theme.title}</div>
+              <div className="chapterListTitle">{theme.desc}</div>
+            </div>
+            <div className="chapterListRight">
+              <div className="chapterListComingSoon">Coming soon</div>
+            </div>
           </div>
         ))}
       </div>
-      <Link href="/bg" className="backLink">&larr; Back</Link>
+      <Link href={`/bg?audience=${audience}`} className="backLink">&larr; Back</Link>
     </main>
   );
 }

@@ -50,7 +50,9 @@ export default function SbThemesPage({ searchParams }) {
           </div>
         ))}
       </div>
-      <Link href={`/sb?audience=${audience}`} className="backLink">&larr; Back</Link>
+      <div style={{ marginTop: 18 }}>
+        <Link href={`/sb?audience=${audience}`} className="backLink">&larr; Back</Link>
+      </div>
     </main>
   );
 }

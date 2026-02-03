@@ -10,8 +10,8 @@ const BG_THEMES = [
 
 export default function BgThemesPage() {
   return (
-    <div className="themeListPage">
-      <h1>BG Themes</h1>
+    <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+      <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>BG Themes</h1>
       <div className="themeList">
         {BG_THEMES.map((theme, idx) => (
           <div key={idx} className="themeCard themeCardDisabled">
@@ -22,6 +22,6 @@ export default function BgThemesPage() {
         ))}
       </div>
       <Link href="/bg" className="backLink">&larr; Back</Link>
-    </div>
+    </main>
   );
 }

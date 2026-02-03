@@ -11,8 +11,8 @@ const SB_THEMES = [
 
 export default function SbThemesPage() {
   return (
-    <div className="themeListPage">
-      <h1>SB Themes</h1>
+    <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+      <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>SB Themes</h1>
       <div className="themeList">
         {SB_THEMES.map((theme, idx) => (
           <div key={idx} className="themeCard themeCardDisabled">
@@ -23,6 +23,6 @@ export default function SbThemesPage() {
         ))}
       </div>
       <Link href="/sb" className="backLink">&larr; Back</Link>
-    </div>
+    </main>
   );
 }

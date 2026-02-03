@@ -13,6 +13,16 @@ export default function SbThemesPage({ searchParams }) {
   const audience = searchParams?.audience || "adult";
   return (
     <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+      {/* Breadcrumb */}
+      <div style={{ fontSize: 14, opacity: 0.8, marginBottom: 10 }}>
+        <Link href="/">Home</Link>
+        <span style={{ opacity: 0.6 }}> / </span>
+        <Link href={`/sb?audience=${audience}`}>Shrimad Bhagavatam</Link>
+        <span style={{ opacity: 0.6 }}> / </span>
+        <span>{audience.charAt(0).toUpperCase() + audience.slice(1)}</span>
+        <span style={{ opacity: 0.6 }}> / </span>
+        <span>Themes</span>
+      </div>
       <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>SB Themes</h1>
       {/* Audience filter bar */}
       <div className="filterBar" style={{ marginTop: 10, marginBottom: 18 }}>

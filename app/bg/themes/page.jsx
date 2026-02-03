@@ -49,7 +49,9 @@ export default function BgThemesPage({ searchParams }) {
           </div>
         ))}
       </div>
-      <Link href={`/bg?audience=${audience}`} className="backLink">&larr; Back</Link>
+      <div style={{ marginTop: 18 }}>
+        <Link href={`/bg?audience=${audience}`} className="backLink">&larr; Back</Link>
+      </div>
     </main>
   );
 }

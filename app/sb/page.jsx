@@ -1,19 +1,39 @@
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 
 export default function SbSelectorPage() {
+  const searchParams = useSearchParams();
+  const audience = searchParams.get("audience") || "adult";
   return (
-    <div className="selectorPage">
-      <h1>Shrimad Bhagavatam</h1>
-      <div className="selectorOptions">
-        <Link href="/sb/themes" className="selectorCard">
-          <div className="selectorCardTitle">SB Themes</div>
-          <div className="selectorCardDesc">Explore key themes and stories in the Bhagavatam</div>
+    <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+      <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>Shrimad Bhagavatam</h1>
+      {/* Audience filter bar */}
+      <div className="filterBar" style={{ marginTop: 10, marginBottom: 18 }}>
+        <Link href="/sb/?audience=adult">
+          <button className={`filterBtn ${audience === "adult" ? "filterBtnActive" : ""}`}>Adult</button>
         </Link>
-        <Link href="/sb/cantos" className="selectorCard">
-          <div className="selectorCardTitle">SB Cantos</div>
-          <div className="selectorCardDesc">Browse all cantos and quizzes</div>
+        <Link href="/sb/?audience=teens">
+          <button className={`filterBtn ${audience === "teens" ? "filterBtnActive" : ""}`}>Teens</button>
+        </Link>
+        <Link href="/sb/?audience=kids">
+          <button className={`filterBtn ${audience === "kids" ? "filterBtnActive" : ""}`}>Kids</button>
         </Link>
       </div>
-    </div>
+      {/* Card-based options */}
+      <div className="chapterList">
+        <Link href={`/sb/themes?audience=${audience}`} className="chapterListItem">
+          <div className="chapterListContent">
+            <div className="chapterListHeader">Themes</div>
+            <div className="chapterListTitle">Explore key themes and stories in the Bhagavatam</div>
+          </div>
+        </Link>
+        <Link href={`/sb/cantos?audience=${audience}`} className="chapterListItem">
+          <div className="chapterListContent">
+            <div className="chapterListHeader">Cantos</div>
+            <div className="chapterListTitle">Browse all cantos and quizzes</div>
+          </div>
+        </Link>
+      </div>
+    </main>
   );
 }

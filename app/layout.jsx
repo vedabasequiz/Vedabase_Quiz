@@ -56,7 +56,8 @@ export default function RootLayout({ children }) {
 
     Grateful acknowledgment to <a href="https://vedabase.io" target="_blank" rel="noopener noreferrer" style={{ color: "#666", textDecoration: "underline" }}>Vedabase.io</a> for making the works of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada freely accessible. All scriptural content, translations, purports, and cover images © Bhaktivedanta Book Trust.
     <div style={{ marginTop: 8 }}>
-      Vedabase Quiz is an independent, non-commercial project.
+      Vedabase Quiz is an independent, non-commercial project.<br />
+      Built with the assistance of ChatGPT and Visual Studio Code.
     </div>
   </div>
 </footer>

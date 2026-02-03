@@ -2,8 +2,8 @@ import Link from "next/link";
 
 export default function BgSelectorPage() {
   return (
-    <div className="selectorPage">
-      <h1>Bhagavad Gita</h1>
+    <main style={{ maxWidth: 900, margin: "0 auto", padding: "24px 16px" }}>
+      <h1 style={{ fontSize: 28, margin: "0 0 10px" }}>Bhagavad Gita</h1>
       <div className="selectorOptions">
         <Link href="/bg/themes" className="selectorCard">
           <div className="selectorCardTitle">BG Themes</div>
@@ -14,6 +14,6 @@ export default function BgSelectorPage() {
           <div className="selectorCardDesc">Browse all chapters and quizzes</div>
         </Link>
       </div>
-    </div>
+    </main>
   );
 }

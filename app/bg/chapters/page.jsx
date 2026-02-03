@@ -1,5 +1,5 @@
-import BgClient from "../../components/BgClient";
-import { getBgAvailability } from "../../lib/quizLoader";
+import BgClient from "../../../components/BgClient";
+import { getBgAvailability } from "../../../lib/quizLoader";
 
 const BG_CHAPTER_TITLES = {
   1: "Observing the Armies on the Battlefield of Kuruksetra",

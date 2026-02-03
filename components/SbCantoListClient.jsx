@@ -3,6 +3,16 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { getCantoProgress } from "../lib/quizProgress";
 
+// Static map of available chapters for each canto and audience
+const AVAILABLE_CHAPTERS = {
+  1: {
+    adult: [1, 2],
+    teens: [1, 2],
+    kids: [1, 2],
+  },
+  // Add more cantos as quiz files are created
+};
+
 const SB_CANTO_TITLES = {
   1: "Creation",
   2: "The Cosmic Manifestation",
@@ -52,10 +62,9 @@ export default function SbCantoListClient({ audience }) {
     <div className="chapterList">
       {cantos.map((c) => {
         const progress = cantoProgress[c] || { completed: 0, total: CHAPTERS_PER_CANTO[c] || 0 };
-        const hasProgress = progress.completed > 0;
         const audienceLabel = audience.charAt(0).toUpperCase() + audience.slice(1);
-        // If no chapters for this audience, disable card and show 'coming soon'
-        if (!hasProgress) {
+        const available = AVAILABLE_CHAPTERS[c] && AVAILABLE_CHAPTERS[c][audience] && AVAILABLE_CHAPTERS[c][audience].length > 0;
+        if (!available) {
           return (
             <div
               key={c}
@@ -77,7 +86,7 @@ export default function SbCantoListClient({ audience }) {
           <Link
             key={c}
             href={`/sb/${c}/?audience=${audience}`}
-            className={`chapterListItem ${hasProgress ? "chapterListItemCompleted" : ""}`}
+            className={`chapterListItem ${progress.completed > 0 ? "chapterListItemCompleted" : ""}`}
           >
             <div className="chapterListContent">
               <div className="chapterListHeader">Canto {c}</div>

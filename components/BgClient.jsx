@@ -102,7 +102,7 @@ export default function BgClient({ chapters, availability, titles, initialAudien
       </div>
 
       <div style={{ marginTop: 18 }}>
-        <Link href="/">Back to home</Link>
+        <Link href={`/bg?audience=${audience}`}>← Back</Link>
       </div>
     </main>
   );

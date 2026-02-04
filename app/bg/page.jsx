@@ -40,6 +40,9 @@ export default function BgSelectorPage({ searchParams }) {
           </div>
         </Link>
       </div>
+      <div style={{ marginTop: 18 }}>
+        <Link href="/" className="backLink">&larr; Back</Link>
+      </div>
     </main>
   );
 }
